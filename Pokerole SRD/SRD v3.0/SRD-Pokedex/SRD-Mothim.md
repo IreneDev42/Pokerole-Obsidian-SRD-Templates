@@ -78,8 +78,8 @@ Weight:
 # Mothim 
 
 > [!grid]
-> ![[SRD-mothim-BookSprite.png|wsmall]]
-> ![[SRD-mothim-HomeSprite.png]]
+> ![[SRD-mothim-BookSprite.png|wsmall left]]
+> ![[SRD-mothim-HomeSprite.png|wsmall right]]
 
 *Moth Pokémon*
 *It flies near the mountains in search of honey. It is an opportunist and won't gather any honey by itself. Instead, Mothim steals from Combee hives and other Pokémon. This Pokémon is male-only.*

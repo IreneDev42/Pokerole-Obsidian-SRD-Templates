@@ -78,8 +78,8 @@ Weight:
 # Togepi 
 
 > [!grid]
-> ![[SRD-togepi-BookSprite.png|wsmall]]
-> ![[SRD-togepi-HomeSprite.png]]
+> ![[SRD-togepi-BookSprite.png|wsmall left]]
+> ![[SRD-togepi-HomeSprite.png|wsmall right]]
 
 *Spike Ball Pokémon*
 *This Pokémon stores all the kindness and good feelings inside of its shell and shares them with others. When the shell is full, it becomes so happy that it finally evolves. It is said that it will bring good fortune to its trainer.*

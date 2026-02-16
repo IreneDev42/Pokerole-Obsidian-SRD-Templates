@@ -80,8 +80,8 @@ Weight:
 # Cacturne 
 
 > [!grid]
-> ![[SRD-cacturne-BookSprite.png|wsmall]]
-> ![[SRD-cacturne-HomeSprite.png]]
+> ![[SRD-cacturne-BookSprite.png|wsmall left]]
+> ![[SRD-cacturne-HomeSprite.png|wsmall right]]
 
 *Scarecrow Pokémon*
 *They only move during the night. If they spot a traveler, Cacturne will stalk them in groups, waiting for the exhausted creatures to sleep before attacking. Their insides are actually sand.*

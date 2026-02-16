@@ -78,8 +78,8 @@ Weight:
 # Weezing 
 
 > [!grid]
-> ![[SRD-weezing-BookSprite.png|wsmall]]
-> ![[SRD-weezing-HomeSprite.png]]
+> ![[SRD-weezing-BookSprite.png|wsmall left]]
+> ![[SRD-weezing-HomeSprite.png|wsmall right]]
 
 *Poison Gas Pokémon*
 *They are considered a pest in urban areas. They wait until night to roam and eat from the trash cans in the neighborhood. If it finds a filthy and unkept house it will make its nest in there.*

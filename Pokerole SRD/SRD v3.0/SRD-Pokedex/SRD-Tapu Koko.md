@@ -75,8 +75,8 @@ Weight:
 # Tapu Koko 
 
 > [!grid]
-> ![[SRD-tapu-koko-BookSprite.png|wsmall]]
-> ![[SRD-tapu-koko-HomeSprite.png]]
+> ![[SRD-tapu-koko-BookSprite.png|wsmall left]]
+> ![[SRD-tapu-koko-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *People on Melemele Island talk about a guardian spirit who punishes the evil doers with lightning strikes. If it appears in front of you who knows what its intentions may be.*

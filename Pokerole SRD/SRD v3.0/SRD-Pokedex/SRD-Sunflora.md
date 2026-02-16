@@ -80,8 +80,8 @@ Weight:
 # Sunflora 
 
 > [!grid]
-> ![[SRD-sunflora-BookSprite.png|wsmall]]
-> ![[SRD-sunflora-HomeSprite.png]]
+> ![[SRD-sunflora-BookSprite.png|wsmall left]]
+> ![[SRD-sunflora-HomeSprite.png|wsmall right]]
 
 *Sun Pokémon*
 *Sunflora live in flower patches. They convert solar energy into nutrition and are highly active in the warm daytime but suddenly stop moving as soon as the sun sets, closing their petals to cover their face.*

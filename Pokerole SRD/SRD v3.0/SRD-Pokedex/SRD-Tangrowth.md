@@ -83,8 +83,8 @@ Weight:
 # Tangrowth 
 
 > [!grid]
-> ![[SRD-tangrowth-BookSprite.png|wsmall]]
-> ![[SRD-tangrowth-HomeSprite.png]]
+> ![[SRD-tangrowth-BookSprite.png|wsmall left]]
+> ![[SRD-tangrowth-HomeSprite.png|wsmall right]]
 
 *Vine Pokémon*
 *While it remains still, it appears to be a large shrub. Unsuspecting prey get ensnared by its vines. In the summer its vines grow so large that you can't even see its eyes. Its arms regrow even if you cut them.*

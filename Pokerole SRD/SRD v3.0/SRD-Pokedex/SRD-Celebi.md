@@ -71,8 +71,8 @@ Weight:
 # Celebi 
 
 > [!grid]
-> ![[SRD-celebi-BookSprite.png|wsmall]]
-> ![[SRD-celebi-HomeSprite.png]]
+> ![[SRD-celebi-BookSprite.png|wsmall left]]
+> ![[SRD-celebi-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Guardian of the Forest. Celebi is said to be able to travel through time, amending mistakes from people who hurt the land, and crafting a bright future for those who live nearby.*

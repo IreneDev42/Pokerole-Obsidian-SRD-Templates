@@ -82,8 +82,8 @@ Weight:
 # Abomasnow 
 
 > [!grid]
-> ![[SRD-abomasnow-BookSprite.png|wsmall]]
-> ![[SRD-abomasnow-HomeSprite.png]]
+> ![[SRD-abomasnow-BookSprite.png|wsmall left]]
+> ![[SRD-abomasnow-HomeSprite.png|wsmall right]]
 
 *Frosted Tree Pokémon*
 *There was an old Hisuian legend that spoke of 'The Ice Monster'. Now we know it is a Pokémon that can cover everything with snow. It is usually shy and likes quiet places. Strong, but only attacks if provoked.*

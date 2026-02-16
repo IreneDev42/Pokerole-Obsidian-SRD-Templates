@@ -79,8 +79,8 @@ Weight:
 # Unfezant 
 
 > [!grid]
-> ![[SRD-unfezant-BookSprite.png|wsmall]]
-> ![[SRD-unfezant-HomeSprite.png]]
+> ![[SRD-unfezant-BookSprite.png|wsmall left]]
+> ![[SRD-unfezant-HomeSprite.png|wsmall right]]
 
 *Proud Pokémon*
 *Males swing the beautiful plumage on their heads to threaten others and to court females. Although less visually appealing, females are better at flying. Once they form a pair, they are mated for life.*

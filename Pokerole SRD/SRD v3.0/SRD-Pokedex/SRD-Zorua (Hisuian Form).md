@@ -77,8 +77,8 @@ Weight:
 # Zorua (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-zorua-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-zorua-hisuian-form-HomeSprite.png]]
+> ![[SRD-zorua-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-zorua-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Tricky Fox Pokémon*
 *An old legend of the Hisui region speaks about a small Zorua who was abandoned in the snow and left to die. Its spirit lingered but was filled with malice and sadness. No modern Zorua look like the legend's.*

@@ -79,8 +79,8 @@ Weight:
 # Graveler 
 
 > [!grid]
-> ![[SRD-graveler-BookSprite.png|wsmall]]
-> ![[SRD-graveler-HomeSprite.png]]
+> ![[SRD-graveler-BookSprite.png|wsmall left]]
+> ![[SRD-graveler-HomeSprite.png|wsmall right]]
 
 *Rock Pokémon*
 *It walks slowly, but it can get a nice speed by rolling downhill. It is good at climbing. Groups of them have been seen clinging from rock formations and cliffs to eat the tasty rocks covered in moss.*

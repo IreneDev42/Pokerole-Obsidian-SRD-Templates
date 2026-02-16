@@ -76,8 +76,8 @@ Weight:
 # Skwovet 
 
 > [!grid]
-> ![[SRD-skwovet-BookSprite.png|wsmall]]
-> ![[SRD-skwovet-HomeSprite.png]]
+> ![[SRD-skwovet-BookSprite.png|wsmall left]]
+> ![[SRD-skwovet-HomeSprite.png|wsmall right]]
 
 *Cheeky Pokémon*
 *They love to feed on berries and nuts they store on their cheeks. They can get very anxious if its cheeks are empty. If you feed one of them, they will follow you and call for others so you feed them as well.*

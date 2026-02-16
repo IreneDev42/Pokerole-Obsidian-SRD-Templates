@@ -82,8 +82,8 @@ Weight:
 # Gothorita 
 
 > [!grid]
-> ![[SRD-gothorita-BookSprite.png|wsmall]]
-> ![[SRD-gothorita-HomeSprite.png]]
+> ![[SRD-gothorita-BookSprite.png|wsmall left]]
+> ![[SRD-gothorita-HomeSprite.png|wsmall right]]
 
 *Manipulate Pokémon*
 *Starlight is the source of their power. At night, they mark star positions by using floating stones. According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.*

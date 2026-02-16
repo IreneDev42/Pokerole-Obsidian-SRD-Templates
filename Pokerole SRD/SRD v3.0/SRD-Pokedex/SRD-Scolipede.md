@@ -81,8 +81,8 @@ Weight:
 # Scolipede 
 
 > [!grid]
-> ![[SRD-scolipede-BookSprite.png|wsmall]]
-> ![[SRD-scolipede-HomeSprite.png]]
+> ![[SRD-scolipede-BookSprite.png|wsmall left]]
+> ![[SRD-scolipede-HomeSprite.png|wsmall right]]
 
 *Megapede Pokémon*
 *Highly aggressive, it uses the claws on its neck to immobilize its prey and then inject them with poison to finish them off. Be very careful around this Pokémon as it will chase you relentlessly until it gets you.*

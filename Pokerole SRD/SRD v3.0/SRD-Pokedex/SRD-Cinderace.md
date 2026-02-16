@@ -80,8 +80,8 @@ Weight:
 # Cinderace 
 
 > [!grid]
-> ![[SRD-cinderace-BookSprite.png|wsmall]]
-> ![[SRD-cinderace-HomeSprite.png]]
+> ![[SRD-cinderace-BookSprite.png|wsmall left]]
+> ![[SRD-cinderace-HomeSprite.png|wsmall right]]
 
 *Striker Pokémon*
 *They are confident and boastful of their abilities. They take a pebble and light it on fire to create a scorching weapon they kick towards their foes. They can grow arrogant if they feel cheered on.*

@@ -75,8 +75,8 @@ Weight:
 # Sinistea 
 
 > [!grid]
-> ![[SRD-sinistea-BookSprite.png|wsmall]]
-> ![[SRD-sinistea-HomeSprite.png]]
+> ![[SRD-sinistea-BookSprite.png|wsmall left]]
+> ![[SRD-sinistea-HomeSprite.png|wsmall right]]
 
 *Black Tea Pokémon*
 *This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea. It absorbs the life-force of those who drink it, but it tastes so bad that it gets spat out immediately.*

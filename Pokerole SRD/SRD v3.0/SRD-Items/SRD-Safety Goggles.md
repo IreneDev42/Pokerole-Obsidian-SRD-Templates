@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: No more pesky allergies. The user is immune to the Added Effects of Moves
   with the words "Spore", "Powder" & "Pollen".
 Image: SRD-safety-goggles-ItemSprite.png

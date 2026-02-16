@@ -77,8 +77,8 @@ Weight:
 # Minun 
 
 > [!grid]
-> ![[SRD-minun-BookSprite.png|wsmall]]
-> ![[SRD-minun-HomeSprite.png]]
+> ![[SRD-minun-BookSprite.png|wsmall left]]
+> ![[SRD-minun-HomeSprite.png|wsmall right]]
 
 *Cheering Pokémon*
 *They will cheer their friends with their lives and will keep on cheering to their last breath. If a partner is in trouble, this Pokémon will create a curtain of sparks on its friend's side to boost its spirit.*

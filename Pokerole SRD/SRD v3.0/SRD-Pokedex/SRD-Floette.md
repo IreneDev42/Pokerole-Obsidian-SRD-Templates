@@ -77,8 +77,8 @@ Weight:
 # Floette 
 
 > [!grid]
-> ![[SRD-floette-BookSprite.png|wsmall]]
-> ![[SRD-floette-HomeSprite.png]]
+> ![[SRD-floette-BookSprite.png|wsmall left]]
+> ![[SRD-floette-HomeSprite.png|wsmall right]]
 
 *Fairy Pokémon*
 *It flutters around flower meadows and takes care of buds that are starting to wilt. People who fill their gardens with its preferred flower receive its visit every spring. They are loyal and caring Pokémon.*

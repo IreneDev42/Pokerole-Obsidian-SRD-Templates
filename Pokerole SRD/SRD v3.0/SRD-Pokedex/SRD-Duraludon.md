@@ -74,8 +74,8 @@ Weight:
 # Duraludon 
 
 > [!grid]
-> ![[SRD-duraludon-BookSprite.png|wsmall]]
-> ![[SRD-duraludon-HomeSprite.png]]
+> ![[SRD-duraludon-BookSprite.png|wsmall left]]
+> ![[SRD-duraludon-HomeSprite.png|wsmall right]]
 
 *Alloy Pokémon*
 *Its body resembles a shiny polished metal and it's both lightweight and strong. The only drawback is that it rusts easily. It lives in dry climates and deep inside caves because rain and moisture make it cranky.*

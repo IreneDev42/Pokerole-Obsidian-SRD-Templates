@@ -78,8 +78,8 @@ Weight:
 # Fearow 
 
 > [!grid]
-> ![[SRD-fearow-BookSprite.png|wsmall]]
-> ![[SRD-fearow-HomeSprite.png]]
+> ![[SRD-fearow-BookSprite.png|wsmall left]]
+> ![[SRD-fearow-HomeSprite.png|wsmall right]]
 
 *Beak Pokémon*
 *Fearow soar around wastelands and fields. Their large wingspan allows them to fly all day. They're easily annoyed and ill-tempered and attack using their sharp beak to peck and pierce the foes.*

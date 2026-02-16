@@ -74,8 +74,8 @@ Weight:
 # Fidough 
 
 > [!grid]
-> ![[SRD-fidough-BookSprite.png|wsmall]]
-> ![[SRD-fidough-HomeSprite.png]]
+> ![[SRD-fidough-BookSprite.png|wsmall left]]
+> ![[SRD-fidough-HomeSprite.png|wsmall right]]
 
 *Puppy Pokémon*
 *They are smooth and squishy to the touch. Their breath can be used as yeast to bake bread and cakes. Their body is so soft, people can't help but protect them. They love to rest in warm and moist places.*

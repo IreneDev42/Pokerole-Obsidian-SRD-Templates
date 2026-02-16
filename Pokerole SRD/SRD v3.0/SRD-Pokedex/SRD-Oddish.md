@@ -76,8 +76,8 @@ Weight:
 # Oddish 
 
 > [!grid]
-> ![[SRD-oddish-BookSprite.png|wsmall]]
-> ![[SRD-oddish-HomeSprite.png]]
+> ![[SRD-oddish-BookSprite.png|wsmall left]]
+> ![[SRD-oddish-HomeSprite.png|wsmall right]]
 
 *Weed Pokémon*
 *This Pokémon grows by absorbing moonlight. During daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its predators. You can locate it by the smell its leaves release.*

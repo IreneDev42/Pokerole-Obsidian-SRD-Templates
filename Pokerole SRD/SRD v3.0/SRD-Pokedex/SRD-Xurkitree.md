@@ -77,8 +77,8 @@ Weight:
 # Xurkitree 
 
 > [!grid]
-> ![[SRD-xurkitree-BookSprite.png|wsmall]]
-> ![[SRD-xurkitree-HomeSprite.png]]
+> ![[SRD-xurkitree-BookSprite.png|wsmall left]]
+> ![[SRD-xurkitree-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #067*
 *My superiors are furious. A lot of money had to be used to cover the damages UB-03 dealt in the power plant. On the bright side, it seems a lot livelier now that it appears to have recharged.*

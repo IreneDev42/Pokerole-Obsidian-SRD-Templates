@@ -79,8 +79,8 @@ Weight:
 # Munna 
 
 > [!grid]
-> ![[SRD-munna-BookSprite.png|wsmall]]
-> ![[SRD-munna-HomeSprite.png]]
+> ![[SRD-munna-BookSprite.png|wsmall left]]
+> ![[SRD-munna-HomeSprite.png|wsmall right]]
 
 *Dream Eater Pokémon*
 *It lurks close to towns and eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist. If you forgot what you dreamed, a Munna must have eaten your dream.*

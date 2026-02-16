@@ -81,8 +81,8 @@ Weight:
 # Darmanitan (Galarian Zen Form) 
 
 > [!grid]
-> ![[SRD-darmanitan-galarian-zen-form-BookSprite.png|wsmall]]
-> ![[SRD-darmanitan-galarian-zen-form-HomeSprite.png]]
+> ![[SRD-darmanitan-galarian-zen-form-BookSprite.png|wsmall left]]
+> ![[SRD-darmanitan-galarian-zen-form-HomeSprite.png|wsmall right]]
 
 *Zen Charm Pokémon*
 *When Darmanitan gets angry, its atrophied fire core is reignited. This Pokémon breathes fire and destroys everything in its path. They must be calmed down or their own heat may melt their body.*

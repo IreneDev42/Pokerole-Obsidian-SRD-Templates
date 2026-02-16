@@ -80,8 +80,8 @@ Weight:
 # Feraligatr 
 
 > [!grid]
-> ![[SRD-feraligatr-BookSprite.png|wsmall]]
-> ![[SRD-feraligatr-HomeSprite.png]]
+> ![[SRD-feraligatr-BookSprite.png|wsmall left]]
+> ![[SRD-feraligatr-HomeSprite.png|wsmall right]]
 
 *Big Jaw Pokémon*
 *While in the water, it opens its big jaw to intimidate anyone coming close. Whenever it bites, it shakes its head and savagely rolls to tear up its prey. It is a very dangerous Pokémon. Approach with caution.*

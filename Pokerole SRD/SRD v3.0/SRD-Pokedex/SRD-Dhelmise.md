@@ -77,8 +77,8 @@ Weight:
 # Dhelmise 
 
 > [!grid]
-> ![[SRD-dhelmise-BookSprite.png|wsmall]]
-> ![[SRD-dhelmise-HomeSprite.png]]
+> ![[SRD-dhelmise-BookSprite.png|wsmall left]]
+> ![[SRD-dhelmise-HomeSprite.png|wsmall right]]
 
 *Sea Creeper Pokémon*
 *A spirit adrift in the sea came back to life through this Pokémon. It rarely leaves the deepest bottom waters. Sailing through the far seas, Wailord carcasses have been found covered in seaweed and gashes.*

@@ -55,8 +55,8 @@ Weight:
 # Zygarde 10% 
 
 > [!grid]
-> ![[SRD-zygarde-10-BookSprite.png|wsmall]]
-> ![[SRD-zygarde-10-HomeSprite.png]]
+> ![[SRD-zygarde-10-BookSprite.png|wsmall left]]
+> ![[SRD-zygarde-10-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *When 10% of the Zygarde Cells gather, they form this Pokémon; the more cells it gathers, the more its strength will increase.*

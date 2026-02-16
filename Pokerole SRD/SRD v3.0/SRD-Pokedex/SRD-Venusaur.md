@@ -84,8 +84,8 @@ Weight:
 # Venusaur 
 
 > [!grid]
-> ![[SRD-venusaur-BookSprite.png|wsmall]]
-> ![[SRD-venusaur-HomeSprite.png]]
+> ![[SRD-venusaur-BookSprite.png|wsmall left]]
+> ![[SRD-venusaur-HomeSprite.png|wsmall right]]
 
 *Seed Pokémon*
 *Venusaur's flower is said to take on vivid colors if it gets plenty of sunlight. The flower's aroma soothes the emotions of others. If you find one in the wild, it must be the protector of the area.*

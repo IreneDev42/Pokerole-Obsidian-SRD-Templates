@@ -79,8 +79,8 @@ Weight:
 # Slurpuff 
 
 > [!grid]
-> ![[SRD-slurpuff-BookSprite.png|wsmall]]
-> ![[SRD-slurpuff-HomeSprite.png]]
+> ![[SRD-slurpuff-BookSprite.png|wsmall left]]
+> ![[SRD-slurpuff-HomeSprite.png|wsmall right]]
 
 *Meringue Pokémon*
 *This Pokémon lives in human cities and towns. It has an extremely keen sense of smell. It puts its sensitive nose to use by helping bakers and chefs to find the most delicious ingredients.*

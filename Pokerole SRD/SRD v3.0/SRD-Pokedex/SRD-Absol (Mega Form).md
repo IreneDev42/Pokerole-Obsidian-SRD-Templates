@@ -80,8 +80,8 @@ Weight:
 # Absol (Mega Form) 
 
 > [!grid]
-> ![[SRD-absol-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-absol-mega-form-HomeSprite.png]]
+> ![[SRD-absol-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-absol-mega-form-HomeSprite.png|wsmall right]]
 
 *Disaster Pokémon*
 *The power of the Mega Stone makes its fur elongate. What you see are not wings, just puffs of hair. It gets distressed by this form and dislikes going into fights, so it uses its intimidating aura to fend off foes.*

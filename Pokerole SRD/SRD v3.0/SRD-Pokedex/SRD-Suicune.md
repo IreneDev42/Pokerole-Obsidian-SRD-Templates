@@ -76,8 +76,8 @@ Weight:
 # Suicune 
 
 > [!grid]
-> ![[SRD-suicune-BookSprite.png|wsmall]]
-> ![[SRD-suicune-HomeSprite.png]]
+> ![[SRD-suicune-BookSprite.png|wsmall left]]
+> ![[SRD-suicune-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Johto legends tell about a Pokémon that carries the north winds, sailing above the clouds as the aurora, absorbing pollution from water pools and rivers leaving them pristine.*

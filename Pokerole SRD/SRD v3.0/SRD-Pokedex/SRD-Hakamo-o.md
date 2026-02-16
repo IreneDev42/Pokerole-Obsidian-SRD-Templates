@@ -81,8 +81,8 @@ Weight:
 # Hakamo-o 
 
 > [!grid]
-> ![[SRD-hakamo-o-BookSprite.png|wsmall]]
-> ![[SRD-hakamo-o-HomeSprite.png]]
+> ![[SRD-hakamo-o-BookSprite.png|wsmall left]]
+> ![[SRD-hakamo-o-HomeSprite.png|wsmall right]]
 
 *Scaly Pokémon*
 *The scales on its body are shed and regrow sharper each time. It is a courageous and diligent Pokémon who always lets out a war cry before the battle. Any marks on its scale armor is worn with pride.*

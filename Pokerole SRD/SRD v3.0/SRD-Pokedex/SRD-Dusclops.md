@@ -85,8 +85,8 @@ Weight:
 # Dusclops 
 
 > [!grid]
-> ![[SRD-dusclops-BookSprite.png|wsmall]]
-> ![[SRD-dusclops-HomeSprite.png]]
+> ![[SRD-dusclops-BookSprite.png|wsmall left]]
+> ![[SRD-dusclops-HomeSprite.png|wsmall right]]
 
 *Beckon Pokémon*
 *Its body is hollow. Some paranormal experts say there is a spectral energy ball inside them but it is not confirmed. If it absorbs an object or a creature, there's a risk that nothing will come back out.*

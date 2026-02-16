@@ -79,8 +79,8 @@ Weight:
 # Wailord 
 
 > [!grid]
-> ![[SRD-wailord-BookSprite.png|wsmall]]
-> ![[SRD-wailord-HomeSprite.png]]
+> ![[SRD-wailord-BookSprite.png|wsmall left]]
+> ![[SRD-wailord-HomeSprite.png|wsmall right]]
 
 *Float Whale Pokémon*
 *The largest Pokémon known to date. Wailord's weight is really light so they can dive almost 10,000 feet (3048 m) with one breath. They live in the open ocean, herding fish Pokémon to swallow in one gulp. They are used to being free.*

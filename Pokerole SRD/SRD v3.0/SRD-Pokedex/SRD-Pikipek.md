@@ -75,8 +75,8 @@ Weight:
 # Pikipek 
 
 > [!grid]
-> ![[SRD-pikipek-BookSprite.png|wsmall]]
-> ![[SRD-pikipek-HomeSprite.png]]
+> ![[SRD-pikipek-BookSprite.png|wsmall left]]
+> ![[SRD-pikipek-HomeSprite.png|wsmall right]]
 
 *Woodpecker Pokémon*
 *Their beaks are incredibly strong, it takes them a few minutes to shatter rock. They eat berries and shoot the seeds to defend themselves. Pikipek don't sing, but communicate with pecking sounds.*

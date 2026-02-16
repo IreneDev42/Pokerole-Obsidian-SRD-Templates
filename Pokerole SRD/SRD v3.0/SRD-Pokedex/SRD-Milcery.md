@@ -74,8 +74,8 @@ Weight:
 # Milcery 
 
 > [!grid]
-> ![[SRD-milcery-BookSprite.png|wsmall]]
-> ![[SRD-milcery-HomeSprite.png]]
+> ![[SRD-milcery-BookSprite.png|wsmall left]]
+> ![[SRD-milcery-HomeSprite.png|wsmall right]]
 
 *Cream Pokémon*
 *This Pokémon was born from sweet-smelling particles in the air; its body is made of cream. Finding one in your kitchen means good fortune. Give them berries and whip them with a whisk so they can evolve.*

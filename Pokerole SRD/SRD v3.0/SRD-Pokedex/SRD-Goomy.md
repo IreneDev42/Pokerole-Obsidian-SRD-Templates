@@ -78,8 +78,8 @@ Weight:
 # Goomy 
 
 > [!grid]
-> ![[SRD-goomy-BookSprite.png|wsmall]]
-> ![[SRD-goomy-HomeSprite.png]]
+> ![[SRD-goomy-BookSprite.png|wsmall left]]
+> ![[SRD-goomy-HomeSprite.png|wsmall right]]
 
 *Soft Tissue Pokémon*
 *The weakest but best tempered Dragon Pokémon known. It lives in damp and shady places so its body doesn't dry out. It's covered in a slimy membrane that makes things slide off of it.*

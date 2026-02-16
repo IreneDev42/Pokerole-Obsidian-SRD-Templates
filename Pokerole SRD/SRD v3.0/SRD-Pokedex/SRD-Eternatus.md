@@ -55,8 +55,8 @@ Weight:
 # Eternatus 
 
 > [!grid]
-> ![[SRD-eternatus-BookSprite.png|wsmall]]
-> ![[SRD-eternatus-HomeSprite.png]]
+> ![[SRD-eternatus-BookSprite.png|wsmall left]]
+> ![[SRD-eternatus-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *A large meteorite fell on the Galar region 20,000 years ago. Ever since this happened, a power surge has been causing Pokémon to grow gigantic; this phenomenon is happening more in recent years.*

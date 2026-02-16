@@ -72,8 +72,8 @@ Weight:
 # Zarude 
 
 > [!grid]
-> ![[SRD-zarude-BookSprite.png|wsmall]]
-> ![[SRD-zarude-HomeSprite.png]]
+> ![[SRD-zarude-BookSprite.png|wsmall left]]
+> ![[SRD-zarude-HomeSprite.png|wsmall right]]
 
 *Rogue Monkey Pokémon*
 *It is extremely rare, but also incredibly dangerous to find. They are so violent that there are no records of Zarude being successfully trained by anyone. Should you see one, play dead and wait for it to leave.*

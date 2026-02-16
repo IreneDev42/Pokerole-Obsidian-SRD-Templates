@@ -83,8 +83,8 @@ Weight:
 # Shiftry 
 
 > [!grid]
-> ![[SRD-shiftry-BookSprite.png|wsmall]]
-> ![[SRD-shiftry-HomeSprite.png]]
+> ![[SRD-shiftry-BookSprite.png|wsmall left]]
+> ![[SRD-shiftry-HomeSprite.png|wsmall right]]
 
 *Wicked Pokémon*
 *Feared as protectors of the forest. They are said to live atop towering trees dating back thousands of years, creating terrible wind storms. It is said they can read people's minds to prey on their fears.*

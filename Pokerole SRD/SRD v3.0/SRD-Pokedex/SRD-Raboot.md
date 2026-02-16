@@ -80,8 +80,8 @@ Weight:
 # Raboot 
 
 > [!grid]
-> ![[SRD-raboot-BookSprite.png|wsmall]]
-> ![[SRD-raboot-HomeSprite.png]]
+> ![[SRD-raboot-BookSprite.png|wsmall left]]
+> ![[SRD-raboot-HomeSprite.png|wsmall right]]
 
 *Rabbit Pokémon*
 *This Pokémon loves to kick and trains each day to get better at it. Its fur is now very thick; some debate it is to protect it from the cold weather, while others say it is to produce hotter flames.*

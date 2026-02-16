@@ -79,8 +79,8 @@ Weight:
 # Vanilluxe 
 
 > [!grid]
-> ![[SRD-vanilluxe-BookSprite.png|wsmall]]
-> ![[SRD-vanilluxe-HomeSprite.png]]
+> ![[SRD-vanilluxe-BookSprite.png|wsmall left]]
+> ![[SRD-vanilluxe-HomeSprite.png|wsmall right]]
 
 *Snowstorm Pokémon*
 *It grew a new head with evolution, and they get along really well. They need to drink a lot of water in order to keep cool outside of gelid weather. If both heads get angry they will expel a terrible blizzard.*

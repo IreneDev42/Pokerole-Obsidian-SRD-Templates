@@ -75,8 +75,8 @@ Weight:
 # Torkoal 
 
 > [!grid]
-> ![[SRD-torkoal-BookSprite.png|wsmall]]
-> ![[SRD-torkoal-HomeSprite.png]]
+> ![[SRD-torkoal-BookSprite.png|wsmall left]]
+> ![[SRD-torkoal-HomeSprite.png|wsmall right]]
 
 *Coal Pokémon*
 *They constantly search for coal to add to their shell, digging mountains tirelessly because it is the source of their power. If they run out of coal, they grow weak. They are commonly found in abandoned coal mines.*

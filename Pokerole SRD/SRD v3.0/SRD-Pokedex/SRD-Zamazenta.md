@@ -71,8 +71,8 @@ Weight:
 # Zamazenta 
 
 > [!grid]
-> ![[SRD-zamazenta-BookSprite.png|wsmall]]
-> ![[SRD-zamazenta-HomeSprite.png]]
+> ![[SRD-zamazenta-BookSprite.png|wsmall left]]
+> ![[SRD-zamazenta-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a legend of a hero who through sheer might wielded the shield of heroes to protect the people from the greatest evil.*

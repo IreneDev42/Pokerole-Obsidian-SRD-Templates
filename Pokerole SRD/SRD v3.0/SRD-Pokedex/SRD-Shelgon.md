@@ -78,8 +78,8 @@ Weight:
 # Shelgon 
 
 > [!grid]
-> ![[SRD-shelgon-BookSprite.png|wsmall]]
-> ![[SRD-shelgon-HomeSprite.png]]
+> ![[SRD-shelgon-BookSprite.png|wsmall left]]
+> ![[SRD-shelgon-HomeSprite.png|wsmall right]]
 
 *Endurance Pokémon*
 *The body is covered in a powerful armor that resembles bones. It hides in caves awaiting evolution, enduring hunger and harm while its cells prepare for its final transformation.*

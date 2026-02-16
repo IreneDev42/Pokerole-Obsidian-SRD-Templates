@@ -74,8 +74,8 @@ Weight:
 # Varoom 
 
 > [!grid]
-> ![[SRD-varoom-BookSprite.png|wsmall]]
-> ![[SRD-varoom-HomeSprite.png]]
+> ![[SRD-varoom-BookSprite.png|wsmall left]]
+> ![[SRD-varoom-HomeSprite.png|wsmall right]]
 
 *Single-Cyl Pokémon*
 *It is believed this Pokémon came to life after an unknown poison Pokémon entered and inspirited an old scrap engine. It uses rocks and minerals to shape itself some wheels, but it can attach itself to small vehicles.*

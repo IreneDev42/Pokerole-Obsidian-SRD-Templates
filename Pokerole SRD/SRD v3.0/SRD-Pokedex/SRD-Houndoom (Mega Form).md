@@ -80,8 +80,8 @@ Weight:
 # Houndoom (Mega Form) 
 
 > [!grid]
-> ![[SRD-houndoom-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-houndoom-mega-form-HomeSprite.png]]
+> ![[SRD-houndoom-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-houndoom-mega-form-HomeSprite.png|wsmall right]]
 
 *Dark Pokémon*
 *With the power of the Mega Stone, its whole body radiates tremendous heat, so much that its claws are searing hot and turn red as a result; for this reason it can be painful for it to walk or run.*

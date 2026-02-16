@@ -79,8 +79,8 @@ Weight:
 # Cetitan 
 
 > [!grid]
-> ![[SRD-cetitan-BookSprite.png|wsmall]]
-> ![[SRD-cetitan-HomeSprite.png]]
+> ![[SRD-cetitan-BookSprite.png|wsmall left]]
+> ![[SRD-cetitan-HomeSprite.png|wsmall right]]
 
 *Terra Whale Pokémon*
 *These Pokémon wander around snowy areas; the thick layer of fat on their bodies protects them from the figid temperatures. They are not particularly aggressive, but are fiercely protective of their young.*

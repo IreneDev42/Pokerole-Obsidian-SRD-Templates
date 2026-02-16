@@ -81,8 +81,8 @@ Weight:
 # Rhyperior 
 
 > [!grid]
-> ![[SRD-rhyperior-BookSprite.png|wsmall]]
-> ![[SRD-rhyperior-HomeSprite.png]]
+> ![[SRD-rhyperior-BookSprite.png|wsmall left]]
+> ![[SRD-rhyperior-HomeSprite.png|wsmall right]]
 
 *Drill Pokémon*
 *They are very scarce in the wild and only live on tall mountains. The holes on their hands are used like cannons to shoot boulders and ocasionally other Pokémon. Be careful; they are aggressive, but not very smart.*

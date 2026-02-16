@@ -79,8 +79,8 @@ Weight:
 # Oinkologne (Male Form) 
 
 > [!grid]
-> ![[SRD-oinkologne-male-form-BookSprite.png|wsmall]]
-> ![[SRD-oinkologne-male-form-HomeSprite.png]]
+> ![[SRD-oinkologne-male-form-BookSprite.png|wsmall left]]
+> ![[SRD-oinkologne-male-form-HomeSprite.png|wsmall right]]
 
 *Hog Pokemon*
 *Males are proud creatures, they emit a lingering perfumated scent rom the tip of their tails. Their skin is also very glossy and it loves to keep it clean. This delicious aroma also lingers beautifully well in bacon.*

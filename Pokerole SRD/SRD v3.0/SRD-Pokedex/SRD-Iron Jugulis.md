@@ -74,8 +74,8 @@ Weight:
 # Iron Jugulis 
 
 > [!grid]
-> ![[SRD-iron-jugulis-BookSprite.png|wsmall]]
-> ![[SRD-iron-jugulis-HomeSprite.png]]
+> ![[SRD-iron-jugulis-BookSprite.png|wsmall left]]
+> ![[SRD-iron-jugulis-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A machine loaded with an A.I. of Hydreigon's temper and desire for destruction. It doesn't rest, doesn't show mercy, no matter what.*

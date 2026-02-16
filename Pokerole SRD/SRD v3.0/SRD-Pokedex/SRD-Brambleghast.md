@@ -79,8 +79,8 @@ Weight:
 # Brambleghast 
 
 > [!grid]
-> ![[SRD-brambleghast-BookSprite.png|wsmall]]
-> ![[SRD-brambleghast-HomeSprite.png]]
+> ![[SRD-brambleghast-BookSprite.png|wsmall left]]
+> ![[SRD-brambleghast-HomeSprite.png|wsmall right]]
 
 *Tumbleweed Pokémon*
 *They wander through arid regions. If an unsuspecting creature comes across them, they will enclose their brambles as a cage and slowly absorb the victim's life force, discarding only bones after they are done.*

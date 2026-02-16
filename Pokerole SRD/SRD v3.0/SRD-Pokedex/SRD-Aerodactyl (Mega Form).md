@@ -79,8 +79,8 @@ Weight:
 # Aerodactyl (Mega Form) 
 
 > [!grid]
-> ![[SRD-aerodactyl-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-aerodactyl-mega-form-HomeSprite.png]]
+> ![[SRD-aerodactyl-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-aerodactyl-mega-form-HomeSprite.png|wsmall right]]
 
 *Fossil Pokémon*
 *With the power of the Mega Stone, it restores the original appearance it had millions of years ago with its body covered in sharp rocks. It is very aggressive and will attack anything that moves.*

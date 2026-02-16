@@ -79,8 +79,8 @@ Weight:
 # Luxio 
 
 > [!grid]
-> ![[SRD-luxio-BookSprite.png|wsmall]]
-> ![[SRD-luxio-HomeSprite.png]]
+> ![[SRD-luxio-BookSprite.png|wsmall left]]
+> ![[SRD-luxio-HomeSprite.png|wsmall right]]
 
 *Spark Pokémon*
 *Female Luxio stay with the pride but males roam in marauding groups, trying to become strong enough to make their own pride. Its claws and teeth are charged with electricity; approach with caution.*

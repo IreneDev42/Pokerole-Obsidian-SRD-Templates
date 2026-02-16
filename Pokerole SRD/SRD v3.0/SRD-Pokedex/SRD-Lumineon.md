@@ -80,8 +80,8 @@ Weight:
 # Lumineon 
 
 > [!grid]
-> ![[SRD-lumineon-BookSprite.png|wsmall]]
-> ![[SRD-lumineon-HomeSprite.png]]
+> ![[SRD-lumineon-BookSprite.png|wsmall left]]
+> ![[SRD-lumineon-HomeSprite.png|wsmall right]]
 
 *Neon Pokémon*
 *It lives in the deep-sea bottom. It attracts prey by flashing the patterns on its tail fins. In the wild it competes against Lanturn for food. Its main predators are Tentacruel and Sharpedo.*

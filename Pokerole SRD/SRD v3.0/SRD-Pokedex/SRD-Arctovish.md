@@ -72,8 +72,8 @@ Weight:
 # Arctovish 
 
 > [!grid]
-> ![[SRD-arctovish-BookSprite.png|wsmall]]
-> ![[SRD-arctovish-HomeSprite.png]]
+> ![[SRD-arctovish-BookSprite.png|wsmall left]]
+> ![[SRD-arctovish-HomeSprite.png|wsmall right]]
 
 *Fossil Pokémon*
 *This mix of DNA made a more stable creature. Able to move, breathe, and resist cold weather, the only problem is that its head is upside down. If it's not fed it cannot hunt on its own and will die of hunger in a few days.*

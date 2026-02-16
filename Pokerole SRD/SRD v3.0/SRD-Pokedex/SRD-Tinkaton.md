@@ -79,8 +79,8 @@ Weight:
 # Tinkaton 
 
 > [!grid]
-> ![[SRD-tinkaton-BookSprite.png|wsmall]]
-> ![[SRD-tinkaton-HomeSprite.png]]
+> ![[SRD-tinkaton-BookSprite.png|wsmall left]]
+> ![[SRD-tinkaton-HomeSprite.png|wsmall right]]
 
 *Hammer Pokémon*
 *The Tinkatuff with the biggest and strongest hammer evolves into this intelligent and daring Pokémon. They hunt Corviknight by knocking rocks into the sky with their giant hammers. Cute but dangerous.*

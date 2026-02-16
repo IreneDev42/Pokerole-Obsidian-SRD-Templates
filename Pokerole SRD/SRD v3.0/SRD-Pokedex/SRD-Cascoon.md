@@ -63,8 +63,8 @@ Weight:
 # Cascoon 
 
 > [!grid]
-> ![[SRD-cascoon-BookSprite.png|wsmall]]
-> ![[SRD-cascoon-HomeSprite.png]]
+> ![[SRD-cascoon-BookSprite.png|wsmall left]]
+> ![[SRD-cascoon-HomeSprite.png|wsmall right]]
 
 *Cocoon Pokémon*
 *They hide between huge leaves and gaps between branches. If they were to move, their evolution would be weaker. Due to this, Cascoon will remain motionless. If Wurmple lives in a dark place, it evolves into Cascoon.*

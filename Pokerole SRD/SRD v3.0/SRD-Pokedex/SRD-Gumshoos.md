@@ -79,8 +79,8 @@ Weight:
 # Gumshoos 
 
 > [!grid]
-> ![[SRD-gumshoos-BookSprite.png|wsmall]]
-> ![[SRD-gumshoos-HomeSprite.png]]
+> ![[SRD-gumshoos-BookSprite.png|wsmall left]]
+> ![[SRD-gumshoos-HomeSprite.png|wsmall right]]
 
 *Stakeout Pokémon*
 *Alolan Ratatta became nocturnal to evade this Pokémon, as it is their main predator. Gumshoos now go hungry for days before they find something suitable to eat; they compensate by sleeping a lot.*

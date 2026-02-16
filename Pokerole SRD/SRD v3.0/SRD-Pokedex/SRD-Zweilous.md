@@ -83,8 +83,8 @@ Weight:
 # Zweilous 
 
 > [!grid]
-> ![[SRD-zweilous-BookSprite.png|wsmall]]
-> ![[SRD-zweilous-HomeSprite.png]]
+> ![[SRD-zweilous-BookSprite.png|wsmall left]]
+> ![[SRD-zweilous-HomeSprite.png|wsmall right]]
 
 *Hostile Pokémon*
 *The two heads do not get along with each other as they compete for food. For this reason, Zweilous usually eats more than it should. Touching it carelessly can get you attacked by one or both heads.*

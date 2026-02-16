@@ -76,8 +76,8 @@ Weight:
 # Zigzagoon 
 
 > [!grid]
-> ![[SRD-zigzagoon-BookSprite.png|wsmall]]
-> ![[SRD-zigzagoon-HomeSprite.png]]
+> ![[SRD-zigzagoon-BookSprite.png|wsmall left]]
+> ![[SRD-zigzagoon-HomeSprite.png|wsmall right]]
 
 *Tiny Raccoon Pokémon*
 *They are extremely curious and want to know all about everything. Due to their innate curiosity, they usually find hidden objects. Sometimes they play dead to avoid being attacked.*

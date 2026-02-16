@@ -75,8 +75,8 @@ Weight:
 # Indeedee (Female Form) 
 
 > [!grid]
-> ![[SRD-indeedee-female-form-BookSprite.png|wsmall]]
-> ![[SRD-indeedee-female-form-HomeSprite.png]]
+> ![[SRD-indeedee-female-form-BookSprite.png|wsmall left]]
+> ![[SRD-indeedee-female-form-HomeSprite.png|wsmall right]]
 
 *Emotion Pokémon*
 *The female of the species. These intelligent Pokémon touch each other's horns to communicate. They love to help and be of service because they gather power from feelings of gratitude.*

@@ -79,8 +79,8 @@ Weight:
 # Hitmontop 
 
 > [!grid]
-> ![[SRD-hitmontop-BookSprite.png|wsmall]]
-> ![[SRD-hitmontop-HomeSprite.png]]
+> ![[SRD-hitmontop-BookSprite.png|wsmall left]]
+> ![[SRD-hitmontop-HomeSprite.png|wsmall right]]
 
 *Handstand Pokémon*
 *They launch high-speed kicks while spinning so fast that they get drilled into the ground. They move quicker by spinning than they do walking. They are very smart and like to perform dance-like kicks.*

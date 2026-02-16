@@ -76,8 +76,8 @@ Weight:
 # Iron Moth 
 
 > [!grid]
-> ![[SRD-iron-moth-BookSprite.png|wsmall]]
-> ![[SRD-iron-moth-HomeSprite.png]]
+> ![[SRD-iron-moth-BookSprite.png|wsmall left]]
+> ![[SRD-iron-moth-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A remotely-controlled drone designed to look like Volcarona. Created by an unknown alien race, it's been sent here in order to monitor our world and civilization.*

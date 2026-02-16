@@ -78,8 +78,8 @@ Weight:
 # Tranquill 
 
 > [!grid]
-> ![[SRD-tranquill-BookSprite.png|wsmall]]
-> ![[SRD-tranquill-HomeSprite.png]]
+> ![[SRD-tranquill-BookSprite.png|wsmall left]]
+> ![[SRD-tranquill-HomeSprite.png|wsmall right]]
 
 *Wild Pigeon Pokémon*
 *During war and old times people made use of Tranquill's sense of location to send letters. It will never fail to find its way back home. They like forests and enjoy relaxing in the peace and quiet of their nest.*

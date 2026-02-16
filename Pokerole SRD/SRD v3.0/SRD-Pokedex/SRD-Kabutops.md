@@ -79,8 +79,8 @@ Weight:
 # Kabutops 
 
 > [!grid]
-> ![[SRD-kabutops-BookSprite.png|wsmall]]
-> ![[SRD-kabutops-HomeSprite.png]]
+> ![[SRD-kabutops-BookSprite.png|wsmall left]]
+> ![[SRD-kabutops-HomeSprite.png|wsmall right]]
 
 *Shellfish Pokémon*
 *Kabutops swarmed underwater to hunt for prey. It appears to have been evolving from a water dweller into a land dweller, as evident by the changes in its gills and legs. Fossils suggests it was aggressive.*

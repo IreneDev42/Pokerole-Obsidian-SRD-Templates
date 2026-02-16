@@ -84,8 +84,8 @@ Weight:
 # Mr. Rime 
 
 > [!grid]
-> ![[SRD-mr-rime-BookSprite.png|wsmall]]
-> ![[SRD-mr-rime-HomeSprite.png]]
+> ![[SRD-mr-rime-BookSprite.png|wsmall left]]
+> ![[SRD-mr-rime-HomeSprite.png|wsmall right]]
 
 *Comedian Pokémon*
 *It's highly skilled at tap-dancing. It waves its cane of ice in time. Its amusing movements make it very popular and it loves to entertain children. It releases all of its psychic power from the pattern on its belly.*

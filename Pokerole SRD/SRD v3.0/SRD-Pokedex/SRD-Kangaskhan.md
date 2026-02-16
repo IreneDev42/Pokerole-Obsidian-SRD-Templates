@@ -78,8 +78,8 @@ Weight:
 # Kangaskhan 
 
 > [!grid]
-> ![[SRD-kangaskhan-BookSprite.png|wsmall]]
-> ![[SRD-kangaskhan-HomeSprite.png]]
+> ![[SRD-kangaskhan-BookSprite.png|wsmall left]]
+> ![[SRD-kangaskhan-HomeSprite.png|wsmall right]]
 
 *Parent Pokémon*
 *A female-only species. She raises her offspring in her belly pouch. The young leave once they learn to find their own food. In the wild, mothers and daughters fiercely defend each other and their babies.*

@@ -81,8 +81,8 @@ Weight:
 # Decidueye (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-decidueye-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-decidueye-hisuian-form-HomeSprite.png]]
+> ![[SRD-decidueye-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-decidueye-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Arrow Quill Pokémon*
 *Decidueye living in the Hisui region, centuries ago, suffered due to living in cold, snowy mountains and most went extinct. A few tried to adapt their feathers to be weatherproof, but they went extinct as well.*

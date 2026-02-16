@@ -84,8 +84,8 @@ Weight:
 # Aegislash 
 
 > [!grid]
-> ![[SRD-aegislash-BookSprite.png|wsmall]]
-> ![[SRD-aegislash-HomeSprite.png]]
+> ![[SRD-aegislash-BookSprite.png|wsmall left]]
+> ![[SRD-aegislash-HomeSprite.png|wsmall right]]
 
 *Royal Sword Pokémon*
 *A legend tells of how this Pokémon led the first King of Kalos to victory. While it blocks any damage to the flesh of its wielder, their soul is not so lucky. While in this form it can only use Support Moves & Maneuvers.*

@@ -73,8 +73,8 @@ Weight:
 # Cranidos 
 
 > [!grid]
-> ![[SRD-cranidos-BookSprite.png|wsmall]]
-> ![[SRD-cranidos-HomeSprite.png]]
+> ![[SRD-cranidos-BookSprite.png|wsmall left]]
+> ![[SRD-cranidos-HomeSprite.png|wsmall right]]
 
 *Head Butt Pokémon*
 *It was resurrected from an iron ball-like fossil. It downs prey with headbutts and tramples trees and walls with ease. They were plentiful 100 million years ago. You can't find one nowadays except as a fossil.*

@@ -80,8 +80,8 @@ Weight:
 # Sandslash (Alolan Form) 
 
 > [!grid]
-> ![[SRD-sandslash-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-sandslash-alolan-form-HomeSprite.png]]
+> ![[SRD-sandslash-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-sandslash-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *These Pokémon make their burrows in Alola's ice caverns, hidden in plain sight. Careful with its spikes; any puncture into the skin and you can get severe frostbite. They can't stand high temperatures.*

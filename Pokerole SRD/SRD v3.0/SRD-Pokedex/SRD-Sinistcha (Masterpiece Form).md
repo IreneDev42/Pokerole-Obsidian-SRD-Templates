@@ -78,8 +78,8 @@ Weight:
 # Sinistcha (Masterpiece Form) 
 
 > [!grid]
-> ![[SRD-sinistcha-masterpiece-form-BookSprite.png|wsmall]]
-> ![[SRD-sinistcha-masterpiece-form-HomeSprite.png]]
+> ![[SRD-sinistcha-masterpiece-form-BookSprite.png|wsmall left]]
+> ![[SRD-sinistcha-masterpiece-form-HomeSprite.png|wsmall right]]
 
 *Matcha Pokémon*
 *It haunts the back of the tea shelves, as it prefers cool and dry places. It disguises itself as a hot beverage to drain the life force of those who may drink it, but most people spit it out due to its bitter taste.*

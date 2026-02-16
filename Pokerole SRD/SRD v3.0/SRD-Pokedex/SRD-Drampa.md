@@ -74,8 +74,8 @@ Weight:
 # Drampa 
 
 > [!grid]
-> ![[SRD-drampa-BookSprite.png|wsmall]]
-> ![[SRD-drampa-HomeSprite.png]]
+> ![[SRD-drampa-BookSprite.png|wsmall left]]
+> ![[SRD-drampa-HomeSprite.png|wsmall right]]
 
 *Placid Pokémon*
 *It lives alone at the top of high mountains but comes down in the morning to eat berries. It is a caring Pokémon, especially towards children, and will fiercely protect any children it cares for with tremendous force.*

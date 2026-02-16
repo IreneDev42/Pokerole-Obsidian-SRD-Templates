@@ -73,8 +73,8 @@ Weight:
 # Deoxys (Defense Form) 
 
 > [!grid]
-> ![[SRD-deoxys-defense-form-BookSprite.png|wsmall]]
-> ![[SRD-deoxys-defense-form-HomeSprite.png]]
+> ![[SRD-deoxys-defense-form-BookSprite.png|wsmall left]]
+> ![[SRD-deoxys-defense-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *One member of the space crew mentioned a broad creature that could reflect their weapon's attacks back at them. There was an explosion and the creature left, unscathed.*

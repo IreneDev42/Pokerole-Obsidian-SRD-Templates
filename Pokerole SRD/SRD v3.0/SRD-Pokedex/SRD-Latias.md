@@ -77,8 +77,8 @@ Weight:
 # Latias 
 
 > [!grid]
-> ![[SRD-latias-BookSprite.png|wsmall]]
-> ![[SRD-latias-HomeSprite.png]]
+> ![[SRD-latias-BookSprite.png|wsmall left]]
+> ![[SRD-latias-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The legend tells about two Pokémon that could take human shapes, use psychic powers and become invisible. They were raised by an old couple as their own children. The little girl had a red dress.*

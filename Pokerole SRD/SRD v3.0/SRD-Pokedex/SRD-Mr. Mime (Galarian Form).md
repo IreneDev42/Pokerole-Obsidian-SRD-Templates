@@ -89,8 +89,8 @@ Weight:
 # Mr. Mime (Galarian Form) 
 
 > [!grid]
-> ![[SRD-mr-mime-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-mr-mime-galarian-form-HomeSprite.png]]
+> ![[SRD-mr-mime-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-mr-mime-galarian-form-HomeSprite.png|wsmall right]]
 
 *Barrier Pokémon*
 *Mime Jr. that endure the harsh winter of Galar are able to create invisible walls that suddenly turn to ice. As they evolve, they start creating ice floors that allow them to tap-dance, which they enjoy more than anything.*

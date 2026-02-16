@@ -78,8 +78,8 @@ Weight:
 # Hypno 
 
 > [!grid]
-> ![[SRD-hypno-BookSprite.png|wsmall]]
-> ![[SRD-hypno-HomeSprite.png]]
+> ![[SRD-hypno-BookSprite.png|wsmall left]]
+> ![[SRD-hypno-HomeSprite.png|wsmall right]]
 
 *Hypnosis Pokémon*
 *Old children stories tell of an Hypno who takes away naughty kids and feasts on their dreams until they are old men. They have an urge to eat the dreams of others since they cannot sleep themselves.*

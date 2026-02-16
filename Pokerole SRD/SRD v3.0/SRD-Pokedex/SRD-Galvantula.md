@@ -81,8 +81,8 @@ Weight:
 # Galvantula 
 
 > [!grid]
-> ![[SRD-galvantula-BookSprite.png|wsmall]]
-> ![[SRD-galvantula-HomeSprite.png]]
+> ![[SRD-galvantula-BookSprite.png|wsmall left]]
+> ![[SRD-galvantula-HomeSprite.png|wsmall right]]
 
 *EleSpider Pokémon*
 *They employ an electrically-charged web to trap their prey. While it is immobilized by shock, they leisurely consume it. They usually live alone, but there have been cases of large swarms living together in caves.*

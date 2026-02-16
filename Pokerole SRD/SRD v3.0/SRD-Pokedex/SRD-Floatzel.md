@@ -78,8 +78,8 @@ Weight:
 # Floatzel 
 
 > [!grid]
-> ![[SRD-floatzel-BookSprite.png|wsmall]]
-> ![[SRD-floatzel-HomeSprite.png]]
+> ![[SRD-floatzel-BookSprite.png|wsmall left]]
+> ![[SRD-floatzel-HomeSprite.png|wsmall right]]
 
 *Sea Weasel Pokémon*
 *It floats using its well-developed sack. They roam close to fishing spots to steal an easy meal. People allow them to hang around their boats because they help whenever a person falls into the water.*

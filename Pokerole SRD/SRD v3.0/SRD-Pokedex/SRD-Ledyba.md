@@ -75,8 +75,8 @@ Weight:
 # Ledyba 
 
 > [!grid]
-> ![[SRD-ledyba-BookSprite.png|wsmall]]
-> ![[SRD-ledyba-HomeSprite.png]]
+> ![[SRD-ledyba-BookSprite.png|wsmall left]]
+> ![[SRD-ledyba-HomeSprite.png|wsmall right]]
 
 *Five Star Pokémon*
 *These timid Pokémon swarm in groups to keep each other warm during the winter. It communicates with others through a special scent. They often appear covered in the morning dew.*

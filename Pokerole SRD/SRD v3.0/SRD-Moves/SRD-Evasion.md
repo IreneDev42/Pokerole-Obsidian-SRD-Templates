@@ -9,11 +9,11 @@ Damage1: ''
 Damage2: ''
 Description: No time to think! If you hear "Dooooooodge!" You get out of the way A.S.A.P
 Effect: Target Self. Reaction 6. Match the number of successes on the Accuracy roll
-  ofa Move that targets the User. If successful, the user Evades, see p.68. This Maneuver
-  is not affected by the Multiple Action difficulty chart.
+  of a Move that targets the User. If successful, the user Evades, see p.68. This
+  Maneuver is not affected by the Multiple Action difficulty chart.
 Name: Evasion
 Power: 0
-Target: User
+Target: Self
 Type: Typeless
 ---
 

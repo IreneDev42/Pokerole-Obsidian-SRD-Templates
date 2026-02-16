@@ -78,8 +78,8 @@ Weight:
 # Chimecho 
 
 > [!grid]
-> ![[SRD-chimecho-BookSprite.png|wsmall]]
-> ![[SRD-chimecho-HomeSprite.png]]
+> ![[SRD-chimecho-BookSprite.png|wsmall left]]
+> ![[SRD-chimecho-HomeSprite.png|wsmall right]]
 
 *Wind Chime Pokémon*
 *They have seven different cries that resound with the wind. They can create ultrasonic waves when they are in danger. Using the suction cup on their head, they hang to branches on windy days.*

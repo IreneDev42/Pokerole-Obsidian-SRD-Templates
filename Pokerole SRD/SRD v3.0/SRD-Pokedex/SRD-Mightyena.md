@@ -82,8 +82,8 @@ Weight:
 # Mightyena 
 
 > [!grid]
-> ![[SRD-mightyena-BookSprite.png|wsmall]]
-> ![[SRD-mightyena-HomeSprite.png]]
+> ![[SRD-mightyena-BookSprite.png|wsmall left]]
+> ![[SRD-mightyena-HomeSprite.png|wsmall right]]
 
 *Bite Pokémon*
 *They attack savagely, travel in packs and hunt in groups. They will only obey trainers that show superior skills, which they recognize as the alpha leader. They are extremely obedient once they find a master.*

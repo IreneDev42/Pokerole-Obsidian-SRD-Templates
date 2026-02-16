@@ -79,8 +79,8 @@ Weight:
 # Oinkologne (Female Form) 
 
 > [!grid]
-> ![[SRD-oinkologne-female-form-BookSprite.png|wsmall]]
-> ![[SRD-oinkologne-female-form-HomeSprite.png]]
+> ![[SRD-oinkologne-female-form-BookSprite.png|wsmall left]]
+> ![[SRD-oinkologne-female-form-HomeSprite.png|wsmall right]]
 
 *Hog Pokémon*
 *Despite their appearance, these Pokémon smell like flowers. Females have thick, strong and well-developed legs, which makes them able to jump up to 16 feet in the air and the best selection for aged hams.*

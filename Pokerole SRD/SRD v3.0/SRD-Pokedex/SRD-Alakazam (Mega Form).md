@@ -76,8 +76,8 @@ Weight:
 # Alakazam (Mega Form) 
 
 > [!grid]
-> ![[SRD-alakazam-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-alakazam-mega-form-HomeSprite.png]]
+> ![[SRD-alakazam-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-alakazam-mega-form-HomeSprite.png|wsmall right]]
 
 *Psi Pokémon*
 *With the power of the Mega Stone it is constantly plagued with visions of the future which makes it great at evading attacks. Its body is feeble and it moves purely through psychic energy.*

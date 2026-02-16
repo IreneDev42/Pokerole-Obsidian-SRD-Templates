@@ -70,8 +70,8 @@ Weight:
 # Pichu 
 
 > [!grid]
-> ![[SRD-pichu-BookSprite.png|wsmall]]
-> ![[SRD-pichu-HomeSprite.png]]
+> ![[SRD-pichu-BookSprite.png|wsmall left]]
+> ![[SRD-pichu-HomeSprite.png|wsmall right]]
 
 *Tiny Mouse Pokémon*
 *Its cheek pouches are not fully developed yet. Pichu gets startled if its cheeks release electricity jolts. It needs a friendly environment to grow happy. It can be quite the rascal, though.*

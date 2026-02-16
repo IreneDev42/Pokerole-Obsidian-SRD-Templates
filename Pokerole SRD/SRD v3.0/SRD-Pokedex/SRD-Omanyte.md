@@ -75,8 +75,8 @@ Weight:
 # Omanyte 
 
 > [!grid]
-> ![[SRD-omanyte-BookSprite.png|wsmall]]
-> ![[SRD-omanyte-HomeSprite.png]]
+> ![[SRD-omanyte-BookSprite.png|wsmall left]]
+> ![[SRD-omanyte-HomeSprite.png|wsmall right]]
 
 *Spiral Pokémon*
 *One of the ancient and extinct Pokémon that have been revived from fossils by science. If attacked, it withdraws into its hard shell. It is not found in the wild anymore, but fossils can be found in the sea.*

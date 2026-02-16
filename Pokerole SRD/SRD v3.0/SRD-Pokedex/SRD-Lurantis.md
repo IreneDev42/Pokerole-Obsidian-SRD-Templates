@@ -80,8 +80,8 @@ Weight:
 # Lurantis 
 
 > [!grid]
-> ![[SRD-lurantis-BookSprite.png|wsmall]]
-> ![[SRD-lurantis-HomeSprite.png]]
+> ![[SRD-lurantis-BookSprite.png|wsmall left]]
+> ![[SRD-lurantis-HomeSprite.png|wsmall right]]
 
 *Bloom Sickle Pokémon*
 *Considered to be one of the most beautiful Grass-Type Pokémon due to its lovely coloration. They require a lot of maintenance and constant grooming, so they'll only trust a Trainer who is up for the job.*

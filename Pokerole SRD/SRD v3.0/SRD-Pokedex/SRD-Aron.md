@@ -77,8 +77,8 @@ Weight:
 # Aron 
 
 > [!grid]
-> ![[SRD-aron-BookSprite.png|wsmall]]
-> ![[SRD-aron-HomeSprite.png]]
+> ![[SRD-aron-BookSprite.png|wsmall left]]
+> ![[SRD-aron-HomeSprite.png|wsmall right]]
 
 *Iron Armor Pokémon*
 *They can be seen feeding on iron ore in the mountains or causing trouble by eating rails, bridges, and vehicles. When they evolve, Aron shed their steel armor and develop a stronger one.*

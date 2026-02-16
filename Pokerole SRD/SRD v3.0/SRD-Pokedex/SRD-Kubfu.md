@@ -78,8 +78,8 @@ Weight:
 # Kubfu 
 
 > [!grid]
-> ![[SRD-kubfu-BookSprite.png|wsmall]]
-> ![[SRD-kubfu-HomeSprite.png]]
+> ![[SRD-kubfu-BookSprite.png|wsmall left]]
+> ![[SRD-kubfu-HomeSprite.png|wsmall right]]
 
 *Wushu Pokémon*
 *This little but fierce Pokémon takes its training very seriously. Every day it trains a little longer than the day before. The Moves it masters during this stage will determine the way it evolves.*

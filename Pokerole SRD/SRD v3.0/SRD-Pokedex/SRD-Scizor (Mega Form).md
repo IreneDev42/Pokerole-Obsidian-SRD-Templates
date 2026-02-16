@@ -79,8 +79,8 @@ Weight:
 # Scizor (Mega Form) 
 
 > [!grid]
-> ![[SRD-scizor-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-scizor-mega-form-HomeSprite.png]]
+> ![[SRD-scizor-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-scizor-mega-form-HomeSprite.png|wsmall right]]
 
 *Pincer Pokémon*
 *The power of the Mega Stone puts its body through tremendous stress. If it is inexperienced at wielding it and the battle is too long, its pincers will feel heavy and even melt. They must be fast to rip their foes apart.*

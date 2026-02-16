@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: "A heavy ball chain that drags you down. Reduce the user\u2019s Dexterity\
   \ by 1, and remove immunity to Ground-Type"
 Image: SRD-iron-ball-ItemSprite.png

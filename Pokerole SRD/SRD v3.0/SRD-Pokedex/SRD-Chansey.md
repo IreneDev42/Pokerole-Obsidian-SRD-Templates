@@ -85,8 +85,8 @@ Weight:
 # Chansey 
 
 > [!grid]
-> ![[SRD-chansey-BookSprite.png|wsmall]]
-> ![[SRD-chansey-HomeSprite.png]]
+> ![[SRD-chansey-BookSprite.png|wsmall left]]
+> ![[SRD-chansey-HomeSprite.png|wsmall right]]
 
 *Egg Pokémon*
 *There are only females in this species. Chansey lays a nutritious egg every day. These eggs are fed to the sick to give them strength. It is a loving and smart Pokémon, but it's pretty rare and elusive in the wild.*

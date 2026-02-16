@@ -78,8 +78,8 @@ Weight:
 # Kangaskhan (Mega Form) 
 
 > [!grid]
-> ![[SRD-kangaskhan-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-kangaskhan-mega-form-HomeSprite.png]]
+> ![[SRD-kangaskhan-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-kangaskhan-mega-form-HomeSprite.png|wsmall right]]
 
 *Parent Pokemon*
 *The mother gives all the power of the Mega Stone to her child. The child grows violent and they team up as formidable fighters. However, the mother worries about her child's future, as she raised it better than that.*

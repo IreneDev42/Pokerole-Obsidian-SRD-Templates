@@ -75,8 +75,8 @@ Weight:
 # Lickitung 
 
 > [!grid]
-> ![[SRD-lickitung-BookSprite.png|wsmall]]
-> ![[SRD-lickitung-HomeSprite.png]]
+> ![[SRD-lickitung-BookSprite.png|wsmall left]]
+> ![[SRD-lickitung-HomeSprite.png|wsmall right]]
 
 *Licking Pokémon*
 *Its tongue is twice as long as its body and it is used for everything, from capturing prey to feeling its surroundings and cleaning itself. It really dislikes sour and bitter flavors.*

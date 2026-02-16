@@ -73,8 +73,8 @@ Weight:
 # Capsakid 
 
 > [!grid]
-> ![[SRD-capsakid-BookSprite.png|wsmall]]
-> ![[SRD-capsakid-HomeSprite.png]]
+> ![[SRD-capsakid-BookSprite.png|wsmall left]]
+> ![[SRD-capsakid-HomeSprite.png|wsmall right]]
 
 *Spicy Pepper Pokémon*
 *These Pokémon produce a spicy chemical when exposed to sunlight; the more sun they get, the hotter it becomes. They shed their teeth and regrow new ones. The shed teeth can be used as a food ingredient.*

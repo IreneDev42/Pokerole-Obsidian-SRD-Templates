@@ -82,8 +82,8 @@ Weight:
 # Overqwil 
 
 > [!grid]
-> ![[SRD-overqwil-BookSprite.png|wsmall]]
-> ![[SRD-overqwil-HomeSprite.png]]
+> ![[SRD-overqwil-BookSprite.png|wsmall left]]
+> ![[SRD-overqwil-HomeSprite.png|wsmall right]]
 
 *Pin Cluster Pokémon*
 *These incredibly bad-tempered Pokémon used to plague the coastline of Hisui. They remained immobile and exploded on contact, leaving them vulnerable to hunters who ended up driving them extinct.*

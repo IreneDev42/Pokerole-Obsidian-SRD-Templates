@@ -75,8 +75,8 @@ Weight:
 # Smoochum 
 
 > [!grid]
-> ![[SRD-smoochum-BookSprite.png|wsmall]]
-> ![[SRD-smoochum-HomeSprite.png]]
+> ![[SRD-smoochum-BookSprite.png|wsmall left]]
+> ![[SRD-smoochum-HomeSprite.png|wsmall right]]
 
 *Kiss Pokémon*
 *They examine their surroundings with their lips. They love to smooch, but Pokémon dislike their kisses. Smoochum are always running excitedly, but they are clumsy and end up stumbling and crying.*

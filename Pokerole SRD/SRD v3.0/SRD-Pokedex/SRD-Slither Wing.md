@@ -76,8 +76,8 @@ Weight:
 # Slither Wing 
 
 > [!grid]
-> ![[SRD-slither-wing-BookSprite.png|wsmall]]
-> ![[SRD-slither-wing-HomeSprite.png]]
+> ![[SRD-slither-wing-BookSprite.png|wsmall left]]
+> ![[SRD-slither-wing-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *Pokédex registers it as #637. It shares striking similarities with Volcarona. However, it behaves as if it were a beast brought back from ancient times, wreaking havoc wherever it goes.*

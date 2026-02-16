@@ -78,8 +78,8 @@ Weight:
 # Coalossal 
 
 > [!grid]
-> ![[SRD-coalossal-BookSprite.png|wsmall]]
-> ![[SRD-coalossal-HomeSprite.png]]
+> ![[SRD-coalossal-BookSprite.png|wsmall left]]
+> ![[SRD-coalossal-HomeSprite.png|wsmall right]]
 
 *Coal Pokémon*
 *They are usually calm creatures. If they see you are kind they'll share their warmth with you, but if you enrage one you risk being burned down to ashes. They spit a tarry substance that is very flammable.*

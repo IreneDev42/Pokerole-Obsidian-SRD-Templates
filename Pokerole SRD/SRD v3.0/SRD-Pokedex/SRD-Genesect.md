@@ -74,8 +74,8 @@ Weight:
 # Genesect 
 
 > [!grid]
-> ![[SRD-genesect-BookSprite.png|wsmall]]
-> ![[SRD-genesect-HomeSprite.png]]
+> ![[SRD-genesect-BookSprite.png|wsmall left]]
+> ![[SRD-genesect-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Fossil revival is now possible with our incredible technology. Recently, some researchers sparked a controversial debate by altering the original forms of the revived Pokémon through artificial means.*

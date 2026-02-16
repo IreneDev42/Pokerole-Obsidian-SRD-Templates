@@ -80,8 +80,8 @@ Weight:
 # Diggersby 
 
 > [!grid]
-> ![[SRD-diggersby-BookSprite.png|wsmall]]
-> ![[SRD-diggersby-HomeSprite.png]]
+> ![[SRD-diggersby-BookSprite.png|wsmall left]]
+> ![[SRD-diggersby-HomeSprite.png|wsmall right]]
 
 *Digging Pokémon*
 *A powerful excavator, its ears can reduce dense bedrock to rubble. After it has finished digging, it just lounges lazily. Some of them have been trained to work at construction sites with good results.*

@@ -75,8 +75,8 @@ Weight:
 # Stunfisk 
 
 > [!grid]
-> ![[SRD-stunfisk-BookSprite.png|wsmall]]
-> ![[SRD-stunfisk-HomeSprite.png]]
+> ![[SRD-stunfisk-BookSprite.png|wsmall left]]
+> ![[SRD-stunfisk-HomeSprite.png|wsmall right]]
 
 *Trap Pokémon*
 *It conceals itself in the mud of the seashore, then it waits. When prey touch it, it delivers a jolt of electricity. Its skin is very hard and it can position itself to remain unhurt even if stepped on by a heavy Pokémon.*

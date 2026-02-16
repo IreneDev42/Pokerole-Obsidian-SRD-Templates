@@ -82,8 +82,8 @@ Weight:
 # Dragapult 
 
 > [!grid]
-> ![[SRD-dragapult-BookSprite.png|wsmall]]
-> ![[SRD-dragapult-HomeSprite.png]]
+> ![[SRD-dragapult-BookSprite.png|wsmall left]]
+> ![[SRD-dragapult-HomeSprite.png|wsmall right]]
 
 *Stealth Pokémon*
 *When it isn't battling, it keeps Dreepy in the holes in its horns. Once a fight starts, it launches the Dreepy like supersonic missiles. The smaller Pokémon appear happy to be shot and will reload themselves.*

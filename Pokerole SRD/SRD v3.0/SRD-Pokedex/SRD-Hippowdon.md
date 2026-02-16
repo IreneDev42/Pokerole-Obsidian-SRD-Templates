@@ -78,8 +78,8 @@ Weight:
 # Hippowdon 
 
 > [!grid]
-> ![[SRD-hippowdon-BookSprite.png|wsmall]]
-> ![[SRD-hippowdon-HomeSprite.png]]
+> ![[SRD-hippowdon-BookSprite.png|wsmall left]]
+> ![[SRD-hippowdon-HomeSprite.png|wsmall right]]
 
 *Heavyweight Pokémon*
 *It becomes territorial and aggressive after evolving. Its open mouth stands over 7 ft. tall, so beware. There are records of one that came out of the sand and crushed a truck that was passing over its territory.*

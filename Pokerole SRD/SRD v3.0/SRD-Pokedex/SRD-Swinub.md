@@ -74,8 +74,8 @@ Weight:
 # Swinub 
 
 > [!grid]
-> ![[SRD-swinub-BookSprite.png|wsmall]]
-> ![[SRD-swinub-HomeSprite.png]]
+> ![[SRD-swinub-BookSprite.png|wsmall left]]
+> ![[SRD-swinub-HomeSprite.png|wsmall right]]
 
 *Pig Pokémon*
 *They rub their snout on the icy ground to find food and hot springs. Their favorite food is a mushroom that grows under frozen grass. They recognize everything by smell as their eyes can't see very well.*

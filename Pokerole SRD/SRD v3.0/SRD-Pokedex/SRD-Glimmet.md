@@ -74,8 +74,8 @@ Weight:
 # Glimmet 
 
 > [!grid]
-> ![[SRD-glimmet-BookSprite.png|wsmall]]
-> ![[SRD-glimmet-HomeSprite.png]]
+> ![[SRD-glimmet-BookSprite.png|wsmall left]]
+> ![[SRD-glimmet-HomeSprite.png|wsmall right]]
 
 *Ore Pokémon*
 *Attached to cave walls they appear to be crystal flowers. Beware, as they release a pollen that is toxic to inhale and their petals are actually crystallized poison. They close the flower when they are in bright places.*

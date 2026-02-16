@@ -79,8 +79,8 @@ Weight:
 # Burmy 
 
 > [!grid]
-> ![[SRD-burmy-BookSprite.png|wsmall]]
-> ![[SRD-burmy-HomeSprite.png]]
+> ![[SRD-burmy-BookSprite.png|wsmall left]]
+> ![[SRD-burmy-HomeSprite.png|wsmall right]]
 
 *Bagworm Pokémon*
 *This Pokémon has adapted to live in forests, deserts, and in the city. It makes a cloak with the materials close to it to protect itself from the weather. Males evolve into Mothim and females into Wormadam.*

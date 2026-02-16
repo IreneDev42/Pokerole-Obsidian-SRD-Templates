@@ -53,8 +53,8 @@ Weight:
 # Ditto 
 
 > [!grid]
-> ![[SRD-ditto-BookSprite.png|wsmall]]
-> ![[SRD-ditto-HomeSprite.png]]
+> ![[SRD-ditto-BookSprite.png|wsmall left]]
+> ![[SRD-ditto-HomeSprite.png|wsmall right]]
 
 *Transform Pokémon*
 *This Pokémon is quite common, but it's pretty difficult to spot. It can transform into any other Pokémon and imitate their behavior. When it sleeps, it changes into a stone to avoid being attacked.*

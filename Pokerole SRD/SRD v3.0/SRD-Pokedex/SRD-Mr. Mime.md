@@ -84,8 +84,8 @@ Weight:
 # Mr. Mime 
 
 > [!grid]
-> ![[SRD-mr-mime-BookSprite.png|wsmall]]
-> ![[SRD-mr-mime-HomeSprite.png]]
+> ![[SRD-mr-mime-BookSprite.png|wsmall left]]
+> ![[SRD-mr-mime-HomeSprite.png|wsmall right]]
 
 *Barrier Pokémon*
 *You don't find this Pokémon, it finds you. It is really smart and amuses itself by showing people its power to create barriers with pantomime. It creates an invisible box and flees when you try to figure out the exit.*

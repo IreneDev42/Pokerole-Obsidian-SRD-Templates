@@ -74,8 +74,8 @@ Weight:
 # Zeraora 
 
 > [!grid]
-> ![[SRD-zeraora-BookSprite.png|wsmall]]
-> ![[SRD-zeraora-HomeSprite.png]]
+> ![[SRD-zeraora-BookSprite.png|wsmall left]]
+> ![[SRD-zeraora-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *An unfriendly creature was spotted in Alola. Witnesses mentioned it electrified its claws and tore its foes apart with them. It disappeared into the wilderness and has not been sighted again.*

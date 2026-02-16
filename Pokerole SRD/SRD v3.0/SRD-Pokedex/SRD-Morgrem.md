@@ -81,8 +81,8 @@ Weight:
 # Morgrem 
 
 > [!grid]
-> ![[SRD-morgrem-BookSprite.png|wsmall]]
-> ![[SRD-morgrem-HomeSprite.png]]
+> ![[SRD-morgrem-BookSprite.png|wsmall left]]
+> ![[SRD-morgrem-HomeSprite.png|wsmall right]]
 
 *Devious Pokémon*
 *When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair. It lures people into the woods to rob them and get them lost.*

@@ -76,8 +76,8 @@ Weight:
 # Shuppet 
 
 > [!grid]
-> ![[SRD-shuppet-BookSprite.png|wsmall]]
-> ![[SRD-shuppet-HomeSprite.png]]
+> ![[SRD-shuppet-BookSprite.png|wsmall left]]
+> ![[SRD-shuppet-HomeSprite.png|wsmall right]]
 
 *Puppet Pokémon*
 *They feed on dark emotions such as envy, jealousy, and vengefulness. If they sting you, they'll fill you with a vindictive desire. They don't have bodies under their blanket and they are looking for a body to possess.*

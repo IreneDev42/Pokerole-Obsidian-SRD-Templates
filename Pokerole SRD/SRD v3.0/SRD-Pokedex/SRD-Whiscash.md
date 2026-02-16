@@ -78,8 +78,8 @@ Weight:
 # Whiscash 
 
 > [!grid]
-> ![[SRD-whiscash-BookSprite.png|wsmall]]
-> ![[SRD-whiscash-HomeSprite.png]]
+> ![[SRD-whiscash-BookSprite.png|wsmall left]]
+> ![[SRD-whiscash-HomeSprite.png|wsmall right]]
 
 *Whiskers Pokémon*
 *Dangerous and territorial, they claim entire ponds as their homes and will crush whoever dares to dive in with earthquakes. They eat anything alive in their pond or swamp. They have learned to foretell real tremors.*

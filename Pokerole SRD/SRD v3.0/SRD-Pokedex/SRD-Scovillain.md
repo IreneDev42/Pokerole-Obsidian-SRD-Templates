@@ -78,8 +78,8 @@ Weight:
 # Scovillain 
 
 > [!grid]
-> ![[SRD-scovillain-BookSprite.png|wsmall]]
-> ![[SRD-scovillain-HomeSprite.png]]
+> ![[SRD-scovillain-BookSprite.png|wsmall left]]
+> ![[SRD-scovillain-HomeSprite.png|wsmall right]]
 
 *Spicy Pepper Pokémon*
 *The green head turns vicious from the spicy chemicals running through their body, while the red head releases the chemicals as fire energy. You can find these Pokémon living in deserts and arid regions.*

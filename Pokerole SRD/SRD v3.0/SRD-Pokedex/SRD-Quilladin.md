@@ -78,8 +78,8 @@ Weight:
 # Quilladin 
 
 > [!grid]
-> ![[SRD-quilladin-BookSprite.png|wsmall]]
-> ![[SRD-quilladin-HomeSprite.png]]
+> ![[SRD-quilladin-BookSprite.png|wsmall left]]
+> ![[SRD-quilladin-HomeSprite.png|wsmall right]]
 
 *Spiny Armor Pokémon*
 *It strengthens its lower body by running into hard things. It is a kind Pokémon that relies on its sturdy shell and sharp quills to deflect any foe trying to attack it. These easygoing Pokémon never start a fight.*

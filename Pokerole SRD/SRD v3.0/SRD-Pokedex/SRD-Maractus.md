@@ -75,8 +75,8 @@ Weight:
 # Maractus 
 
 > [!grid]
-> ![[SRD-maractus-BookSprite.png|wsmall]]
-> ![[SRD-maractus-HomeSprite.png]]
+> ![[SRD-maractus-BookSprite.png|wsmall left]]
+> ![[SRD-maractus-HomeSprite.png|wsmall right]]
 
 *Cactus Pokémon*
 *If you see a Maractus in the desert, follow it, as they make their nests in water oases. This pacifistic Pokémon makes a sound similar to a maraca to drive away bird Pokémon that prey on its seeds and fruit.*

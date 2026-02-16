@@ -72,8 +72,8 @@ Weight:
 # Dracozolt 
 
 > [!grid]
-> ![[SRD-dracozolt-BookSprite.png|wsmall]]
-> ![[SRD-dracozolt-HomeSprite.png]]
+> ![[SRD-dracozolt-BookSprite.png|wsmall left]]
+> ![[SRD-dracozolt-HomeSprite.png|wsmall right]]
 
 *Fossil Pokémon*
 *A mix-up of DNA during the revival process resulted in this. Its lower body was an incredibly strong Pokémon that probably preyed on the little one from the upper body. Sometimes it will try to run from itself.*

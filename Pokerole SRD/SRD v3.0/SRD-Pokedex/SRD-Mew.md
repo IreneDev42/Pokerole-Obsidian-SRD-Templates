@@ -68,8 +68,8 @@ Weight:
 # Mew 
 
 > [!grid]
-> ![[SRD-mew-BookSprite.png|wsmall]]
-> ![[SRD-mew-HomeSprite.png]]
+> ![[SRD-mew-BookSprite.png|wsmall left]]
+> ![[SRD-mew-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Recent investigations declare that this Pokémon could be the common ancestor of all actual Pokémon, but it has been extinct for centuries. Some people claim to have seen one to get their 15 minutes of fame.*

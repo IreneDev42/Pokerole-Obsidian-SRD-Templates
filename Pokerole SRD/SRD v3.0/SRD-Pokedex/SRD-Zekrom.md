@@ -52,8 +52,8 @@ Weight:
 # Zekrom 
 
 > [!grid]
-> ![[SRD-zekrom-BookSprite.png|wsmall]]
-> ![[SRD-zekrom-HomeSprite.png]]
+> ![[SRD-zekrom-BookSprite.png|wsmall left]]
+> ![[SRD-zekrom-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *An old engraved rock tablet tells the story of two brothers. One of them wanted a world of ideals built with the energy of the young. The stone tablet is broken as if struck by lightning.*

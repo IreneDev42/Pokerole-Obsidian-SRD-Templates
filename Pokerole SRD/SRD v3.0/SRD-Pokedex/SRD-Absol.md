@@ -80,8 +80,8 @@ Weight:
 # Absol 
 
 > [!grid]
-> ![[SRD-absol-BookSprite.png|wsmall]]
-> ![[SRD-absol-HomeSprite.png]]
+> ![[SRD-absol-BookSprite.png|wsmall left]]
+> ![[SRD-absol-HomeSprite.png|wsmall right]]
 
 *Disaster Pokémon*
 *It is said that this Pokémon can live for 100 years. It has a bad reputation: whenever one is seen, a disaster is soon to follow - earthquakes, forest fires, and tidal waves. Absol lead a lonely life.*

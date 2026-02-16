@@ -78,8 +78,8 @@ Weight:
 # Doublade 
 
 > [!grid]
-> ![[SRD-doublade-BookSprite.png|wsmall]]
-> ![[SRD-doublade-HomeSprite.png]]
+> ![[SRD-doublade-BookSprite.png|wsmall left]]
+> ![[SRD-doublade-HomeSprite.png|wsmall right]]
 
 *Sword Pokémon*
 *Both swords share a telepathic link to coordinate attacks and slash their enemies to shreds. They feed on the rage of their wielder and promise to make them unbeatable at the cost of their flesh and soul.*

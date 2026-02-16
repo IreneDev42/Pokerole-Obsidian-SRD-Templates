@@ -79,8 +79,8 @@ Weight:
 # Milotic 
 
 > [!grid]
-> ![[SRD-milotic-BookSprite.png|wsmall]]
-> ![[SRD-milotic-HomeSprite.png]]
+> ![[SRD-milotic-BookSprite.png|wsmall left]]
+> ![[SRD-milotic-HomeSprite.png|wsmall right]]
 
 *Tender Pokémon*
 *Milotic is considered to be one of the most beautiful Pokémon in existence. It has inspired music, paintings, and statues. It has the power to calm the anger and hostility of its foes.*

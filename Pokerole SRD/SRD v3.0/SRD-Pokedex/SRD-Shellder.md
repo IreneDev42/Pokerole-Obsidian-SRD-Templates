@@ -76,8 +76,8 @@ Weight:
 # Shellder 
 
 > [!grid]
-> ![[SRD-shellder-BookSprite.png|wsmall]]
-> ![[SRD-shellder-HomeSprite.png]]
+> ![[SRD-shellder-BookSprite.png|wsmall left]]
+> ![[SRD-shellder-HomeSprite.png|wsmall right]]
 
 *Bivalve Pokémon*
 *It lives at the bottom of the sea and rivers. It feeds on algae but it's attracted to sweet substances. When frightened it will shut its clam and lock it to be almost impossible to open.*

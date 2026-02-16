@@ -81,8 +81,8 @@ Weight:
 # Ivysaur 
 
 > [!grid]
-> ![[SRD-ivysaur-BookSprite.png|wsmall]]
-> ![[SRD-ivysaur-HomeSprite.png]]
+> ![[SRD-ivysaur-BookSprite.png|wsmall left]]
+> ![[SRD-ivysaur-HomeSprite.png|wsmall right]]
 
 *Seed Pokémon*
 *There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. It becomes kind of a loner after evolving and may stray away from its group to take sunbaths.*

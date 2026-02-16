@@ -5,7 +5,7 @@ AddedEffects: {}
 Attributes:
   Lethal: true
   Unique: true
-Category: Dual
+Category: Physical/Special
 Damage1: Strength/Special
 Damage2: ''
 Description: "The Pok\xE9mon attacks with a large pillar of light that comes out from\

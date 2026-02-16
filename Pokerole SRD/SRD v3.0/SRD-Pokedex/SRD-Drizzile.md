@@ -80,8 +80,8 @@ Weight:
 # Drizzile 
 
 > [!grid]
-> ![[SRD-drizzile-BookSprite.png|wsmall]]
-> ![[SRD-drizzile-HomeSprite.png]]
+> ![[SRD-drizzile-BookSprite.png|wsmall left]]
+> ![[SRD-drizzile-HomeSprite.png|wsmall right]]
 
 *Water Lizard Pokémon*
 *Its demeanor changes drastically from shy to aloof and lazy. It can create water balloons with the moisture secreted from its paws. It is incredibly intelligent and is known to lay traps for others in the wild.*

@@ -70,8 +70,8 @@ Weight:
 # Bounsweet 
 
 > [!grid]
-> ![[SRD-bounsweet-BookSprite.png|wsmall]]
-> ![[SRD-bounsweet-HomeSprite.png]]
+> ![[SRD-bounsweet-BookSprite.png|wsmall left]]
+> ![[SRD-bounsweet-HomeSprite.png|wsmall right]]
 
 *Fruit Pokémon*
 *This happy-go-lucky Pokémon produces a delicious aroma that unfortunately attracts predators to it. When it escapes, it looks as if it's happily skipping around so it rarely gets the help it needs.*

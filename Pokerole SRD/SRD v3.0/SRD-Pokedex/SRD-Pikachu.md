@@ -90,8 +90,8 @@ Weight:
 # Pikachu 
 
 > [!grid]
-> ![[SRD-pikachu-BookSprite.png|wsmall]]
-> ![[SRD-pikachu-HomeSprite.png]]
+> ![[SRD-pikachu-BookSprite.png|wsmall left]]
+> ![[SRD-pikachu-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *They live in forests, forming small groups but they mostly stay hidden. Pikachu stores electricity inside the sacs on its cheeks and uses its tail to ground the excess charge. They can take on foes bigger than them.*

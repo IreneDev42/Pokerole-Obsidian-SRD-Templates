@@ -82,8 +82,8 @@ Weight:
 # Arbok 
 
 > [!grid]
-> ![[SRD-arbok-BookSprite.png|wsmall]]
-> ![[SRD-arbok-HomeSprite.png]]
+> ![[SRD-arbok-BookSprite.png|wsmall left]]
+> ![[SRD-arbok-HomeSprite.png|wsmall right]]
 
 *Cobra Pokémon*
 *This Pokémon has an incredibly strong constricting power. Once it wraps its body around its foe, escaping is almost impossible. The pattern on its body glows in the dark like a terrifying face.*

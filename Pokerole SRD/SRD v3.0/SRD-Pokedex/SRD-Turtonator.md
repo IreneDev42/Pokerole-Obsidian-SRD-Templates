@@ -74,8 +74,8 @@ Weight:
 # Turtonator 
 
 > [!grid]
-> ![[SRD-turtonator-BookSprite.png|wsmall]]
-> ![[SRD-turtonator-HomeSprite.png]]
+> ![[SRD-turtonator-BookSprite.png|wsmall left]]
+> ![[SRD-turtonator-HomeSprite.png|wsmall right]]
 
 *Blast Turtle Pokémon*
 *It lives in the volcanic areas of Alola, where it disguises itself among the rocks, waiting for prey to step on it to detonate an explosion. The hole on its chest is a weak point, but it is very difficult to access.*

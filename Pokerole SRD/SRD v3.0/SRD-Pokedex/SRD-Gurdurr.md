@@ -80,8 +80,8 @@ Weight:
 # Gurdurr 
 
 > [!grid]
-> ![[SRD-gurdurr-BookSprite.png|wsmall]]
-> ![[SRD-gurdurr-HomeSprite.png]]
+> ![[SRD-gurdurr-BookSprite.png|wsmall left]]
+> ![[SRD-gurdurr-HomeSprite.png|wsmall right]]
 
 *Muscular Pokémon*
 *This Pokémon is very muscular and strongly-built. It likes to show off its strength and muscles. Years back, a famous wrestler got defeated in just a few seconds by one of these Pokémon.*

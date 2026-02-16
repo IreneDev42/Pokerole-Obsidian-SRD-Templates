@@ -78,8 +78,8 @@ Weight:
 # Crawdaunt 
 
 > [!grid]
-> ![[SRD-crawdaunt-BookSprite.png|wsmall]]
-> ![[SRD-crawdaunt-HomeSprite.png]]
+> ![[SRD-crawdaunt-BookSprite.png|wsmall left]]
+> ![[SRD-crawdaunt-HomeSprite.png|wsmall right]]
 
 *Rogue Pokémon*
 *Crawdaunt is extremely violent and territorial. The ponds where it lives look like desolated places due to them attacking anything that comes close. It sheds its shell once a year; this weakens it for a few days.*

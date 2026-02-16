@@ -77,8 +77,8 @@ Weight:
 # Scraggy 
 
 > [!grid]
-> ![[SRD-scraggy-BookSprite.png|wsmall]]
-> ![[SRD-scraggy-HomeSprite.png]]
+> ![[SRD-scraggy-BookSprite.png|wsmall left]]
+> ![[SRD-scraggy-HomeSprite.png|wsmall right]]
 
 *Shedding Pokémon*
 *It sheds skin constantly, but keeps wearing it since the old skin has a rubber-like texture and it can pull it all the way up to its head. It bashes foes with headbutts and is known for making dirty moves while fighting.*

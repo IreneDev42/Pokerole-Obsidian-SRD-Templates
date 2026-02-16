@@ -74,8 +74,8 @@ Weight:
 # Tapu Bulu 
 
 > [!grid]
-> ![[SRD-tapu-bulu-BookSprite.png|wsmall]]
-> ![[SRD-tapu-bulu-HomeSprite.png]]
+> ![[SRD-tapu-bulu-BookSprite.png|wsmall left]]
+> ![[SRD-tapu-bulu-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Through Ula'ula Island runs the legend of a lazy guardian spirit who lives among the trees, which it commands to restrain its foes before beating them.*

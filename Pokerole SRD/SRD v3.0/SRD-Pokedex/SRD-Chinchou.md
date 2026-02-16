@@ -75,8 +75,8 @@ Weight:
 # Chinchou 
 
 > [!grid]
-> ![[SRD-chinchou-BookSprite.png|wsmall]]
-> ![[SRD-chinchou-HomeSprite.png]]
+> ![[SRD-chinchou-BookSprite.png|wsmall left]]
+> ![[SRD-chinchou-HomeSprite.png|wsmall right]]
 
 *Angler Pokémon*
 *In the dark ocean floor, its only means of communication is to constantly flash its lights. It is a clumsy but friendly Pokémon. Its antennae can be used to power up small electric appliances.*

@@ -77,8 +77,8 @@ Weight:
 # Staravia 
 
 > [!grid]
-> ![[SRD-staravia-BookSprite.png|wsmall]]
-> ![[SRD-staravia-HomeSprite.png]]
+> ![[SRD-staravia-BookSprite.png|wsmall left]]
+> ![[SRD-staravia-HomeSprite.png|wsmall right]]
 
 *Starling Pokémon*
 *They lead a huge flock and fight other flocks for territory. If you leave them alone, they will start to make a horrible noise. A fierce but bad-mannered Pokémon. If they are too weak, they'll abandon their flock.*

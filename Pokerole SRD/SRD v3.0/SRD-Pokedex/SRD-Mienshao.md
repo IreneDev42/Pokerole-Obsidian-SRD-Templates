@@ -80,8 +80,8 @@ Weight:
 # Mienshao 
 
 > [!grid]
-> ![[SRD-mienshao-BookSprite.png|wsmall]]
-> ![[SRD-mienshao-HomeSprite.png]]
+> ![[SRD-mienshao-BookSprite.png|wsmall left]]
+> ![[SRD-mienshao-HomeSprite.png|wsmall right]]
 
 *Martial Arts Pokémon*
 *By the time they evolve they already have many years of experience in fighting. They use the long fur on their arms as a whip to strike their opponents and will not stop until the foe is defeated.*

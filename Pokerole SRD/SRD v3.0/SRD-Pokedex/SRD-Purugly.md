@@ -79,8 +79,8 @@ Weight:
 # Purugly 
 
 > [!grid]
-> ![[SRD-purugly-BookSprite.png|wsmall]]
-> ![[SRD-purugly-HomeSprite.png]]
+> ![[SRD-purugly-BookSprite.png|wsmall left]]
+> ![[SRD-purugly-HomeSprite.png|wsmall right]]
 
 *Tiger Cat Pokémon*
 *It becomes wilder and aggressive after evolving. It is known to claim other Pokémon nests as its own. It will make itself appear bigger and glare with piercing eyes to achieve dominance over someone.*

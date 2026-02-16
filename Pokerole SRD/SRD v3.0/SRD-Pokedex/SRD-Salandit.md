@@ -77,8 +77,8 @@ Weight:
 # Salandit 
 
 > [!grid]
-> ![[SRD-salandit-BookSprite.png|wsmall]]
-> ![[SRD-salandit-HomeSprite.png]]
+> ![[SRD-salandit-BookSprite.png|wsmall left]]
+> ![[SRD-salandit-HomeSprite.png|wsmall right]]
 
 *Toxic Lizard Pokémon*
 *The markings at the end of its tail emit flames and a toxic gas; be careful as this gas smells sweet and specially appealing for the males of any species. Only female Salandit are known to evolve.*

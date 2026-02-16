@@ -82,8 +82,8 @@ Weight:
 # Quaxwell 
 
 > [!grid]
-> ![[SRD-quaxwell-BookSprite.png|wsmall]]
-> ![[SRD-quaxwell-HomeSprite.png]]
+> ![[SRD-quaxwell-BookSprite.png|wsmall left]]
+> ![[SRD-quaxwell-HomeSprite.png|wsmall right]]
 
 *Practicing Pokemon*
 *They are very observant Pokémon, trying to incorporate the movements they see into their dance. They practice in shallow water, kicking gracefully until they make no splash at all. A serious and diligent Pokémon.*

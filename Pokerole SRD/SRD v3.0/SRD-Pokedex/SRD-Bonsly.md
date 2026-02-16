@@ -74,8 +74,8 @@ Weight:
 # Bonsly 
 
 > [!grid]
-> ![[SRD-bonsly-BookSprite.png|wsmall]]
-> ![[SRD-bonsly-HomeSprite.png]]
+> ![[SRD-bonsly-BookSprite.png|wsmall left]]
+> ![[SRD-bonsly-HomeSprite.png|wsmall right]]
 
 *Bonsai Pokémon*
 *They thrive in arid places. It looks like it's crying all the time, but it's actually adjusting the moisture of its body and releasing excess water. Over time, they become excellent at impersonating trees.*

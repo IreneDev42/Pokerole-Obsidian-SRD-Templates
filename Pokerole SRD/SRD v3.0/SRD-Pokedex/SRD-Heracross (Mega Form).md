@@ -81,8 +81,8 @@ Weight:
 # Heracross (Mega Form) 
 
 > [!grid]
-> ![[SRD-heracross-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-heracross-mega-form-HomeSprite.png]]
+> ![[SRD-heracross-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-heracross-mega-form-HomeSprite.png|wsmall right]]
 
 *Single Horn Pokémon*
 *With the power of the Mega Stone, its muscles and exoskeleton grow in size and strength. But after going back to normal, its exoskeleton reduces size but its muscles do not, and that causes it to feel sore.*

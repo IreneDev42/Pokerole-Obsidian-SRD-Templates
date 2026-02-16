@@ -79,8 +79,8 @@ Weight:
 # Noctowl 
 
 > [!grid]
-> ![[SRD-noctowl-BookSprite.png|wsmall]]
-> ![[SRD-noctowl-HomeSprite.png]]
+> ![[SRD-noctowl-BookSprite.png|wsmall left]]
+> ![[SRD-noctowl-HomeSprite.png|wsmall right]]
 
 *Owl Pokémon*
 *It can hunt in full darkness without fail. All Noctowl owe their success to their superior vision that allows them to see in minimal light, and to their agile and silent wings. They are very intelligent and critical Pokémon.*

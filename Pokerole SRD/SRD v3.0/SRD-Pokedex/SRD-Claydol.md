@@ -79,8 +79,8 @@ Weight:
 # Claydol 
 
 > [!grid]
-> ![[SRD-claydol-BookSprite.png|wsmall]]
-> ![[SRD-claydol-HomeSprite.png]]
+> ![[SRD-claydol-BookSprite.png|wsmall left]]
+> ![[SRD-claydol-HomeSprite.png|wsmall right]]
 
 *Clay Doll Pokémon*
 *It is made entirely of clay. The first one was discovered in ruins from 20,000 years ago. A strange light is said to be the source of its life and Psychic abilities. Its eight eyes are always alert and always watching.*

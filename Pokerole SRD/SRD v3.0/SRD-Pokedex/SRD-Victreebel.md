@@ -79,8 +79,8 @@ Weight:
 # Victreebel 
 
 > [!grid]
-> ![[SRD-victreebel-BookSprite.png|wsmall]]
-> ![[SRD-victreebel-HomeSprite.png]]
+> ![[SRD-victreebel-BookSprite.png|wsmall left]]
+> ![[SRD-victreebel-HomeSprite.png|wsmall right]]
 
 *Flycatcher Pokémon*
 *They live together in small groups in tropical areas. Victreebel uses a sweet, honey-like smell to lure and attract prey. They also use their long vines to rustle bushes around. They are territorial and aggressive.*

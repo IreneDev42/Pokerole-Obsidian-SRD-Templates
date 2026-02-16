@@ -76,8 +76,8 @@ Weight:
 # Nickit 
 
 > [!grid]
-> ![[SRD-nickit-BookSprite.png|wsmall]]
-> ![[SRD-nickit-HomeSprite.png]]
+> ![[SRD-nickit-BookSprite.png|wsmall left]]
+> ![[SRD-nickit-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *Cunning and cautious, Nickit survive by stealing food. It erases its tracks with swipes of its tail so it's very difficult to track one. They have thrived in the cities and come out at night to steal from stores.*

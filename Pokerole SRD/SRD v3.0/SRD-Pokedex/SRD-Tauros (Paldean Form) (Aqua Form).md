@@ -73,8 +73,8 @@ Weight:
 # Tauros (Paldean Form) (Aqua Form) 
 
 > [!grid]
-> ![[SRD-tauros-paldean-form-aqua-form-BookSprite.png|wsmall]]
-> ![[SRD-tauros-paldean-form-aqua-form-HomeSprite.png]]
+> ![[SRD-tauros-paldean-form-aqua-form-BookSprite.png|wsmall left]]
+> ![[SRD-tauros-paldean-form-aqua-form-HomeSprite.png|wsmall right]]
 
 *Wild Bull Pokémon*
 *This is a male species. These Tauros are specially bred in Paldea for their ability to travel in water. Their body is thick with a fat layer under the skin that helps them float. They shoot powerful water jets from their horns.*

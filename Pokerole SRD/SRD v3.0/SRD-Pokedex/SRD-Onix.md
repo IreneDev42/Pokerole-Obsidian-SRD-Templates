@@ -80,8 +80,8 @@ Weight:
 # Onix 
 
 > [!grid]
-> ![[SRD-onix-BookSprite.png|wsmall]]
-> ![[SRD-onix-HomeSprite.png]]
+> ![[SRD-onix-BookSprite.png|wsmall left]]
+> ![[SRD-onix-HomeSprite.png|wsmall right]]
 
 *Rock Snake Pokémon*
 *It is not full-size when it's born. Years of eating boulders make it a real giant. It lives on mountains and dark tunnels. Its frightening roars travel as echoes through the caves. It is very aggressive towards others.*

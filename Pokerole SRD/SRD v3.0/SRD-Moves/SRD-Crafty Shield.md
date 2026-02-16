@@ -14,7 +14,7 @@ Description: "The Pok\xE9mon creates a magic shield to protect everyone from any
 Effect: Target User and Allies in Range. Reaction 3. Shield Move. Negate the Added
   Effects from Moves made against the Targets.
 Name: Crafty Shield
-Power: '0 '
+Power: 0
 Target: All Allies
 Type: Fairy
 ---

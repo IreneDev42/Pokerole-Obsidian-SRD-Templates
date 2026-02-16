@@ -78,8 +78,8 @@ Weight:
 # Elgyem 
 
 > [!grid]
-> ![[SRD-elgyem-BookSprite.png|wsmall]]
-> ![[SRD-elgyem-HomeSprite.png]]
+> ![[SRD-elgyem-BookSprite.png|wsmall left]]
+> ![[SRD-elgyem-HomeSprite.png|wsmall right]]
 
 *Cerebral Pokémon*
 *This Pokémon was never seen until it appeared far in the desert about 50 years ago. Rumor has it that it came from space. It uses its strong psychic power to squeeze its foe's brain, causing awful headaches.*

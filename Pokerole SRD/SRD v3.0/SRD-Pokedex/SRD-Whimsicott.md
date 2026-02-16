@@ -80,8 +80,8 @@ Weight:
 # Whimsicott 
 
 > [!grid]
-> ![[SRD-whimsicott-BookSprite.png|wsmall]]
-> ![[SRD-whimsicott-HomeSprite.png]]
+> ![[SRD-whimsicott-BookSprite.png|wsmall left]]
+> ![[SRD-whimsicott-HomeSprite.png|wsmall right]]
 
 *Windveiled Pokémon*
 *Riding whirlwinds, they come and go. These Pokémon sneak through even the smallest gap into houses and cause all sorts of mischief. The tufts of allergenic white fluff it leaves behind reveal its presence.*

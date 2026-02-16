@@ -81,8 +81,8 @@ Weight:
 # Oricorio (Pa'u Form) 
 
 > [!grid]
-> ![[SRD-oricorio-pau-form-BookSprite.png|wsmall]]
-> ![[SRD-oricorio-pau-form-HomeSprite.png]]
+> ![[SRD-oricorio-pau-form-BookSprite.png|wsmall left]]
+> ![[SRD-oricorio-pau-form-HomeSprite.png|wsmall right]]
 
 *Dancing Pokémon*
 *What was thought to be different species ended up being a single Pokémon. Oricorio Pa'u has an aloof but ultimately relaxed nature. Its dance is focused and has an hypnotic rhythm.*

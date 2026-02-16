@@ -73,8 +73,8 @@ Weight:
 # Chespin 
 
 > [!grid]
-> ![[SRD-chespin-BookSprite.png|wsmall]]
-> ![[SRD-chespin-HomeSprite.png]]
+> ![[SRD-chespin-BookSprite.png|wsmall left]]
+> ![[SRD-chespin-HomeSprite.png|wsmall right]]
 
 *Spiky Nut Pokémon*
 *A small and curious Pokémon. They are rare to find. Their nests are found inside of chestnut trees. Their heads are covered by spikes and if there's a threat, they'll roll into balls to protect themselves.*

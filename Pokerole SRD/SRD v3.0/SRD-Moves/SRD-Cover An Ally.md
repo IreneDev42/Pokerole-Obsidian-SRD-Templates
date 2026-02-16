@@ -15,7 +15,7 @@ Effect: "Target One Ally. Priority 1. The User will become the Target for incomi
   \ won't use this Maneuver."
 Name: Cover An Ally
 Power: 0
-Target: One Ally
+Target: Ally
 Type: Typeless
 ---
 

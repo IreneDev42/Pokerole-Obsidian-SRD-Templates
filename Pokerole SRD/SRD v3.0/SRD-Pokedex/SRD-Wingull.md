@@ -73,8 +73,8 @@ Weight:
 # Wingull 
 
 > [!grid]
-> ![[SRD-wingull-BookSprite.png|wsmall]]
-> ![[SRD-wingull-HomeSprite.png]]
+> ![[SRD-wingull-BookSprite.png|wsmall left]]
+> ![[SRD-wingull-HomeSprite.png|wsmall right]]
 
 *Seagull Pokémon*
 *They carry prey and precious items in their beaks, hiding them in strange locations. They nest in sheer cliffs at the sea's edge. They often harass fishing boats to steal an easy meal for themselves.*

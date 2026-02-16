@@ -74,8 +74,8 @@ Weight:
 # Tyrogue 
 
 > [!grid]
-> ![[SRD-tyrogue-BookSprite.png|wsmall]]
-> ![[SRD-tyrogue-HomeSprite.png]]
+> ![[SRD-tyrogue-BookSprite.png|wsmall left]]
+> ![[SRD-tyrogue-HomeSprite.png|wsmall right]]
 
 *Scuffle Pokémon*
 *Tyrogue is an energetic, competitive and fearless Pokémon that's always looking to get stronger, fighting any enemies even if it loses. They attack anyone, any day, anytime, everyday, without warning.*

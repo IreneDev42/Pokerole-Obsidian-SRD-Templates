@@ -80,8 +80,8 @@ Weight:
 # Pidgeotto 
 
 > [!grid]
-> ![[SRD-pidgeotto-BookSprite.png|wsmall]]
-> ![[SRD-pidgeotto-HomeSprite.png]]
+> ![[SRD-pidgeotto-BookSprite.png|wsmall left]]
+> ![[SRD-pidgeotto-HomeSprite.png|wsmall right]]
 
 *Bird Pokémon*
 *Each Pidgeotto claims a large meadow area as its territory. This Pokémon flies around, patrolling its home and will attack any intruders with its sharp claws. It will challenge itself to fly a bit higher every day.*

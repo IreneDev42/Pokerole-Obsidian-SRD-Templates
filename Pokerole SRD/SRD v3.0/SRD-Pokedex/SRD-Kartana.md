@@ -77,8 +77,8 @@ Weight:
 # Kartana 
 
 > [!grid]
-> ![[SRD-kartana-BookSprite.png|wsmall]]
-> ![[SRD-kartana-HomeSprite.png]]
+> ![[SRD-kartana-BookSprite.png|wsmall left]]
+> ![[SRD-kartana-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #014*
 *Its paper-thin body and agility make it too dangerous to approach without serious risk of injury. Our team managed to immobilize it using a heat chamber, though I swear I feel its resentment to us.*

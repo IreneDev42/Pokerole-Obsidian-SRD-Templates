@@ -71,8 +71,8 @@ Weight:
 # Rellor 
 
 > [!grid]
-> ![[SRD-rellor-BookSprite.png|wsmall]]
-> ![[SRD-rellor-HomeSprite.png]]
+> ![[SRD-rellor-BookSprite.png|wsmall left]]
+> ![[SRD-rellor-HomeSprite.png|wsmall right]]
 
 *Rolling Pokémon*
 *Rellor have weak psychic abilities that they use to shape a mud ball by mixing sand, dirt and waste. This ball is precious to them and the bigger it gets, the closer Rellor is to evolving. Use gloves to touch the ball.*

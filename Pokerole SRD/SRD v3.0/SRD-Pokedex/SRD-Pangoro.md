@@ -79,8 +79,8 @@ Weight:
 # Pangoro 
 
 > [!grid]
-> ![[SRD-pangoro-BookSprite.png|wsmall]]
-> ![[SRD-pangoro-HomeSprite.png]]
+> ![[SRD-pangoro-BookSprite.png|wsmall left]]
+> ![[SRD-pangoro-HomeSprite.png|wsmall right]]
 
 *Daunting Pokémon*
 *Although this Pokémon has a violent temperament, it won't put up with bullying. It charges ahead and slams its opponents like a berserker, totally disregarding its own safety. Its mighty arms can send you flying.*

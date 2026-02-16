@@ -80,8 +80,8 @@ Weight:
 # Lickilicky 
 
 > [!grid]
-> ![[SRD-lickilicky-BookSprite.png|wsmall]]
-> ![[SRD-lickilicky-HomeSprite.png]]
+> ![[SRD-lickilicky-BookSprite.png|wsmall left]]
+> ![[SRD-lickilicky-HomeSprite.png|wsmall right]]
 
 *Licking Pokémon*
 *It uses its tongue as a stretchable arm. It will wrap prey with it and then proceed to eat it. Its saliva causes numbness. Try not to touch its tongue as it might try to eat you by reflex.*

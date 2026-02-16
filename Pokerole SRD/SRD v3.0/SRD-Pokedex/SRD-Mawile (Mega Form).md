@@ -78,8 +78,8 @@ Weight:
 # Mawile (Mega Form) 
 
 > [!grid]
-> ![[SRD-mawile-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-mawile-mega-form-HomeSprite.png]]
+> ![[SRD-mawile-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-mawile-mega-form-HomeSprite.png|wsmall right]]
 
 *Deceiver Pokémon*
 *The power of the Mega Stone makes its back jaws develop a mind of their own; they are vicious and won't release anything they bite until it's crushed into pieces. They growl and howl in a haunting way.*

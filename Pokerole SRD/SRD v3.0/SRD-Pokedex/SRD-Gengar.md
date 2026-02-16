@@ -80,8 +80,8 @@ Weight:
 # Gengar 
 
 > [!grid]
-> ![[SRD-gengar-BookSprite.png|wsmall]]
-> ![[SRD-gengar-HomeSprite.png]]
+> ![[SRD-gengar-BookSprite.png|wsmall left]]
+> ![[SRD-gengar-HomeSprite.png|wsmall right]]
 
 *Shadow Pokémon*
 *This Pokémon is mischievous, but it can be downright evil. It takes joy in casting curses upon innocents and eating the life of people and Pokémon. It lurks in the shadows and disguises itself as one.*

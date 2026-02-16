@@ -81,8 +81,8 @@ Weight:
 # Riolu 
 
 > [!grid]
-> ![[SRD-riolu-BookSprite.png|wsmall]]
-> ![[SRD-riolu-HomeSprite.png]]
+> ![[SRD-riolu-BookSprite.png|wsmall left]]
+> ![[SRD-riolu-HomeSprite.png|wsmall right]]
 
 *Emanation Pokémon*
 *Scarce in the wild, but it has been seen living in mountains. It has the ability to see auras; thanks to this it is capable of sensing emotions. It won't get close to those with evil or selfish intentions.*

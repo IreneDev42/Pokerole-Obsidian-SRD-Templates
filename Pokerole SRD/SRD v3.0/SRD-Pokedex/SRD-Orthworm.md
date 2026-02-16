@@ -72,8 +72,8 @@ Weight:
 # Orthworm 
 
 > [!grid]
-> ![[SRD-orthworm-BookSprite.png|wsmall]]
-> ![[SRD-orthworm-HomeSprite.png]]
+> ![[SRD-orthworm-BookSprite.png|wsmall left]]
+> ![[SRD-orthworm-HomeSprite.png|wsmall right]]
 
 *Earthworm Pokémon*
 *This Pokémon lives burrowed in arid deserts. It can use the tendrils on its body like fists and attack with a storm of punches. However, they tend to be peaceful creatures who just want to be left alone.*

@@ -79,8 +79,8 @@ Weight:
 # Nidorina 
 
 > [!grid]
-> ![[SRD-nidorina-BookSprite.png|wsmall]]
-> ![[SRD-nidorina-HomeSprite.png]]
+> ![[SRD-nidorina-BookSprite.png|wsmall left]]
+> ![[SRD-nidorina-HomeSprite.png|wsmall right]]
 
 *Poison Pin Pokémon*
 *Nidorina are jealous creatures. They don't like other females near their mates. Otherwise, they are very social creatures. When it’s around friends or family, their barbs are tucked away to prevent injury.*

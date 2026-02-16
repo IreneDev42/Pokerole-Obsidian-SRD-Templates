@@ -55,8 +55,8 @@ Weight:
 # Zamazenta (Crown Form) 
 
 > [!grid]
-> ![[SRD-zamazenta-crown-form-BookSprite.png|wsmall]]
-> ![[SRD-zamazenta-crown-form-HomeSprite.png]]
+> ![[SRD-zamazenta-crown-form-BookSprite.png|wsmall left]]
+> ![[SRD-zamazenta-crown-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a legend about a mighty shield able to deflect any attack. It became known as the Fighting Master's Shield; not even the largest creatures could go through it.*

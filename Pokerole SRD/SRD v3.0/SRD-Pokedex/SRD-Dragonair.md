@@ -78,8 +78,8 @@ Weight:
 # Dragonair 
 
 > [!grid]
-> ![[SRD-dragonair-BookSprite.png|wsmall]]
-> ![[SRD-dragonair-HomeSprite.png]]
+> ![[SRD-dragonair-BookSprite.png|wsmall left]]
+> ![[SRD-dragonair-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *It is said to live in seas and lakes. Even though it has no wings, it has been depicted flying. There were legends of this Pokémon controlling the weather and ending the storms to leave a rainbow behind.*

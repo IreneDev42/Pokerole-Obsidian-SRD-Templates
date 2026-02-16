@@ -74,8 +74,8 @@ Weight:
 # Shieldon 
 
 > [!grid]
-> ![[SRD-shieldon-BookSprite.png|wsmall]]
-> ![[SRD-shieldon-HomeSprite.png]]
+> ![[SRD-shieldon-BookSprite.png|wsmall left]]
+> ![[SRD-shieldon-HomeSprite.png|wsmall right]]
 
 *Shield Pokémon*
 *It was cloned from a fossil dug out from a layer of clay. It is outstandingly armored. As a result, it can eat grass and berries without having to fight many Pokémon who would dare to prey on it.*

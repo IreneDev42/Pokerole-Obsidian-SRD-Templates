@@ -76,8 +76,8 @@ Weight:
 # Rookidee 
 
 > [!grid]
-> ![[SRD-rookidee-BookSprite.png|wsmall]]
-> ![[SRD-rookidee-HomeSprite.png]]
+> ![[SRD-rookidee-BookSprite.png|wsmall left]]
+> ![[SRD-rookidee-HomeSprite.png|wsmall right]]
 
 *Tiny Bird Pokémon*
 *Feisty little creatures, Rookidee are known for challenging foes much larger than themselves, and even if they are defeated they don't give up and try again later. They use their small size as an advantage.*

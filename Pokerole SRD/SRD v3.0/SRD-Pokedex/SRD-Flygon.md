@@ -84,8 +84,8 @@ Weight:
 # Flygon 
 
 > [!grid]
-> ![[SRD-flygon-BookSprite.png|wsmall]]
-> ![[SRD-flygon-HomeSprite.png]]
+> ![[SRD-flygon-BookSprite.png|wsmall left]]
+> ![[SRD-flygon-HomeSprite.png|wsmall right]]
 
 *Mystic Pokémon*
 *Known as the 'Elemental Spirit of the Desert'. Their wings create a cloud of dust that surrounds this Pokémon while flying, while their flapping produces a sound that resembles a woman singing.*

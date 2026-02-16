@@ -74,8 +74,8 @@ Weight:
 # Victini 
 
 > [!grid]
-> ![[SRD-victini-BookSprite.png|wsmall]]
-> ![[SRD-victini-HomeSprite.png]]
+> ![[SRD-victini-BookSprite.png|wsmall left]]
+> ![[SRD-victini-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *On tournament days, Trainers eat a V-shaped apple as a charm for victory in the battles to come. It is unknown if it has anything to do with this Pokémon.*

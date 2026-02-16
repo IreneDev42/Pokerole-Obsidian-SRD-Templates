@@ -75,8 +75,8 @@ Weight:
 # Tornadus 
 
 > [!grid]
-> ![[SRD-tornadus-BookSprite.png|wsmall]]
-> ![[SRD-tornadus-HomeSprite.png]]
+> ![[SRD-tornadus-BookSprite.png|wsmall left]]
+> ![[SRD-tornadus-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Unova suffers from terrible tornadoes and devastating wind currents that leave houses and buildings in ruins. Some people claim a Pokémon riding the winds is responsible for all the devastation.*

@@ -82,8 +82,8 @@ Weight:
 # Grumpig 
 
 > [!grid]
-> ![[SRD-grumpig-BookSprite.png|wsmall]]
-> ![[SRD-grumpig-HomeSprite.png]]
+> ![[SRD-grumpig-BookSprite.png|wsmall left]]
+> ![[SRD-grumpig-HomeSprite.png|wsmall right]]
 
 *Manipulate Pokémon*
 *Grumpig control their foes with their Psychic powers amplified by the pearls on their head and a hypnotic dance. However, when they use their powers, they have a difficult time breathing.*

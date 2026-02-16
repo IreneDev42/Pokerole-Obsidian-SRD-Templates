@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: Hit fabulously! Choose a Special Move, increase its Power by 3. All other
   Moves get their Power reduced by 3.
 Image: SRD-choice-specs-ItemSprite.png

@@ -82,8 +82,8 @@ Weight:
 # Scyther 
 
 > [!grid]
-> ![[SRD-scyther-BookSprite.png|wsmall]]
-> ![[SRD-scyther-HomeSprite.png]]
+> ![[SRD-scyther-BookSprite.png|wsmall left]]
+> ![[SRD-scyther-HomeSprite.png|wsmall right]]
 
 *Mantis Pokémon*
 *It's pretty rare, but a few swarms have been seen in the grasslands. It tears and shreds prey with its wickedly sharp scythes and very rarely spreads its wings to fly. This Pokémon is stealthy and aggressive.*

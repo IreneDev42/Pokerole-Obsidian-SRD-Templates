@@ -89,8 +89,8 @@ Weight:
 # Lucario 
 
 > [!grid]
-> ![[SRD-lucario-BookSprite.png|wsmall]]
-> ![[SRD-lucario-HomeSprite.png]]
+> ![[SRD-lucario-BookSprite.png|wsmall left]]
+> ![[SRD-lucario-HomeSprite.png|wsmall right]]
 
 *Aura Pokémon*
 *This Pokémon is completely loyal to its trainer. It has the ability to not only see auras but also to transform them into energy. It is also capable of understanding human speech.*

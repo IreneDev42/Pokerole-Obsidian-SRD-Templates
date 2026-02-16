@@ -83,8 +83,8 @@ Weight:
 # Quilava 
 
 > [!grid]
-> ![[SRD-quilava-BookSprite.png|wsmall]]
-> ![[SRD-quilava-HomeSprite.png]]
+> ![[SRD-quilava-BookSprite.png|wsmall left]]
+> ![[SRD-quilava-HomeSprite.png|wsmall right]]
 
 *Volcano Pokémon*
 *It intimidates foes with intense gusts of flames and superheated air. Beware: if a Quilava turns its back on you, it is planing on using a fire move.*

@@ -76,8 +76,8 @@ Weight:
 # Cherubi 
 
 > [!grid]
-> ![[SRD-cherubi-BookSprite.png|wsmall]]
-> ![[SRD-cherubi-HomeSprite.png]]
+> ![[SRD-cherubi-BookSprite.png|wsmall left]]
+> ![[SRD-cherubi-HomeSprite.png|wsmall right]]
 
 *Cherry Pokémon*
 *It hides inside of bushes to absorb sunlight. Their small head stores the energy it needs to evolve, but this small head is frequently eaten by other Pokémon and people, so it's hard for them to evolve.*

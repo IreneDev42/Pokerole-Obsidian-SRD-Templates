@@ -76,8 +76,8 @@ Weight:
 # Yamask 
 
 > [!grid]
-> ![[SRD-yamask-BookSprite.png|wsmall]]
-> ![[SRD-yamask-HomeSprite.png]]
+> ![[SRD-yamask-BookSprite.png|wsmall left]]
+> ![[SRD-yamask-HomeSprite.png|wsmall right]]
 
 *Spirit Pokémon*
 *This Pokémon arose from the spirit of a human or a Pokémon that died in the past and was buried with special ceremonies. Each one carries a mask that looks like the face it had in life. A sad Pokémon that weeps often.*

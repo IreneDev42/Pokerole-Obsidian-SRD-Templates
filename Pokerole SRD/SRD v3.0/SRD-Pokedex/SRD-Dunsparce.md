@@ -78,8 +78,8 @@ Weight:
 # Dunsparce 
 
 > [!grid]
-> ![[SRD-dunsparce-BookSprite.png|wsmall]]
-> ![[SRD-dunsparce-HomeSprite.png]]
+> ![[SRD-dunsparce-BookSprite.png|wsmall left]]
+> ![[SRD-dunsparce-HomeSprite.png|wsmall right]]
 
 *Land Snake Pokémon*
 *If seen, Dunsparce is quick to escape by boring into the ground with its drill tail. It can float slightly with its wings. It is almost blind but finds its way in the huge underground mazes where it lives.*

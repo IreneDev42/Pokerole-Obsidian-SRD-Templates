@@ -82,8 +82,8 @@ Weight:
 # Darmanitan 
 
 > [!grid]
-> ![[SRD-darmanitan-BookSprite.png|wsmall]]
-> ![[SRD-darmanitan-HomeSprite.png]]
+> ![[SRD-darmanitan-BookSprite.png|wsmall left]]
+> ![[SRD-darmanitan-HomeSprite.png|wsmall right]]
 
 *Blazing Pokémon*
 *This Pokémon is shrouded in mystery. Old writings and mural paintings describe it as being blue and using psychic powers, but years of study have not seen these traits in this Pokémon, which relies on brute force.*

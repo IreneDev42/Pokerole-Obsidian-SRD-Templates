@@ -84,8 +84,8 @@ Weight:
 # Lycanroc (Midday Form) 
 
 > [!grid]
-> ![[SRD-lycanroc-midday-form-BookSprite.png|wsmall]]
-> ![[SRD-lycanroc-midday-form-HomeSprite.png]]
+> ![[SRD-lycanroc-midday-form-BookSprite.png|wsmall left]]
+> ![[SRD-lycanroc-midday-form-HomeSprite.png|wsmall right]]
 
 *Wolf Pokémon*
 *A well-disciplined Rockruff will evolve at dawn. This Pokémon is very loyal and trustworthy. It can climb mountains fast and is a quick runner. The rocks on its mane are its main weapons.*

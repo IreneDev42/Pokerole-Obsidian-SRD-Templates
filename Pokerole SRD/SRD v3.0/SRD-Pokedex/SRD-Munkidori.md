@@ -75,8 +75,8 @@ Weight:
 # Munkidori 
 
 > [!grid]
-> ![[SRD-munkidori-BookSprite.png|wsmall]]
-> ![[SRD-munkidori-HomeSprite.png]]
+> ![[SRD-munkidori-BookSprite.png|wsmall left]]
+> ![[SRD-munkidori-HomeSprite.png|wsmall right]]
 
 *Pokedex has no data.*
 *The most famous legend in Kitakami tells about how three Pokémon and their master defeated an ogre. One of them was dim-witted but became sharp of mind after eating a forbidden magical mochi.*

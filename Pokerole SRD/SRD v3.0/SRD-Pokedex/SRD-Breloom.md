@@ -80,8 +80,8 @@ Weight:
 # Breloom 
 
 > [!grid]
-> ![[SRD-breloom-BookSprite.png|wsmall]]
-> ![[SRD-breloom-HomeSprite.png]]
+> ![[SRD-breloom-BookSprite.png|wsmall left]]
+> ![[SRD-breloom-HomeSprite.png|wsmall right]]
 
 *Mushroom Pokémon*
 *Their flexible arms and quick footwork can put good fighters to shame. The seeds on their tail and the cap on their head release poison spores. They love humid and hot climates.*

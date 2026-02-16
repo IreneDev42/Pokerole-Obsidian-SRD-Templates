@@ -82,8 +82,8 @@ Weight:
 # Basculegion (Female Form) 
 
 > [!grid]
-> ![[SRD-basculegion-female-form-BookSprite.png|wsmall]]
-> ![[SRD-basculegion-female-form-HomeSprite.png]]
+> ![[SRD-basculegion-female-form-BookSprite.png|wsmall left]]
+> ![[SRD-basculegion-female-form-HomeSprite.png|wsmall right]]
 
 *Big Fish Pokémon*
 *There is a legend amongst fishers of Sinnoh that goes back to the era of Hisui, in which you must return the bones of any fish you eat back to the water for them to be reborn again and not become evil spirits.*

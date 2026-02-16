@@ -73,8 +73,8 @@ Weight:
 # Meowth (Galarian Form) 
 
 > [!grid]
-> ![[SRD-meowth-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-meowth-galarian-form-HomeSprite.png]]
+> ![[SRD-meowth-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-meowth-galarian-form-HomeSprite.png|wsmall right]]
 
 *Scratch Cat Pokémon*
 *The coin on its head has rusted. Meowth were taken onto viking ships on long travels over the sea. Living for so long in such harsh conditions toughened it up so much that parts of it have turned to iron.*

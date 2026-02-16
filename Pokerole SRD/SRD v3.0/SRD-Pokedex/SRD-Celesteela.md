@@ -77,8 +77,8 @@ Weight:
 # Celesteela 
 
 > [!grid]
-> ![[SRD-celesteela-BookSprite.png|wsmall]]
-> ![[SRD-celesteela-HomeSprite.png]]
+> ![[SRD-celesteela-BookSprite.png|wsmall left]]
+> ![[SRD-celesteela-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #019*
 *Finally some progress from the excavation site. What we thought was a 200 year-old relic turned out to be a creature capable of blasting itself into the air. We managed to restrain it; more research is due.*

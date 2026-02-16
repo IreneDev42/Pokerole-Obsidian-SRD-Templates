@@ -82,8 +82,8 @@ Weight:
 # Dusknoir 
 
 > [!grid]
-> ![[SRD-dusknoir-BookSprite.png|wsmall]]
-> ![[SRD-dusknoir-HomeSprite.png]]
+> ![[SRD-dusknoir-BookSprite.png|wsmall left]]
+> ![[SRD-dusknoir-HomeSprite.png|wsmall right]]
 
 *Gripper Pokémon*
 *This feared Pokémon is said to travel to the other world. Some even believe that it takes lost spirits along with it. It uses the antenna on its head to receive messages from the deceased.*

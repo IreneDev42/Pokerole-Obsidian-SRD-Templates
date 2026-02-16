@@ -82,8 +82,8 @@ Weight:
 # Hydreigon 
 
 > [!grid]
-> ![[SRD-hydreigon-BookSprite.png|wsmall]]
-> ![[SRD-hydreigon-HomeSprite.png]]
+> ![[SRD-hydreigon-BookSprite.png|wsmall left]]
+> ![[SRD-hydreigon-HomeSprite.png|wsmall right]]
 
 *Brutal Pokémon*
 *This brutal Pokémon soars in the night sky. If it sees anything moving, that will trigger its aggression. The heads on its arms do not have brains. They use all three heads to consume and destroy everything.*

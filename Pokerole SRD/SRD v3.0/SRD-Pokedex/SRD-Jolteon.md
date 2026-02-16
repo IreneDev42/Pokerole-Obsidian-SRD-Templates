@@ -74,8 +74,8 @@ Weight:
 # Jolteon 
 
 > [!grid]
-> ![[SRD-jolteon-BookSprite.png|wsmall]]
-> ![[SRD-jolteon-HomeSprite.png]]
+> ![[SRD-jolteon-BookSprite.png|wsmall left]]
+> ![[SRD-jolteon-HomeSprite.png|wsmall right]]
 
 *Lightning Pokémon*
 *This Pokémon evolved after being affected by electric radiation. Every hair on its body starts to stand sharply if it becomes charged with electricity. It shoots lightning from all around its body.*

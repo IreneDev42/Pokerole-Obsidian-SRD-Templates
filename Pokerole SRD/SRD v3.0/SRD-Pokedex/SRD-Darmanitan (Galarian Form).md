@@ -82,8 +82,8 @@ Weight:
 # Darmanitan (Galarian Form) 
 
 > [!grid]
-> ![[SRD-darmanitan-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-darmanitan-galarian-form-HomeSprite.png]]
+> ![[SRD-darmanitan-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-darmanitan-galarian-form-HomeSprite.png|wsmall right]]
 
 *Zen Charm Pokémon*
 *The Galarian form of Darmanitan. They walk into towns during blizzards to steal food. Darmanitans may seem mean, but they are gentle and shy creatures who help stranded explorers.*

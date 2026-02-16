@@ -71,8 +71,8 @@ Weight:
 # Articuno (Galarian Form) 
 
 > [!grid]
-> ![[SRD-articuno-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-articuno-galarian-form-HomeSprite.png]]
+> ![[SRD-articuno-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-articuno-galarian-form-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *Galarians talk about a bird whose feathers are made of energy. It is said to be a cruel and indolent creature that freezes people with a strange power and leaves them immobile in the mountains.*

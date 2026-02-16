@@ -71,8 +71,8 @@ Weight:
 # Toxel 
 
 > [!grid]
-> ![[SRD-toxel-BookSprite.png|wsmall]]
-> ![[SRD-toxel-HomeSprite.png]]
+> ![[SRD-toxel-BookSprite.png|wsmall left]]
+> ![[SRD-toxel-HomeSprite.png|wsmall right]]
 
 *Baby Pokémon*
 *Toxel secrete poison through their skin. The closer they are to evolving, the brighter their skin color becomes. They need a lot of nurturing but are bad-tempered and ill-mannered, so not many take the task.*

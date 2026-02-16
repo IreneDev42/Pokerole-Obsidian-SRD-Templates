@@ -81,8 +81,8 @@ Weight:
 # Altaria (Mega Form) 
 
 > [!grid]
-> ![[SRD-altaria-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-altaria-mega-form-HomeSprite.png]]
+> ![[SRD-altaria-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-altaria-mega-form-HomeSprite.png|wsmall right]]
 
 *Humming Pokémon*
 *The power of the Mega Stone awakens a part of it full of wonder. Mega-Altaria can be benevolent or ruthless depending on who they are dealing with. Its lush cloud-wings turn dark whenever it gets angry.*

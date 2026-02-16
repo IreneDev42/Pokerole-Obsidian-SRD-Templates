@@ -79,8 +79,8 @@ Weight:
 # Electivire 
 
 > [!grid]
-> ![[SRD-electivire-BookSprite.png|wsmall]]
-> ![[SRD-electivire-HomeSprite.png]]
+> ![[SRD-electivire-BookSprite.png|wsmall left]]
+> ![[SRD-electivire-HomeSprite.png|wsmall right]]
 
 *Thunderbolt Pokémon*
 *This Pokémon is reckless and has a short temper. As its electric charge amplifies, blue sparks begin to crackle between its horns. It has registered charge levels of over 20,000 volts.*

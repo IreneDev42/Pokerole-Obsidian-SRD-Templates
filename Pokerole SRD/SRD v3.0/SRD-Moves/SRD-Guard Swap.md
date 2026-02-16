@@ -9,7 +9,7 @@ Damage2: ''
 Description: "The Pok\xE9mon enters their foe\u2019s mind to steal its fortitude and\
   \ implant on them the idea of their own weakness."
 Effect: Single Target. Whole Scene Duration. Switch the User's Defense and Sp. Defense
-  with the Target's. Whole Scene Duration.
+  with the Target's.
 Name: Guard Swap
 Power: 0
 Target: Foe

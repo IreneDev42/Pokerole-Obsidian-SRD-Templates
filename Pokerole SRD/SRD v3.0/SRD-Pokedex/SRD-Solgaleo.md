@@ -56,8 +56,8 @@ Weight:
 # Solgaleo 
 
 > [!grid]
-> ![[SRD-solgaleo-BookSprite.png|wsmall]]
-> ![[SRD-solgaleo-HomeSprite.png]]
+> ![[SRD-solgaleo-BookSprite.png|wsmall left]]
+> ![[SRD-solgaleo-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *There are legends about a being who radiated as if it was the sun made flesh. This radiant Pokémon made its light shine for all living things. On its forehead, a third eye linking it to another dimension.*

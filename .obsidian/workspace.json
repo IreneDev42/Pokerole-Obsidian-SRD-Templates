@@ -11,17 +11,77 @@
             "id": "4c8f6fae98f6cfb1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "SRD-Nidorina",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Nidorina.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"SRD-Nidorina\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "PokeRole Cheat Sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PokeRole Cheat Sheet.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"PokeRole Cheat Sheet\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Pokemon Views",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Pokerole SRD/Pokemon Views.base\",\"viewName\":\"Good Starters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Pokemon Views\"}",
+                  "eState": "{\"views\":{\"Pokedex\":{\"scroll\":{\"top\":0}},\"Good Starters\":{\"scroll\":{\"top\":0.509292210359826}}}}"
+                },
+                {
+                  "title": "SRD-Umbreon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Umbreon.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"SRD-Umbreon\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "PokeRole Cheat Sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PokeRole Cheat Sheet.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"PokeRole Cheat Sheet\"}",
+                  "eState": "{\"scroll\":42.1458}"
+                },
+                {
+                  "title": "PokeRole v3.0 GM Screen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PokeRole v3.0 GM Screen.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"PokeRole v3.0 GM Screen\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Readme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Readme.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Readme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "PokeRole Cheat Sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PokeRole Cheat Sheet.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"PokeRole Cheat Sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":57.160449970396684}"
+                },
+                {
+                  "title": "PokeRole v3.0 GM Screen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PokeRole v3.0 GM Screen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"PokeRole v3.0 GM Screen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":43},\"to\":{\"line\":61,\"ch\":43}},\"scroll\":41.395089285714285}"
+                },
+                {
+                  "title": "PokeRole Cheat Sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PokeRole Cheat Sheet.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"PokeRole Cheat Sheet\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "SRD-Iron Valiant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Iron Valiant.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"SRD-Iron Valiant\"}",
+                  "eState": "{\"scroll\":62.125}"
+                },
+                {
+                  "title": "Pokemon Views",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Pokerole SRD/Pokemon Views.base\",\"viewName\":\"Pokedex\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Pokemon Views\"}",
+                  "eState": "{\"views\":{\"Pokedex\":{\"scroll\":{\"top\":0.03203658047130325}}}}"
                 },
                 {
                   "title": "SRD-Acid Armor",
@@ -104,13 +164,14 @@
               ]
             },
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Pokerole SRD/Pokemon Views.base",
-                "viewName": "Pokedex"
+                "file": "PokeRole v3.0 GM Screen.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-layout-grid",
-              "title": "Pokemon Views"
+              "icon": "lucide-file",
+              "title": "PokeRole v3.0 GM Screen"
             }
           }
         ]
@@ -344,10 +405,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "orphaned files output.md"
+                "file": "PokeRole Cheat Sheet.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for orphaned files output"
+              "title": "File properties for PokeRole Cheat Sheet"
             }
           }
         ],
@@ -355,7 +416,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,10 +430,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a530a77c26c314af",
+  "active": "4c8f6fae98f6cfb1",
   "lastOpenFiles": [
+    "PokeRole Cheat Sheet.md",
     "Pokerole SRD/Pokemon Views.base",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Deino.md",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Vulpix (Alolan Form).md",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Pikachu.md",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Elekid.md",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Bagon.md",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Rufflet.md",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Umbreon.md",
+    "PokeRole v3.0 GM Screen.md",
+    "@assets/Battle Training Points.png",
+    "@assets/Catch Bonuses.png",
+    "@assets/Seal Potency.png",
+    "@assets/Catch Difficulty.png",
+    "@assets/Cover Table.png",
+    "Readme.md",
+    "@assets/Successes Difficulty.png",
+    "@assets/Successes Difficulty.png",
+    "@assets/Type Chart.png",
+    "@assets",
+    "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Iron Valiant.md",
     "orphaned files output.md",
+    "Pokerole SRD/SRD v3.0/SRD-ItemSprites/SRD-decidium-z-ItemSprite.png",
+    "Pokerole SRD/SRD v3.0/SRD-ItemSprites/SRD-dragonium-z-ItemSprite.png",
     "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Nidorina.md",
     "Pokerole SRD/SRD v3.0/SRD-Moves/SRD-Acid Armor.md",
     "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Brambleghast.md",
@@ -385,18 +469,6 @@
     "Pokerole SRD/SRD v2.0/SRD-Abilities/SRD-Magic Bounce-v2.0.md",
     "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Abra-v2.0.md",
     "Pokerole SRD/SRD v3.0/SRD-Pokedex/SRD-Kadabra.md",
-    "Pokerole SRD/SRD v2.0/SRD-Abilities/SRD-Synchronize-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Abomasnow-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-zoom-lens-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-zinc-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-zap-plate-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-yellow-scarf-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-yache-berry-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-wise-glasses-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-white-herbs-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-wide-lens-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-weather-orb-ItemSprite.png",
-    "Pokerole SRD/SRD v2.0/SRD-ItemSprites/SRD-weakness-policy-ItemSprite.png",
     "Pokerole SRD/SRD v2.0/SRD-ItemSprites",
     "Pokerole SRD/SRD v2.0/SRD-ShuffleTokens/SRD-shaymin-sky-ShuffleToken.png s",
     "Pokerole SRD/SRD v2.0/SRD-ShuffleTokens/SRD-hoopa-unbound-ShuffleToken.png u",
@@ -404,16 +476,6 @@
     "Pokerole SRD/SRD v2.0/SRD-BoxSprites",
     "Pokerole SRD/SRD v2.0/SRD-HomeSprites",
     "Pokerole SRD/SRD v2.0/SRD-BookSprites",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zygarde Cell-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zygarde 50%-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zygarde 100%-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zygarde 10%-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zweilous-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zubat-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zorua-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zoroark-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex/SRD-Zigzagoon-v2.0.md",
-    "Pokerole SRD/SRD v2.0/SRD-Pokedex",
-    "Pokerole SRD/SRD v2.0/SRD-Items"
+    "Pokerole SRD/SRD v2.0/SRD-Pokedex"
   ]
 }

@@ -79,8 +79,8 @@ Weight:
 # Dubwool 
 
 > [!grid]
-> ![[SRD-dubwool-BookSprite.png|wsmall]]
-> ![[SRD-dubwool-HomeSprite.png]]
+> ![[SRD-dubwool-BookSprite.png|wsmall left]]
+> ![[SRD-dubwool-HomeSprite.png|wsmall right]]
 
 *Sheep Pokémon*
 *Humble and calm, their wool has springy properties. A king in ancient times ordered a carpet made from 100 Dubwool. When it was done, people started to bounce the moment they set foot on it.*

@@ -79,8 +79,8 @@ Weight:
 # Sneasler 
 
 > [!grid]
-> ![[SRD-sneasler-BookSprite.png|wsmall]]
-> ![[SRD-sneasler-HomeSprite.png]]
+> ![[SRD-sneasler-BookSprite.png|wsmall left]]
+> ![[SRD-sneasler-HomeSprite.png|wsmall right]]
 
 *Free Climb Pokémon*
 *Sneasler were great hunters of the Hisuian mountain range. However, as the climate got colder and snow covered the mountains, their prey moved or perished. Weavile were more successful and replaced them.*

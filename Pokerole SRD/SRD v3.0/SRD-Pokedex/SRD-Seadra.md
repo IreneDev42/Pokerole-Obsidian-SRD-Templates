@@ -78,8 +78,8 @@ Weight:
 # Seadra 
 
 > [!grid]
-> ![[SRD-seadra-BookSprite.png|wsmall]]
-> ![[SRD-seadra-HomeSprite.png]]
+> ![[SRD-seadra-BookSprite.png|wsmall left]]
+> ![[SRD-seadra-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *The poisonous barbs all over its body are highly valued as ingredients for making traditional medicine. It will show no mercy if anything approaches its nest. Its back fin has a numbing substance.*

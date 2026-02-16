@@ -74,8 +74,8 @@ Weight:
 # Shuckle 
 
 > [!grid]
-> ![[SRD-shuckle-BookSprite.png|wsmall]]
-> ![[SRD-shuckle-HomeSprite.png]]
+> ![[SRD-shuckle-BookSprite.png|wsmall left]]
+> ![[SRD-shuckle-HomeSprite.png|wsmall right]]
 
 *Mold Pokémon*
 *Shuckle is a very peaceful and patient gooey worm. The fluids secreted by its toes can make holes in rocks. It hides inside those hollow stones and wears them as a shell. It is known for storing berries inside.*

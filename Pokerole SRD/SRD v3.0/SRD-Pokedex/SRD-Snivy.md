@@ -74,8 +74,8 @@ Weight:
 # Snivy 
 
 > [!grid]
-> ![[SRD-snivy-BookSprite.png|wsmall]]
-> ![[SRD-snivy-HomeSprite.png]]
+> ![[SRD-snivy-BookSprite.png|wsmall left]]
+> ![[SRD-snivy-HomeSprite.png|wsmall right]]
 
 *Grass Snake Pokémon*
 *It is very intelligent and independent; although it seems calm, it doesn't like being bossed around. Being exposed to lots of sunlight makes its movements swifter. Its tail drops if it is not feeling well.*

@@ -80,8 +80,8 @@ Weight:
 # Simisage 
 
 > [!grid]
-> ![[SRD-simisage-BookSprite.png|wsmall]]
-> ![[SRD-simisage-HomeSprite.png]]
+> ![[SRD-simisage-BookSprite.png|wsmall left]]
+> ![[SRD-simisage-HomeSprite.png|wsmall right]]
 
 *Thorn Monkey Pokémon*
 *It becomes somewhat ill-tempered after it evolves. The leaves on its head can be turned into a bitter but effective medicine; however, it will attack with its thorned tail anyone trying to take them.*

@@ -78,8 +78,8 @@ Weight:
 # Exeggutor (Alolan Form) 
 
 > [!grid]
-> ![[SRD-exeggutor-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-exeggutor-alolan-form-HomeSprite.png]]
+> ![[SRD-exeggutor-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-exeggutor-alolan-form-HomeSprite.png|wsmall right]]
 
 *Coconut Pokémon*
 *Alola is the native region for this Pokémon; only there it can evolve into this form. With this size, its Psychic abilities are rarely needed and its trainer's orders are rarely heard. They enjoy the sun on the beach.*

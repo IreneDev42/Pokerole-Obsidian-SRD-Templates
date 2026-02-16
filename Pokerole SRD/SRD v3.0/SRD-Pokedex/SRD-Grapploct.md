@@ -78,8 +78,8 @@ Weight:
 # Grapploct 
 
 > [!grid]
-> ![[SRD-grapploct-BookSprite.png|wsmall]]
-> ![[SRD-grapploct-HomeSprite.png]]
+> ![[SRD-grapploct-BookSprite.png|wsmall left]]
+> ![[SRD-grapploct-HomeSprite.png|wsmall right]]
 
 *Jujitsu Pokémon*
 *A body made up of nothing but muscle makes its tentacles very powerful. They come out of the ocean to find opponents to battle. Once the fight is over, they go back into the sea.*

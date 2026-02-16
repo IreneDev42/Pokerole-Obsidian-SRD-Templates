@@ -52,8 +52,8 @@ Weight:
 # Mesprit 
 
 > [!grid]
-> ![[SRD-mesprit-BookSprite.png|wsmall]]
-> ![[SRD-mesprit-HomeSprite.png]]
+> ![[SRD-mesprit-BookSprite.png|wsmall left]]
+> ![[SRD-mesprit-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The myth talks about three creatures being born from one of Arceus' eggs. The pink one was the being who granted humanity with emotions. It could paralyze its enemies by numbing their hearts cold.*

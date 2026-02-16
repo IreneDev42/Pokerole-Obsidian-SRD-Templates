@@ -73,8 +73,8 @@ Weight:
 # Aipom 
 
 > [!grid]
-> ![[SRD-aipom-BookSprite.png|wsmall]]
-> ![[SRD-aipom-HomeSprite.png]]
+> ![[SRD-aipom-BookSprite.png|wsmall left]]
+> ![[SRD-aipom-HomeSprite.png|wsmall right]]
 
 *Long Tail Pokémon*
 *It lives at the top of tall trees in forests and jungles. It uses its tail tip as a third hand. However, because the Pokémon uses its tail so much, its real hands become rather clumsy. It is very playful.*

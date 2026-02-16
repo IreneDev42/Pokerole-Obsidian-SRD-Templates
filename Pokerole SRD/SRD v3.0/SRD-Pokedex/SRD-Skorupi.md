@@ -79,8 +79,8 @@ Weight:
 # Skorupi 
 
 > [!grid]
-> ![[SRD-skorupi-BookSprite.png|wsmall]]
-> ![[SRD-skorupi-HomeSprite.png]]
+> ![[SRD-skorupi-BookSprite.png|wsmall left]]
+> ![[SRD-skorupi-HomeSprite.png|wsmall right]]
 
 *Scorpion Pokémon*
 *It lives in deserts and arid regions. It buries itself under the sand, waiting for unsuspecting prey to come nearby. It will then sting the prey and cling to it tenaciously until the poison takes effect.*

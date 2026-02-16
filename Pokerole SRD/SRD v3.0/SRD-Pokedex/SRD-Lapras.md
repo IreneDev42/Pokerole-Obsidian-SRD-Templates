@@ -74,8 +74,8 @@ Weight:
 # Lapras 
 
 > [!grid]
-> ![[SRD-lapras-BookSprite.png|wsmall]]
-> ![[SRD-lapras-HomeSprite.png]]
+> ![[SRD-lapras-BookSprite.png|wsmall left]]
+> ![[SRD-lapras-HomeSprite.png|wsmall right]]
 
 *Transport Pokémon*
 *Humans drove Lapras close to extinction. In the evenings, this Pokémon is said to sing as it seeks what few others of its kind still remain. Their gentle nature has made them easy to lure and catch.*

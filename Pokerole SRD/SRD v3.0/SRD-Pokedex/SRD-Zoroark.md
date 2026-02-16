@@ -81,8 +81,8 @@ Weight:
 # Zoroark 
 
 > [!grid]
-> ![[SRD-zoroark-BookSprite.png|wsmall]]
-> ![[SRD-zoroark-HomeSprite.png]]
+> ![[SRD-zoroark-BookSprite.png|wsmall left]]
+> ![[SRD-zoroark-HomeSprite.png|wsmall right]]
 
 *Illusion Fox Pokémon*
 *They live in groups. Their lair's entrance is protected with their illusions and mirages. They have been known to fool entire towns with their tricks. Their illusions can hide their tails now, but they still remain mute.*

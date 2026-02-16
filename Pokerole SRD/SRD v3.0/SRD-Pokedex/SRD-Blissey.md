@@ -83,8 +83,8 @@ Weight:
 # Blissey 
 
 > [!grid]
-> ![[SRD-blissey-BookSprite.png|wsmall]]
-> ![[SRD-blissey-HomeSprite.png]]
+> ![[SRD-blissey-BookSprite.png|wsmall left]]
+> ![[SRD-blissey-HomeSprite.png|wsmall right]]
 
 *Happiness Pokémon*
 *Whoever takes a bite of a Blissey's egg becomes loving and caring to everyone. They are compassionate, healing anyone who's injured. Their presence makes everyone smile. An intelligent and empathetic Pokémon.*

@@ -79,8 +79,8 @@ Weight:
 # Piplup 
 
 > [!grid]
-> ![[SRD-piplup-BookSprite.png|wsmall]]
-> ![[SRD-piplup-HomeSprite.png]]
+> ![[SRD-piplup-BookSprite.png|wsmall left]]
+> ![[SRD-piplup-HomeSprite.png|wsmall right]]
 
 *Penguin Pokémon*
 *Piplups are extremely proud. They won't take anything from anyone nor accept being taken care of. They live along shores in northern countries. They're great swimmers but walk in waddles, often tripping.*

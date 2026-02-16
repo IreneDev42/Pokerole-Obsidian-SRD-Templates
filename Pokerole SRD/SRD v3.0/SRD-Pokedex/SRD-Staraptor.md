@@ -76,8 +76,8 @@ Weight:
 # Staraptor 
 
 > [!grid]
-> ![[SRD-staraptor-BookSprite.png|wsmall]]
-> ![[SRD-staraptor-HomeSprite.png]]
+> ![[SRD-staraptor-BookSprite.png|wsmall left]]
+> ![[SRD-staraptor-HomeSprite.png|wsmall right]]
 
 *Predator Pokémon*
 *Staraptor is a savage creature. They will never stop attacking even if they get injured, and will fight foes bigger than themselves. They are known to leave their flock to live on their own after they evolve.*

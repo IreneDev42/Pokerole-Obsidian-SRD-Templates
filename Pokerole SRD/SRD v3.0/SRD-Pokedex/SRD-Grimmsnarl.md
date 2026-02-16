@@ -81,8 +81,8 @@ Weight:
 # Grimmsnarl 
 
 > [!grid]
-> ![[SRD-grimmsnarl-BookSprite.png|wsmall]]
-> ![[SRD-grimmsnarl-HomeSprite.png]]
+> ![[SRD-grimmsnarl-BookSprite.png|wsmall left]]
+> ![[SRD-grimmsnarl-HomeSprite.png|wsmall right]]
 
 *Bulk Up Pokémon*
 *Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would. They often make others trip or hang them upside down to amuse themselves.*

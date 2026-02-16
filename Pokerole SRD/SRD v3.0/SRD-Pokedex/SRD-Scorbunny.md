@@ -75,8 +75,8 @@ Weight:
 # Scorbunny 
 
 > [!grid]
-> ![[SRD-scorbunny-BookSprite.png|wsmall]]
-> ![[SRD-scorbunny-HomeSprite.png]]
+> ![[SRD-scorbunny-BookSprite.png|wsmall left]]
+> ![[SRD-scorbunny-HomeSprite.png|wsmall right]]
 
 *Rabbit Pokémon*
 *Scorbunny is small and energetic. They love to run in large fields from one side to another for hours. There are heat pads on its feet and nose; as it runs or battles they can get burning hot.*

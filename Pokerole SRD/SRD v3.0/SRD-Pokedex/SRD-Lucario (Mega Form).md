@@ -83,8 +83,8 @@ Weight:
 # Lucario (Mega Form) 
 
 > [!grid]
-> ![[SRD-lucario-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-lucario-mega-form-HomeSprite.png]]
+> ![[SRD-lucario-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-lucario-mega-form-HomeSprite.png|wsmall right]]
 
 *Aura Pokémon*
 *The explosive, pulsing energy of aura and the Mega Stone have awakened its combative instincts. Its fighting style can be summed up in a single word: heartless.*

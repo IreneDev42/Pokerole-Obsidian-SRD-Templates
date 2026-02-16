@@ -79,8 +79,8 @@ Weight:
 # Palossand 
 
 > [!grid]
-> ![[SRD-palossand-BookSprite.png|wsmall]]
-> ![[SRD-palossand-HomeSprite.png]]
+> ![[SRD-palossand-BookSprite.png|wsmall left]]
+> ![[SRD-palossand-HomeSprite.png|wsmall right]]
 
 *Sand Castle Pokémon*
 *The possessed people shaped this Pokémon into a castle. Buried beneath the sand where it stands are the remains of all its victims. Some say these unmarked graves will give birth to a new Sandygast.*

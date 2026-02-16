@@ -75,8 +75,8 @@ Weight:
 # Scream Tail 
 
 > [!grid]
-> ![[SRD-scream-tail-BookSprite.png|wsmall]]
-> ![[SRD-scream-tail-HomeSprite.png]]
+> ![[SRD-scream-tail-BookSprite.png|wsmall left]]
+> ![[SRD-scream-tail-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *While it has the appearance of a Jigglypuff, it seems to be aggressive and ferocious. It screams and attacks with its fangs at anything in the forest that dares come near it.*

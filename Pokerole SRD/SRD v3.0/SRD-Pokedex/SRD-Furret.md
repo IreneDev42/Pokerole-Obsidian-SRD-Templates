@@ -77,8 +77,8 @@ Weight:
 # Furret 
 
 > [!grid]
-> ![[SRD-furret-BookSprite.png|wsmall]]
-> ![[SRD-furret-HomeSprite.png]]
+> ![[SRD-furret-BookSprite.png|wsmall left]]
+> ![[SRD-furret-HomeSprite.png|wsmall right]]
 
 *Long Body Pokémon*
 *It lives along its Sentret family and acts as the hunter and caregiver of the pack. It can move really fast. If it is cornered, it will squirm through even the narrowest of gaps to escape safe and sound.*

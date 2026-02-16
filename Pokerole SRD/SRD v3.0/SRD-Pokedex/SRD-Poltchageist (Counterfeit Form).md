@@ -72,8 +72,8 @@ Weight:
 # Poltchageist (Counterfeit Form) 
 
 > [!grid]
-> ![[SRD-poltchageist-counterfeit-form-BookSprite.png|wsmall]]
-> ![[SRD-poltchageist-counterfeit-form-HomeSprite.png]]
+> ![[SRD-poltchageist-counterfeit-form-BookSprite.png|wsmall left]]
+> ![[SRD-poltchageist-counterfeit-form-HomeSprite.png|wsmall right]]
 
 *Matcha Pokémon*
 *This Pokémon haunts high quality tea caddies. It can leave traces of its own body powder on food and beverages to suck the life of those who so much as lick it. Although similar, it's unrelated to Sinistea.*

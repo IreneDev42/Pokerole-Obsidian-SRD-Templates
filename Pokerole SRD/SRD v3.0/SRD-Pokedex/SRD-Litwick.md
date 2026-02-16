@@ -76,8 +76,8 @@ Weight:
 # Litwick 
 
 > [!grid]
-> ![[SRD-litwick-BookSprite.png|wsmall]]
-> ![[SRD-litwick-HomeSprite.png]]
+> ![[SRD-litwick-BookSprite.png|wsmall left]]
+> ![[SRD-litwick-HomeSprite.png|wsmall right]]
 
 *Candle Pokémon*
 *Its flame is usually out, but it starts burning whenever it absorbs the life force from others. They trick lost people into thinking they are helping them find their way in the dark, but those who follow them never return.*

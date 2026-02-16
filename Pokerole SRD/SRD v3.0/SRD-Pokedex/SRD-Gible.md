@@ -74,8 +74,8 @@ Weight:
 # Gible 
 
 > [!grid]
-> ![[SRD-gible-BookSprite.png|wsmall]]
-> ![[SRD-gible-HomeSprite.png]]
+> ![[SRD-gible-BookSprite.png|wsmall left]]
+> ![[SRD-gible-HomeSprite.png|wsmall right]]
 
 *Land Shark Pokémon*
 *It digs tunnels and follows prey while burrowed underground. If you see the fin on its back coming out of the ground, it means it is about to attack. It's very aggressive but kind of clumsy. Beware of its big jaws.*

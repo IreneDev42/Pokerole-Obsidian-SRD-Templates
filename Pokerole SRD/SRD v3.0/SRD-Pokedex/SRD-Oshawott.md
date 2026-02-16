@@ -74,8 +74,8 @@ Weight:
 # Oshawott 
 
 > [!grid]
-> ![[SRD-oshawott-BookSprite.png|wsmall]]
-> ![[SRD-oshawott-HomeSprite.png]]
+> ![[SRD-oshawott-BookSprite.png|wsmall left]]
+> ![[SRD-oshawott-HomeSprite.png|wsmall right]]
 
 *Sea Otter Pokémon*
 *It is only seen in a few locations, always close to the sea. Oshawott uses the scalchop on its chest as a tool for multiple purposes and as a weapon to slash and fight. It is small, but brave and daring.*

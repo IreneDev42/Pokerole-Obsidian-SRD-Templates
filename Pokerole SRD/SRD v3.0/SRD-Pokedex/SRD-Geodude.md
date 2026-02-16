@@ -76,8 +76,8 @@ Weight:
 # Geodude 
 
 > [!grid]
-> ![[SRD-geodude-BookSprite.png|wsmall]]
-> ![[SRD-geodude-HomeSprite.png]]
+> ![[SRD-geodude-BookSprite.png|wsmall left]]
+> ![[SRD-geodude-HomeSprite.png|wsmall right]]
 
 *Rock Pokémon*
 *Lives in mountains and caves. It looks indistinguishable from other rocks around. Because of this, many trainers step on them and are attacked. It rolls to move around and eats whatever it finds on the ground.*

@@ -84,8 +84,8 @@ Weight:
 # Dartrix 
 
 > [!grid]
-> ![[SRD-dartrix-BookSprite.png|wsmall]]
-> ![[SRD-dartrix-HomeSprite.png]]
+> ![[SRD-dartrix-BookSprite.png|wsmall left]]
+> ![[SRD-dartrix-HomeSprite.png|wsmall right]]
 
 *Blade Quill Pokémon*
 *Dartrix are vain creatures. They dislike it when their feathers are ruffled, even stopping midfight to groom them. Despite its elegant demeanor, it hides an awkward personality, prone to panic and clumsiness.*

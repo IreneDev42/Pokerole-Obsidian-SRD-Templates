@@ -76,8 +76,8 @@ Weight:
 # Arrokuda 
 
 > [!grid]
-> ![[SRD-arrokuda-BookSprite.png|wsmall]]
-> ![[SRD-arrokuda-HomeSprite.png]]
+> ![[SRD-arrokuda-BookSprite.png|wsmall left]]
+> ![[SRD-arrokuda-HomeSprite.png|wsmall right]]
 
 *Rush Pokémon*
 *They propel themselves, swimming at high speeds to hunt their prey. After they have eaten, their swimming becomes sluggish and they are at risk of being eaten themselves. They are proud of their pointed jaw.*

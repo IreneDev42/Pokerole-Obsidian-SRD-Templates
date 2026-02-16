@@ -82,8 +82,8 @@ Weight:
 # Basculegion (Male Form) 
 
 > [!grid]
-> ![[SRD-basculegion-male-form-BookSprite.png|wsmall]]
-> ![[SRD-basculegion-male-form-HomeSprite.png]]
+> ![[SRD-basculegion-male-form-BookSprite.png|wsmall left]]
+> ![[SRD-basculegion-male-form-HomeSprite.png|wsmall right]]
 
 *Big Fish Pokémon*
 *There is a legend amongst fishers of Sinnoh that goes back to the era of Hisui, in which the tormented souls of departed fish will gather around a champion to avenge them by eating the fishermen who ate them.*

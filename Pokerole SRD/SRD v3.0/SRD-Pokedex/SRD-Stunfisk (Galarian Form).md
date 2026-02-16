@@ -75,8 +75,8 @@ Weight:
 # Stunfisk (Galarian Form) 
 
 > [!grid]
-> ![[SRD-stunfisk-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-stunfisk-galarian-form-HomeSprite.png]]
+> ![[SRD-stunfisk-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-stunfisk-galarian-form-HomeSprite.png|wsmall right]]
 
 *Trap Pokémon*
 *Stunfisk lives in mud with high iron content. Those nutrients turned its body into a Steel Type. Stunfisk's lips are hard to spot in the mud, but if someone steps on it, its jagged steel clamps their prey.*

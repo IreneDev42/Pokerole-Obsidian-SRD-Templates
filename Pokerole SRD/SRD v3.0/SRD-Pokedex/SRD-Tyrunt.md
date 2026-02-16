@@ -75,8 +75,8 @@ Weight:
 # Tyrunt 
 
 > [!grid]
-> ![[SRD-tyrunt-BookSprite.png|wsmall]]
-> ![[SRD-tyrunt-HomeSprite.png]]
+> ![[SRD-tyrunt-BookSprite.png|wsmall left]]
+> ![[SRD-tyrunt-HomeSprite.png|wsmall right]]
 
 *Royal Heir Pokémon*
 *This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild. Many of the researchers that brought it back were attacked by its powerful jaws.*

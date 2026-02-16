@@ -80,8 +80,8 @@ Weight:
 # Drakloak 
 
 > [!grid]
-> ![[SRD-drakloak-BookSprite.png|wsmall]]
-> ![[SRD-drakloak-HomeSprite.png]]
+> ![[SRD-drakloak-BookSprite.png|wsmall left]]
+> ![[SRD-drakloak-HomeSprite.png|wsmall right]]
 
 *Caretaker Pokémon*
 *It battles alongside Dreepy and dotes on them until they evolve. Without a Dreepy to place on its head and care for, it gets so uneasy it'll try to substitute it with any Pokémon it finds*

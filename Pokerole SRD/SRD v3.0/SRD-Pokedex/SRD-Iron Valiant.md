@@ -62,7 +62,7 @@ StarterMoves:
 - Disable
 Strength: 3
 Type1: Fairy
-Type2: Fight
+Type2: Fighting
 Vitality: 2
 Weight:
   Kilograms: 35.0
@@ -74,15 +74,15 @@ Weight:
 # Iron Valiant 
 
 > [!grid]
-> ![[SRD-iron-valiant-BookSprite.png|wsmall]]
-> ![[SRD-iron-valiant-HomeSprite.png]]
+> ![[SRD-iron-valiant-BookSprite.png|wsmall left]]
+> ![[SRD-iron-valiant-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *This robotic creature looks like Gardevoir and Gallade. Its AI is kind and has a pre-programmed sense of justice, but it follows it a little too well.*
 
 **DexID**: 1006
 **Name**: Iron Valiant
-**Type**: Fairy / Fight
+**Type**: Fairy / Fighting
 **Abilities**: [[SRD-Quark Drive|Quark Drive]]
 **Base HP**: 5
 

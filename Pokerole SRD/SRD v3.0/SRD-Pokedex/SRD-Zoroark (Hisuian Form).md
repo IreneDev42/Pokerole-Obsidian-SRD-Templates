@@ -81,8 +81,8 @@ Weight:
 # Zoroark (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-zoroark-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-zoroark-hisuian-form-HomeSprite.png]]
+> ![[SRD-zoroark-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-zoroark-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Illusion Fox Pokémon*
 *Hisuian scrolls show a Pokémon who attacked so intensely, its own attacks wounded its flesh: scary tales of a white beast who was the embodiment of death. The identity of this Pokémon remains unknown.*

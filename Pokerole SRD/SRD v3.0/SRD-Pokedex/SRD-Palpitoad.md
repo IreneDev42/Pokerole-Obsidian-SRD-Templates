@@ -78,8 +78,8 @@ Weight:
 # Palpitoad 
 
 > [!grid]
-> ![[SRD-palpitoad-BookSprite.png|wsmall]]
-> ![[SRD-palpitoad-HomeSprite.png]]
+> ![[SRD-palpitoad-BookSprite.png|wsmall left]]
+> ![[SRD-palpitoad-HomeSprite.png|wsmall right]]
 
 *Vibration Pokémon*
 *It lives both in water and on land. It uses its long, sticky tongue to capture prey. When they vibrate the bumps on their heads, they can make waves in the water and even earthquake-like vibrations on land.*

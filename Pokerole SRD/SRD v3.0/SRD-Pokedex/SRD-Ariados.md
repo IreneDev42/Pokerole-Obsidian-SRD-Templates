@@ -83,8 +83,8 @@ Weight:
 # Ariados 
 
 > [!grid]
-> ![[SRD-ariados-BookSprite.png|wsmall]]
-> ![[SRD-ariados-HomeSprite.png]]
+> ![[SRD-ariados-BookSprite.png|wsmall left]]
+> ![[SRD-ariados-HomeSprite.png|wsmall right]]
 
 *Long Leg Pokémon*
 *This Pokémon is silent and stealthy. It comes out at night. After attaching some silk to its prey, it sets it free. Later, it tracks the silk back to the prey and its friends. It can form big colonies in caves.*

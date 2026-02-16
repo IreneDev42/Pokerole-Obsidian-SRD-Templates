@@ -75,8 +75,8 @@ Weight:
 # Natu 
 
 > [!grid]
-> ![[SRD-natu-BookSprite.png|wsmall]]
-> ![[SRD-natu-HomeSprite.png]]
+> ![[SRD-natu-BookSprite.png|wsmall left]]
+> ![[SRD-natu-HomeSprite.png|wsmall right]]
 
 *Little Bird Pokémon*
 *It lives close to the deserts. Its wings are not fully developed so it hops on trees and cactus to peck something to eat. If you find one, it will hold your stare. If you get closer, it might disappear in an instant.*

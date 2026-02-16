@@ -81,8 +81,8 @@ Weight:
 # Bronzong 
 
 > [!grid]
-> ![[SRD-bronzong-BookSprite.png|wsmall]]
-> ![[SRD-bronzong-HomeSprite.png]]
+> ![[SRD-bronzong-BookSprite.png|wsmall left]]
+> ![[SRD-bronzong-HomeSprite.png|wsmall right]]
 
 *Bronze Bell Pokémon*
 *Ancient people revered Bronzong for bringing the rain and sun at will. One became a news sensation recently when it was dug up at a construction site after a 2000-year sleep.*

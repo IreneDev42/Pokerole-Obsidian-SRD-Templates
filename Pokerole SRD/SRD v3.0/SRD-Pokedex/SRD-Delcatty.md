@@ -81,8 +81,8 @@ Weight:
 # Delcatty 
 
 > [!grid]
-> ![[SRD-delcatty-BookSprite.png|wsmall]]
-> ![[SRD-delcatty-HomeSprite.png]]
+> ![[SRD-delcatty-BookSprite.png|wsmall left]]
+> ![[SRD-delcatty-HomeSprite.png|wsmall right]]
 
 *Prim Pokémon*
 *They like to live without restrictions, spending their time eating and sleeping whenever they feel like it. Popular among females. Delcatties love clean places, good food, and grooming themselves.*

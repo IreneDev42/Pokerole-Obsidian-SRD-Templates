@@ -80,8 +80,8 @@ Weight:
 # Polteageist 
 
 > [!grid]
-> ![[SRD-polteageist-BookSprite.png|wsmall]]
-> ![[SRD-polteageist-HomeSprite.png]]
+> ![[SRD-polteageist-BookSprite.png|wsmall left]]
+> ![[SRD-polteageist-HomeSprite.png|wsmall right]]
 
 *Black Tea Pokémon*
 *This species lives in old ceramic teapots. They struggle to find real antiques, for most tea sets nowadays are just imitations. Never leave your tea unattended or a Poltegeist might come to haunt it.*

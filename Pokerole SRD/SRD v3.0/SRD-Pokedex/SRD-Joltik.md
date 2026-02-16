@@ -75,8 +75,8 @@ Weight:
 # Joltik 
 
 > [!grid]
-> ![[SRD-joltik-BookSprite.png|wsmall]]
-> ![[SRD-joltik-HomeSprite.png]]
+> ![[SRD-joltik-BookSprite.png|wsmall left]]
+> ![[SRD-joltik-HomeSprite.png|wsmall right]]
 
 *Attaching Pokémon*
 *Since it can't generate its own charge, it sticks into larger Pokémon and absorbs the static electricity of their fur. In the cities they suck electricity from the outlets they find, skyrocketting the power bill.*

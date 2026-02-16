@@ -78,8 +78,8 @@ Weight:
 # Octillery 
 
 > [!grid]
-> ![[SRD-octillery-BookSprite.png|wsmall]]
-> ![[SRD-octillery-HomeSprite.png]]
+> ![[SRD-octillery-BookSprite.png|wsmall left]]
+> ![[SRD-octillery-HomeSprite.png|wsmall right]]
 
 *Jet Pokémon*
 *Octillery sprays ink, traps its foes with its tentacles and then hits them with its rock-hard head. If the enemy is too strong, they escape. They can be found inside rocky holes deep in the sea floor.*

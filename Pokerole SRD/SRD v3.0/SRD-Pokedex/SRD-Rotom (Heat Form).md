@@ -76,8 +76,8 @@ Weight:
 # Rotom (Heat Form) 
 
 > [!grid]
-> ![[SRD-rotom-heat-form-BookSprite.png|wsmall]]
-> ![[SRD-rotom-heat-form-HomeSprite.png]]
+> ![[SRD-rotom-heat-form-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-heat-form-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *A microwave possessed by a Rotom. It uses Fire powers and burns the food of unsuspecting people. While in this form it can use the move 'Overheat'.*

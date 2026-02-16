@@ -75,8 +75,8 @@ Weight:
 # Solrock 
 
 > [!grid]
-> ![[SRD-solrock-BookSprite.png|wsmall]]
-> ![[SRD-solrock-HomeSprite.png]]
+> ![[SRD-solrock-BookSprite.png|wsmall left]]
+> ![[SRD-solrock-HomeSprite.png|wsmall right]]
 
 *Meteorite Pokémon*
 *People say it came from space. They release the purest light when they get angry. Usually found absorbing solar light during the day, Solrock can emit blinding lights and burning heat while spinning.*

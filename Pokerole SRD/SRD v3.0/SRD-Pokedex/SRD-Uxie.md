@@ -52,8 +52,8 @@ Weight:
 # Uxie 
 
 > [!grid]
-> ![[SRD-uxie-BookSprite.png|wsmall]]
-> ![[SRD-uxie-HomeSprite.png]]
+> ![[SRD-uxie-BookSprite.png|wsmall left]]
+> ![[SRD-uxie-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The myth talks about three creatures being born from one of Arceus' eggs. The yellow one was the being who granted humanity with knowledge. It could trap its enemy's minds inside realistic illusions.*

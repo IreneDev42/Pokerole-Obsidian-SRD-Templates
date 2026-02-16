@@ -74,8 +74,8 @@ Weight:
 # Iron Hands 
 
 > [!grid]
-> ![[SRD-iron-hands-BookSprite.png|wsmall]]
-> ![[SRD-iron-hands-HomeSprite.png]]
+> ![[SRD-iron-hands-BookSprite.png|wsmall left]]
+> ![[SRD-iron-hands-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A sumo wrestler given a second chance at life. Cybernetic enhancements allow for its hands to move independent of its body to send speeding cars into the air.*

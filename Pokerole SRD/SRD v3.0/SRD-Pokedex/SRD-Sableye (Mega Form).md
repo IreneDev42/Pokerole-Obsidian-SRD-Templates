@@ -79,8 +79,8 @@ Weight:
 # Sableye (Mega Form) 
 
 > [!grid]
-> ![[SRD-sableye-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-sableye-mega-form-HomeSprite.png]]
+> ![[SRD-sableye-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-sableye-mega-form-HomeSprite.png|wsmall right]]
 
 *Darkness Pokémon*
 *The power of the Mega Stone made the jewel on its chest grow. It now uses it as a shield to repel any attack, but its movement is limited due to how heavy it is. Its greed for the jewel can make it aggressive.*

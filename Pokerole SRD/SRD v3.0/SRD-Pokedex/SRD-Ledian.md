@@ -79,8 +79,8 @@ Weight:
 # Ledian 
 
 > [!grid]
-> ![[SRD-ledian-BookSprite.png|wsmall]]
-> ![[SRD-ledian-HomeSprite.png]]
+> ![[SRD-ledian-BookSprite.png|wsmall left]]
+> ![[SRD-ledian-HomeSprite.png|wsmall right]]
 
 *Five Star Pokémon*
 *When the stars flicker in the night sky, it flutters about scattering a glowing powder. The spot patterns on its back grow larger or smaller at night depending on the number of stars in the sky.*

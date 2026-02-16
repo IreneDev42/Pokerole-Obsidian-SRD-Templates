@@ -76,8 +76,8 @@ Weight:
 # Trubbish 
 
 > [!grid]
-> ![[SRD-trubbish-BookSprite.png|wsmall]]
-> ![[SRD-trubbish-HomeSprite.png]]
+> ![[SRD-trubbish-BookSprite.png|wsmall left]]
+> ![[SRD-trubbish-HomeSprite.png|wsmall right]]
 
 *Trash Bag Pokémon*
 *The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon. It belches a poison gas; breathing it will leave you sick in bed for a week. It loves filthy places.*

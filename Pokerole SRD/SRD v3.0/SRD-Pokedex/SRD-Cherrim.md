@@ -77,8 +77,8 @@ Weight:
 # Cherrim 
 
 > [!grid]
-> ![[SRD-cherrim-BookSprite.png|wsmall]]
-> ![[SRD-cherrim-HomeSprite.png]]
+> ![[SRD-cherrim-BookSprite.png|wsmall left]]
+> ![[SRD-cherrim-HomeSprite.png|wsmall right]]
 
 *Blossom Pokémon*
 *Cherrim bloom during times of strong sunlight, their petals open fully and radiant. If the sun is not visible, it will remain as a closed bud, barely moving, trying to preserve its energy, mistakenly labeled as shy.*

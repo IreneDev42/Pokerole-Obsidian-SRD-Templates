@@ -71,8 +71,8 @@ Weight:
 # Zapdos (Galarian Form) 
 
 > [!grid]
-> ![[SRD-zapdos-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-zapdos-galarian-form-HomeSprite.png]]
+> ![[SRD-zapdos-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-zapdos-galarian-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There have been sightings of an aggressive bird that will race and attack cargo trucks through remote roads in the Galar region. Some of them reported a thunderous sound before being knocked over.*

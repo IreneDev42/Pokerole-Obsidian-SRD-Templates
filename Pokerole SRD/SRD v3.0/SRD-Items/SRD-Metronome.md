@@ -8,7 +8,7 @@ OneUse: false
 PMD: false
 Pocket: HeldItems
 Source: Core 3.0
-TrainerPrice: Not For Sale
+TrainerPrice: Not for Sale
 ---
 
 #PokeroleSRD/Items

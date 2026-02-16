@@ -81,8 +81,8 @@ Weight:
 # Gyarados 
 
 > [!grid]
-> ![[SRD-gyarados-BookSprite.png|wsmall]]
-> ![[SRD-gyarados-HomeSprite.png]]
+> ![[SRD-gyarados-BookSprite.png|wsmall left]]
+> ![[SRD-gyarados-HomeSprite.png|wsmall right]]
 
 *Atrocious Pokémon*
 *It's rarely seen in the wild. This huge and vicious Pokémon is known for the destruction it leaves in its wake. In ancient literature, there is a record of a Gyarados that razed a village when violence flared.*

@@ -77,8 +77,8 @@ Weight:
 # Cufant 
 
 > [!grid]
-> ![[SRD-cufant-BookSprite.png|wsmall]]
-> ![[SRD-cufant-HomeSprite.png]]
+> ![[SRD-cufant-BookSprite.png|wsmall left]]
+> ![[SRD-cufant-HomeSprite.png|wsmall right]]
 
 *Copperderm Pokémon*
 *If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. Its trunk is specially designed to dig the ground; in the wild they uproot trees to eat.*

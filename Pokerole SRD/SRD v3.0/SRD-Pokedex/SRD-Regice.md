@@ -72,8 +72,8 @@ Weight:
 # Regice 
 
 > [!grid]
-> ![[SRD-regice-BookSprite.png|wsmall]]
-> ![[SRD-regice-HomeSprite.png]]
+> ![[SRD-regice-BookSprite.png|wsmall left]]
+> ![[SRD-regice-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *It is said to be indistinguishable from a gigantic iceberg. Its myth says its body can't be melted even if submerged in magma. Regice could freeze the air to bring a new ice age.*

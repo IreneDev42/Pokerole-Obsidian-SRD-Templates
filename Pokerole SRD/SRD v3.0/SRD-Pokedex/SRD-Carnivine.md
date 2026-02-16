@@ -77,8 +77,8 @@ Weight:
 # Carnivine 
 
 > [!grid]
-> ![[SRD-carnivine-BookSprite.png|wsmall]]
-> ![[SRD-carnivine-HomeSprite.png]]
+> ![[SRD-carnivine-BookSprite.png|wsmall left]]
+> ![[SRD-carnivine-HomeSprite.png|wsmall right]]
 
 *Bug Catcher Pokémon*
 *It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down in one bite. It can take it a whole day to digest a single prey, but it won't need to eat for at least a week.*

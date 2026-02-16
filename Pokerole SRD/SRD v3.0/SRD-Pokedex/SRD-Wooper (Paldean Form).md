@@ -75,8 +75,8 @@ Weight:
 # Wooper (Paldean Form) 
 
 > [!grid]
-> ![[SRD-wooper-paldean-form-BookSprite.png|wsmall]]
-> ![[SRD-wooper-paldean-form-HomeSprite.png]]
+> ![[SRD-wooper-paldean-form-BookSprite.png|wsmall left]]
+> ![[SRD-wooper-paldean-form-HomeSprite.png|wsmall right]]
 
 *Poison Fish Pokémon*
 *Paldean waters weren't kind to this Pokémon. Too many predators drove Wooper to live in muddy swamps instead of ponds. They developed a poisonous film on their skin to protect themselves.*

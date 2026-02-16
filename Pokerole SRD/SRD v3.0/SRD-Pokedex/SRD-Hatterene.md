@@ -82,8 +82,8 @@ Weight:
 # Hatterene 
 
 > [!grid]
-> ![[SRD-hatterene-BookSprite.png|wsmall]]
-> ![[SRD-hatterene-HomeSprite.png]]
+> ![[SRD-hatterene-BookSprite.png|wsmall left]]
+> ![[SRD-hatterene-HomeSprite.png|wsmall right]]
 
 *Silent Pokémon*
 *If you're too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch. It is very sensitive to the emotions of others. If it senses doubt, fear or anger, it will attack you.*

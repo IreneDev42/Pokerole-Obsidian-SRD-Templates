@@ -75,8 +75,8 @@ Weight:
 # Binacle 
 
 > [!grid]
-> ![[SRD-binacle-BookSprite.png|wsmall]]
-> ![[SRD-binacle-HomeSprite.png]]
+> ![[SRD-binacle-BookSprite.png|wsmall left]]
+> ![[SRD-binacle-HomeSprite.png|wsmall right]]
 
 *Two-Handed Pokémon*
 *In the shallow sea, two Binacle live inside a hollow rock. If they don't get along, one of them will move to a different rock. They eat the seaweed that washes up on the shore and help each other to survive.*

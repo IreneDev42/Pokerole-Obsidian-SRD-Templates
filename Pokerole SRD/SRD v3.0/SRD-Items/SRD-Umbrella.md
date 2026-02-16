@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: Rain or shine, you should be prepared. The user ignores the effects of
   Sunny, Rain and Hail weather.
 Image: SRD-umbrella-ItemSprite.png

@@ -78,8 +78,8 @@ Weight:
 # Gothita 
 
 > [!grid]
-> ![[SRD-gothita-BookSprite.png|wsmall]]
-> ![[SRD-gothita-HomeSprite.png]]
+> ![[SRD-gothita-BookSprite.png|wsmall left]]
+> ![[SRD-gothita-HomeSprite.png|wsmall right]]
 
 *Fixation Pokémon*
 *They often stare creepily at their Trainers and other Pokémon. Apparently, they are staring at something only they can see. The ribbon-like feelers on their body increase their Psychic power.*

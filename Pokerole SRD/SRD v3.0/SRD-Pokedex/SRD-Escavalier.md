@@ -81,8 +81,8 @@ Weight:
 # Escavalier 
 
 > [!grid]
-> ![[SRD-escavalier-BookSprite.png|wsmall]]
-> ![[SRD-escavalier-HomeSprite.png]]
+> ![[SRD-escavalier-BookSprite.png|wsmall left]]
+> ![[SRD-escavalier-HomeSprite.png|wsmall right]]
 
 *Cavalry Pokémon*
 *Wearing the shell covering it stole from a Shelmet, it defends itself and attacks with two stings. It can fly to move around, but its wings are too small to carry its weight to high altitudes.*

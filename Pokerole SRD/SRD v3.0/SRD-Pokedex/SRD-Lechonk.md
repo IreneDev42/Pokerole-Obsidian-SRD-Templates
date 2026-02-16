@@ -76,8 +76,8 @@ Weight:
 # Lechonk 
 
 > [!grid]
-> ![[SRD-lechonk-BookSprite.png|wsmall]]
-> ![[SRD-lechonk-HomeSprite.png]]
+> ![[SRD-lechonk-BookSprite.png|wsmall left]]
+> ![[SRD-lechonk-HomeSprite.png|wsmall right]]
 
 *Hog Pokemon*
 *They can be seen foraging for food in the acorn forests of Paldea. Do not be deceived, these Pokémon have a refined sense of taste and only like fine foods. Their natural herbal scent makes for great hams.*

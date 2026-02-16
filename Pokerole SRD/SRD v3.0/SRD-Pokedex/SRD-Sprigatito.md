@@ -75,8 +75,8 @@ Weight:
 # Sprigatito 
 
 > [!grid]
-> ![[SRD-sprigatito-BookSprite.png|wsmall]]
-> ![[SRD-sprigatito-HomeSprite.png]]
+> ![[SRD-sprigatito-BookSprite.png|wsmall left]]
+> ![[SRD-sprigatito-HomeSprite.png|wsmall right]]
 
 *Grass Cat Pokémon*
 *These cute Pokémon love being the center of attention and can become jealous easily. Their paws release a sweet and relaxing aroma. Which allows it to hunt small creatures who are lulled by the scent.*

@@ -11,7 +11,7 @@ OneUse: true
 PMD: false
 Pocket: Medicine
 Source: Core 3.0
-TrainerPrice: Not For Sale
+TrainerPrice: Not for Sale
 ---
 
 #PokeroleSRD/Items

@@ -75,8 +75,8 @@ Weight:
 # Enamorus 
 
 > [!grid]
-> ![[SRD-enamorus-BookSprite.png|wsmall]]
-> ![[SRD-enamorus-HomeSprite.png]]
+> ![[SRD-enamorus-BookSprite.png|wsmall left]]
+> ![[SRD-enamorus-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *It is said a Pokémon arrived to Hisui from a far-away land, bringing gale winds that changed the climate of the region. The Pokémon was said to be benign and their love made spring flourish each year.*

@@ -84,8 +84,8 @@ Weight:
 # Lycanroc (Midnight Form) 
 
 > [!grid]
-> ![[SRD-lycanroc-midnight-form-BookSprite.png|wsmall]]
-> ![[SRD-lycanroc-midnight-form-HomeSprite.png]]
+> ![[SRD-lycanroc-midnight-form-BookSprite.png|wsmall left]]
+> ![[SRD-lycanroc-midnight-form-HomeSprite.png|wsmall right]]
 
 *Wolf Pokémon*
 *A poorly-behaved Rockruff will evolve at midnight. This Pokémon is savage and has no regard for its own safety. It taunts and provokes foes a lot stronger just to get its own blood boiling.*

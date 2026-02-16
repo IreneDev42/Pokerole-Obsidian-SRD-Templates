@@ -80,8 +80,8 @@ Weight:
 # Sealeo 
 
 > [!grid]
-> ![[SRD-sealeo-BookSprite.png|wsmall]]
-> ![[SRD-sealeo-HomeSprite.png]]
+> ![[SRD-sealeo-BookSprite.png|wsmall left]]
+> ![[SRD-sealeo-HomeSprite.png|wsmall right]]
 
 *Ball Roll Pokémon*
 *They play with the Spheal in the herd by spinning them with their noses. When they are not in the wild they'll spin almost any round object, even Pokéballs. Sealeo are great hunters underwater.*

@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: No more suffering from short-sight. Reduce Low Accuracy on Moves up to
   2 points. (i.e. Low Accuracy 5 becomes 3)
 Image: SRD-zoom-lens-ItemSprite.png

@@ -80,8 +80,8 @@ Weight:
 # Cofagrigus 
 
 > [!grid]
-> ![[SRD-cofagrigus-BookSprite.png|wsmall]]
-> ![[SRD-cofagrigus-HomeSprite.png]]
+> ![[SRD-cofagrigus-BookSprite.png|wsmall left]]
+> ![[SRD-cofagrigus-HomeSprite.png|wsmall right]]
 
 *Coffin Pokémon*
 *This Pokémon has only been seen a few times in the ruins and tombs of ancient civilizations. It curses and transforms people and Pokémon into mummy-like creatures. It is said it feeds on pure gold.*

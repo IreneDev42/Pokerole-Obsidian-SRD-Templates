@@ -73,8 +73,8 @@ Weight:
 # Goldeen 
 
 > [!grid]
-> ![[SRD-goldeen-BookSprite.png|wsmall]]
-> ![[SRD-goldeen-HomeSprite.png]]
+> ![[SRD-goldeen-BookSprite.png|wsmall left]]
+> ![[SRD-goldeen-HomeSprite.png|wsmall right]]
 
 *Goldfish Pokémon*
 *Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokémon is placed in an aquarium, it will shatter the glass with its horn and make its escape.*

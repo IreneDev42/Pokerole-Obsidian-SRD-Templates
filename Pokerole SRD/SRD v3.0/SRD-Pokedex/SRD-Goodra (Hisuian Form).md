@@ -80,8 +80,8 @@ Weight:
 # Goodra (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-goodra-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-goodra-hisuian-form-HomeSprite.png]]
+> ![[SRD-goodra-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-goodra-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Shell Bunker Pokémon*
 *Goodra living in the Hisui region a few centruries ago were as kind-hearted as those from today. Their hard shells were used to defend those close to them to the point of sacrificing themselves to extinction.*

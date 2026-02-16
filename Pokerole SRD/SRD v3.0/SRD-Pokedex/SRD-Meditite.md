@@ -79,8 +79,8 @@ Weight:
 # Meditite 
 
 > [!grid]
-> ![[SRD-meditite-BookSprite.png|wsmall]]
-> ![[SRD-meditite-HomeSprite.png]]
+> ![[SRD-meditite-BookSprite.png|wsmall left]]
+> ![[SRD-meditite-HomeSprite.png|wsmall right]]
 
 *Meditate Pokémon*
 *Deep in the mountains they train their mind to increase their spiritual power; however, they lack focus and get distracted easily. As part of their training, Meditite go through a period of fasting.*

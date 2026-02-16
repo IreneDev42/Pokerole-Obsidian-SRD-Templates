@@ -73,8 +73,8 @@ Weight:
 # Nacli 
 
 > [!grid]
-> ![[SRD-nacli-BookSprite.png|wsmall]]
-> ![[SRD-nacli-HomeSprite.png]]
+> ![[SRD-nacli-BookSprite.png|wsmall left]]
+> ![[SRD-nacli-HomeSprite.png|wsmall right]]
 
 *Rock Salt Pokémon*
 *These Pokémon are born in layers of rock salt that exist underground. The ground scrapes the salt off as they travel, but they replenish it. This made them very appreciated in the old days as they shared their salt.*

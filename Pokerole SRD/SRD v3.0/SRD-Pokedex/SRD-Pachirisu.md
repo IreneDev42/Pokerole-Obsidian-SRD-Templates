@@ -74,8 +74,8 @@ Weight:
 # Pachirisu 
 
 > [!grid]
-> ![[SRD-pachirisu-BookSprite.png|wsmall]]
-> ![[SRD-pachirisu-HomeSprite.png]]
+> ![[SRD-pachirisu-BookSprite.png|wsmall left]]
+> ![[SRD-pachirisu-HomeSprite.png|wsmall right]]
 
 *EleSquirrel Pokémon*
 *It lives on top of trees, gathering food for the cold winter months. It keeps warm by making fur balls charged with static electricity. Like other electric rodents, it stores electricity on its cheek pouches.*

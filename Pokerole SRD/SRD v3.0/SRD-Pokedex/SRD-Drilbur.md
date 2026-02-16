@@ -75,8 +75,8 @@ Weight:
 # Drilbur 
 
 > [!grid]
-> ![[SRD-drilbur-BookSprite.png|wsmall]]
-> ![[SRD-drilbur-HomeSprite.png]]
+> ![[SRD-drilbur-BookSprite.png|wsmall left]]
+> ![[SRD-drilbur-HomeSprite.png|wsmall right]]
 
 *Mole Pokémon*
 *It lives in caves but loves to wreak havoc on vegetable farms. It makes its way swiftly through the soil by putting both claws together and rotating at high speed. It is friendly and not afraid of humans.*

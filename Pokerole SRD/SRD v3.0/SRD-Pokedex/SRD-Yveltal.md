@@ -52,8 +52,8 @@ Weight:
 # Yveltal 
 
 > [!grid]
-> ![[SRD-yveltal-BookSprite.png|wsmall]]
-> ![[SRD-yveltal-HomeSprite.png]]
+> ![[SRD-yveltal-BookSprite.png|wsmall left]]
+> ![[SRD-yveltal-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *A Kalos legend about the eternal struggle between life and death tells the story of a king who was full of grief after sacrificing everyone he loved. He built a doomsday machine that would destroy the world.*

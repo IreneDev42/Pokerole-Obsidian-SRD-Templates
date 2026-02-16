@@ -78,8 +78,8 @@ Weight:
 # Trevenant 
 
 > [!grid]
-> ![[SRD-trevenant-BookSprite.png|wsmall]]
-> ![[SRD-trevenant-HomeSprite.png]]
+> ![[SRD-trevenant-BookSprite.png|wsmall left]]
+> ![[SRD-trevenant-HomeSprite.png|wsmall right]]
 
 *Elder Tree Pokémon*
 *Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside inside its body, but it is ruthless to anyone that harms its forest, turning them into haunted trees forever.*

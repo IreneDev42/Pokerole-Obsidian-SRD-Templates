@@ -80,8 +80,8 @@ Weight:
 # Jellicent 
 
 > [!grid]
-> ![[SRD-jellicent-BookSprite.png|wsmall]]
-> ![[SRD-jellicent-HomeSprite.png]]
+> ![[SRD-jellicent-BookSprite.png|wsmall left]]
+> ![[SRD-jellicent-HomeSprite.png|wsmall right]]
 
 *Floating Pokémon*
 *Its body is mostly seawater. It feeds on the life energy of its victims. It is regal, pompous, and hates orders. The fate of the ships and crew that wander into Jellicent's territory: All sunken, all lost, all vanished.*

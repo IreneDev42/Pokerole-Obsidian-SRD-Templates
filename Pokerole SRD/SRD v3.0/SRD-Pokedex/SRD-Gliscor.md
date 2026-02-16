@@ -81,8 +81,8 @@ Weight:
 # Gliscor 
 
 > [!grid]
-> ![[SRD-gliscor-BookSprite.png|wsmall]]
-> ![[SRD-gliscor-HomeSprite.png]]
+> ![[SRD-gliscor-BookSprite.png|wsmall left]]
+> ![[SRD-gliscor-HomeSprite.png|wsmall right]]
 
 *Fang Scorp Pokémon*
 *Its flight is soundless. It uses its lengthy tail to carry off its prey, then uses its long fangs to do the rest. It is more playful than aggressive, but it is dangerous if you get close to the enormous claws.*

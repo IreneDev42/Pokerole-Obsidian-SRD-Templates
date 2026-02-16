@@ -78,8 +78,8 @@ Weight:
 # Mabosstiff 
 
 > [!grid]
-> ![[SRD-mabosstiff-BookSprite.png|wsmall]]
-> ![[SRD-mabosstiff-HomeSprite.png]]
+> ![[SRD-mabosstiff-BookSprite.png|wsmall left]]
+> ![[SRD-mabosstiff-HomeSprite.png|wsmall right]]
 
 *Boss Pokémon*
 *They are gentle with children, loyal and caring with their family. But be careful around them as they are not keen on strangers and can be very vicious and vindictive against those that cross them or their family.*

@@ -79,8 +79,8 @@ Weight:
 # Armarouge 
 
 > [!grid]
-> ![[SRD-armarouge-BookSprite.png|wsmall]]
-> ![[SRD-armarouge-HomeSprite.png]]
+> ![[SRD-armarouge-BookSprite.png|wsmall left]]
+> ![[SRD-armarouge-HomeSprite.png|wsmall right]]
 
 *Fire Warrior Pokémon*
 *Charcadet evolved by using a set of armor that belonged to a formidable warrior. Due to this, their loyalty and resolve is immense. They are able to use psychic powers and shoot fireballs from their arm cannons.*

@@ -76,8 +76,8 @@ Weight:
 # Iron Leaves 
 
 > [!grid]
-> ![[SRD-iron-leaves-BookSprite.png|wsmall]]
-> ![[SRD-iron-leaves-HomeSprite.png]]
+> ![[SRD-iron-leaves-BookSprite.png|wsmall left]]
+> ![[SRD-iron-leaves-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *The creature appears serene and gentle walking over a field of grass, but further inspection reveals it is a sentinel—ever vigilant for intruders who dare to step into its meadow.*

@@ -79,8 +79,8 @@ Weight:
 # Koffing 
 
 > [!grid]
-> ![[SRD-koffing-BookSprite.png|wsmall]]
-> ![[SRD-koffing-HomeSprite.png]]
+> ![[SRD-koffing-BookSprite.png|wsmall left]]
+> ![[SRD-koffing-HomeSprite.png|wsmall right]]
 
 *Poison Gas Pokémon*
 *It is drawn to the smog and fumes of cities. It fills its body with toxic gases to float like a balloon. When it gets nervous, it releases a sickly green gas. Breathing this gas will give you a bad case of sniffles.*

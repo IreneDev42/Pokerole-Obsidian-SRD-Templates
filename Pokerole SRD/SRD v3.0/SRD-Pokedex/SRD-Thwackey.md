@@ -80,8 +80,8 @@ Weight:
 # Thwackey 
 
 > [!grid]
-> ![[SRD-thwackey-BookSprite.png|wsmall]]
-> ![[SRD-thwackey-HomeSprite.png]]
+> ![[SRD-thwackey-BookSprite.png|wsmall left]]
+> ![[SRD-thwackey-HomeSprite.png|wsmall right]]
 
 *Beat Pokémon*
 *Thwakey are passionate about their drumming. They can get so caught up in their music that they don't notice the battle is already over. The faster they can beat their drums, the stronger they are.*

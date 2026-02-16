@@ -79,8 +79,8 @@ Weight:
 # Aerodactyl 
 
 > [!grid]
-> ![[SRD-aerodactyl-BookSprite.png|wsmall]]
-> ![[SRD-aerodactyl-HomeSprite.png]]
+> ![[SRD-aerodactyl-BookSprite.png|wsmall left]]
+> ![[SRD-aerodactyl-HomeSprite.png|wsmall right]]
 
 *Fossil Pokémon*
 *A vicious Pokémon from the distant past. It appears to have flown by spreading its wings and gliding. One has been revived from a fossil. It's very dangerous; it attacks with the intent to tear apart its victims.*

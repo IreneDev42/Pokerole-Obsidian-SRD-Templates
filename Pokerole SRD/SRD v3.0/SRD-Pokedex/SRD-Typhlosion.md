@@ -80,8 +80,8 @@ Weight:
 # Typhlosion 
 
 > [!grid]
-> ![[SRD-typhlosion-BookSprite.png|wsmall]]
-> ![[SRD-typhlosion-HomeSprite.png]]
+> ![[SRD-typhlosion-BookSprite.png|wsmall left]]
+> ![[SRD-typhlosion-HomeSprite.png|wsmall right]]
 
 *Volcano Pokémon*
 *Very rare to see in the wild. It hides behind a shimmering heat haze created using its back's fire. Typhlosion can create eruptions and explosive blasts that can burn everything to the ground.*

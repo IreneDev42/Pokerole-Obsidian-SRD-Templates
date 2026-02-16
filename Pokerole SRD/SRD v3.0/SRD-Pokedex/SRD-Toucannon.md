@@ -78,8 +78,8 @@ Weight:
 # Toucannon 
 
 > [!grid]
-> ![[SRD-toucannon-BookSprite.png|wsmall]]
-> ![[SRD-toucannon-HomeSprite.png]]
+> ![[SRD-toucannon-BookSprite.png|wsmall left]]
+> ![[SRD-toucannon-HomeSprite.png|wsmall right]]
 
 *Blade Quill Pokémon*
 *It can store and expel an extremely hot gas through its beak that ignites easily. The berry seeds it shoots can pierce boulders, leaving perfectly round holes in them. Fortunately, they nest deep in the jungle.*

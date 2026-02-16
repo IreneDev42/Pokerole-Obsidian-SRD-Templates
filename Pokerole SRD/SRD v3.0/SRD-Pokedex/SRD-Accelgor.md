@@ -77,8 +77,8 @@ Weight:
 # Accelgor 
 
 > [!grid]
-> ![[SRD-accelgor-BookSprite.png|wsmall]]
-> ![[SRD-accelgor-HomeSprite.png]]
+> ![[SRD-accelgor-BookSprite.png|wsmall left]]
+> ![[SRD-accelgor-HomeSprite.png|wsmall right]]
 
 *Shell Out Pokémon*
 *Having removed its heavy shell, it becomes very light and swift. When its body dries out, it weakens. To prevent dehydration, it wraps itself in many layers of a thin membrane. It is very rare to see one in the wild.*

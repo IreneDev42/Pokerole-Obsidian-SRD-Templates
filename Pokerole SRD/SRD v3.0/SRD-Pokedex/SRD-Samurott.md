@@ -80,8 +80,8 @@ Weight:
 # Samurott 
 
 > [!grid]
-> ![[SRD-samurott-BookSprite.png|wsmall]]
-> ![[SRD-samurott-HomeSprite.png]]
+> ![[SRD-samurott-BookSprite.png|wsmall left]]
+> ![[SRD-samurott-HomeSprite.png|wsmall right]]
 
 *Formidable Pokémon*
 *It uses the horn on its head and both seamitars attached to its front legs as weapons. In the late spring and fall, they gather on cold beaches and fight each other. The winner lets out an intimidating roar.*

@@ -74,8 +74,8 @@ Weight:
 # Komala 
 
 > [!grid]
-> ![[SRD-komala-BookSprite.png|wsmall]]
-> ![[SRD-komala-HomeSprite.png]]
+> ![[SRD-komala-BookSprite.png|wsmall left]]
+> ![[SRD-komala-HomeSprite.png|wsmall right]]
 
 *Drowsing Pokémon*
 *Komala are born asleep and never wake during their entire lives. They will have nightmares if you take their log-pillow. Although they appear aware of their surroundings in reality they are just dreaming.*

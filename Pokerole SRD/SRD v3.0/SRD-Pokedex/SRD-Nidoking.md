@@ -79,8 +79,8 @@ Weight:
 # Nidoking 
 
 > [!grid]
-> ![[SRD-nidoking-BookSprite.png|wsmall]]
-> ![[SRD-nidoking-HomeSprite.png]]
+> ![[SRD-nidoking-BookSprite.png|wsmall left]]
+> ![[SRD-nidoking-HomeSprite.png|wsmall right]]
 
 *Drill Pokémon*
 *It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom. There are records of one trampling and destroying a radio tower that was being built on his territory.*

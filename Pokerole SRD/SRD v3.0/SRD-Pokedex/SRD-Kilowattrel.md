@@ -78,8 +78,8 @@ Weight:
 # Kilowattrel 
 
 > [!grid]
-> ![[SRD-kilowattrel-BookSprite.png|wsmall]]
-> ![[SRD-kilowattrel-HomeSprite.png]]
+> ![[SRD-kilowattrel-BookSprite.png|wsmall left]]
+> ![[SRD-kilowattrel-HomeSprite.png|wsmall right]]
 
 *Frigatebird Pokémon*
 *They use their throat sac to store electricity, this energy allows them to fly for long distances over the sea. As much as they excel at soaring the sky, they are very poor swimmers and dislike getting wet.*

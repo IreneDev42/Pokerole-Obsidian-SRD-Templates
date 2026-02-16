@@ -86,8 +86,8 @@ Weight:
 # Dewott 
 
 > [!grid]
-> ![[SRD-dewott-BookSprite.png|wsmall]]
-> ![[SRD-dewott-HomeSprite.png]]
+> ![[SRD-dewott-BookSprite.png|wsmall left]]
+> ![[SRD-dewott-HomeSprite.png|wsmall right]]
 
 *Discipline Pokémon*
 *It isolates itself from others and trains every day to perform a double scalchop slash technique. This Pokémon takes itself very seriously and won't back down from any challenge.*

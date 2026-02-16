@@ -72,8 +72,8 @@ Weight:
 # Seedot 
 
 > [!grid]
-> ![[SRD-seedot-BookSprite.png|wsmall]]
-> ![[SRD-seedot-HomeSprite.png]]
+> ![[SRD-seedot-BookSprite.png|wsmall left]]
+> ![[SRD-seedot-HomeSprite.png|wsmall right]]
 
 *Acorn Pokémon*
 *They attach to tree branches to suck moisture from them. While immobile, the young are identical to real acorns. They enjoy scaring other Pokémon, especially Pidgey. If they fall, they are at risk of being eaten.*

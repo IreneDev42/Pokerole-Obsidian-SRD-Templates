@@ -77,8 +77,8 @@ Weight:
 # Umbreon 
 
 > [!grid]
-> ![[SRD-umbreon-BookSprite.png|wsmall]]
-> ![[SRD-umbreon-HomeSprite.png]]
+> ![[SRD-umbreon-BookSprite.png|wsmall left]]
+> ![[SRD-umbreon-HomeSprite.png|wsmall right]]
 
 *Moonlight Pokémon*
 *Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack. Its fur is drenched with poison.*

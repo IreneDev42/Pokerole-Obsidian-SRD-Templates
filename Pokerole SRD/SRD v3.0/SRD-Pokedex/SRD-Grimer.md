@@ -76,8 +76,8 @@ Weight:
 # Grimer 
 
 > [!grid]
-> ![[SRD-grimer-BookSprite.png|wsmall]]
-> ![[SRD-grimer-HomeSprite.png]]
+> ![[SRD-grimer-BookSprite.png|wsmall left]]
+> ![[SRD-grimer-HomeSprite.png|wsmall right]]
 
 *Sludge Pokémon*
 *It was born from polluted sludge in the sea. Grimer's favorite food is anything filthy, like water waste pumped out from factories. Grime and sludge stick to its body, making it grow larger over time.*

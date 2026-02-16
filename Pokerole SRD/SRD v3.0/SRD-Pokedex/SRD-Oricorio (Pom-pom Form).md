@@ -50,7 +50,7 @@ MaxInsight: 5
 MaxSpecial: 6
 MaxStrength: 5
 MaxVitality: 5
-Name: Oricorio (Pom-pom Form)
+Name: Oricorio (Pom-Pom Form)
 Number: 741
 ProMoves: []
 RecommendedRank: Advanced
@@ -78,17 +78,17 @@ Weight:
 
 #PokeroleSRD/Pokedex
 
-# Oricorio (Pom-pom Form) 
+# Oricorio (Pom-Pom Form) 
 
 > [!grid]
-> ![[SRD-oricorio-pom-pom-form-BookSprite.png|wsmall]]
-> ![[SRD-oricorio-pom-pom-form-HomeSprite.png]]
+> ![[SRD-oricorio-pom-pom-form-BookSprite.png|wsmall left]]
+> ![[SRD-oricorio-pom-pom-form-HomeSprite.png|wsmall right]]
 
 *Dancing Pokémon*
 *What was thought to be different species ended up being a single Pokémon. Oricorio Pom-Pom is full of cheer and energy. It charges its feathers with static electricity, releasing sparks with every swing.*
 
 **DexID**: 0741F1
-**Name**: Oricorio (Pom-pom Form)
+**Name**: Oricorio (Pom-Pom Form)
 **Type**: Electric / Flying
 **Abilities**: [[SRD-Dancer|Dancer]]
 **Base HP**: 5

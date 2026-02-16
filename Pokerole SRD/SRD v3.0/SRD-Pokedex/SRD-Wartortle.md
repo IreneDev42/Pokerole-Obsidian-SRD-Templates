@@ -80,8 +80,8 @@ Weight:
 # Wartortle 
 
 > [!grid]
-> ![[SRD-wartortle-BookSprite.png|wsmall]]
-> ![[SRD-wartortle-HomeSprite.png]]
+> ![[SRD-wartortle-BookSprite.png|wsmall left]]
+> ![[SRD-wartortle-HomeSprite.png|wsmall right]]
 
 *Turtle Pokémon*
 *Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's tough attitude in battle. It is a good hunter underwater.*

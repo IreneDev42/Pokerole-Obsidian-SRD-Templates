@@ -52,8 +52,8 @@ Weight:
 # Regidrago 
 
 > [!grid]
-> ![[SRD-regidrago-BookSprite.png|wsmall]]
-> ![[SRD-regidrago-HomeSprite.png]]
+> ![[SRD-regidrago-BookSprite.png|wsmall left]]
+> ![[SRD-regidrago-HomeSprite.png|wsmall right]]
 
 *Pokédex has no Data*
 *There's a spooky Galarian legend talking of a disembodied and giant dragon head that unleashes its wrath upon anyone it comes across. But surely it's just a silly tale to scare the children, right?*

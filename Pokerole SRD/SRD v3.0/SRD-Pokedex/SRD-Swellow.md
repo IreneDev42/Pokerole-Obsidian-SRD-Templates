@@ -75,8 +75,8 @@ Weight:
 # Swellow 
 
 > [!grid]
-> ![[SRD-swellow-BookSprite.png|wsmall]]
-> ![[SRD-swellow-HomeSprite.png]]
+> ![[SRD-swellow-BookSprite.png|wsmall left]]
+> ![[SRD-swellow-HomeSprite.png|wsmall right]]
 
 *Swallow Pokémon*
 *They are vain Pokémon, acting with grace and elegance. Swellow are seen circling the skies looking for prey. They can be incredibly fast. If two Swellow meet, they will clean each other's wings as a sign of peace.*

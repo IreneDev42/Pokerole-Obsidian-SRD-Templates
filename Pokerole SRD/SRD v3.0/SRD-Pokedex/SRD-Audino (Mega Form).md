@@ -81,8 +81,8 @@ Weight:
 # Audino (Mega Form) 
 
 > [!grid]
-> ![[SRD-audino-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-audino-mega-form-HomeSprite.png]]
+> ![[SRD-audino-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-audino-mega-form-HomeSprite.png|wsmall right]]
 
 *Hearing Pokémon*
 *The power of the Mega Stone increases the purity of this Pokémon, revealing its Fairy Type. It is so caring and protective of its trainer that it can hear their cries for help from miles away. It loves to soothe and care for others.*

@@ -76,8 +76,8 @@ Weight:
 # Iron Crown 
 
 > [!grid]
-> ![[SRD-iron-crown-BookSprite.png|wsmall]]
-> ![[SRD-iron-crown-HomeSprite.png]]
+> ![[SRD-iron-crown-BookSprite.png|wsmall left]]
+> ![[SRD-iron-crown-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *The creature is a judge, relentless and cold when imparting justice. It won't account for motives, or show any empathy. If you committed a crime—you will pay.*

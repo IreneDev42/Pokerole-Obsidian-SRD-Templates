@@ -74,8 +74,8 @@ Weight:
 # Deerling 
 
 > [!grid]
-> ![[SRD-deerling-BookSprite.png|wsmall]]
-> ![[SRD-deerling-HomeSprite.png]]
+> ![[SRD-deerling-BookSprite.png|wsmall left]]
+> ![[SRD-deerling-HomeSprite.png|wsmall right]]
 
 *Season Pokémon*
 *They are hatched at the beginning of the spring. Their coloring changes according to the season and can be affected by temperature as well. It usually stays hidden in tall grass while its mother is away.*

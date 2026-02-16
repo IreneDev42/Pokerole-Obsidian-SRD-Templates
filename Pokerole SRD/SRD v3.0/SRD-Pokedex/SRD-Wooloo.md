@@ -75,8 +75,8 @@ Weight:
 # Wooloo 
 
 > [!grid]
-> ![[SRD-wooloo-BookSprite.png|wsmall]]
-> ![[SRD-wooloo-HomeSprite.png]]
+> ![[SRD-wooloo-BookSprite.png|wsmall left]]
+> ![[SRD-wooloo-HomeSprite.png|wsmall right]]
 
 *Sheep Pokémon*
 *Wooloo's wool is incredibly resilient. It serves as a cushion when they fall from high mountain cliffs. They need to be sheared or their wool will be too heavy to move. A sweater made with this wool will last for a lifetime.*

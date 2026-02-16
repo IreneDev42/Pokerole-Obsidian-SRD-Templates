@@ -77,8 +77,8 @@ Weight:
 # Steenee 
 
 > [!grid]
-> ![[SRD-steenee-BookSprite.png|wsmall]]
-> ![[SRD-steenee-HomeSprite.png]]
+> ![[SRD-steenee-BookSprite.png|wsmall left]]
+> ![[SRD-steenee-HomeSprite.png|wsmall right]]
 
 *Fruit Pokémon*
 *Its sweet aroma keeps attracting predators but it fends them away with its hard and bitter head leaves. It likes to be taken seriously and can be hard to deal with, if you make it mad you'll receive a kick.*

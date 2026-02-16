@@ -81,8 +81,8 @@ Weight:
 # Ursaring 
 
 > [!grid]
-> ![[SRD-ursaring-BookSprite.png|wsmall]]
-> ![[SRD-ursaring-HomeSprite.png]]
+> ![[SRD-ursaring-BookSprite.png|wsmall left]]
+> ![[SRD-ursaring-HomeSprite.png|wsmall right]]
 
 *Hibernator Pokémon*
 *They are incredibly strong, great climbers and posses an amazing sense of smell. They snap trees and feed on their fruit as they eat quite a lot. A forest full of scratched trees marks the territory of Ursaring.*

@@ -78,8 +78,8 @@ Weight:
 # Ninjask 
 
 > [!grid]
-> ![[SRD-ninjask-BookSprite.png|wsmall]]
-> ![[SRD-ninjask-HomeSprite.png]]
+> ![[SRD-ninjask-BookSprite.png|wsmall left]]
+> ![[SRD-ninjask-HomeSprite.png|wsmall right]]
 
 *Ninja Pokémon*
 *Due to their speed and stealthiness, this Pokémon was believed to be invisible. They refuse to obey people and cry continuously if forced. People burn their cocoons as they are said to be cursed.*

@@ -76,8 +76,8 @@ Weight:
 # Armaldo 
 
 > [!grid]
-> ![[SRD-armaldo-BookSprite.png|wsmall]]
-> ![[SRD-armaldo-HomeSprite.png]]
+> ![[SRD-armaldo-BookSprite.png|wsmall left]]
+> ![[SRD-armaldo-HomeSprite.png|wsmall right]]
 
 *Plate Pokémon*
 *When the waters receded, this Pokémon was forced to evolve to live on land. Evidence suggests that its claws could extend to reach the prey that was far or underwater. Its tough shell made it very resilient.*

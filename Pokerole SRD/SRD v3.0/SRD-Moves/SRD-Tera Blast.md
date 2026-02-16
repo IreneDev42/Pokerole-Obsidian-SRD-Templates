@@ -3,7 +3,7 @@ Accuracy1: Strength/Special
 Accuracy2: Channel
 AddedEffects: {}
 Attributes: {}
-Category: Dual
+Category: Physical/Special
 Damage1: Strength/Special
 Damage2: ''
 Description: "A blast of sharp crystals and Tera energy, if the Pok\xE9mon is Terastallized\

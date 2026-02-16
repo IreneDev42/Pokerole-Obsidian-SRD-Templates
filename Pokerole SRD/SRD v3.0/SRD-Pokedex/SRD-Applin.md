@@ -70,8 +70,8 @@ Weight:
 # Applin 
 
 > [!grid]
-> ![[SRD-applin-BookSprite.png|wsmall]]
-> ![[SRD-applin-HomeSprite.png]]
+> ![[SRD-applin-BookSprite.png|wsmall left]]
+> ![[SRD-applin-HomeSprite.png|wsmall right]]
 
 *Apple Core Pokémon*
 *As soon as it's born, this tiny lizard Pokémon burrows into an apple to protect itself from flying Pokémon and predators. The apple serves as its food source and the flavor of it will determine its evolution.*

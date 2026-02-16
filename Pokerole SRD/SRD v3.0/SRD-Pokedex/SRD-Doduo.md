@@ -78,8 +78,8 @@ Weight:
 # Doduo 
 
 > [!grid]
-> ![[SRD-doduo-BookSprite.png|wsmall]]
-> ![[SRD-doduo-HomeSprite.png]]
+> ![[SRD-doduo-BookSprite.png|wsmall left]]
+> ![[SRD-doduo-HomeSprite.png|wsmall right]]
 
 *Twin Bird Pokémon*
 *It can fly, but it prefers to run in the prairies. The two heads usually get along. While one is eating or sleeping, the other one is alert for predators. It is known that they share a brain and their ideas are connected.*

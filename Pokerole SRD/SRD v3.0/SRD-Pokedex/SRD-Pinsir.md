@@ -77,8 +77,8 @@ Weight:
 # Pinsir 
 
 > [!grid]
-> ![[SRD-pinsir-BookSprite.png|wsmall]]
-> ![[SRD-pinsir-HomeSprite.png]]
+> ![[SRD-pinsir-BookSprite.png|wsmall left]]
+> ![[SRD-pinsir-HomeSprite.png|wsmall right]]
 
 *Stag Beetle Pokémon*
 *Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsirs burrow and sleep under the ground on chilly nights. They like to eat sap and honey, but they are aggressive by nature.*

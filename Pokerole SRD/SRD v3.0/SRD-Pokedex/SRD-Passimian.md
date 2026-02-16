@@ -77,8 +77,8 @@ Weight:
 # Passimian 
 
 > [!grid]
-> ![[SRD-passimian-BookSprite.png|wsmall]]
-> ![[SRD-passimian-HomeSprite.png]]
+> ![[SRD-passimian-BookSprite.png|wsmall left]]
+> ![[SRD-passimian-HomeSprite.png|wsmall right]]
 
 *Teamwork Pokémon*
 *They live in packs of 20 members. They are all coordinated to pass around the food and to defend their nest. Their leader is not the strongest but the best teamworker of the pack. A very loyal Pokémon.*

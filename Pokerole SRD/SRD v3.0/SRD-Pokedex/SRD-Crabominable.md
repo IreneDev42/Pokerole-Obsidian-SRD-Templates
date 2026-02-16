@@ -79,8 +79,8 @@ Weight:
 # Crabominable 
 
 > [!grid]
-> ![[SRD-crabominable-BookSprite.png|wsmall]]
-> ![[SRD-crabominable-HomeSprite.png]]
+> ![[SRD-crabominable-BookSprite.png|wsmall left]]
+> ![[SRD-crabominable-HomeSprite.png|wsmall right]]
 
 *Woolly Crab Pokémon*
 *Crawbrawler who get lost in the snowy mountains of Alola are forced to evolve into a more suitable form. Crabominable are not very smart and throw punches at friends and foes alike when they panic.*

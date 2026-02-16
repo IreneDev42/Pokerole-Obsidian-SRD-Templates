@@ -75,8 +75,8 @@ Weight:
 # Karrablast 
 
 > [!grid]
-> ![[SRD-karrablast-BookSprite.png|wsmall]]
-> ![[SRD-karrablast-HomeSprite.png]]
+> ![[SRD-karrablast-BookSprite.png|wsmall left]]
+> ![[SRD-karrablast-HomeSprite.png|wsmall right]]
 
 *Clamping Pokémon*
 *When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet as they compete for food. It only evolves when it has a Shelmet's shell as its new home.*

@@ -91,8 +91,8 @@ Weight:
 # Rotom 
 
 > [!grid]
-> ![[SRD-rotom-BookSprite.png|wsmall]]
-> ![[SRD-rotom-HomeSprite.png]]
+> ![[SRD-rotom-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *Its electric body can merge with certain machines to take control of them and cause mischief and chaos. It changes its form to that of an electric appliance, allowing it to become more powerful.*

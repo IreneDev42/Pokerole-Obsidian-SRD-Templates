@@ -74,8 +74,8 @@ Weight:
 # Tropius 
 
 > [!grid]
-> ![[SRD-tropius-BookSprite.png|wsmall]]
-> ![[SRD-tropius-HomeSprite.png]]
+> ![[SRD-tropius-BookSprite.png|wsmall left]]
+> ![[SRD-tropius-HomeSprite.png|wsmall right]]
 
 *Fruit Pokémon*
 *It is very common in humid and hot regions. It can grow back the fruit it has eaten. Mothers prefer Tropius fruits to feed their children as it is more nutritious and sweet. They are mellow and friendly Pokémon.*

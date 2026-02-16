@@ -75,8 +75,8 @@ Weight:
 # Snubbull 
 
 > [!grid]
-> ![[SRD-snubbull-BookSprite.png|wsmall]]
-> ![[SRD-snubbull-HomeSprite.png]]
+> ![[SRD-snubbull-BookSprite.png|wsmall left]]
+> ![[SRD-snubbull-HomeSprite.png|wsmall right]]
 
 *Fairy Pokémon*
 *It may look frightening, but it is a loving and caring creature, active and playful. Snubbull are easily scared. When threatened by bigger foes, they run away or make scary faces; that makes them sad though.*

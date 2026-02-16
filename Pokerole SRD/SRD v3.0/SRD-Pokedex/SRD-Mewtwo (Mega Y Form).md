@@ -81,8 +81,8 @@ Weight:
 # Mewtwo (Mega Y Form) 
 
 > [!grid]
-> ![[SRD-mewtwo-mega-y-form-BookSprite.png|wsmall]]
-> ![[SRD-mewtwo-mega-y-form-HomeSprite.png]]
+> ![[SRD-mewtwo-mega-y-form-BookSprite.png|wsmall left]]
+> ![[SRD-mewtwo-mega-y-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *With the power of the Mega Stone, its body got smaller but its power grew immensely. It can blow up even a skyscraper with just its thoughts.*

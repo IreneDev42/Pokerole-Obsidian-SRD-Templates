@@ -1,17 +1,17 @@
 ---
-Accuracy1: SameasBaseMove
+Accuracy1: SameAsBaseMove
 Accuracy2: ''
 AddedEffects: {}
 Attributes:
   ZMove: true
-Category: ''
-Damage1: SameasBasePower
+Category: Support/Physical/Special
+Damage1: SameAsBasePower
 Damage2: ''
 Description: ''
 Effect: 'Single Target. Suggested effects: In Love, Attribute Increase, Damage Increase
   See p. 610 for more info.'
 Name: Twinkle Tackle
-Power: ''
+Power: Happiness + Loyalty
 Target: Foe
 Type: Fairy
 ---

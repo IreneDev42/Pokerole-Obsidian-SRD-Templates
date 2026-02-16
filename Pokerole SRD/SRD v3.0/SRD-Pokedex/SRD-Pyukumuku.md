@@ -77,8 +77,8 @@ Weight:
 # Pyukumuku 
 
 > [!grid]
-> ![[SRD-pyukumuku-BookSprite.png|wsmall]]
-> ![[SRD-pyukumuku-HomeSprite.png]]
+> ![[SRD-pyukumuku-BookSprite.png|wsmall left]]
+> ![[SRD-pyukumuku-HomeSprite.png|wsmall right]]
 
 *Sea Cucumber Pokémon*
 *Once this Pokémon finds a spot it likes it will remain there without moving, even if food is out of reach. It can expel its organs through its mouth and use them like an arm. It's slimy and not many people like it.*

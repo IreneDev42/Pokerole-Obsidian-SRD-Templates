@@ -79,8 +79,8 @@ Weight:
 # Orbeetle 
 
 > [!grid]
-> ![[SRD-orbeetle-BookSprite.png|wsmall]]
-> ![[SRD-orbeetle-HomeSprite.png]]
+> ![[SRD-orbeetle-BookSprite.png|wsmall left]]
+> ![[SRD-orbeetle-HomeSprite.png|wsmall right]]
 
 *Seven Spot Pokémon*
 *It's famous for its high intelligence and the large size of its brain. It has immense psychic power. They patrol their territory as floating sentries, focusing a ray of light over any intruder, even if they are miles away.*

@@ -78,8 +78,8 @@ Weight:
 # Toxicroak 
 
 > [!grid]
-> ![[SRD-toxicroak-BookSprite.png|wsmall]]
-> ![[SRD-toxicroak-HomeSprite.png]]
+> ![[SRD-toxicroak-BookSprite.png|wsmall left]]
+> ![[SRD-toxicroak-HomeSprite.png|wsmall right]]
 
 *Toxic Mouth Pokémon*
 *The toxin made in its poison sacs is pumped into the knuckle claws through tubes down its arms. Its toxins are so powerful that even a scratch from its knuckles could be fatal in a few hours.*

@@ -80,8 +80,8 @@ Weight:
 # Hariyama 
 
 > [!grid]
-> ![[SRD-hariyama-BookSprite.png|wsmall]]
-> ![[SRD-hariyama-HomeSprite.png]]
+> ![[SRD-hariyama-BookSprite.png|wsmall left]]
+> ![[SRD-hariyama-HomeSprite.png|wsmall right]]
 
 *Arm Thrust Pokémon*
 *They may appear fat, but they are pure muscle. Hariyama have the habit of challenging big-looking creatures to tests of strength, sometimes mistaking cars and machines for real Pokémon.*

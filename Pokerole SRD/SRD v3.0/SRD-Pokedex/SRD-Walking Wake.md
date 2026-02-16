@@ -76,8 +76,8 @@ Weight:
 # Walking Wake 
 
 > [!grid]
-> ![[SRD-walking-wake-BookSprite.png|wsmall]]
-> ![[SRD-walking-wake-HomeSprite.png]]
+> ![[SRD-walking-wake-BookSprite.png|wsmall left]]
+> ![[SRD-walking-wake-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *Pokédex glitches as it has no data. On a remote island, an experiment gone wrong made it to the news when several wild Pokémon attacked the visitors of what was planned to be an amusement park.*

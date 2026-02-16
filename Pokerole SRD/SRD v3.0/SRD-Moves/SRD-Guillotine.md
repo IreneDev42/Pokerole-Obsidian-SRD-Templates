@@ -9,7 +9,7 @@ Attributes:
   AccuracyReduction: -5
   Lethal: true
 Category: Physical
-Damage1: '-'
+Damage1: ''
 Damage2: ''
 Description: "Fueled by the spirit of revolution the Pok\xE9mon sentences their foe\
   \ to be reduced at the neck. This devastating attack requires an emergency trip\

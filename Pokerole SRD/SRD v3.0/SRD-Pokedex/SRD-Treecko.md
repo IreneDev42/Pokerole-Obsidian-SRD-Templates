@@ -78,8 +78,8 @@ Weight:
 # Treecko 
 
 > [!grid]
-> ![[SRD-treecko-BookSprite.png|wsmall]]
-> ![[SRD-treecko-HomeSprite.png]]
+> ![[SRD-treecko-BookSprite.png|wsmall left]]
+> ![[SRD-treecko-HomeSprite.png|wsmall right]]
 
 *Wood Gecko Pokémon*
 *They climb trees with their spiked feet. They remain cool under stress, calm under pressure and collected when in danger. They are found protecting the trees ferociously.*

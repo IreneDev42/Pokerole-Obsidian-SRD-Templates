@@ -74,8 +74,8 @@ Weight:
 # Diglett (Alolan Form) 
 
 > [!grid]
-> ![[SRD-diglett-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-diglett-alolan-form-HomeSprite.png]]
+> ![[SRD-diglett-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-diglett-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mole Pokémon*
 *This variant of Diglett is only found in the Alola region. The small hairs on its head are used to perceive its surroundings while burrowed. Do not cut them or Diglett will become very sick.*

@@ -79,8 +79,8 @@ Weight:
 # Skuntank 
 
 > [!grid]
-> ![[SRD-skuntank-BookSprite.png|wsmall]]
-> ![[SRD-skuntank-HomeSprite.png]]
+> ![[SRD-skuntank-BookSprite.png|wsmall left]]
+> ![[SRD-skuntank-HomeSprite.png|wsmall right]]
 
 *Skunk Pokémon*
 *It sprays a reeking fluid from its tail. The fluid smells worse the longer it is allowed to fester. It is vulnerable to attacks that come from above due to its exuberant tail. When it's relaxed it doesn't smell bad.*

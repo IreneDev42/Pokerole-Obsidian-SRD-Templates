@@ -80,8 +80,8 @@ Weight:
 # Lanturn 
 
 > [!grid]
-> ![[SRD-lanturn-BookSprite.png|wsmall]]
-> ![[SRD-lanturn-HomeSprite.png]]
+> ![[SRD-lanturn-BookSprite.png|wsmall left]]
+> ![[SRD-lanturn-HomeSprite.png|wsmall right]]
 
 *Light Pokémon*
 *It is known for its soft light glow. They are not aggressive Pokémon. If you look into the dark sea at night you can sometimes see this Pokémon's light rising from the depths, making the sea look like a starry night.*

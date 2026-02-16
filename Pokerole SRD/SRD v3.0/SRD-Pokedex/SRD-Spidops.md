@@ -77,8 +77,8 @@ Weight:
 # Spidops 
 
 > [!grid]
-> ![[SRD-spidops-BookSprite.png|wsmall]]
-> ![[SRD-spidops-HomeSprite.png]]
+> ![[SRD-spidops-BookSprite.png|wsmall left]]
+> ![[SRD-spidops-HomeSprite.png|wsmall right]]
 
 *Trap Pokémon*
 *They are incredibly stealthy. If you find an area covered with sticky threads, stay away, for it is most certainly a trap, and once it catches any potential prey, the victim will not escape.*

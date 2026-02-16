@@ -80,8 +80,8 @@ Weight:
 # Archeops 
 
 > [!grid]
-> ![[SRD-archeops-BookSprite.png|wsmall]]
-> ![[SRD-archeops-HomeSprite.png]]
+> ![[SRD-archeops-BookSprite.png|wsmall left]]
+> ![[SRD-archeops-HomeSprite.png|wsmall right]]
 
 *First Bird Pokémon*
 *They used to form groups that cooperated to catch prey. From the ground, they used a running start to take flight. It is believed that they went extinct due to their poor tolerance for pain.*

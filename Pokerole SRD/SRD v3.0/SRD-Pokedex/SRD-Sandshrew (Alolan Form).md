@@ -78,8 +78,8 @@ Weight:
 # Sandshrew (Alolan Form) 
 
 > [!grid]
-> ![[SRD-sandshrew-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-sandshrew-alolan-form-HomeSprite.png]]
+> ![[SRD-sandshrew-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-sandshrew-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *Sandshrew who became trapped in the merciless cold weather of Alola had to change their types to survive. They now depend on snow to roll around; without it they are unable to curl up into a ball.*

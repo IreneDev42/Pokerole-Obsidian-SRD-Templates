@@ -75,8 +75,8 @@ Weight:
 # Darkrai 
 
 > [!grid]
-> ![[SRD-darkrai-BookSprite.png|wsmall]]
-> ![[SRD-darkrai-HomeSprite.png]]
+> ![[SRD-darkrai-BookSprite.png|wsmall left]]
+> ![[SRD-darkrai-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *All around the world, young children have depicted a similar figure in their drawings. They call it 'The Boogeyman'. People say it will make all your nightmares come true.*

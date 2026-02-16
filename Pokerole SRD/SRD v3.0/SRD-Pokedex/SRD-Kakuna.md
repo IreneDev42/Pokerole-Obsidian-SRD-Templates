@@ -65,8 +65,8 @@ Weight:
 # Kakuna 
 
 > [!grid]
-> ![[SRD-kakuna-BookSprite.png|wsmall]]
-> ![[SRD-kakuna-HomeSprite.png]]
+> ![[SRD-kakuna-BookSprite.png|wsmall left]]
+> ![[SRD-kakuna-HomeSprite.png|wsmall right]]
 
 *Cocoon Pokémon*
 *It remains virtually immobile while it clings to a tree. On the inside, it is preparing for evolution by raising the temperature of its shell. Beware of Beedrills that may roam close to it.*

@@ -83,8 +83,8 @@ Weight:
 # Infernape 
 
 > [!grid]
-> ![[SRD-infernape-BookSprite.png|wsmall]]
-> ![[SRD-infernape-HomeSprite.png]]
+> ![[SRD-infernape-BookSprite.png|wsmall left]]
+> ![[SRD-infernape-HomeSprite.png|wsmall right]]
 
 *Flame Pokémon*
 *Its fire crown showcases its proud and fiery nature. Infernape won't hesitate to fight bigger foes and will take on any challenge they face. Once Infernape enters a battle, it won't back down until it wins.*

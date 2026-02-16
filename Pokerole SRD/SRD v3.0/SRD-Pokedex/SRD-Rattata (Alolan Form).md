@@ -74,8 +74,8 @@ Weight:
 # Rattata (Alolan Form) 
 
 > [!grid]
-> ![[SRD-rattata-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-rattata-alolan-form-HomeSprite.png]]
+> ![[SRD-rattata-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-rattata-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *Rattata first came to Alola through cargo ships. It thrived and almost destroyed the region's ecosystem. Attempts to exterminate this Pokémon made it more vicious than its regular counterpart.*

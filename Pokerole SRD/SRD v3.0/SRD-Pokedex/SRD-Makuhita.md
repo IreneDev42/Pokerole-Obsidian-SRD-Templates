@@ -79,8 +79,8 @@ Weight:
 # Makuhita 
 
 > [!grid]
-> ![[SRD-makuhita-BookSprite.png|wsmall]]
-> ![[SRD-makuhita-HomeSprite.png]]
+> ![[SRD-makuhita-BookSprite.png|wsmall left]]
+> ![[SRD-makuhita-HomeSprite.png|wsmall right]]
 
 *Guts Pokémon*
 *A tenacious Pokémon that will get back up no matter how many times it gets knocked down. They have a tireless spirit, and never give up hope. Makuhita put all their hearts into everything they do.*

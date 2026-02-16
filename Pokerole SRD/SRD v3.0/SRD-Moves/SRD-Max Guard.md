@@ -1,13 +1,13 @@
 ---
-Accuracy1: SameasBaseMove
+Accuracy1: SameAsBaseMove
 Accuracy2: ''
 AddedEffects: {}
 Attributes:
   MaxMove: true
   Reaction: '5'
   ShieldMove: true
-Category: ''
-Damage1: SameasBasePower
+Category: Physical/Special
+Damage1: SameAsBasePower
 Damage2: ''
 Description: ''
 Effect: Target Max Self. Shield Move. Reaction 5. Reduce 5 Damage this Max Pokemon
@@ -15,7 +15,7 @@ Effect: Target Max Self. Shield Move. Reaction 5. Reduce 5 Damage this Max Pokem
   that targets the Max User
 Name: Max Guard
 Power: 0
-Target: ''
+Target: Self
 Type: Normal
 ---
 

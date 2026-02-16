@@ -73,8 +73,8 @@ Weight:
 # Throh 
 
 > [!grid]
-> ![[SRD-throh-BookSprite.png|wsmall]]
-> ![[SRD-throh-HomeSprite.png]]
+> ![[SRD-throh-BookSprite.png|wsmall left]]
+> ![[SRD-throh-HomeSprite.png|wsmall right]]
 
 *Judo Pokémon*
 *When they encounter foes bigger than themselves, they try to throw them away. In the wild they always travel in packs of five and make their clothes and belts out of plants and vines.*

@@ -75,8 +75,8 @@ Weight:
 # Blacephalon 
 
 > [!grid]
-> ![[SRD-blacephalon-BookSprite.png|wsmall]]
-> ![[SRD-blacephalon-HomeSprite.png]]
+> ![[SRD-blacephalon-BookSprite.png|wsmall left]]
+> ![[SRD-blacephalon-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #121*
 *It was horrible and so fast I could barely take a picture of the UB specimen. As soon as the portal opened it slithered through it, got close to one of the crew and exploded. His wounds are critical, the UB disappeared.*

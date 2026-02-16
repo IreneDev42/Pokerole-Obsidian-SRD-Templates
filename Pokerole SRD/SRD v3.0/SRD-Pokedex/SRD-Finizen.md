@@ -74,8 +74,8 @@ Weight:
 # Finizen 
 
 > [!grid]
-> ![[SRD-finizen-BookSprite.png|wsmall]]
-> ![[SRD-finizen-HomeSprite.png]]
+> ![[SRD-finizen-BookSprite.png|wsmall left]]
+> ![[SRD-finizen-HomeSprite.png|wsmall right]]
 
 *Dolphin Pokémon*
 *These friendly Pokémon can often be found playing with others of their kind. They can sense the emotions of other living creatures, and thus are always helping distressed people and Pokémon in the sea.*

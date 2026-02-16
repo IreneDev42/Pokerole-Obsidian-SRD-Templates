@@ -80,8 +80,8 @@ Weight:
 # Incineroar 
 
 > [!grid]
-> ![[SRD-incineroar-BookSprite.png|wsmall]]
-> ![[SRD-incineroar-HomeSprite.png]]
+> ![[SRD-incineroar-BookSprite.png|wsmall left]]
+> ![[SRD-incineroar-HomeSprite.png|wsmall right]]
 
 *Heel Pokémon*
 *It has a bad reputation; some of them have attacked the opposing trainer during battles. They are also prone to disobey their own Trainer, going for a more brutal fighting style to shred their foes to pieces.*

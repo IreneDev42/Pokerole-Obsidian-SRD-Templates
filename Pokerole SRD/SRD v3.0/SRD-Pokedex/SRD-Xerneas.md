@@ -52,8 +52,8 @@ Weight:
 # Xerneas 
 
 > [!grid]
-> ![[SRD-xerneas-BookSprite.png|wsmall]]
-> ![[SRD-xerneas-HomeSprite.png]]
+> ![[SRD-xerneas-BookSprite.png|wsmall left]]
+> ![[SRD-xerneas-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *A Kalos legend about the eternal struggle between life and death tells the story of an ancient king who tried to obtain eternal life and the power to make his departed loved ones live once again.*

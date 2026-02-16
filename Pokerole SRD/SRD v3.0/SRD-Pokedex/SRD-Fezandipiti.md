@@ -75,8 +75,8 @@ Weight:
 # Fezandipiti 
 
 > [!grid]
-> ![[SRD-fezandipiti-BookSprite.png|wsmall]]
-> ![[SRD-fezandipiti-HomeSprite.png]]
+> ![[SRD-fezandipiti-BookSprite.png|wsmall left]]
+> ![[SRD-fezandipiti-HomeSprite.png|wsmall right]]
 
 *Pokedex has no data.*
 *The most famous legend in Kitakami tells about how three Pokémon and their master defeated an ogre. One of them was ugly and dull but became bright and beautiful after eating a forbidden magical mochi.*

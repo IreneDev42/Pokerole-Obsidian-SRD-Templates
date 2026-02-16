@@ -75,8 +75,8 @@ Weight:
 # Sobble 
 
 > [!grid]
-> ![[SRD-sobble-BookSprite.png|wsmall]]
-> ![[SRD-sobble-HomeSprite.png]]
+> ![[SRD-sobble-BookSprite.png|wsmall left]]
+> ![[SRD-sobble-HomeSprite.png|wsmall right]]
 
 *Water Lizard Pokémon*
 *This shy Pokémon does not like to attract too much attention. It hides in shallow pools of water. When it feels threatened, it cries and its tear packs release a chemical that will make its foes cry too.*

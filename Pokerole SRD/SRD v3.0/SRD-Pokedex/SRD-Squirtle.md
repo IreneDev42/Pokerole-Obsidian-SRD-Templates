@@ -76,8 +76,8 @@ Weight:
 # Squirtle 
 
 > [!grid]
-> ![[SRD-squirtle-BookSprite.png|wsmall]]
-> ![[SRD-squirtle-HomeSprite.png]]
+> ![[SRD-squirtle-BookSprite.png|wsmall left]]
+> ![[SRD-squirtle-HomeSprite.png|wsmall right]]
 
 *Tiny turtle Pokémon*
 *It is scarce in the wild. The shell is not just for protection - it also helps to minimize resistance in water, enabling Squirtle to swim at high speeds. It's usually a calm and easygoing Pokémon.*

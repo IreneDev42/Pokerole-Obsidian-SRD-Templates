@@ -83,8 +83,8 @@ Weight:
 # Swampert (Mega Form) 
 
 > [!grid]
-> ![[SRD-swampert-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-swampert-mega-form-HomeSprite.png]]
+> ![[SRD-swampert-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-swampert-mega-form-HomeSprite.png|wsmall right]]
 
 *Mud Fish Pokémon*
 *The power of the Mega Stone increases its muscle strength; it would appear to be slower, but its skin is so slippy it allows it to quickly slide over puddles and mud. It also becomes a bit bolder and moody.*

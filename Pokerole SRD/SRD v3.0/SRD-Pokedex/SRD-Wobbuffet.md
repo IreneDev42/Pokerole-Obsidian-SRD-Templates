@@ -62,8 +62,8 @@ Weight:
 # Wobbuffet 
 
 > [!grid]
-> ![[SRD-wobbuffet-BookSprite.png|wsmall]]
-> ![[SRD-wobbuffet-HomeSprite.png]]
+> ![[SRD-wobbuffet-BookSprite.png|wsmall left]]
+> ![[SRD-wobbuffet-HomeSprite.png|wsmall right]]
 
 *Patient Pokémon*
 *Wobbuffet looks somewhat deflated until it senses an aggressor, then it inflates. It will do nothing besides endure and counter attacks. It always keeps its black tail hidden; the reasons are still a mystery.*

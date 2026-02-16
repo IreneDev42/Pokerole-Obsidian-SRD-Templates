@@ -78,8 +78,8 @@ Weight:
 # Voltorb (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-voltorb-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-voltorb-hisuian-form-HomeSprite.png]]
+> ![[SRD-voltorb-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-voltorb-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Ball Pokémon*
 *Originally from the Hisui region, Voltorb were friendly Pokémon, but their tendency to give discharges out of excitement had them kicked out of towns. They had seeds inside of them which disappeared as they adapted.*

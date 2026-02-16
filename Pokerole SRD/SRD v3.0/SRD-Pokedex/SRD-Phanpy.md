@@ -73,8 +73,8 @@ Weight:
 # Phanpy 
 
 > [!grid]
-> ![[SRD-phanpy-BookSprite.png|wsmall]]
-> ![[SRD-phanpy-HomeSprite.png]]
+> ![[SRD-phanpy-BookSprite.png|wsmall left]]
+> ![[SRD-phanpy-HomeSprite.png|wsmall right]]
 
 *Long Nose Pokémon*
 *They are affectionate and playful, but their snout is so strong that they may hurt others while playing. They dig pits at the edge of rivers and mark them so everyone knows that place is taken.*

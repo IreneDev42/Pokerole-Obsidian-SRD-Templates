@@ -74,8 +74,8 @@ Weight:
 # Vaporeon 
 
 > [!grid]
-> ![[SRD-vaporeon-BookSprite.png|wsmall]]
-> ![[SRD-vaporeon-HomeSprite.png]]
+> ![[SRD-vaporeon-BookSprite.png|wsmall left]]
+> ![[SRD-vaporeon-HomeSprite.png|wsmall right]]
 
 *Bubble Jet Pokémon*
 *Eevee underwent a strange mutation. It grew fins and gills that allow it to live underwater. This Pokémon has the ability to become translucent when it dives underwater.*

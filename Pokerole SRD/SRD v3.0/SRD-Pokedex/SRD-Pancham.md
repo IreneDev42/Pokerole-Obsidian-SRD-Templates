@@ -75,8 +75,8 @@ Weight:
 # Pancham 
 
 > [!grid]
-> ![[SRD-pancham-BookSprite.png|wsmall]]
-> ![[SRD-pancham-HomeSprite.png]]
+> ![[SRD-pancham-BookSprite.png|wsmall left]]
+> ![[SRD-pancham-HomeSprite.png|wsmall right]]
 
 *Playful Pokémon*
 *It lives in bamboo forests. It is very energetic and playful. It wishes to be taken seriously but has a hard time due to its cute appearance. For this reason it may start hanging out with the wrong crowd.*

@@ -73,8 +73,8 @@ Weight:
 # Basculin 
 
 > [!grid]
-> ![[SRD-basculin-BookSprite.png|wsmall]]
-> ![[SRD-basculin-HomeSprite.png]]
+> ![[SRD-basculin-BookSprite.png|wsmall left]]
+> ![[SRD-basculin-HomeSprite.png|wsmall right]]
 
 *Hostile Pokémon*
 *Two variants exist of the same Pokémon, a blue one and a red one, but they don't get along as they compete for territory and prey. These Pokémon are very hostile, but also delicious when grilled.*

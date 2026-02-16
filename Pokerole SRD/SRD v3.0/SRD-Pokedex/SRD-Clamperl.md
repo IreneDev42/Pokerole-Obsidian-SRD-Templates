@@ -68,8 +68,8 @@ Weight:
 # Clamperl 
 
 > [!grid]
-> ![[SRD-clamperl-BookSprite.png|wsmall]]
-> ![[SRD-clamperl-HomeSprite.png]]
+> ![[SRD-clamperl-BookSprite.png|wsmall left]]
+> ![[SRD-clamperl-HomeSprite.png|wsmall right]]
 
 *Bivalve Pokémon*
 *It is protected by a sturdy shell which is used to catch its prey. Clamperl will produce a magnificent pearl once in a lifetime. That pearl is said to increase Psychic powers and will sell for a lot of money.*

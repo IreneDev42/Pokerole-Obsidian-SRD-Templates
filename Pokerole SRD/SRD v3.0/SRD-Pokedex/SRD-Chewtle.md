@@ -72,8 +72,8 @@ Weight:
 # Chewtle 
 
 > [!grid]
-> ![[SRD-chewtle-BookSprite.png|wsmall]]
-> ![[SRD-chewtle-HomeSprite.png]]
+> ![[SRD-chewtle-BookSprite.png|wsmall left]]
+> ![[SRD-chewtle-HomeSprite.png|wsmall right]]
 
 *Snapping Pokémon*
 *It uses its horn as its primary weapon, but it has a reputation as a biter. Apparently its gums are itchy and the only way to soothe them is biting and chewing on stuff. It is kinda cranky but relatively harmless.*

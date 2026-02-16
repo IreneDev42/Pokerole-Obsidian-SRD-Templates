@@ -79,8 +79,8 @@ Weight:
 # Arcanine (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-arcanine-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-arcanine-hisuian-form-HomeSprite.png]]
+> ![[SRD-arcanine-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-arcanine-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Legendary Pokémon*
 *In the ancient land of Hisui, there were myths of a mighty beast made of fire and stone. It is believed to have been an Arcanine, but today's specimens barely resemble the mighty creature in the old scrolls.*

@@ -7,7 +7,7 @@ Name: Red Card
 OneUse: false
 PMD: false
 Pocket: HeldItems
-Source: Core v3.0
+Source: Core 3.0
 TrainerPrice: Not for Sale
 ---
 

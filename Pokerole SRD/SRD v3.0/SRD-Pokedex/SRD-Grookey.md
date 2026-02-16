@@ -75,8 +75,8 @@ Weight:
 # Grookey 
 
 > [!grid]
-> ![[SRD-grookey-BookSprite.png|wsmall]]
-> ![[SRD-grookey-HomeSprite.png]]
+> ![[SRD-grookey-BookSprite.png|wsmall left]]
+> ![[SRD-grookey-HomeSprite.png|wsmall right]]
 
 *Chimp Pokémon*
 *It spends its early days looking for a stick with a certain sound. It then uses the stick to create rhythmic beats that makes plants glow and grow. Grookey are enthusiastic and kind creatures that love music.*

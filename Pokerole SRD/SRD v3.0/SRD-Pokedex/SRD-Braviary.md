@@ -79,8 +79,8 @@ Weight:
 # Braviary 
 
 > [!grid]
-> ![[SRD-braviary-BookSprite.png|wsmall]]
-> ![[SRD-braviary-HomeSprite.png]]
+> ![[SRD-braviary-BookSprite.png|wsmall left]]
+> ![[SRD-braviary-HomeSprite.png|wsmall right]]
 
 *Valiant Pokémon*
 *Brave, strong, loyal, and selfless; this Pokémon embodies the virtues of what a Pokémon companion should be. They are very rare and valued not only for their bravery but also for their beautiful feathers.*

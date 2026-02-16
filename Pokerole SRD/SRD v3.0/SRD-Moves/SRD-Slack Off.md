@@ -8,7 +8,7 @@ AddedEffects:
     WillPointCost: 1
 Attributes: {}
 Category: Support
-Damage1: '-'
+Damage1: ''
 Damage2: ''
 Description: "Some Pok\xE9mon fight by giving their maximum effort all the time, they\
   \ are doing it wrong."

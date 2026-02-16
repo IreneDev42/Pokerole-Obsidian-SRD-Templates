@@ -73,8 +73,8 @@ Weight:
 # Volbeat 
 
 > [!grid]
-> ![[SRD-volbeat-BookSprite.png|wsmall]]
-> ![[SRD-volbeat-HomeSprite.png]]
+> ![[SRD-volbeat-BookSprite.png|wsmall left]]
+> ![[SRD-volbeat-HomeSprite.png|wsmall right]]
 
 *Firefly Pokémon*
 *The male of its species. Their tail shines bright during the night, drawing geometric shapes in the sky. Volbeat live in swarms around clean ponds. They are attracted to Illumise's sweet aroma.*

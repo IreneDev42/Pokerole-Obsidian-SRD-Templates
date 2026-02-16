@@ -80,8 +80,8 @@ Weight:
 # Linoone 
 
 > [!grid]
-> ![[SRD-linoone-BookSprite.png|wsmall]]
-> ![[SRD-linoone-HomeSprite.png]]
+> ![[SRD-linoone-BookSprite.png|wsmall left]]
+> ![[SRD-linoone-HomeSprite.png|wsmall right]]
 
 *Rushing Pokémon*
 *Linoone are always running at full speed, but they can only do so in straight lines. They find it very difficult to deal with a curved road. They excel at hunting, but tend to eat a lot to recover from their tiring runs.*

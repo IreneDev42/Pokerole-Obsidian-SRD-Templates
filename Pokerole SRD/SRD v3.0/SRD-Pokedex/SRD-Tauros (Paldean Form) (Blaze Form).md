@@ -73,8 +73,8 @@ Weight:
 # Tauros (Paldean Form) (Blaze Form) 
 
 > [!grid]
-> ![[SRD-tauros-paldean-form-blaze-form-BookSprite.png|wsmall]]
-> ![[SRD-tauros-paldean-form-blaze-form-HomeSprite.png]]
+> ![[SRD-tauros-paldean-form-blaze-form-BookSprite.png|wsmall left]]
+> ![[SRD-tauros-paldean-form-blaze-form-HomeSprite.png|wsmall right]]
 
 *Wild Bull Pokémon*
 *This is a male species. These Tauros are specially bred in Paldea for their lighter bodies and speed. They run so fast, they blaze the grass they charge in. The blaze breed is especially hot-headed and stubborn.*

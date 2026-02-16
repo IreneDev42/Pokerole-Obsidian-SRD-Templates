@@ -76,8 +76,8 @@ Weight:
 # Muk 
 
 > [!grid]
-> ![[SRD-muk-BookSprite.png|wsmall]]
-> ![[SRD-muk-HomeSprite.png]]
+> ![[SRD-muk-BookSprite.png|wsmall left]]
+> ![[SRD-muk-HomeSprite.png|wsmall right]]
 
 *Sludge Pokémon*
 *It gathers in polluted areas to eat filth. Its body is made of a powerful poison that kills any plant. Touching it can cause a fever that will require bed rest. A good diet may reduce Muk's toxicity.*

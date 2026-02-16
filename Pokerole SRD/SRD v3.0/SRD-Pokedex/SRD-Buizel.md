@@ -77,8 +77,8 @@ Weight:
 # Buizel 
 
 > [!grid]
-> ![[SRD-buizel-BookSprite.png|wsmall]]
-> ![[SRD-buizel-HomeSprite.png]]
+> ![[SRD-buizel-BookSprite.png|wsmall left]]
+> ![[SRD-buizel-HomeSprite.png|wsmall right]]
 
 *Sea Weasel Pokémon*
 *It is usually seen close to streams and rivers. Buizel swims by rotating its two tails like a screw; the sack around its neck swells to help it float or deflates to dive underwater and catch prey.*

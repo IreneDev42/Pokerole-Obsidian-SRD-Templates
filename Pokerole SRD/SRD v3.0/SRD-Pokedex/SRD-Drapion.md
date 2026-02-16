@@ -82,8 +82,8 @@ Weight:
 # Drapion 
 
 > [!grid]
-> ![[SRD-drapion-BookSprite.png|wsmall]]
-> ![[SRD-drapion-HomeSprite.png]]
+> ![[SRD-drapion-BookSprite.png|wsmall left]]
+> ![[SRD-drapion-HomeSprite.png|wsmall right]]
 
 *Ogre Scorp Pokémon*
 *This Pokémon is very aggressive. It can completely rotate its head over its body. Because of this, Drapion has no blind spots. Its venom is deadly and it won't hesitate to use it.*

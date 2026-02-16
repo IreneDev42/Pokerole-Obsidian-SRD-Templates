@@ -82,8 +82,8 @@ Weight:
 # Salamence 
 
 > [!grid]
-> ![[SRD-salamence-BookSprite.png|wsmall]]
-> ![[SRD-salamence-HomeSprite.png]]
+> ![[SRD-salamence-BookSprite.png|wsmall left]]
+> ![[SRD-salamence-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *After a lifetime of struggling for a dream, it finally grew its wings. Salamence, however, is extremely dangerous; it scorches entire fields and mountains. It's easily angered and completely uncontrollable.*

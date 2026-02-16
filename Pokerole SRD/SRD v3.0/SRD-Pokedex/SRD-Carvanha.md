@@ -74,8 +74,8 @@ Weight:
 # Carvanha 
 
 > [!grid]
-> ![[SRD-carvanha-BookSprite.png|wsmall]]
-> ![[SRD-carvanha-HomeSprite.png]]
+> ![[SRD-carvanha-BookSprite.png|wsmall left]]
+> ![[SRD-carvanha-HomeSprite.png|wsmall right]]
 
 *Savage Pokémon*
 *Anything near a Carvanha school will be swarmed, attacked, and torn to bits. However, they are very timid when they are on their own. They live in rivers in the jungle and dislike salt water.*

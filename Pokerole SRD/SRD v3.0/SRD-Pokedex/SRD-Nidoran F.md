@@ -75,8 +75,8 @@ Weight:
 # Nidoran F 
 
 > [!grid]
-> ![[SRD-nidoran-f-BookSprite.png|wsmall]]
-> ![[SRD-nidoran-f-HomeSprite.png]]
+> ![[SRD-nidoran-f-BookSprite.png|wsmall left]]
+> ![[SRD-nidoran-f-HomeSprite.png|wsmall right]]
 
 *Poison Pin Pokémon*
 *A female-only species. It lives close to meadows and forests. They are mellow Pokémon. To protect herself, she secretes a powerful toxin through her body. Her horn is small but venomous to the touch.*

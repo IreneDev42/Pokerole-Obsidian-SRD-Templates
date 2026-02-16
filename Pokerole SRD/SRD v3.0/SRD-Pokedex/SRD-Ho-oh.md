@@ -52,8 +52,8 @@ Weight:
 # Ho-oh 
 
 > [!grid]
-> ![[SRD-ho-oh-BookSprite.png|wsmall]]
-> ![[SRD-ho-oh-HomeSprite.png]]
+> ![[SRD-ho-oh-BookSprite.png|wsmall left]]
+> ![[SRD-ho-oh-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Ho-oh inhabited the Bell Tower, where Pokémon were said to rest. Ho-oh's myth talks about a creature that brought eternal rest for those whose time was right, and also gave back life if death was premature.*

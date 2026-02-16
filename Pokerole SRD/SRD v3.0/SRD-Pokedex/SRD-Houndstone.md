@@ -79,8 +79,8 @@ Weight:
 # Houndstone 
 
 > [!grid]
-> ![[SRD-houndstone-BookSprite.png|wsmall]]
-> ![[SRD-houndstone-HomeSprite.png]]
+> ![[SRD-houndstone-BookSprite.png|wsmall left]]
+> ![[SRD-houndstone-HomeSprite.png|wsmall right]]
 
 *Ghost Dog Pokémon*
 *Houndstone can be found resting in graveyards. It is said they guide and guard the souls of the departed. It is a fiercely loyal Pokémon that not even death could tear apart from its master.*

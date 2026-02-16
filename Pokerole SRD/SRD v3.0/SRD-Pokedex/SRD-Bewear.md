@@ -79,8 +79,8 @@ Weight:
 # Bewear 
 
 > [!grid]
-> ![[SRD-bewear-BookSprite.png|wsmall]]
-> ![[SRD-bewear-HomeSprite.png]]
+> ![[SRD-bewear-BookSprite.png|wsmall left]]
+> ![[SRD-bewear-HomeSprite.png|wsmall right]]
 
 *Strong Arm Pokémon*
 *They may look friendly but their brute strength makes them very dangerous. Many Trainers have been severely injured and even snapped in half by the 'hugs' of a Bewear.*

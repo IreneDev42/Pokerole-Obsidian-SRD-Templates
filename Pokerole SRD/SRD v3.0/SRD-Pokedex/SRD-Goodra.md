@@ -79,8 +79,8 @@ Weight:
 # Goodra 
 
 > [!grid]
-> ![[SRD-goodra-BookSprite.png|wsmall]]
-> ![[SRD-goodra-HomeSprite.png]]
+> ![[SRD-goodra-BookSprite.png|wsmall left]]
+> ![[SRD-goodra-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *Definitely the friendliest of all Dragons. This Pokémon will hug its beloved Trainer, leaving them covered in sticky slime. In areas with heavy rainfall during the year, one or two may make an appearance.*

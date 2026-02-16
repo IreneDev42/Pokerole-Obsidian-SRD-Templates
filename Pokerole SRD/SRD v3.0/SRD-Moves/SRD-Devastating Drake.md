@@ -1,18 +1,18 @@
 ---
-Accuracy1: SameasBaseMove
+Accuracy1: SameAsBaseMove
 Accuracy2: ''
 AddedEffects: {}
 Attributes:
   SoundMove: true
   ZMove: true
-Category: ''
-Damage1: SameasBasePower
+Category: Support/Physical/Special
+Damage1: SameAsBasePower
 Damage2: ''
 Description: ''
 Effect: 'Single Target. Suggested effects: Sound Move, Attribute Increase, Damage
   Increase See p. 610 for more info.'
 Name: Devastating Drake
-Power: ''
+Power: Happiness + Loyalty
 Target: Foe
 Type: Dragon
 ---

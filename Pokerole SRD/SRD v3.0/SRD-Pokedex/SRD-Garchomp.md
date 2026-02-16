@@ -84,8 +84,8 @@ Weight:
 # Garchomp 
 
 > [!grid]
-> ![[SRD-garchomp-BookSprite.png|wsmall]]
-> ![[SRD-garchomp-HomeSprite.png]]
+> ![[SRD-garchomp-BookSprite.png|wsmall left]]
+> ![[SRD-garchomp-HomeSprite.png|wsmall right]]
 
 *Mach Pokémon*
 *Garchomp are scarce in the wild and very dangerous. It folds its arms and uses its fins to fly extremely fast at low heights. Territorial and aggressive, it will not rest until it catches any daring trespasser.*

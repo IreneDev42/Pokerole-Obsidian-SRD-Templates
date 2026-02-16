@@ -68,8 +68,8 @@ Weight:
 # Dottler 
 
 > [!grid]
-> ![[SRD-dottler-BookSprite.png|wsmall]]
-> ![[SRD-dottler-HomeSprite.png]]
+> ![[SRD-dottler-BookSprite.png|wsmall left]]
+> ![[SRD-dottler-HomeSprite.png|wsmall right]]
 
 *Radome Pokémon*
 *It grows into its final stage inside a hard shell. It barely moves and it won't eat or drink during this time. Due to this, many believe it to be dead until its psychic powers awaken and it starts communicating telepathically.*

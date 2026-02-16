@@ -80,8 +80,8 @@ Weight:
 # Archaludon 
 
 > [!grid]
-> ![[SRD-archaludon-BookSprite.png|wsmall]]
-> ![[SRD-archaludon-HomeSprite.png]]
+> ![[SRD-archaludon-BookSprite.png|wsmall left]]
+> ![[SRD-archaludon-HomeSprite.png|wsmall right]]
 
 *Alloy Pokémon*
 *The metal alloy its body is made of is very light but incredibly resistant. It feeds on electricity, its tall size attracting lightning during storms. They can also be found digging in deep caves.*

@@ -72,8 +72,8 @@ Weight:
 # Poltchageist (Artisan Form) 
 
 > [!grid]
-> ![[SRD-poltchageist-artisan-form-BookSprite.png|wsmall]]
-> ![[SRD-poltchageist-artisan-form-HomeSprite.png]]
+> ![[SRD-poltchageist-artisan-form-BookSprite.png|wsmall left]]
+> ![[SRD-poltchageist-artisan-form-HomeSprite.png|wsmall right]]
 
 *Matcha Pokémon*
 *This Pokémon haunts high quality tea caddies. It can leave traces of its own body powder on food and beverages to suck the life of those who so much as lick it. Although similar, it's unrelated to Sinistea.*

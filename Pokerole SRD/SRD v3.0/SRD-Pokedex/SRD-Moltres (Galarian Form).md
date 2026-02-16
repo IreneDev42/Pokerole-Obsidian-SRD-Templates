@@ -71,8 +71,8 @@ Weight:
 # Moltres (Galarian Form) 
 
 > [!grid]
-> ![[SRD-moltres-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-moltres-galarian-form-HomeSprite.png]]
+> ![[SRD-moltres-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-moltres-galarian-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no Data.*
 *Folktales speak of a horrendous black bird whose evil aura burns the spirit within. Leaving its poor victims alive but empty shells of their former selves. If such pokémon exists it should be avoided at all costs.*

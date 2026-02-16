@@ -78,8 +78,8 @@ Weight:
 # Drednaw 
 
 > [!grid]
-> ![[SRD-drednaw-BookSprite.png|wsmall]]
-> ![[SRD-drednaw-HomeSprite.png]]
+> ![[SRD-drednaw-BookSprite.png|wsmall left]]
+> ![[SRD-drednaw-HomeSprite.png|wsmall right]]
 
 *Bite Pokémon*
 *It stays immobile near rivers and lakes, disguised as a rock until it snaps at an unsuspecting prey. Once something is trapped by its sharp teeth there is no way to take it out as it is incredibly stubborn.*

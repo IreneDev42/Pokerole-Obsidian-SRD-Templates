@@ -74,8 +74,8 @@ Weight:
 # Glastrier 
 
 > [!grid]
-> ![[SRD-glastrier-BookSprite.png|wsmall]]
-> ![[SRD-glastrier-HomeSprite.png]]
+> ![[SRD-glastrier-BookSprite.png|wsmall left]]
+> ![[SRD-glastrier-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There have been sightings of a horse galloping through blizzards in the Galar region. People who claim to have seen it say its cries are terrifying and that the creature goes away when the weather improves.*

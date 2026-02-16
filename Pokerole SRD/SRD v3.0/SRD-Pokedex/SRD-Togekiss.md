@@ -83,8 +83,8 @@ Weight:
 # Togekiss 
 
 > [!grid]
-> ![[SRD-togekiss-BookSprite.png|wsmall]]
-> ![[SRD-togekiss-HomeSprite.png]]
+> ![[SRD-togekiss-BookSprite.png|wsmall left]]
+> ![[SRD-togekiss-HomeSprite.png|wsmall right]]
 
 *Jubilee Pokémon*
 *Sightings of these Pokémon have become rare nowadays. They used to visit peaceful regions, bringing gifts of kindness and blessings. But they appear to have vanished in these times of conflict.*

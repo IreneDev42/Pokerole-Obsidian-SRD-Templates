@@ -81,8 +81,8 @@ Weight:
 # Grotle 
 
 > [!grid]
-> ![[SRD-grotle-BookSprite.png|wsmall]]
-> ![[SRD-grotle-HomeSprite.png]]
+> ![[SRD-grotle-BookSprite.png|wsmall left]]
+> ![[SRD-grotle-HomeSprite.png|wsmall right]]
 
 *Grove Pokémon*
 *Other Pokémon harass Grotle when the bushes on its back have berries or fruit. It patiently waits for others to finish eating before moving. It loves clear water and it's good at finding cool ponds and springs.*

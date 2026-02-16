@@ -78,8 +78,8 @@ Weight:
 # Liepard 
 
 > [!grid]
-> ![[SRD-liepard-BookSprite.png|wsmall]]
-> ![[SRD-liepard-HomeSprite.png]]
+> ![[SRD-liepard-BookSprite.png|wsmall left]]
+> ![[SRD-liepard-HomeSprite.png|wsmall right]]
 
 *Cruel Pokémon*
 *It's difficult to see one in the wild. These Pokémon vanish and appear, attacking unexpectedly. Many Trainers are drawn to their beautiful fur and elegant appeal, but they can be quite dangerous.*

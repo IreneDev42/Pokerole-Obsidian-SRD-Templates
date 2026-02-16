@@ -74,8 +74,8 @@ Weight:
 # Spearow 
 
 > [!grid]
-> ![[SRD-spearow-BookSprite.png|wsmall]]
-> ![[SRD-spearow-HomeSprite.png]]
+> ![[SRD-spearow-BookSprite.png|wsmall left]]
+> ![[SRD-spearow-HomeSprite.png|wsmall right]]
 
 *Tiny Bird Pokémon*
 *It forms flocks living in grasslands. Very protective of its territory, it flaps its short wings to dart around at high speed. It is a little short-tempered; if disturbed, it will shriek, calling its flock for aid.*

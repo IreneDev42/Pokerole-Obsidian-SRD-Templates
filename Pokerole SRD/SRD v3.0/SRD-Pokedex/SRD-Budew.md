@@ -67,8 +67,8 @@ Weight:
 # Budew 
 
 > [!grid]
-> ![[SRD-budew-BookSprite.png|wsmall]]
-> ![[SRD-budew-HomeSprite.png]]
+> ![[SRD-budew-BookSprite.png|wsmall left]]
+> ![[SRD-budew-HomeSprite.png|wsmall right]]
 
 *Bud Pokémon*
 *It blossoms near clear ponds. Budew needs nurturing and care to grow healthy and beautiful, otherwise its bud will never bloom. If threatened, they will reveal their small but poisonous thorns.*

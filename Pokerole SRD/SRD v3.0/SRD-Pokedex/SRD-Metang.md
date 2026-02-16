@@ -79,8 +79,8 @@ Weight:
 # Metang 
 
 > [!grid]
-> ![[SRD-metang-BookSprite.png|wsmall]]
-> ![[SRD-metang-HomeSprite.png]]
+> ![[SRD-metang-BookSprite.png|wsmall left]]
+> ![[SRD-metang-HomeSprite.png|wsmall right]]
 
 *Iron Claw Pokémon*
 *Its two brains are joined by a magnetic nervous system. This allows Metang to use psychokinetic powers. It is able to float and move in midair at 60 mph (96 kph). To evolve further it will need more brain power.*

@@ -53,8 +53,8 @@ Weight:
 # Giratina (Origin Form) 
 
 > [!grid]
-> ![[SRD-giratina-origin-form-BookSprite.png|wsmall]]
-> ![[SRD-giratina-origin-form-HomeSprite.png]]
+> ![[SRD-giratina-origin-form-BookSprite.png|wsmall left]]
+> ![[SRD-giratina-origin-form-HomeSprite.png|wsmall right]]
 
 *Plot Device*
 *Plot Device*

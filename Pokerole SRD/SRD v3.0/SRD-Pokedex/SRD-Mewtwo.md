@@ -85,8 +85,8 @@ Weight:
 # Mewtwo 
 
 > [!grid]
-> ![[SRD-mewtwo-BookSprite.png|wsmall]]
-> ![[SRD-mewtwo-HomeSprite.png]]
+> ![[SRD-mewtwo-BookSprite.png|wsmall left]]
+> ![[SRD-mewtwo-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *An article in a science magazine talked about how much cloning research was progressing, but... could it be?*

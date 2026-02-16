@@ -62,8 +62,8 @@ Weight:
 # Smeargle 
 
 > [!grid]
-> ![[SRD-smeargle-BookSprite.png|wsmall]]
-> ![[SRD-smeargle-HomeSprite.png]]
+> ![[SRD-smeargle-BookSprite.png|wsmall left]]
+> ![[SRD-smeargle-HomeSprite.png|wsmall right]]
 
 *Painter Pokémon*
 *A special ink oozes from its tail to mark its territory. They are skilled artists, known for painting action scenes from great battles. If they study their painting for a long time, they learn those moves.*

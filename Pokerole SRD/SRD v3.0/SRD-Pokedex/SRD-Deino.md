@@ -77,8 +77,8 @@ Weight:
 # Deino 
 
 > [!grid]
-> ![[SRD-deino-BookSprite.png|wsmall]]
-> ![[SRD-deino-HomeSprite.png]]
+> ![[SRD-deino-BookSprite.png|wsmall left]]
+> ![[SRD-deino-HomeSprite.png|wsmall right]]
 
 *Irate Pokémon*
 *This Pokémon is blind. It bites all it finds to be aware of its surroundings. It constantly bumps into things and attacks anything that's too close. Their bodies are covered in wounds and they are very aggressive.*

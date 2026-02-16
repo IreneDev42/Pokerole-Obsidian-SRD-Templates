@@ -81,8 +81,8 @@ Weight:
 # Wyrdeer 
 
 > [!grid]
-> ![[SRD-wyrdeer-BookSprite.png|wsmall]]
-> ![[SRD-wyrdeer-HomeSprite.png]]
+> ![[SRD-wyrdeer-BookSprite.png|wsmall left]]
+> ![[SRD-wyrdeer-HomeSprite.png|wsmall right]]
 
 *Big Horn Pokémon*
 *Before these Pokémon went extinct they were used by Hisuian tribes as rides through snowy terrain. Their fur was also used to make insulated winter coats. Sadly, not a single one has been seen in centuries.*

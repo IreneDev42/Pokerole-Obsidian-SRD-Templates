@@ -81,8 +81,8 @@ Weight:
 # Froslass 
 
 > [!grid]
-> ![[SRD-froslass-BookSprite.png|wsmall]]
-> ![[SRD-froslass-HomeSprite.png]]
+> ![[SRD-froslass-BookSprite.png|wsmall left]]
+> ![[SRD-froslass-HomeSprite.png|wsmall right]]
 
 *Snow Land Pokémon*
 *This Pokémon is female-only. Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass. It appears during blizzards to take lost people away.*

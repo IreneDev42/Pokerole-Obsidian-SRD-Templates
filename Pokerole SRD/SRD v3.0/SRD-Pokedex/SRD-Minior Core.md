@@ -77,8 +77,8 @@ Weight:
 # Minior Core 
 
 > [!grid]
-> ![[SRD-minior-core-BookSprite.png|wsmall]]
-> ![[SRD-minior-core-HomeSprite.png]]
+> ![[SRD-minior-core-BookSprite.png|wsmall left]]
+> ![[SRD-minior-core-HomeSprite.png|wsmall right]]
 
 *Meteor Pokémon*
 *Without its shell Minior can move faster. They have playful and colorful personalities. If a Minior wants to regrow their shell they must go to the stratosphere for a few days. Some of them never return, though.*

@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: Remain concious until the end. The first time the user would faint due
   to damage from a move, remain at 1 HP instead.
 Image: SRD-focus-sash-ItemSprite.png

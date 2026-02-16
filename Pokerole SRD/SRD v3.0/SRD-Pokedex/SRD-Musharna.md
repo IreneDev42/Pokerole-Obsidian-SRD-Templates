@@ -81,8 +81,8 @@ Weight:
 # Musharna 
 
 > [!grid]
-> ![[SRD-musharna-BookSprite.png|wsmall]]
-> ![[SRD-musharna-HomeSprite.png]]
+> ![[SRD-musharna-BookSprite.png|wsmall left]]
+> ![[SRD-musharna-HomeSprite.png|wsmall right]]
 
 *Drowsing Pokémon*
 *It communicates with the mist on its forehead. It can create shapes and images from dreams it has eaten. It is said that this Pokémon is a link between this world and a another one made entirely of dreams.*

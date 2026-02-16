@@ -77,8 +77,8 @@ Weight:
 # Quagsire 
 
 > [!grid]
-> ![[SRD-quagsire-BookSprite.png|wsmall]]
-> ![[SRD-quagsire-HomeSprite.png]]
+> ![[SRD-quagsire-BookSprite.png|wsmall left]]
+> ![[SRD-quagsire-HomeSprite.png|wsmall right]]
 
 *Water Fish Pokémon*
 *You'll find its home at the bottom of the river. It hunts by leaving its mouth wide open in water and waiting for its prey to get in. Because it doesn't move a lot, it does not get very hungry.*

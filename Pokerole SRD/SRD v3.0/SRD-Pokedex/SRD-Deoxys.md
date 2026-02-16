@@ -79,8 +79,8 @@ Weight:
 # Deoxys 
 
 > [!grid]
-> ![[SRD-deoxys-BookSprite.png|wsmall]]
-> ![[SRD-deoxys-HomeSprite.png]]
+> ![[SRD-deoxys-BookSprite.png|wsmall left]]
+> ![[SRD-deoxys-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *A space expedition had to be aborted due to an emergency. The ship's crew mentioned a creature attacking them inside their ship. They all gave different descriptions of said creature.*

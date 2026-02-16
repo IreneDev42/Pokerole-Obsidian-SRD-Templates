@@ -74,8 +74,8 @@ Weight:
 # Greavard 
 
 > [!grid]
-> ![[SRD-greavard-BookSprite.png|wsmall]]
-> ![[SRD-greavard-HomeSprite.png]]
+> ![[SRD-greavard-BookSprite.png|wsmall left]]
+> ![[SRD-greavard-HomeSprite.png|wsmall right]]
 
 *Ghost Dog Pokémon*
 *Myth says that if a dog Pokémon dies without ever having a human friend, it will become this Pokémon. They dislike being alone and are pretty clingy. If you pet one or feed one it will follow you forever. Literally.*

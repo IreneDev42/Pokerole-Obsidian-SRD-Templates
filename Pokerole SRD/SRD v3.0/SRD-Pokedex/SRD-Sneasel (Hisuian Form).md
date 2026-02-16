@@ -23,7 +23,7 @@ Evolutions:
 - Evolves: To
   Item: Razor Claw
   Kind: Level
-  Pokemon: '[[SRD-Sneaseler]]'
+  Pokemon: '[[SRD-Sneasler]]'
   Special: Sunlight
 ExpertMoves:
 - Close Combat
@@ -76,8 +76,8 @@ Weight:
 # Sneasel (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-sneasel-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-sneasel-hisuian-form-HomeSprite.png]]
+> ![[SRD-sneasel-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-sneasel-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Sharp Claw Pokémon*
 *Sneasel who lived hundreds of years ago in Hisui's vast mountain range were excellent hunters who relied on their venomous claws. Climate changes made the mountains too cold and they had to adapt.*
@@ -101,9 +101,9 @@ Weight:
 **Good Starter**:: Yes
 **Recommended Rank**:: Standard
 
-| Evolves   | Pokemon           | Kind   | Item       | Special   |
-|:----------|:------------------|:-------|:-----------|:----------|
-| To        | [[SRD-Sneaseler]] | Level  | Razor Claw | Sunlight  |
+| Evolves   | Pokemon          | Kind   | Item       | Special   |
+|:----------|:-----------------|:-------|:-----------|:----------|
+| To        | [[SRD-Sneasler]] | Level  | Razor Claw | Sunlight  |
 
 
 ## Learnset

@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: "Don\u2019t waste food. Heal 1 Damage at the end of the Round. Consumed\
   \ after healing 3 Damage."
 Image: SRD-leftovers-ItemSprite.png

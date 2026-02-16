@@ -78,8 +78,8 @@ Weight:
 # Frillish 
 
 > [!grid]
-> ![[SRD-frillish-BookSprite.png|wsmall]]
-> ![[SRD-frillish-HomeSprite.png]]
+> ![[SRD-frillish-BookSprite.png|wsmall left]]
+> ![[SRD-frillish-HomeSprite.png|wsmall right]]
 
 *Floating Pokémon*
 *If a Frillish is spotted, all beaches nearby will be closed for the day. This Pokemon paralizes a swimming victim and wraps them, dragging them to the bottom of the sea. Females are usually pink.*

@@ -82,8 +82,8 @@ Weight:
 # Gothitelle 
 
 > [!grid]
-> ![[SRD-gothitelle-BookSprite.png|wsmall]]
-> ![[SRD-gothitelle-HomeSprite.png]]
+> ![[SRD-gothitelle-BookSprite.png|wsmall left]]
+> ![[SRD-gothitelle-HomeSprite.png|wsmall right]]
 
 *Astral Body Pokémon*
 *They can predict the future from the placement and movement of the stars. They get restless if someone they know will be in danger. They are empathic creatures that can understand human emotion.*

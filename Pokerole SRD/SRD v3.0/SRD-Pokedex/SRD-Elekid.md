@@ -74,8 +74,8 @@ Weight:
 # Elekid 
 
 > [!grid]
-> ![[SRD-elekid-BookSprite.png|wsmall]]
-> ![[SRD-elekid-HomeSprite.png]]
+> ![[SRD-elekid-BookSprite.png|wsmall left]]
+> ![[SRD-elekid-HomeSprite.png|wsmall right]]
 
 *Electric Pokémon*
 *They follow storms and bad weather. Elekid rotate their arms constantly to charge electricity. Beware, there is an electric current between their horns that may zap you if you touch them.*

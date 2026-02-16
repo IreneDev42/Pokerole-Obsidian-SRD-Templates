@@ -75,8 +75,8 @@ Weight:
 # Entei 
 
 > [!grid]
-> ![[SRD-entei-BookSprite.png|wsmall]]
-> ![[SRD-entei-HomeSprite.png]]
+> ![[SRD-entei-BookSprite.png|wsmall left]]
+> ![[SRD-entei-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Johto legends tell about a Pokémon so powerful that its roars make volcanoes erupt, traveling the lands cloaked in a cloud of volcanic smoke.*

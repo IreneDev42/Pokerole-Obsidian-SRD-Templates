@@ -73,8 +73,8 @@ Weight:
 # Ponyta (Galarian Form) 
 
 > [!grid]
-> ![[SRD-ponyta-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-ponyta-galarian-form-HomeSprite.png]]
+> ![[SRD-ponyta-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-ponyta-galarian-form-HomeSprite.png|wsmall right]]
 
 *Unique Horn Pokémon*
 *The old magical forests of Galar made Ponyta adopt a mystic nature. Their miraculous horn can heal most wounds and sense the purity in your heart; if you hold evil, you'll never see this Pokémon in the wild.*

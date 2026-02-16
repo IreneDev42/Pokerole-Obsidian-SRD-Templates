@@ -77,8 +77,8 @@ Weight:
 # Espeon 
 
 > [!grid]
-> ![[SRD-espeon-BookSprite.png|wsmall]]
-> ![[SRD-espeon-HomeSprite.png]]
+> ![[SRD-espeon-BookSprite.png|wsmall left]]
+> ![[SRD-espeon-HomeSprite.png|wsmall right]]
 
 *Sun Pokémon*
 *Espeon is extremely loyal to the trainer it considers worthy. It is said to have developed precognitive powers to protect its trainer from harm. The orb on its forehead glows whenever it uses psychic energy.*

@@ -79,8 +79,8 @@ Weight:
 # Lilligant 
 
 > [!grid]
-> ![[SRD-lilligant-BookSprite.png|wsmall]]
-> ![[SRD-lilligant-HomeSprite.png]]
+> ![[SRD-lilligant-BookSprite.png|wsmall left]]
+> ![[SRD-lilligant-HomeSprite.png|wsmall right]]
 
 *Flowering Pokémon*
 *Even veteran gardeners face a challenge in getting its beautiful flower to bloom, as it withers with ease. This Pokémon is popular among celebrities due to its grace, elegance and delicious aroma.*

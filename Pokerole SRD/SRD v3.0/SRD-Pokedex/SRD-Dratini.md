@@ -74,8 +74,8 @@ Weight:
 # Dratini 
 
 > [!grid]
-> ![[SRD-dratini-BookSprite.png|wsmall]]
-> ![[SRD-dratini-HomeSprite.png]]
+> ![[SRD-dratini-BookSprite.png|wsmall left]]
+> ![[SRD-dratini-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *Up until recently its existence was debated as being a mere legend, then a small colony was found underwater. It is still extremely rare to find. It sheds skin and grows larger every day.*

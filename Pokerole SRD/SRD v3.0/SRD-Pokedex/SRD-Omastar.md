@@ -76,8 +76,8 @@ Weight:
 # Omastar 
 
 > [!grid]
-> ![[SRD-omastar-BookSprite.png|wsmall]]
-> ![[SRD-omastar-HomeSprite.png]]
+> ![[SRD-omastar-BookSprite.png|wsmall left]]
+> ![[SRD-omastar-HomeSprite.png|wsmall right]]
 
 *Spiral Pokemon*
 *An Omastar used its tentacles to ensnare and capture its prey. It is believed to have become extinct because the shell grew too large, making it slow and ponderous. It is not found in the wild anymore.*

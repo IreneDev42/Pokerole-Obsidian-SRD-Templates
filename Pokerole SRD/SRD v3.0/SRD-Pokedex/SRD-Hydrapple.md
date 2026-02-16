@@ -81,8 +81,8 @@ Weight:
 # Hydrapple 
 
 > [!grid]
-> ![[SRD-hydrapple-BookSprite.png|wsmall]]
-> ![[SRD-hydrapple-HomeSprite.png]]
+> ![[SRD-hydrapple-BookSprite.png|wsmall left]]
+> ![[SRD-hydrapple-HomeSprite.png|wsmall right]]
 
 *Apple Hydra Pokémon*
 *Up to seven serpent Pokémon have been found living inside one of these sticky apples. The larger serpent becomes the leader. Each with its own personality, their moods and motives rarely allign.*

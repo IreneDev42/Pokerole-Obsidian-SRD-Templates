@@ -1,5 +1,5 @@
 ---
-Ability1: Good as Gold
+Ability1: Good As Gold
 Ability2: ''
 AceMoves:
 - Thunder Wave
@@ -29,7 +29,7 @@ Evolutions:
   Special: Fill the gold chest
 ExpertMoves:
 - Recover
-- Make it Rain
+- Make It Rain
 - Nasty Plot
 - Memento
 GenderType: N
@@ -77,8 +77,8 @@ Weight:
 # Gholdengo 
 
 > [!grid]
-> ![[SRD-gholdengo-BookSprite.png|wsmall]]
-> ![[SRD-gholdengo-HomeSprite.png]]
+> ![[SRD-gholdengo-BookSprite.png|wsmall left]]
+> ![[SRD-gholdengo-HomeSprite.png|wsmall right]]
 
 *Coin Entity Pokémon*
 *Its sturdy body and surfing board is made of pure gold. This Pokémon gets along well with others and is quick to make friends. Loose change is left behind wherever Gholdengo has engaged in combat.*
@@ -86,7 +86,7 @@ Weight:
 **DexID**: 1000
 **Name**: Gholdengo
 **Type**: Steel / Ghost
-**Abilities**: [[SRD-Good as Gold|Good as Gold]]
+**Abilities**: [[SRD-Good As Gold|Good As Gold]]
 **Base HP**: 5
 
 |           |                 |                |

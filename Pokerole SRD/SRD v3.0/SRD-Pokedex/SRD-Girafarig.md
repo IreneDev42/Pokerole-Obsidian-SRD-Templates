@@ -78,8 +78,8 @@ Weight:
 # Girafarig 
 
 > [!grid]
-> ![[SRD-girafarig-BookSprite.png|wsmall]]
-> ![[SRD-girafarig-HomeSprite.png]]
+> ![[SRD-girafarig-BookSprite.png|wsmall left]]
+> ![[SRD-girafarig-HomeSprite.png|wsmall right]]
 
 *Long Neck Pokémon*
 *Its tail is a head on its own. It bites if anything comes close and never rests. Some say that the sum of its two heads grant it Psychic powers. Even if that's true, the tail isn't very bright, but it is quite vicious.*

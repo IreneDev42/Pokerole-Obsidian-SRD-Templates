@@ -77,8 +77,8 @@ Weight:
 # Zorua 
 
 > [!grid]
-> ![[SRD-zorua-BookSprite.png|wsmall]]
-> ![[SRD-zorua-HomeSprite.png]]
+> ![[SRD-zorua-BookSprite.png|wsmall left]]
+> ![[SRD-zorua-HomeSprite.png|wsmall right]]
 
 *Tricky Fox Pokémon*
 *They are very hard to find as they can transform into people and other Pokémon. They cannot speak when transformed and their tail remains visible. They ruin reputations by creating mischief in disguise.*

@@ -73,8 +73,8 @@ Weight:
 # Iron Bundle 
 
 > [!grid]
-> ![[SRD-iron-bundle-BookSprite.png|wsmall]]
-> ![[SRD-iron-bundle-HomeSprite.png]]
+> ![[SRD-iron-bundle-BookSprite.png|wsmall left]]
+> ![[SRD-iron-bundle-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *It sports an uncanny resemblance to Delibird. Records of a long-gone civilization describe similar contraptions using ice blasts to slide through the snowy landscape.*

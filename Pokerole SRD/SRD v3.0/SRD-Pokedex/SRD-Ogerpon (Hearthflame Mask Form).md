@@ -3,7 +3,7 @@ Ability1: Mold Breaker
 Ability2: Embody Aspect
 AceMoves:
 - Vine Whip
-- Leech seed
+- Leech Seed
 - Quick Attack
 - Follow Me
 - Focus Energy
@@ -85,8 +85,8 @@ Weight:
 # Ogerpon (Hearthflame Mask Form) 
 
 > [!grid]
-> ![[SRD-ogerpon-hearthflame-mask-form-BookSprite.png|wsmall]]
-> ![[SRD-ogerpon-hearthflame-mask-form-HomeSprite.png]]
+> ![[SRD-ogerpon-hearthflame-mask-form-BookSprite.png|wsmall left]]
+> ![[SRD-ogerpon-hearthflame-mask-form-HomeSprite.png|wsmall right]]
 
 *Mask Pokémon*
 *Ancient myths and legends remain alive to this day. It is said Kitakami is visited by an angry creature during the festival of masks. The creature looks menacing and sets the town's decoration on fire.*

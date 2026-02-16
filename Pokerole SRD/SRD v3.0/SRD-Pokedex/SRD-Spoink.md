@@ -76,8 +76,8 @@ Weight:
 # Spoink 
 
 > [!grid]
-> ![[SRD-spoink-BookSprite.png|wsmall]]
-> ![[SRD-spoink-HomeSprite.png]]
+> ![[SRD-spoink-BookSprite.png|wsmall left]]
+> ![[SRD-spoink-HomeSprite.png|wsmall right]]
 
 *Bounce Pokémon*
 *They are always bouncing with their tail. If they ever stop, their heart wouldn't beat anymore. Spoinks balance a pearl from Clamperl on their head; if it's lost, they won't be able to control their psychic powers.*

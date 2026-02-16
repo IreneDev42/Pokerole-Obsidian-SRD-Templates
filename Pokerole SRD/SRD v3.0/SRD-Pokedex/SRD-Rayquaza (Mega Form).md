@@ -56,8 +56,8 @@ Weight:
 # Rayquaza (Mega Form) 
 
 > [!grid]
-> ![[SRD-rayquaza-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-rayquaza-mega-form-HomeSprite.png]]
+> ![[SRD-rayquaza-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-rayquaza-mega-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *What does the power of the Mega Stone truly entail? Is it the bond between a Trainer and their companion? Or is it all about taking hold of a forbidden power?*

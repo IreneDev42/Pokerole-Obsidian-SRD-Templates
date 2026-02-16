@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: There is no escaping harm when you have a target on your back. Remove
   all immunities of the user.
 Image: SRD-ring-target-ItemSprite.png

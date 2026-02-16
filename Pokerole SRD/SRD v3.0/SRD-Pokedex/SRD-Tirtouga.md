@@ -78,8 +78,8 @@ Weight:
 # Tirtouga 
 
 > [!grid]
-> ![[SRD-tirtouga-BookSprite.png|wsmall]]
-> ![[SRD-tirtouga-HomeSprite.png]]
+> ![[SRD-tirtouga-BookSprite.png|wsmall left]]
+> ![[SRD-tirtouga-HomeSprite.png|wsmall right]]
 
 *Prototurtle Pokémon*
 *About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey. One has been cloned from a fossil that was found a mile deep underwater.*

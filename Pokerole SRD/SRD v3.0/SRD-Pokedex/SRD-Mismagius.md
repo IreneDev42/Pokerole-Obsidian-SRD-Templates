@@ -79,8 +79,8 @@ Weight:
 # Mismagius 
 
 > [!grid]
-> ![[SRD-mismagius-BookSprite.png|wsmall]]
-> ![[SRD-mismagius-HomeSprite.png]]
+> ![[SRD-mismagius-BookSprite.png|wsmall left]]
+> ![[SRD-mismagius-HomeSprite.png|wsmall right]]
 
 *Magical Pokémon*
 *Extremely rare. Their cries sound like incantations; hearing them gives you bad headaches and hallucinations. It is said that some Mismagius are benevolent and have granted good fortune to people they like.*

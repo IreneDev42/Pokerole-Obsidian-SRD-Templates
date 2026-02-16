@@ -78,8 +78,8 @@ Weight:
 # Machamp 
 
 > [!grid]
-> ![[SRD-machamp-BookSprite.png|wsmall]]
-> ![[SRD-machamp-HomeSprite.png]]
+> ![[SRD-machamp-BookSprite.png|wsmall left]]
+> ![[SRD-machamp-HomeSprite.png|wsmall right]]
 
 *Superpower Pokémon*
 *There are a few roaming in the mountains. Machamp has the power to hurl anything aside. However, trying to do any work that requires care and dexterity may cause its arms to get tangled.*

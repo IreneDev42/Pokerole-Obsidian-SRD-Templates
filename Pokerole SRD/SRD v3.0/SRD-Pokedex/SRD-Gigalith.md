@@ -76,8 +76,8 @@ Weight:
 # Gigalith 
 
 > [!grid]
-> ![[SRD-gigalith-BookSprite.png|wsmall]]
-> ![[SRD-gigalith-HomeSprite.png]]
+> ![[SRD-gigalith-BookSprite.png|wsmall left]]
+> ![[SRD-gigalith-HomeSprite.png|wsmall right]]
 
 *Compressed Pokémon*
 *It is a serious Pokémon that doesn't interact with others too much. It uses the sharp crystals on its body to recharge using the sun's energy. If angered, it can bury its foe under giant rock slides or explode at will.*

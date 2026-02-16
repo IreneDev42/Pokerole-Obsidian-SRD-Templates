@@ -83,8 +83,8 @@ Weight:
 # Empoleon 
 
 > [!grid]
-> ![[SRD-empoleon-BookSprite.png|wsmall]]
-> ![[SRD-empoleon-HomeSprite.png]]
+> ![[SRD-empoleon-BookSprite.png|wsmall left]]
+> ![[SRD-empoleon-HomeSprite.png|wsmall right]]
 
 *Emperor Pokémon*
 *They are regal and arrogant. Their beaks slice apart the drifting ice while swimming as fast as a jet boat. They avoid unnecessary fights, but will crush and cleave anyone that hurts or threatens their pride.*

@@ -74,8 +74,8 @@ Weight:
 # Poliwag 
 
 > [!grid]
-> ![[SRD-poliwag-BookSprite.png|wsmall]]
-> ![[SRD-poliwag-HomeSprite.png]]
+> ![[SRD-poliwag-BookSprite.png|wsmall left]]
+> ![[SRD-poliwag-HomeSprite.png|wsmall right]]
 
 *Tadpole Pokémon*
 *They are most common near ponds and lakes during the summer. Its legs take some weeks to develop after it hatches, making it inept at walking. It is, however, a very fast swimmer.*

@@ -16,7 +16,7 @@ Description: "The Pok\xE9mon sprays an ally with a delicate aroma that makes eve
   \ pull their punches against it."
 Effect: Target One Ally. Increase by 1 the Defense and Sp. Defense of the Target.
 Name: Aromatic Mist
-Power: '0 '
+Power: 0
 Target: Ally
 Type: Fairy
 ---

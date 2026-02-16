@@ -84,8 +84,8 @@ Weight:
 # Greninja 
 
 > [!grid]
-> ![[SRD-greninja-BookSprite.png|wsmall]]
-> ![[SRD-greninja-HomeSprite.png]]
+> ![[SRD-greninja-BookSprite.png|wsmall left]]
+> ![[SRD-greninja-HomeSprite.png|wsmall right]]
 
 *Ninja Pokémon*
 *It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, then slices them by throwing sharp water stars. If it was not properly disciplined, it will never listen any master.*

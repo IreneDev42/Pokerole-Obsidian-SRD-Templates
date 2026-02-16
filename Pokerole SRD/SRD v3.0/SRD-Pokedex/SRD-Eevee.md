@@ -117,8 +117,8 @@ Weight:
 # Eevee 
 
 > [!grid]
-> ![[SRD-eevee-BookSprite.png|wsmall]]
-> ![[SRD-eevee-HomeSprite.png]]
+> ![[SRD-eevee-BookSprite.png|wsmall left]]
+> ![[SRD-eevee-HomeSprite.png|wsmall right]]
 
 *Evolution Pokemon*
 *This Pokemon is extremely rare to find. Eevee has an unstable genetic makeup that suddenly mutates to fit its environment. Radiation from various stones causes this Pokemon to evolve.*

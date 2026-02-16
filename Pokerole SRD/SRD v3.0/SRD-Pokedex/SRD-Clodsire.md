@@ -77,8 +77,8 @@ Weight:
 # Clodsire 
 
 > [!grid]
-> ![[SRD-clodsire-BookSprite.png|wsmall]]
-> ![[SRD-clodsire-HomeSprite.png]]
+> ![[SRD-clodsire-BookSprite.png|wsmall left]]
+> ![[SRD-clodsire-HomeSprite.png|wsmall right]]
 
 *Spiny Fish Pokémon*
 *You may see it carry Wooper on its back to ferry them across swamps. Despite its friendly appearance, when attacked, this Pokémon will retaliate by sticking thick venomous spines out from its body.*

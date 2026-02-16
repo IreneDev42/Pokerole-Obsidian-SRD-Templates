@@ -74,8 +74,8 @@ Weight:
 # Gastly 
 
 > [!grid]
-> ![[SRD-gastly-BookSprite.png|wsmall]]
-> ![[SRD-gastly-HomeSprite.png]]
+> ![[SRD-gastly-BookSprite.png|wsmall left]]
+> ![[SRD-gastly-HomeSprite.png|wsmall right]]
 
 *Gas Pokémon*
 *Its body is made of a toxic gas - anyone would faint if engulfed by it. It has been seen in abandoned places scaring people and other Pokémon for fun. It is elusive and escapes through the walls.*

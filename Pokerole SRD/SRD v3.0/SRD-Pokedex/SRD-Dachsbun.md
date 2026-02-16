@@ -80,8 +80,8 @@ Weight:
 # Dachsbun 
 
 > [!grid]
-> ![[SRD-dachsbun-BookSprite.png|wsmall]]
-> ![[SRD-dachsbun-HomeSprite.png]]
+> ![[SRD-dachsbun-BookSprite.png|wsmall left]]
+> ![[SRD-dachsbun-HomeSprite.png|wsmall right]]
 
 *Dog Pokémon*
 *Dachsbun is every wheat farmer's best friend, as the delicious aroma it emanates helps the fields grow with golden grains. Their body can harden when exposed to heat, and they are excellent vermin hunters.*

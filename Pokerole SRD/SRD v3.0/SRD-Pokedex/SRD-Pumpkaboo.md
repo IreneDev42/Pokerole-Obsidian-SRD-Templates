@@ -58,7 +58,7 @@ StandardMoves:
 - Worry Seed
 - Trick
 StarterMoves:
-- Trick-or-Treat
+- Trick-Or-Treat
 - Astonish
 Strength: 2
 Type1: Ghost
@@ -74,8 +74,8 @@ Weight:
 # Pumpkaboo 
 
 > [!grid]
-> ![[SRD-pumpkaboo-BookSprite.png|wsmall]]
-> ![[SRD-pumpkaboo-HomeSprite.png]]
+> ![[SRD-pumpkaboo-BookSprite.png|wsmall left]]
+> ![[SRD-pumpkaboo-HomeSprite.png|wsmall right]]
 
 *Pumpkin Pokémon*
 *You can see them dwelling on farms during the autumn season. The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active. Don't ever follow their light at night.*

@@ -78,8 +78,8 @@ Weight:
 # Herdier 
 
 > [!grid]
-> ![[SRD-herdier-BookSprite.png|wsmall]]
-> ![[SRD-herdier-HomeSprite.png]]
+> ![[SRD-herdier-BookSprite.png|wsmall left]]
+> ![[SRD-herdier-HomeSprite.png|wsmall right]]
 
 *Loyal Dog Pokémon*
 *It loyally follows its trainer's orders. For ages, they have helped trainers to raise well behaved Pokémon. It has black, cape-like fur that is very hard and keeps it protected from the weather.*

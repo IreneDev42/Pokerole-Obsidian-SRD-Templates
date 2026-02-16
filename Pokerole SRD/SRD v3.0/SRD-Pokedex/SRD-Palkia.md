@@ -54,8 +54,8 @@ Weight:
 # Palkia 
 
 > [!grid]
-> ![[SRD-palkia-BookSprite.png|wsmall]]
-> ![[SRD-palkia-HomeSprite.png]]
+> ![[SRD-palkia-BookSprite.png|wsmall left]]
+> ![[SRD-palkia-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *An old scroll describes a being who is capable of bending and twisting space in impossible ways by a powerful Pokémon god.*

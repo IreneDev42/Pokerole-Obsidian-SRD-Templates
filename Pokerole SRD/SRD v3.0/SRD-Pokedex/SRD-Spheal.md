@@ -75,8 +75,8 @@ Weight:
 # Spheal 
 
 > [!grid]
-> ![[SRD-spheal-BookSprite.png|wsmall]]
-> ![[SRD-spheal-HomeSprite.png]]
+> ![[SRD-spheal-BookSprite.png|wsmall left]]
+> ![[SRD-spheal-HomeSprite.png|wsmall right]]
 
 *Clap Pokémon*
 *They live in big herds with their families. They are bad swimmers but good floaters. To move on land, they roll like balls instead of walking. When they are happy, they clap and squeal, so they can be really noisy.*

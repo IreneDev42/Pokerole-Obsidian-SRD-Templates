@@ -80,8 +80,8 @@ Weight:
 # Tyrantrum 
 
 > [!grid]
-> ![[SRD-tyrantrum-BookSprite.png|wsmall]]
-> ![[SRD-tyrantrum-HomeSprite.png]]
+> ![[SRD-tyrantrum-BookSprite.png|wsmall left]]
+> ![[SRD-tyrantrum-HomeSprite.png|wsmall right]]
 
 *Despot Pokémon*
 *Nothing could stop this Pokémon 100 million years ago; it was a prehistoric king. Thanks to its giant jaws, which could shred thick metal plates as if they were paper, this Pokémon takes orders from no one.*

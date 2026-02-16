@@ -72,8 +72,8 @@ Weight:
 # Roggenrola 
 
 > [!grid]
-> ![[SRD-roggenrola-BookSprite.png|wsmall]]
-> ![[SRD-roggenrola-HomeSprite.png]]
+> ![[SRD-roggenrola-BookSprite.png|wsmall left]]
+> ![[SRD-roggenrola-HomeSprite.png|wsmall right]]
 
 *Mantle Pokémon*
 *It is made from compressed rocks, making its body almost as hard as steel. It is blind; what looks like its eye is really an ear. For this reason, it can live in the darkest of caves feeding on rocks to grow stronger.*

@@ -83,8 +83,8 @@ Weight:
 # Yanmega 
 
 > [!grid]
-> ![[SRD-yanmega-BookSprite.png|wsmall]]
-> ![[SRD-yanmega-HomeSprite.png]]
+> ![[SRD-yanmega-BookSprite.png|wsmall left]]
+> ![[SRD-yanmega-HomeSprite.png|wsmall right]]
 
 *Ogre Darner Pokémon*
 *It goes back to its prehistoric roots. It is a lot more violent than its pre-evolved form. Its jaw power is incredible and it is adept at biting apart foes while flying by at high speed. This Pokémon can be brutal*

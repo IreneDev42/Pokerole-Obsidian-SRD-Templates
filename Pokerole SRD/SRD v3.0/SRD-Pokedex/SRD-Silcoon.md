@@ -63,8 +63,8 @@ Weight:
 # Silcoon 
 
 > [!grid]
-> ![[SRD-silcoon-BookSprite.png|wsmall]]
-> ![[SRD-silcoon-HomeSprite.png]]
+> ![[SRD-silcoon-BookSprite.png|wsmall left]]
+> ![[SRD-silcoon-HomeSprite.png|wsmall right]]
 
 *Cocoon Pokémon*
 *They tether themselves to tree branches while they wait to evolve. Sometimes they peek from a small hole in the cocoon. Silcoon feed only on raindrops. If Wurmple lives among flowers, it evolves into Silcoon.*

@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: "A glittler powder that hurs the foe\u2019s eyes. Add an Extra \u201C\
   Low Accuracy 1\u201D on the Moves targeting this Pok\xE9mon."
 Image: SRD-bright-powder-ItemSprite.png

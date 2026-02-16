@@ -85,8 +85,8 @@ Weight:
 # Ampharos 
 
 > [!grid]
-> ![[SRD-ampharos-BookSprite.png|wsmall]]
-> ![[SRD-ampharos-HomeSprite.png]]
+> ![[SRD-ampharos-BookSprite.png|wsmall left]]
+> ![[SRD-ampharos-HomeSprite.png|wsmall right]]
 
 *Light Pokémon*
 *It's not common to see it in the wild. The tip of its tail shines brightly and in the old days, people sent light signals with the help of this Pokémon. It has a good disposition towards people in general.*

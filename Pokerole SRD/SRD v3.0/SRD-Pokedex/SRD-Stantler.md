@@ -81,8 +81,8 @@ Weight:
 # Stantler 
 
 > [!grid]
-> ![[SRD-stantler-BookSprite.png|wsmall]]
-> ![[SRD-stantler-HomeSprite.png]]
+> ![[SRD-stantler-BookSprite.png|wsmall left]]
+> ![[SRD-stantler-HomeSprite.png|wsmall right]]
 
 *Big Horn Pokémon*
 *Their antlers create a distortion in space that causes confusion. They were hunted for their magnificent antlers, that were sold at high prices, nearly driving Stantler extinct. Their antlers don't grow as big as a result.*

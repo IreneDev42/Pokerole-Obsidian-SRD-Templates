@@ -80,8 +80,8 @@ Weight:
 # Sandaconda 
 
 > [!grid]
-> ![[SRD-sandaconda-BookSprite.png|wsmall]]
-> ![[SRD-sandaconda-HomeSprite.png]]
+> ![[SRD-sandaconda-BookSprite.png|wsmall left]]
+> ![[SRD-sandaconda-HomeSprite.png|wsmall right]]
 
 *Sand Snake Pokémon*
 *It has a sack that can carry up to 220 lbs of sand; the way it coils allows it to spray the sand at its foes. If its sack ever runs out of sand it becomes limp and depressed. They are unfriendly but not really aggressive.*

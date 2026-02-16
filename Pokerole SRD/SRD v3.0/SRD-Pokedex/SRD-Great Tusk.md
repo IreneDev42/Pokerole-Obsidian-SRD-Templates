@@ -74,8 +74,8 @@ Weight:
 # Great Tusk 
 
 > [!grid]
-> ![[SRD-great-tusk-BookSprite.png|wsmall]]
-> ![[SRD-great-tusk-HomeSprite.png]]
+> ![[SRD-great-tusk-BookSprite.png|wsmall left]]
+> ![[SRD-great-tusk-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A mysterious life-form resembling a Donphan with gigantic tusks and tough scales. Our ongoing research appears to indicate it has a very aggressive disposition.*

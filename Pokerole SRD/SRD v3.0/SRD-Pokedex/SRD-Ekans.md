@@ -78,8 +78,8 @@ Weight:
 # Ekans 
 
 > [!grid]
-> ![[SRD-ekans-BookSprite.png|wsmall]]
-> ![[SRD-ekans-HomeSprite.png]]
+> ![[SRD-ekans-BookSprite.png|wsmall left]]
+> ![[SRD-ekans-HomeSprite.png|wsmall right]]
 
 *Snake Pokemon*
 *It lives on grasslands, preying on Rattata and Pokemon Eggs it finds. It's jaw can detach itself to swallow any prey whole. It coils and sleeps after eating. Ekans grow larger and larger with every year they age.*

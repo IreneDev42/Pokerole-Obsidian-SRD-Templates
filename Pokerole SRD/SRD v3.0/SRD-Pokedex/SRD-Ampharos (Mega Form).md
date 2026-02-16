@@ -81,8 +81,8 @@ Weight:
 # Ampharos (Mega Form) 
 
 > [!grid]
-> ![[SRD-ampharos-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-ampharos-mega-form-HomeSprite.png]]
+> ![[SRD-ampharos-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-ampharos-mega-form-HomeSprite.png|wsmall right]]
 
 *Light Pokémon*
 *With the power of the Mega Stone, the dormant dragon genes it has are awakened. Its wool grows back as a silky mane that flows and floats with the electricity its body is discharging.*

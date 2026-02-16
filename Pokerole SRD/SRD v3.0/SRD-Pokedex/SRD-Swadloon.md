@@ -73,8 +73,8 @@ Weight:
 # Swadloon 
 
 > [!grid]
-> ![[SRD-swadloon-BookSprite.png|wsmall]]
-> ![[SRD-swadloon-HomeSprite.png]]
+> ![[SRD-swadloon-BookSprite.png|wsmall left]]
+> ![[SRD-swadloon-HomeSprite.png|wsmall right]]
 
 *Leaf-Wrapped Pokémon*
 *Preferring dark and damp places, it spends the entire day inside of rotting logs. It protects itself from the cold by wrapping up in leaves. It's kind of moody and it likes to remain undisturbed.*

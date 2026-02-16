@@ -74,8 +74,8 @@ Weight:
 # Flamigo 
 
 > [!grid]
-> ![[SRD-flamigo-BookSprite.png|wsmall]]
-> ![[SRD-flamigo-HomeSprite.png]]
+> ![[SRD-flamigo-BookSprite.png|wsmall left]]
+> ![[SRD-flamigo-HomeSprite.png|wsmall right]]
 
 *Synchronize Pokémon*
 *They inhabit the shallow waters of lakes and rivers, and have the ability to fight completely synchronized when they are in a flock. If they are alone they knot their neck and stay motionless for an unknown reason.*

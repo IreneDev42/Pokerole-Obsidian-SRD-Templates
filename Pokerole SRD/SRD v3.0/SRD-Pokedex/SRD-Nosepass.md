@@ -75,8 +75,8 @@ Weight:
 # Nosepass 
 
 > [!grid]
-> ![[SRD-nosepass-BookSprite.png|wsmall]]
-> ![[SRD-nosepass-HomeSprite.png]]
+> ![[SRD-nosepass-BookSprite.png|wsmall left]]
+> ![[SRD-nosepass-HomeSprite.png|wsmall right]]
 
 *Nosepass Pokémon*
 *Their magnetic noses always point to the north. They were thought to be immobile, but it was recently revealed that they actually move 3/8 of an inch every year. They get a little crazy when magnets are close.*

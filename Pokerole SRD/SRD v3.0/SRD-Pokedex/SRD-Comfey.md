@@ -76,8 +76,8 @@ Weight:
 # Comfey 
 
 > [!grid]
-> ![[SRD-comfey-BookSprite.png|wsmall]]
-> ![[SRD-comfey-HomeSprite.png]]
+> ![[SRD-comfey-BookSprite.png|wsmall left]]
+> ![[SRD-comfey-HomeSprite.png|wsmall right]]
 
 *Posy Picker Pokémon*
 *This tiny Pokémon gathers flowers and connects them to itself forming a ring. The flowers never wither and their aroma is truly therapeutic. If it likes you it will create a flower ring just for you.*

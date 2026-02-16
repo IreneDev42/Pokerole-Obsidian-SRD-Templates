@@ -80,8 +80,8 @@ Weight:
 # Slowking (Galarian Form) 
 
 > [!grid]
-> ![[SRD-slowking-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-slowking-galarian-form-HomeSprite.png]]
+> ![[SRD-slowking-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-slowking-galarian-form-HomeSprite.png|wsmall right]]
 
 *Royal Pokémon*
 *Shellder's powerful toxin enhanced Slowking's intelligence and psychic abilities. However, its mind is now controlled by the Shellder. It mutters enchantments in a strange tongue and creates strange potions to drink.*

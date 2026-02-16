@@ -71,8 +71,8 @@ Weight:
 # Zacian 
 
 > [!grid]
-> ![[SRD-zacian-BookSprite.png|wsmall]]
-> ![[SRD-zacian-HomeSprite.png]]
+> ![[SRD-zacian-BookSprite.png|wsmall left]]
+> ![[SRD-zacian-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a legend of a heroine who through sheer might wielded the blade of heroes and vanquished a great evil.*

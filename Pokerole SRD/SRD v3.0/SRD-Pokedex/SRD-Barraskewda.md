@@ -78,8 +78,8 @@ Weight:
 # Barraskewda 
 
 > [!grid]
-> ![[SRD-barraskewda-BookSprite.png|wsmall]]
-> ![[SRD-barraskewda-HomeSprite.png]]
+> ![[SRD-barraskewda-BookSprite.png|wsmall left]]
+> ![[SRD-barraskewda-HomeSprite.png|wsmall right]]
 
 *Skewer Pokémon*
 *This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too. When they hunt, they have a speed burst record of 100 knots.*

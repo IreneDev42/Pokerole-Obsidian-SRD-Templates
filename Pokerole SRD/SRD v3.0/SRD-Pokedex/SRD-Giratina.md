@@ -55,8 +55,8 @@ Weight:
 # Giratina 
 
 > [!grid]
-> ![[SRD-giratina-BookSprite.png|wsmall]]
-> ![[SRD-giratina-HomeSprite.png]]
+> ![[SRD-giratina-BookSprite.png|wsmall left]]
+> ![[SRD-giratina-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Religious stories talk about a fallen one: the Firstborn who desired Arceus' power for itself and ended up banished into a dimension of horrors... waiting to be freed.*

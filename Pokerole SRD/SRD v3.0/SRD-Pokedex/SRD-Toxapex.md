@@ -78,8 +78,8 @@ Weight:
 # Toxapex 
 
 > [!grid]
-> ![[SRD-toxapex-BookSprite.png|wsmall]]
-> ![[SRD-toxapex-HomeSprite.png]]
+> ![[SRD-toxapex-BookSprite.png|wsmall left]]
+> ![[SRD-toxapex-HomeSprite.png|wsmall right]]
 
 *Brutal Star Pokémon*
 *It crawls along the ocean floor, using its tentacles as a fortress. Its venom has the victim suffering for three days and nights, and even if it's healed, there are aftereffects, for it is a powerful toxin.*

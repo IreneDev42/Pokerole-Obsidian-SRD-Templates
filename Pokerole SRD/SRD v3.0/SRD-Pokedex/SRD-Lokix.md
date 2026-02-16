@@ -78,8 +78,8 @@ Weight:
 # Lokix 
 
 > [!grid]
-> ![[SRD-lokix-BookSprite.png|wsmall]]
-> ![[SRD-lokix-HomeSprite.png]]
+> ![[SRD-lokix-BookSprite.png|wsmall left]]
+> ![[SRD-lokix-HomeSprite.png|wsmall right]]
 
 *Grasshopper Pokémon*
 *If this Pokémon unfolds the legs on its back it means it will battle going all-out. When they do this, the battle doesn't usually last long. If a large swarm gathers, it won't be good for the crops in the area.*

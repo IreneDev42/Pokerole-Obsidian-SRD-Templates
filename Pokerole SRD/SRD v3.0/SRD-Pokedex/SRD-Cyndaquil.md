@@ -75,8 +75,8 @@ Weight:
 # Cyndaquil 
 
 > [!grid]
-> ![[SRD-cyndaquil-BookSprite.png|wsmall]]
-> ![[SRD-cyndaquil-HomeSprite.png]]
+> ![[SRD-cyndaquil-BookSprite.png|wsmall left]]
+> ![[SRD-cyndaquil-HomeSprite.png|wsmall right]]
 
 *Fire Mouse Pokémon*
 *A shy and elusive Pokémon. The flames from its back protect it. They'll burn vigorously if Cyndaquil is angry, otherwise they'll remain unlit. It lives in hot dens inside of mountains and volcanoes.*

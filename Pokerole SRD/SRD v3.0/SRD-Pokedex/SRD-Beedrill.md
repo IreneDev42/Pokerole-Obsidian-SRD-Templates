@@ -83,8 +83,8 @@ Weight:
 # Beedrill 
 
 > [!grid]
-> ![[SRD-beedrill-BookSprite.png|wsmall]]
-> ![[SRD-beedrill-HomeSprite.png]]
+> ![[SRD-beedrill-BookSprite.png|wsmall left]]
+> ![[SRD-beedrill-HomeSprite.png|wsmall right]]
 
 *Poison Bee Pokémon*
 *Beedrill are extremely territorial. For safety reasons, no one should ever approach their nest. If disturbed, they will attack in a swarm. It has three stings. The one on its tail secretes a powerful poison.*

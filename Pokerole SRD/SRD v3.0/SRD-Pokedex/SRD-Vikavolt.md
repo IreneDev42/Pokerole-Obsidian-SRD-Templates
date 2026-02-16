@@ -80,8 +80,8 @@ Weight:
 # Vikavolt 
 
 > [!grid]
-> ![[SRD-vikavolt-BookSprite.png|wsmall]]
-> ![[SRD-vikavolt-HomeSprite.png]]
+> ![[SRD-vikavolt-BookSprite.png|wsmall left]]
+> ![[SRD-vikavolt-HomeSprite.png|wsmall right]]
 
 *Stag Beetle Pokémon*
 *The electricity it shoots through its jaws is very dangerous. It zaps bird Pokémon trying to eat it. Its flight is peculiar: it bends in a 90 degree angle or flies backwards without a problem.*

@@ -76,8 +76,8 @@ Weight:
 # Kricketune 
 
 > [!grid]
-> ![[SRD-kricketune-BookSprite.png|wsmall]]
-> ![[SRD-kricketune-HomeSprite.png]]
+> ![[SRD-kricketune-BookSprite.png|wsmall left]]
+> ![[SRD-kricketune-HomeSprite.png|wsmall right]]
 
 *Cricket Pokémon*
 *It can make all kind of sounds with its antennae, arms and mouth. It signals emotions with different tunes but scientists still cannot define what they mean. They imitate the songs they hear.*

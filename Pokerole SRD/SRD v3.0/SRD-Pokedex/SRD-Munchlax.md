@@ -82,8 +82,8 @@ Weight:
 # Munchlax 
 
 > [!grid]
-> ![[SRD-munchlax-BookSprite.png|wsmall]]
-> ![[SRD-munchlax-HomeSprite.png]]
+> ![[SRD-munchlax-BookSprite.png|wsmall left]]
+> ![[SRD-munchlax-HomeSprite.png|wsmall right]]
 
 *Big Eater Pokémon*
 *A Munchlax stomach is never full. It can eat its weight in food daily, but it will usually not care about the food's quality. They tend to pick up anything that looks edible and snack on it later.*

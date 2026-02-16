@@ -75,8 +75,8 @@ Weight:
 # Klefki 
 
 > [!grid]
-> ![[SRD-klefki-BookSprite.png|wsmall]]
-> ![[SRD-klefki-HomeSprite.png]]
+> ![[SRD-klefki-BookSprite.png|wsmall left]]
+> ![[SRD-klefki-HomeSprite.png|wsmall right]]
 
 *Key Ring Pokémon*
 *It adapted well to live with humans. Klefki jingle the objects they collect when they are distressed. People trust them with their keys to vaults and safes because they are very careful with their collection.*

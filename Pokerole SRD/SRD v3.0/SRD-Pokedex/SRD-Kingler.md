@@ -79,8 +79,8 @@ Weight:
 # Kingler 
 
 > [!grid]
-> ![[SRD-kingler-BookSprite.png|wsmall]]
-> ![[SRD-kingler-HomeSprite.png]]
+> ![[SRD-kingler-BookSprite.png|wsmall left]]
+> ![[SRD-kingler-HomeSprite.png|wsmall right]]
 
 *Pincer Pokémon*
 *Its pincers grow peculiarly large. If it lifts the pincers too fast, it may lose its balance and stagger. If one of its pincers is damaged, it will detach it from its body. It will regrow after a few days.*

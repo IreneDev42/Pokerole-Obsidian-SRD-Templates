@@ -79,8 +79,8 @@ Weight:
 # Eldegoss 
 
 > [!grid]
-> ![[SRD-eldegoss-BookSprite.png|wsmall]]
-> ![[SRD-eldegoss-HomeSprite.png]]
+> ![[SRD-eldegoss-BookSprite.png|wsmall left]]
+> ![[SRD-eldegoss-HomeSprite.png|wsmall right]]
 
 *Cotton Bloom Pokémon*
 *The cotton it produces has a glossy finish so clothes made with it are insanely expensive. In nature they are calm and selfless Pokémon who allow others to take nourishment from the cotton seeds in their head.*

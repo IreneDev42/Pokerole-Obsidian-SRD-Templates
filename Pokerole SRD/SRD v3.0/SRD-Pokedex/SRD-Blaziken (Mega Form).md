@@ -83,8 +83,8 @@ Weight:
 # Blaziken (Mega Form) 
 
 > [!grid]
-> ![[SRD-blaziken-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-blaziken-mega-form-HomeSprite.png]]
+> ![[SRD-blaziken-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-blaziken-mega-form-HomeSprite.png|wsmall right]]
 
 *Blaze Pokémon*
 *The power of the Mega Stone makes its inner fire burn so strong that it sets its limbs ablaze. This allows it to move faster than ever, but it also takes a toll on its feathers as they burn to black cinders.*

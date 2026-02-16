@@ -88,8 +88,8 @@ Weight:
 # Charizard 
 
 > [!grid]
-> ![[SRD-charizard-BookSprite.png|wsmall]]
-> ![[SRD-charizard-HomeSprite.png]]
+> ![[SRD-charizard-BookSprite.png|wsmall left]]
+> ![[SRD-charizard-HomeSprite.png|wsmall right]]
 
 *Flame Pokémon*
 *A Charizard flies around looking for strong opponents. It breathes intense flames that can melt any material. However, it will never touch a weaker foe. Not many trainers are able to handle its bad temper.*

@@ -73,8 +73,8 @@ Weight:
 # Electrike 
 
 > [!grid]
-> ![[SRD-electrike-BookSprite.png|wsmall]]
-> ![[SRD-electrike-HomeSprite.png]]
+> ![[SRD-electrike-BookSprite.png|wsmall left]]
+> ![[SRD-electrike-HomeSprite.png|wsmall right]]
 
 *Lightning Pokémon*
 *Their fur stores electricity, leaving a trail of sparks as they run. By stimulating their legs with voltage, Electrike's speed and power is greatly increased. They are not very common, though.*

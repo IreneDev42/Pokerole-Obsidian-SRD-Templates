@@ -74,8 +74,8 @@ Weight:
 # Lotad 
 
 > [!grid]
-> ![[SRD-lotad-BookSprite.png|wsmall]]
-> ![[SRD-lotad-HomeSprite.png]]
+> ![[SRD-lotad-BookSprite.png|wsmall left]]
+> ![[SRD-lotad-HomeSprite.png|wsmall right]]
 
 *Water Weed Pokémon*
 *They live in ponds and lakes, floating atop the water. The big leaf on their head is known to act as a ferry for smaller Pokémon. The leaf is delicate and needs constant watering or else Lotad will grow sick.*

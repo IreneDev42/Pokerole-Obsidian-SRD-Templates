@@ -81,8 +81,8 @@ Weight:
 # Golbat 
 
 > [!grid]
-> ![[SRD-golbat-BookSprite.png|wsmall]]
-> ![[SRD-golbat-HomeSprite.png]]
+> ![[SRD-golbat-BookSprite.png|wsmall left]]
+> ![[SRD-golbat-HomeSprite.png|wsmall right]]
 
 *Bat Pokémon*
 *A stealthy Pokémon who loves the dark. Its fangs can puncture even a thick hide. It loves to feast on the blood of people and Pokémon alike. If it drinks too much, it gets heavy and can hardly fly.*

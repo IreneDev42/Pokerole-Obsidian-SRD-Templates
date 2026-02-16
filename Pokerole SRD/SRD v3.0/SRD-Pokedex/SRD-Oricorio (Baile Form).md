@@ -81,8 +81,8 @@ Weight:
 # Oricorio (Baile Form) 
 
 > [!grid]
-> ![[SRD-oricorio-baile-form-BookSprite.png|wsmall]]
-> ![[SRD-oricorio-baile-form-HomeSprite.png]]
+> ![[SRD-oricorio-baile-form-BookSprite.png|wsmall left]]
+> ![[SRD-oricorio-baile-form-HomeSprite.png|wsmall right]]
 
 *Dancing Pokémon*
 *What was thought to be different species ended up being a single Pokémon. Oricorio Baile is an intense and passionate Pokémon. Every flap of its wings produces embers, and its fiery dance has inspired many.*

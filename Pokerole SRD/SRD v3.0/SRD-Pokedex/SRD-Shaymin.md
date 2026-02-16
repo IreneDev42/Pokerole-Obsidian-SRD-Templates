@@ -75,8 +75,8 @@ Weight:
 # Shaymin 
 
 > [!grid]
-> ![[SRD-shaymin-BookSprite.png|wsmall]]
-> ![[SRD-shaymin-HomeSprite.png]]
+> ![[SRD-shaymin-BookSprite.png|wsmall left]]
+> ![[SRD-shaymin-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *There are remains of gigantic trees that once grew all over the earth. They were called the “Trees of Life” and it is believed they were all planted by a kind Pokémon who brought plants and flowers to life.*

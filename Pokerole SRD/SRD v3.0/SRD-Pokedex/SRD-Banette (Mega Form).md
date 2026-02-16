@@ -78,8 +78,8 @@ Weight:
 # Banette (Mega Form) 
 
 > [!grid]
-> ![[SRD-banette-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-banette-mega-form-HomeSprite.png]]
+> ![[SRD-banette-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-banette-mega-form-HomeSprite.png|wsmall right]]
 
 *Marionette Pokémon*
 *The power of the Mega Stone rips the layer keeping all the cursed energy in. Its vindictive nature is so overwhelming that it can't help but to curse its own Trainer.*

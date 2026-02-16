@@ -82,8 +82,8 @@ Weight:
 # Poliwhirl 
 
 > [!grid]
-> ![[SRD-poliwhirl-BookSprite.png|wsmall]]
-> ![[SRD-poliwhirl-HomeSprite.png]]
+> ![[SRD-poliwhirl-BookSprite.png|wsmall left]]
+> ![[SRD-poliwhirl-HomeSprite.png|wsmall right]]
 
 *Tadpole Pokémon*
 *Though it is skilled at walking, it prefers to live underwater where there's less danger. It sweats to keep its skin moist. Thanks to this, it can easily slip out of the clutches of any enemy.*

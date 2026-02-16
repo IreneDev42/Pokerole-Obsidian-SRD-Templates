@@ -78,8 +78,8 @@ Weight:
 # Servine 
 
 > [!grid]
-> ![[SRD-servine-BookSprite.png|wsmall]]
-> ![[SRD-servine-HomeSprite.png]]
+> ![[SRD-servine-BookSprite.png|wsmall left]]
+> ![[SRD-servine-HomeSprite.png|wsmall right]]
 
 *Grass Snake Pokémon*
 *It moves by slithering along the ground. Its swift movements befuddle its foes before it attacks with a vine whip. It always keeps itself clean and it demands care from its trainer, otherwise it will misbehave.*

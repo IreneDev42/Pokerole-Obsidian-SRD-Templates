@@ -80,8 +80,8 @@ Weight:
 # Runerigus 
 
 > [!grid]
-> ![[SRD-runerigus-BookSprite.png|wsmall]]
-> ![[SRD-runerigus-HomeSprite.png]]
+> ![[SRD-runerigus-BookSprite.png|wsmall left]]
+> ![[SRD-runerigus-HomeSprite.png|wsmall right]]
 
 *Grudge Pokémon*
 *A powerful curse was woven into an ancient rune painting. The spirit of Yamask is absorbed by this curse and it evolves into a Runerigus. Do not touch the shadow parts of its body or you'll see terrible visions of the past.*

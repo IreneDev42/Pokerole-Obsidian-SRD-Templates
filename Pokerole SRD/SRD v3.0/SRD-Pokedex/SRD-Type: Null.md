@@ -43,7 +43,7 @@ MaxInsight: 6
 MaxSpecial: 6
 MaxStrength: 6
 MaxVitality: 6
-Name: Type Null
+Name: 'Type: Null'
 Number: 772
 ProMoves: []
 RecommendedRank: Advanced
@@ -70,17 +70,17 @@ Weight:
 
 #PokeroleSRD/Pokedex
 
-# Type Null 
+# Type: Null 
 
 > [!grid]
-> ![[SRD-type-null-BookSprite.png|wsmall]]
-> ![[SRD-type-null-HomeSprite.png]]
+> ![[SRD-type-null-BookSprite.png|wsmall left]]
+> ![[SRD-type-null-HomeSprite.png|wsmall right]]
 
 *Synthetic Pokémon*
 *A synthetic Pokémon made by the Aether Foundation. Currently only three specimens exist in cryogenic stasis, but they are deemed too dangerous even with a limiter helmet on. They must never be reanimated.*
 
 **DexID**: 0772
-**Name**: Type Null
+**Name**: Type: Null
 **Type**: Normal
 **Abilities**: [[SRD-Battle Armor|Battle Armor]]
 **Base HP**: 6

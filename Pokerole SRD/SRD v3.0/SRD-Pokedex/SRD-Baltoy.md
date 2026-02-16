@@ -76,8 +76,8 @@ Weight:
 # Baltoy 
 
 > [!grid]
-> ![[SRD-baltoy-BookSprite.png|wsmall]]
-> ![[SRD-baltoy-HomeSprite.png]]
+> ![[SRD-baltoy-BookSprite.png|wsmall left]]
+> ![[SRD-baltoy-HomeSprite.png|wsmall right]]
 
 *Clay Doll Pokémon*
 *They spin on their center to move around. When a group of them gathers they create a horrible, headache-inducing noise in unison. Old paintings show them living with people in ancient times.*

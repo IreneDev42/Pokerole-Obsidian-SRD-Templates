@@ -78,8 +78,8 @@ Weight:
 # Axew 
 
 > [!grid]
-> ![[SRD-axew-BookSprite.png|wsmall]]
-> ![[SRD-axew-HomeSprite.png]]
+> ![[SRD-axew-BookSprite.png|wsmall left]]
+> ![[SRD-axew-HomeSprite.png|wsmall right]]
 
 *Tusk Pokémon*
 *They mark their territory by scraping their tusks on a tree. They fight each other to see who's got the sharpest tusks. If a tusk breaks, a new one grows back quickly. Only the strongest ever evolve.*

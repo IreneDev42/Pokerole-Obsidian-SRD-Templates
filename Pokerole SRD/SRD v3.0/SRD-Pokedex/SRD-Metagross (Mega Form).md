@@ -79,8 +79,8 @@ Weight:
 # Metagross (Mega Form) 
 
 > [!grid]
-> ![[SRD-metagross-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-metagross-mega-form-HomeSprite.png]]
+> ![[SRD-metagross-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-metagross-mega-form-HomeSprite.png|wsmall right]]
 
 *Iron Leg Pokémon*
 *The power of the Mega Stone made its four minds combine. It is now a merciless machine-like beast. If it calculates its chances to win are diminishing it will clamp itself onto its foe and self-destruct.*

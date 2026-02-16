@@ -75,8 +75,8 @@ Weight:
 # Rowlet 
 
 > [!grid]
-> ![[SRD-rowlet-BookSprite.png|wsmall]]
-> ![[SRD-rowlet-HomeSprite.png]]
+> ![[SRD-rowlet-BookSprite.png|wsmall left]]
+> ![[SRD-rowlet-HomeSprite.png|wsmall right]]
 
 *Grass Quill Pokémon*
 *This is a shy Pokémon. It sleeps during the day, absorbing sunlight through its feathers, then at night becomes more active. It likes to keep sight of its trainer at all times, rotating its head 180 degrees to do so.*

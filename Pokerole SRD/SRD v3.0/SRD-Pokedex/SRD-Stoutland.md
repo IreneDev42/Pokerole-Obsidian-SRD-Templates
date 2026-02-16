@@ -78,8 +78,8 @@ Weight:
 # Stoutland 
 
 > [!grid]
-> ![[SRD-stoutland-BookSprite.png|wsmall]]
-> ![[SRD-stoutland-HomeSprite.png]]
+> ![[SRD-stoutland-BookSprite.png|wsmall left]]
+> ![[SRD-stoutland-HomeSprite.png|wsmall right]]
 
 *Big-Hearted Pokémon*
 *For many years this Pokémon has helped with rescue missions in hostile places. Its outer coat is hard on the exterior but soft and silky on the inside. They keep people safe and warm while help is on the way.*

@@ -81,8 +81,8 @@ Weight:
 # Lairon 
 
 > [!grid]
-> ![[SRD-lairon-BookSprite.png|wsmall]]
-> ![[SRD-lairon-HomeSprite.png]]
+> ![[SRD-lairon-BookSprite.png|wsmall left]]
+> ![[SRD-lairon-HomeSprite.png|wsmall right]]
 
 *Iron Armor Pokémon*
 *Their armor gets stronger by eating iron ore and drinking mineral spring water, so they usually nest close to ponds. Lairon often attack human miners. They are territorial creatures, very stubborn and resilient.*

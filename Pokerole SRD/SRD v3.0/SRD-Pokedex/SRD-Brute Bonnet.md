@@ -73,8 +73,8 @@ Weight:
 # Brute Bonnet 
 
 > [!grid]
-> ![[SRD-brute-bonnet-BookSprite.png|wsmall]]
-> ![[SRD-brute-bonnet-HomeSprite.png]]
+> ![[SRD-brute-bonnet-BookSprite.png|wsmall left]]
+> ![[SRD-brute-bonnet-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A bizarre creature combining the traits of dinosaurs and Amoongus. They don't move much and don't seem to be very intelligent, but they are fierce and dangerous up close.*

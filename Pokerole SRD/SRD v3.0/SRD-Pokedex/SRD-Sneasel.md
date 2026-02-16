@@ -76,8 +76,8 @@ Weight:
 # Sneasel 
 
 > [!grid]
-> ![[SRD-sneasel-BookSprite.png|wsmall]]
-> ![[SRD-sneasel-HomeSprite.png]]
+> ![[SRD-sneasel-BookSprite.png|wsmall left]]
+> ![[SRD-sneasel-HomeSprite.png|wsmall right]]
 
 *Sharp Claw Pokémon*
 *It drives weaker Pokémon from their homes and eats their eggs. They are vicious and cunning. They wait for prey hidden in the darkness and enjoy slashing their foes until they get tired or the foe stops moving.*

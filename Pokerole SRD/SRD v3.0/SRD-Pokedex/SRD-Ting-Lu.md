@@ -76,8 +76,8 @@ Weight:
 # Ting-Lu 
 
 > [!grid]
-> ![[SRD-ting-lu-BookSprite.png|wsmall]]
-> ![[SRD-ting-lu-HomeSprite.png]]
+> ![[SRD-ting-lu-BookSprite.png|wsmall left]]
+> ![[SRD-ting-lu-HomeSprite.png|wsmall right]]
 
 *Ruinous Pokémon*
 *A ritual vessel given life by the fear of those who were sacrificed. It created a body through its control of the earth. A touch of the cursed container is enough to split the ground with deep and dangerous fissures.*

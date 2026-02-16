@@ -80,8 +80,8 @@ Weight:
 # Aegislash (Blade Form) 
 
 > [!grid]
-> ![[SRD-aegislash-blade-form-BookSprite.png|wsmall]]
-> ![[SRD-aegislash-blade-form-HomeSprite.png]]
+> ![[SRD-aegislash-blade-form-BookSprite.png|wsmall left]]
+> ![[SRD-aegislash-blade-form-HomeSprite.png|wsmall right]]
 
 *Royal Sword Pokémon*
 *Vengance is a double-edged sword. Anyone who dares to wield this Pokémon will hear its treacherous whispers of bloodlust and carnage. While in this form it can only use Damaging Moves & Maneuvers.*

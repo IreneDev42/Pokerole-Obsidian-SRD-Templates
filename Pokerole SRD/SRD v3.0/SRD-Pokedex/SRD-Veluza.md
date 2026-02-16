@@ -73,8 +73,8 @@ Weight:
 # Veluza 
 
 > [!grid]
-> ![[SRD-veluza-BookSprite.png|wsmall]]
-> ![[SRD-veluza-HomeSprite.png]]
+> ![[SRD-veluza-BookSprite.png|wsmall left]]
+> ![[SRD-veluza-HomeSprite.png|wsmall right]]
 
 *Jettison Pokémon*
 *These Pokémon shed parts of their flesh to increase their agility. The discarded flesh is considered delicious. Do not underestimate them for they are swift predators, Wiglett being their main food source.*

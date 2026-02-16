@@ -6,7 +6,7 @@ AddedEffects:
   - Affects: Targets
     Type: Poison
 Attributes:
-  AccuracyReduction: -2
+  AccuracyReduction: -3
   PowderMove: true
 Category: Support
 Damage1: ''

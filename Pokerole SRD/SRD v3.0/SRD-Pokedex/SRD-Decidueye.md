@@ -80,8 +80,8 @@ Weight:
 # Decidueye 
 
 > [!grid]
-> ![[SRD-decidueye-BookSprite.png|wsmall]]
-> ![[SRD-decidueye-HomeSprite.png]]
+> ![[SRD-decidueye-BookSprite.png|wsmall left]]
+> ![[SRD-decidueye-HomeSprite.png|wsmall right]]
 
 *Arrow Quill Pokémon*
 *This Pokémon can shoot its own feathers as arrows in a split second. They are usually calm and collected, but they are easily startled if taken by surprise. They are very rare, as most of them are extinct.*

@@ -69,8 +69,8 @@ Weight:
 # Tatsugiri (Curly Form) 
 
 > [!grid]
-> ![[SRD-tatsugiri-curly-form-BookSprite.png|wsmall]]
-> ![[SRD-tatsugiri-curly-form-HomeSprite.png]]
+> ![[SRD-tatsugiri-curly-form-BookSprite.png|wsmall left]]
+> ![[SRD-tatsugiri-curly-form-HomeSprite.png|wsmall right]]
 
 *Mimicry Pokémon*
 *These small dragon Pokémon are very cunning: they hide inside the mouths of Dondozo, then feign weakness to lure prey and order their partner to attack. Orange Tatsugiri focus on offensive tactics.*

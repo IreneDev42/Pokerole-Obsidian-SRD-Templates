@@ -75,8 +75,8 @@ Weight:
 # Shaymin (Sky Form) 
 
 > [!grid]
-> ![[SRD-shaymin-sky-form-BookSprite.png|wsmall]]
-> ![[SRD-shaymin-sky-form-HomeSprite.png]]
+> ![[SRD-shaymin-sky-form-BookSprite.png|wsmall left]]
+> ![[SRD-shaymin-sky-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *There are remains of gigantic trees that once grew all over the earth. They were called the “Trees of Life” and their flowers granted the power of flight to the kind-hearted, or so the legend says.*

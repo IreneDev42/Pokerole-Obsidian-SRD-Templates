@@ -69,8 +69,8 @@ Weight:
 # Tatsugiri (Stretchy Form) 
 
 > [!grid]
-> ![[SRD-tatsugiri-stretchy-form-BookSprite.png|wsmall]]
-> ![[SRD-tatsugiri-stretchy-form-HomeSprite.png]]
+> ![[SRD-tatsugiri-stretchy-form-BookSprite.png|wsmall left]]
+> ![[SRD-tatsugiri-stretchy-form-HomeSprite.png|wsmall right]]
 
 *Mimicry Pokémon*
 *These small dragon Pokémon are very cunning: they hide inside the mouths of Dondozo, then feign weakness to lure prey and order their partner to attack. Yellow Tatsugiri focus on speed tactics.*

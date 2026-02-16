@@ -55,8 +55,8 @@ Weight:
 # Kyurem (White Form) 
 
 > [!grid]
-> ![[SRD-kyurem-white-form-BookSprite.png|wsmall]]
-> ![[SRD-kyurem-white-form-HomeSprite.png]]
+> ![[SRD-kyurem-white-form-BookSprite.png|wsmall left]]
+> ![[SRD-kyurem-white-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *In the icy mountains at the west of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Explosions and blue fires are sure to follow.*

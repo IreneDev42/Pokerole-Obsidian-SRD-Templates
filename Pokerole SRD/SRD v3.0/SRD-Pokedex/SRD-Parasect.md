@@ -77,8 +77,8 @@ Weight:
 # Parasect 
 
 > [!grid]
-> ![[SRD-parasect-BookSprite.png|wsmall]]
-> ![[SRD-parasect-HomeSprite.png]]
+> ![[SRD-parasect-BookSprite.png|wsmall left]]
+> ![[SRD-parasect-HomeSprite.png|wsmall right]]
 
 *Mushroom Pokémon*
 *Their personality changes after evolution since the mushroom takes over its mind. Its body is now a husk devoid of nutrients. To survive, they cling to a tree and absorb the nutrients until the tree dies.*

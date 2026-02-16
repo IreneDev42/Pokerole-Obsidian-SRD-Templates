@@ -74,8 +74,8 @@ Weight:
 # Stonjourner 
 
 > [!grid]
-> ![[SRD-stonjourner-BookSprite.png|wsmall]]
-> ![[SRD-stonjourner-HomeSprite.png]]
+> ![[SRD-stonjourner-BookSprite.png|wsmall left]]
+> ![[SRD-stonjourner-HomeSprite.png|wsmall right]]
 
 *Big Rock Pokémon*
 *They spend almost all their lives immobile, disguised as inconspicuous rocks. Once a year they gather out of nowhere and form up in a circle. They stay in formation for a few days and then disappear overnight.*

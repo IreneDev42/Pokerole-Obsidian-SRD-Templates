@@ -84,8 +84,8 @@ Weight:
 # Meowstic 
 
 > [!grid]
-> ![[SRD-meowstic-BookSprite.png|wsmall]]
-> ![[SRD-meowstic-HomeSprite.png]]
+> ![[SRD-meowstic-BookSprite.png|wsmall left]]
+> ![[SRD-meowstic-HomeSprite.png|wsmall right]]
 
 *Constraint Pokémon*
 *The eye patterns inside its ears emit psychic energy. It keeps them shut tight because the power can be overwhelming. Females are white in color and more aggressive than the mild-mannered males.*

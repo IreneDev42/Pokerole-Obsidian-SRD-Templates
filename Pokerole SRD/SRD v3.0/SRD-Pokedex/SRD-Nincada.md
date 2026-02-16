@@ -75,8 +75,8 @@ Weight:
 # Nincada 
 
 > [!grid]
-> ![[SRD-nincada-BookSprite.png|wsmall]]
-> ![[SRD-nincada-HomeSprite.png]]
+> ![[SRD-nincada-BookSprite.png|wsmall left]]
+> ![[SRD-nincada-HomeSprite.png|wsmall right]]
 
 *Trainee Pokémon*
 *They live underground for decades, absorbing nutrients from roots and waiting for evolution. Nincada are nearly blind and cannot stand bright lights. They only come out to shed their exoskeleton and evolve.*

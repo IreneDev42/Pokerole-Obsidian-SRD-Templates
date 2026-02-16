@@ -74,8 +74,8 @@ Weight:
 # Volcanion 
 
 > [!grid]
-> ![[SRD-volcanion-BookSprite.png|wsmall]]
-> ![[SRD-volcanion-HomeSprite.png]]
+> ![[SRD-volcanion-BookSprite.png|wsmall left]]
+> ![[SRD-volcanion-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *In the early days of exploration, there were records of an entire mountain blowing up in a cloud of steam. The explorers claimed that a creature in the fog was responsible.*

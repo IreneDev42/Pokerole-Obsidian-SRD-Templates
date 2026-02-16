@@ -55,8 +55,8 @@ Weight:
 # Kyurem (Black Form) 
 
 > [!grid]
-> ![[SRD-kyurem-black-form-BookSprite.png|wsmall]]
-> ![[SRD-kyurem-black-form-HomeSprite.png]]
+> ![[SRD-kyurem-black-form-BookSprite.png|wsmall left]]
+> ![[SRD-kyurem-black-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *In the icy mountains at the east of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Dark clouds and lightning are sure to follow.*

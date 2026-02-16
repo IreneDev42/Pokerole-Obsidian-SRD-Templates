@@ -79,8 +79,8 @@ Weight:
 # Pyroar 
 
 > [!grid]
-> ![[SRD-pyroar-BookSprite.png|wsmall]]
-> ![[SRD-pyroar-HomeSprite.png]]
+> ![[SRD-pyroar-BookSprite.png|wsmall left]]
+> ![[SRD-pyroar-HomeSprite.png|wsmall right]]
 
 *Royal Pokémon*
 *The male with the largest fire mane is the leader of the pride. The females are fearsome hunters. Whenever they roar they also let out a fiery breath. Not many Pokémon dare to mess with them.*

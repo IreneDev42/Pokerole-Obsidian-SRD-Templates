@@ -77,8 +77,8 @@ Weight:
 # Hoothoot 
 
 > [!grid]
-> ![[SRD-hoothoot-BookSprite.png|wsmall]]
-> ![[SRD-hoothoot-HomeSprite.png]]
+> ![[SRD-hoothoot-BookSprite.png|wsmall left]]
+> ![[SRD-hoothoot-HomeSprite.png|wsmall right]]
 
 *Owl Pokémon*
 *A nocturnal Pokémon found in dark forests. It has an internal organ that senses the earth's rotation. By using this special organ, a Hoothoot begins hooting at precisely the same time every day.*

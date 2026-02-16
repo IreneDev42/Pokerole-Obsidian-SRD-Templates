@@ -73,8 +73,8 @@ Weight:
 # Sawk 
 
 > [!grid]
-> ![[SRD-sawk-BookSprite.png|wsmall]]
-> ![[SRD-sawk-HomeSprite.png]]
+> ![[SRD-sawk-BookSprite.png|wsmall left]]
+> ![[SRD-sawk-HomeSprite.png|wsmall right]]
 
 *Karate Pokémon*
 *This Pokémon is entirely dedicated to becoming stronger. Many have secluded in the mountains to train all day. Wild ones make their clothes out of plants and vines they find. Sawk and Throh train together.*

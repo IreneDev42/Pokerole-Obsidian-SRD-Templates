@@ -78,8 +78,8 @@ Weight:
 # Golett 
 
 > [!grid]
-> ![[SRD-golett-BookSprite.png|wsmall]]
-> ![[SRD-golett-HomeSprite.png]]
+> ![[SRD-golett-BookSprite.png|wsmall left]]
+> ![[SRD-golett-HomeSprite.png|wsmall right]]
 
 *Automaton Pokémon*
 *Very few have been seen in old ruins. These Pokémon are thought to have been created by the science of an ancient and mysterious civilization. The energy inside of them comes from an unknown source.*

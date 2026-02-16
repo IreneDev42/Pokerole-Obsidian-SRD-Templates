@@ -72,8 +72,8 @@ Weight:
 # Azurill 
 
 > [!grid]
-> ![[SRD-azurill-BookSprite.png|wsmall]]
-> ![[SRD-azurill-HomeSprite.png]]
+> ![[SRD-azurill-BookSprite.png|wsmall left]]
+> ![[SRD-azurill-HomeSprite.png|wsmall right]]
 
 *Polka Dot Pokémon*
 *They use their tail as a lasso. When they throw their ball, Azurill get dragged along with it. They are commonly seen bouncing and playing with other Pokémon on the beach. They love fruit pops.*

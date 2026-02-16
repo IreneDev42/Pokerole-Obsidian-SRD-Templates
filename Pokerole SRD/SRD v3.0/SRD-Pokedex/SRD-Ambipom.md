@@ -76,8 +76,8 @@ Weight:
 # Ambipom 
 
 > [!grid]
-> ![[SRD-ambipom-BookSprite.png|wsmall]]
-> ![[SRD-ambipom-HomeSprite.png]]
+> ![[SRD-ambipom-BookSprite.png|wsmall left]]
+> ![[SRD-ambipom-HomeSprite.png|wsmall right]]
 
 *Long Tail Pokémon*
 *They live in large colonies on the tallest trees, linking their tails to show friendship among herd mates. It loves fresh fruit. Ambipom uses its two tails better than its own arms to swing around.*

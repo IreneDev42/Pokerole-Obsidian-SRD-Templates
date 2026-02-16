@@ -76,8 +76,8 @@ Weight:
 # Wugtrio 
 
 > [!grid]
-> ![[SRD-wugtrio-BookSprite.png|wsmall]]
-> ![[SRD-wugtrio-HomeSprite.png]]
+> ![[SRD-wugtrio-BookSprite.png|wsmall left]]
+> ![[SRD-wugtrio-HomeSprite.png|wsmall right]]
 
 *Garden Eel Pokémon*
 *Tread with caution if you see holes in the sand near caves, for this Pokémon viciously wraps its body around its prey and drags it to its den. It has been confirmed this Pokémon is a variety of fish, unrelated to Dugtrio.*

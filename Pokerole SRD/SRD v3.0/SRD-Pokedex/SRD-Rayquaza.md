@@ -56,8 +56,8 @@ Weight:
 # Rayquaza 
 
 > [!grid]
-> ![[SRD-rayquaza-BookSprite.png|wsmall]]
-> ![[SRD-rayquaza-HomeSprite.png]]
+> ![[SRD-rayquaza-BookSprite.png|wsmall left]]
+> ![[SRD-rayquaza-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *The legend tells how Rayquaza lived in the outer layer of this world. It came to end the quarrel between Groudon and Kyogre, granted the world with blue skies, and then left.*

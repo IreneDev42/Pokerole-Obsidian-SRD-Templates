@@ -80,8 +80,8 @@ Weight:
 # Swanna 
 
 > [!grid]
-> ![[SRD-swanna-BookSprite.png|wsmall]]
-> ![[SRD-swanna-HomeSprite.png]]
+> ![[SRD-swanna-BookSprite.png|wsmall left]]
+> ![[SRD-swanna-HomeSprite.png|wsmall right]]
 
 *White Bird Pokémon*
 *Swanna come out to dance at dusk. The one dancing in the middle is the leader of the flock. Despite their elegant and frail appearance, they can flap their wings strongly and fly for thousands of miles.*

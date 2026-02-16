@@ -72,8 +72,8 @@ Weight:
 # Mareanie 
 
 > [!grid]
-> ![[SRD-mareanie-BookSprite.png|wsmall]]
-> ![[SRD-mareanie-HomeSprite.png]]
+> ![[SRD-mareanie-BookSprite.png|wsmall left]]
+> ![[SRD-mareanie-HomeSprite.png|wsmall right]]
 
 *Brutal Star Pokémon*
 *It can be found resting on the sea floor, waiting to sting unsuspecting prey to sting. They are pretty toxic and can attack with their barbed tentacles. Corsola are their main prey and one of its favourite meals.*

@@ -82,8 +82,8 @@ Weight:
 # Lopunny (Mega Form) 
 
 > [!grid]
-> ![[SRD-lopunny-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-lopunny-mega-form-HomeSprite.png]]
+> ![[SRD-lopunny-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-lopunny-mega-form-HomeSprite.png|wsmall right]]
 
 *Rabbit Pokémon*
 *The power of the Mega Stone awakens its combative nature. Most of its fur is lost due to constant fighting; even its ears are used as weapons, whipping foes with heavy hits.*

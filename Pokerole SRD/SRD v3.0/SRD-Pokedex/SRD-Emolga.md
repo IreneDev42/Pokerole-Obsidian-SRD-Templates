@@ -73,8 +73,8 @@ Weight:
 # Emolga 
 
 > [!grid]
-> ![[SRD-emolga-BookSprite.png|wsmall]]
-> ![[SRD-emolga-HomeSprite.png]]
+> ![[SRD-emolga-BookSprite.png|wsmall left]]
+> ![[SRD-emolga-HomeSprite.png|wsmall right]]
 
 *Sky Squirrel Pokémon*
 *They live on treetops, gliding around with the membrane between their limbs. They discharge electricity to defend against other Pokémon. They carry nuts and berries back to their nest to eat during the winter.*

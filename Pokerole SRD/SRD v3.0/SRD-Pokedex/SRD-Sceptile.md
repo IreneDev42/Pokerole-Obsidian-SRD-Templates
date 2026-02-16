@@ -88,8 +88,8 @@ Weight:
 # Sceptile 
 
 > [!grid]
-> ![[SRD-sceptile-BookSprite.png|wsmall]]
-> ![[SRD-sceptile-HomeSprite.png]]
+> ![[SRD-sceptile-BookSprite.png|wsmall left]]
+> ![[SRD-sceptile-HomeSprite.png|wsmall right]]
 
 *Forest Pokémon*
 *They raise trees with love and care and protect the jungles with their lives. Their tails can restore a plant's beauty. Sceptile's power is truly unmatched in their habitats. They are very proud, though.*

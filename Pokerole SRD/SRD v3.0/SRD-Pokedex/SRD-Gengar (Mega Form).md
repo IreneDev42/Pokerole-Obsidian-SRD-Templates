@@ -77,8 +77,8 @@ Weight:
 # Gengar (Mega Form) 
 
 > [!grid]
-> ![[SRD-gengar-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-gengar-mega-form-HomeSprite.png]]
+> ![[SRD-gengar-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-gengar-mega-form-HomeSprite.png|wsmall right]]
 
 *Shadow Pokémon*
 *With the power of the Mega Stone, Gengar can now teleport through dimensions. Whatever horrors it witnesses there make it try to curse anything or anyone it perceives as prey, even its beloved trainer!*

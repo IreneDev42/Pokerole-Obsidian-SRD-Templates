@@ -85,8 +85,8 @@ Weight:
 # Vibrava 
 
 > [!grid]
-> ![[SRD-vibrava-BookSprite.png|wsmall]]
-> ![[SRD-vibrava-HomeSprite.png]]
+> ![[SRD-vibrava-BookSprite.png|wsmall left]]
+> ![[SRD-vibrava-HomeSprite.png|wsmall right]]
 
 *Vibration Pokemon*
 *This Pokémon's vibrations can cause severe headaches or even fainting. If their prey faints, they proceed to melt them with acid. Vibrava's wings are still growing, making it a clumsy flier with low endurance.*

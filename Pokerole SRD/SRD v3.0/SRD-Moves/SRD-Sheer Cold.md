@@ -10,7 +10,7 @@ Attributes:
   Lethal: true
   Ranged: true
 Category: Special
-Damage1: '-'
+Damage1: ''
 Damage2: ''
 Description: "The Pok\xE9mon reaches an absolute zero by being freezed from the inside\
   \ out. Urgent medical attention is required."

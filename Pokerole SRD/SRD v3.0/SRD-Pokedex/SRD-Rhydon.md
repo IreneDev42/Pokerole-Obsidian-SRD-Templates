@@ -79,8 +79,8 @@ Weight:
 # Rhydon 
 
 > [!grid]
-> ![[SRD-rhydon-BookSprite.png|wsmall]]
-> ![[SRD-rhydon-HomeSprite.png]]
+> ![[SRD-rhydon-BookSprite.png|wsmall left]]
+> ![[SRD-rhydon-HomeSprite.png|wsmall right]]
 
 *Drill Pokémon*
 *It has a horn that serves as a drill for destroying rocks and boulders. Rhydon occasionally goes for a swim in rivers and even magma pools. Its great resistance prevents it from taking any damage.*

@@ -80,8 +80,8 @@ Weight:
 # Whirlipede 
 
 > [!grid]
-> ![[SRD-whirlipede-BookSprite.png|wsmall]]
-> ![[SRD-whirlipede-HomeSprite.png]]
+> ![[SRD-whirlipede-BookSprite.png|wsmall left]]
+> ![[SRD-whirlipede-HomeSprite.png|wsmall right]]
 
 *Curlipede Pokémon*
 *It is usually motionless. When it is attacked, it rotates at high speed and then crashes into its opponent with its body covered in poison spikes. Inside, it is storing energy for evolving, which normally takes a few months.*

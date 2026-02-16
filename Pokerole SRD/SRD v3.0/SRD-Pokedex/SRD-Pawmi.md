@@ -74,8 +74,8 @@ Weight:
 # Pawmi 
 
 > [!grid]
-> ![[SRD-pawmi-BookSprite.png|wsmall]]
-> ![[SRD-pawmi-HomeSprite.png]]
+> ![[SRD-pawmi-BookSprite.png|wsmall left]]
+> ![[SRD-pawmi-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *The electric sacs on its cheeks are still underdeveloped. However, its front paws are able to discharge electricity. Pawmi recharge by rubbing their front paws on the sacs.*

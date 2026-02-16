@@ -80,8 +80,8 @@ Weight:
 # Hoppip 
 
 > [!grid]
-> ![[SRD-hoppip-BookSprite.png|wsmall]]
-> ![[SRD-hoppip-HomeSprite.png]]
+> ![[SRD-hoppip-BookSprite.png|wsmall left]]
+> ![[SRD-hoppip-HomeSprite.png|wsmall right]]
 
 *Cottonweed Pokémon*
 *This Pokémon drifts away by floating on the wind. Even the weakest current can lift them up. By the end of the winter you can see them flying above cities and fields. This means that spring is coming soon.*

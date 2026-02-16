@@ -74,8 +74,8 @@ Weight:
 # Tapu Fini 
 
 > [!grid]
-> ![[SRD-tapu-fini-BookSprite.png|wsmall]]
-> ![[SRD-tapu-fini-HomeSprite.png]]
+> ![[SRD-tapu-fini-BookSprite.png|wsmall left]]
+> ![[SRD-tapu-fini-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *The people on Poni Island are proud of the clean water on their land; for that, they thank their guardian spirit who is said to be the ocean itself.*

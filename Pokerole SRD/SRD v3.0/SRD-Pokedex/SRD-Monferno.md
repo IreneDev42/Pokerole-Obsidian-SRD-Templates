@@ -83,8 +83,8 @@ Weight:
 # Monferno 
 
 > [!grid]
-> ![[SRD-monferno-BookSprite.png|wsmall]]
-> ![[SRD-monferno-HomeSprite.png]]
+> ![[SRD-monferno-BookSprite.png|wsmall left]]
+> ![[SRD-monferno-HomeSprite.png|wsmall right]]
 
 *Playful Pokémon*
 *It bounces off walls and ceilings to launch aerial attacks. They live in packs in distant mountains. The size of their flame and the blue pattern on their faces determine their rank. They are small but very strong.*

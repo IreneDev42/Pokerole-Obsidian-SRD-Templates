@@ -75,8 +75,8 @@ Weight:
 # Alomomola 
 
 > [!grid]
-> ![[SRD-alomomola-BookSprite.png|wsmall]]
-> ![[SRD-alomomola-HomeSprite.png]]
+> ![[SRD-alomomola-BookSprite.png|wsmall left]]
+> ![[SRD-alomomola-HomeSprite.png|wsmall right]]
 
 *Caring Pokémon*
 *Swimming in the open sea is how they live. If they find a wounded Pokémon they embrace it and use their special membrane to heal it. Alomomola are caring, noble, and selfless Pokémon.*

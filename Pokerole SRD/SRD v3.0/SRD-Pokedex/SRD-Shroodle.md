@@ -74,8 +74,8 @@ Weight:
 # Shroodle 
 
 > [!grid]
-> ![[SRD-shroodle-BookSprite.png|wsmall]]
-> ![[SRD-shroodle-HomeSprite.png]]
+> ![[SRD-shroodle-BookSprite.png|wsmall left]]
+> ![[SRD-shroodle-HomeSprite.png|wsmall right]]
 
 *Toxic Mouse Pokémon*
 *Although they are mellow Pokémon, they are lousy pets, for they will sink their sharp poison-soaked teeth into your hand. They thrived in cities where they could nest in the sewers. Their nests are very smelly.*

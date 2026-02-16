@@ -75,8 +75,8 @@ Weight:
 # Enamorus (Therian Form) 
 
 > [!grid]
-> ![[SRD-enamorus-therian-form-BookSprite.png|wsmall]]
-> ![[SRD-enamorus-therian-form-HomeSprite.png]]
+> ![[SRD-enamorus-therian-form-BookSprite.png|wsmall left]]
+> ![[SRD-enamorus-therian-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Some Pokémon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as tornadoes, lightning, and even... the power of love?*

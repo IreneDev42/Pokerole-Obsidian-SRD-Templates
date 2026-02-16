@@ -80,8 +80,8 @@ Weight:
 # Baxcalibur 
 
 > [!grid]
-> ![[SRD-baxcalibur-BookSprite.png|wsmall]]
-> ![[SRD-baxcalibur-HomeSprite.png]]
+> ![[SRD-baxcalibur-BookSprite.png|wsmall left]]
+> ![[SRD-baxcalibur-HomeSprite.png|wsmall right]]
 
 *Ice Dragon Pokémon*
 *The cryogenic air blasted from Baxcalibur's mouth is so cold it can freeze even lava. It launches itself into battle by flipping upside down to release its frigid breath and finishes off opponents with its dorsal blade.*

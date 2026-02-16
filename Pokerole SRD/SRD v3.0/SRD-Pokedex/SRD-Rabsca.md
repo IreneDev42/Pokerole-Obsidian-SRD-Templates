@@ -79,8 +79,8 @@ Weight:
 # Rabsca 
 
 > [!grid]
-> ![[SRD-rabsca-BookSprite.png|wsmall]]
-> ![[SRD-rabsca-HomeSprite.png]]
+> ![[SRD-rabsca-BookSprite.png|wsmall left]]
+> ![[SRD-rabsca-HomeSprite.png|wsmall right]]
 
 *Rolling Pokémon*
 *Rabsca's body barely moves. With its psychic abilities finally developed, it floats to get around. Sometimes you can see a baby Rellor poking outside the ball it carries. Rabsca are gentle and selfless parents.*

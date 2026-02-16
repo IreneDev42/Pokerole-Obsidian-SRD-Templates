@@ -78,8 +78,8 @@ Weight:
 # Voltorb 
 
 > [!grid]
-> ![[SRD-voltorb-BookSprite.png|wsmall]]
-> ![[SRD-voltorb-HomeSprite.png]]
+> ![[SRD-voltorb-BookSprite.png|wsmall left]]
+> ![[SRD-voltorb-HomeSprite.png|wsmall right]]
 
 *Ball Pokémon*
 *They live near factories and electric generators. It bears an uncanny and unexplained resemblance to a Poké Ball. Since it explodes at the slightest provocation, even veteran trainers treat it with caution.*

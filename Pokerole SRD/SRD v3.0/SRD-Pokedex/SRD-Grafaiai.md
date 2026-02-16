@@ -79,8 +79,8 @@ Weight:
 # Grafaiai 
 
 > [!grid]
-> ![[SRD-grafaiai-BookSprite.png|wsmall]]
-> ![[SRD-grafaiai-HomeSprite.png]]
+> ![[SRD-grafaiai-BookSprite.png|wsmall left]]
+> ![[SRD-grafaiai-HomeSprite.png|wsmall right]]
 
 *Toxic Monkey Pokémon*
 *Their saliva is poisonous, and it changes color depending on their diet. They use this colorful saliva to paint over trees and surfaces. Once they're set on a pattern, they'll draw it all over to mark their territory.*

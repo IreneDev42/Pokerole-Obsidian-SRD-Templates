@@ -74,8 +74,8 @@ Weight:
 # Mantyke 
 
 > [!grid]
-> ![[SRD-mantyke-BookSprite.png|wsmall]]
-> ![[SRD-mantyke-HomeSprite.png]]
+> ![[SRD-mantyke-BookSprite.png|wsmall left]]
+> ![[SRD-mantyke-HomeSprite.png|wsmall right]]
 
 *Kite Pokémon*
 *When it swims close the ocean's surface people aboard ships are able to observe the pattern on its back as it is different in every region. Mantyke is an intelligent and friendly Pokémon that rarely attacks others.*

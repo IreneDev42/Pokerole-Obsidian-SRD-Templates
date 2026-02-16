@@ -76,8 +76,8 @@ Weight:
 # Purrloin 
 
 > [!grid]
-> ![[SRD-purrloin-BookSprite.png|wsmall]]
-> ![[SRD-purrloin-HomeSprite.png]]
+> ![[SRD-purrloin-BookSprite.png|wsmall left]]
+> ![[SRD-purrloin-HomeSprite.png|wsmall right]]
 
 *Devious Pokémon*
 *They have adapted to live in the streets of big cities. They steal for fun, but their victims can't help but forgive them. Their cute act is a ruse. People who keep them as pets often regret it.*

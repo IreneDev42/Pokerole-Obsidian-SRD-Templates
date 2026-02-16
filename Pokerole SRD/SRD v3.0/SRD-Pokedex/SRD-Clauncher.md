@@ -75,8 +75,8 @@ Weight:
 # Clauncher 
 
 > [!grid]
-> ![[SRD-clauncher-BookSprite.png|wsmall]]
-> ![[SRD-clauncher-HomeSprite.png]]
+> ![[SRD-clauncher-BookSprite.png|wsmall left]]
+> ![[SRD-clauncher-HomeSprite.png|wsmall right]]
 
 *Water Gun Pokémon*
 *They live on beaches and in shallow waters. They can knock down a flying prey by shooting water from their massive claws. Their meat is delicious, but their tough shell and demeanor keeps predators at bay.*

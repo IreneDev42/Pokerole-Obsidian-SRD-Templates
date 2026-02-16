@@ -75,8 +75,8 @@ Weight:
 # Skrelp 
 
 > [!grid]
-> ![[SRD-skrelp-BookSprite.png|wsmall]]
-> ![[SRD-skrelp-HomeSprite.png]]
+> ![[SRD-skrelp-BookSprite.png|wsmall left]]
+> ![[SRD-skrelp-HomeSprite.png|wsmall right]]
 
 *Mock Kelp Pokémon*
 *Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unaware. It needs to store a lot of energy to be able to evolve, so it takes them a long time. Touching one will give you a fever.*

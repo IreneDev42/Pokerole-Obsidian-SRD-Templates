@@ -75,8 +75,8 @@ Weight:
 # Yungoos 
 
 > [!grid]
-> ![[SRD-yungoos-BookSprite.png|wsmall]]
-> ![[SRD-yungoos-HomeSprite.png]]
+> ![[SRD-yungoos-BookSprite.png|wsmall left]]
+> ![[SRD-yungoos-HomeSprite.png|wsmall right]]
 
 *Loitering Pokémon*
 *This Pokémon was brought to Alola in an attempt to eradicate Ratatta. It spends all day searching for prey and it's constantly hungry. When the sun sets, it falls asleep right where it was standing.*

@@ -73,8 +73,8 @@ Weight:
 # Jangmo-o 
 
 > [!grid]
-> ![[SRD-jangmo-o-BookSprite.png|wsmall]]
-> ![[SRD-jangmo-o-HomeSprite.png]]
+> ![[SRD-jangmo-o-BookSprite.png|wsmall left]]
+> ![[SRD-jangmo-o-HomeSprite.png|wsmall right]]
 
 *Scaly Pokémon*
 *They live in mountains rarely visited by humans. Although they are valiant and hard-working Pokémon, they retain their independent nature. They use the scale on their heads for both attack and defense.*

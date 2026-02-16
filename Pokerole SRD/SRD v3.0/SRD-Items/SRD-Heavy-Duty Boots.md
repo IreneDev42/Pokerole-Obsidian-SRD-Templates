@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: These metal-plated boots will protect your feet even from a bear trap.
   The user is immune to Entry Hazards.
 Image: SRD-heavy-duty-boots-ItemSprite.png

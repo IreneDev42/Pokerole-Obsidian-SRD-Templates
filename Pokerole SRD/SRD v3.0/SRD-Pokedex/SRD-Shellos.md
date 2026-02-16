@@ -74,8 +74,8 @@ Weight:
 # Shellos 
 
 > [!grid]
-> ![[SRD-shellos-BookSprite.png|wsmall]]
-> ![[SRD-shellos-HomeSprite.png]]
+> ![[SRD-shellos-BookSprite.png|wsmall left]]
+> ![[SRD-shellos-HomeSprite.png|wsmall right]]
 
 *Sea Slug Pokémon*
 *Its shape and coloration change depending on its habitat of salt or fresh water. Their body is very soft and squishy but they can stretch to long lengths. It releases a purple liquid from its body if threatened.*

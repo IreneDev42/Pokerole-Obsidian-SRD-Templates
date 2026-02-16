@@ -10,11 +10,11 @@ Damage2: ''
 Description: A power struggle can become a clash of mights, usually with explosive
   results.
 Effect: Target Self. Reaction 6. Match the number of successes on the Accuracy roll
-  ofa Move that targets the User. If successful, the user Clashes, see p.68. This
+  of a Move that targets the User. If successful, the user Clashes, see p.68. This
   Maneuver is not affected by the Multiple Action difficulty chart.
 Name: Clash
 Power: 0
-Target: User
+Target: Self
 Type: Typeless
 ---
 

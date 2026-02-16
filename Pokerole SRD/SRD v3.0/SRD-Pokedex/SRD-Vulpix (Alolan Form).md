@@ -79,8 +79,8 @@ Weight:
 # Vulpix (Alolan Form) 
 
 > [!grid]
-> ![[SRD-vulpix-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-vulpix-alolan-form-HomeSprite.png]]
+> ![[SRD-vulpix-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-vulpix-alolan-form-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *The Vulpix who became stranded in Alola had to change type in order to survive. Alola's local name for this Pokémon is Keokeo. They use their tails as a fan to cool themselves in hot climates.*

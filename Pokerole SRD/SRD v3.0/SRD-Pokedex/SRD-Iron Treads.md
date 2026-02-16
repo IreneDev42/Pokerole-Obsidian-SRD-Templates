@@ -74,8 +74,8 @@ Weight:
 # Iron Treads 
 
 > [!grid]
-> ![[SRD-iron-treads-BookSprite.png|wsmall]]
-> ![[SRD-iron-treads-HomeSprite.png]]
+> ![[SRD-iron-treads-BookSprite.png|wsmall left]]
+> ![[SRD-iron-treads-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *An ancient war weapon fashioned into the form of a Donphan, made with technology that is not of this world. All that remains in its path is the sight of scorched earth.*

@@ -78,8 +78,8 @@ Weight:
 # Amaura 
 
 > [!grid]
-> ![[SRD-amaura-BookSprite.png|wsmall]]
-> ![[SRD-amaura-HomeSprite.png]]
+> ![[SRD-amaura-BookSprite.png|wsmall left]]
+> ![[SRD-amaura-HomeSprite.png|wsmall right]]
 
 *Tundra Pokémon*
 *This ancient Pokémon was restored from part of its body that had been frozen for over 100 million years. This calm Pokémon lived in cold lands where violent predators like Tyrantrum couldn't reach it.*

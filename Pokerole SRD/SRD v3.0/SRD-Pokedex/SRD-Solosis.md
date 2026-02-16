@@ -79,8 +79,8 @@ Weight:
 # Solosis 
 
 > [!grid]
-> ![[SRD-solosis-BookSprite.png|wsmall]]
-> ![[SRD-solosis-HomeSprite.png]]
+> ![[SRD-solosis-BookSprite.png|wsmall left]]
+> ![[SRD-solosis-HomeSprite.png|wsmall right]]
 
 *Cell Pokémon*
 *Their bodies are encapsulated in a special liquid, ensuring survival no matter how harsh the environment is. They drive away attackers with their psychic power. They can use their minds to communicate.*

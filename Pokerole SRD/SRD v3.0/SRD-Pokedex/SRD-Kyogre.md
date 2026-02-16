@@ -54,8 +54,8 @@ Weight:
 # Kyogre 
 
 > [!grid]
-> ![[SRD-kyogre-BookSprite.png|wsmall]]
-> ![[SRD-kyogre-HomeSprite.png]]
+> ![[SRD-kyogre-BookSprite.png|wsmall left]]
+> ![[SRD-kyogre-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Kyogre is named in mythology as the god who expanded the seas and oceans with torrential waters and huge tidal waves. It is the mortal enemy of Groudon.*

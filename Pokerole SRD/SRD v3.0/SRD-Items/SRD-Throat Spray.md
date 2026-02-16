@@ -1,6 +1,6 @@
 ---
 Boost: Special
-Category: BattleItems
+Category: BattleItem
 Description: This spray relaxes vocal cords. Increase Special by 1 after using a Sound-Based
   Move.
 Image: SRD-throat-spray-ItemSprite.png

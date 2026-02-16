@@ -77,8 +77,8 @@ Weight:
 # Magcargo 
 
 > [!grid]
-> ![[SRD-magcargo-BookSprite.png|wsmall]]
-> ![[SRD-magcargo-HomeSprite.png]]
+> ![[SRD-magcargo-BookSprite.png|wsmall left]]
+> ![[SRD-magcargo-HomeSprite.png|wsmall right]]
 
 *Lava Pokémon*
 *Their shell is molten body that cooled off and hardened. It may appear solid, but it may burst into flames with a single touch. Water vaporizes on contact and rain turns into a cloud of steam.*

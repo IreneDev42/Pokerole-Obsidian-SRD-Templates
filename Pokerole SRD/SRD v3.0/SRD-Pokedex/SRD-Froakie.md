@@ -75,8 +75,8 @@ Weight:
 # Froakie 
 
 > [!grid]
-> ![[SRD-froakie-BookSprite.png|wsmall]]
-> ![[SRD-froakie-HomeSprite.png]]
+> ![[SRD-froakie-BookSprite.png|wsmall left]]
+> ![[SRD-froakie-HomeSprite.png|wsmall right]]
 
 *Bubble Frog Pokémon*
 *It protects its skin by covering its body in bubbly foam. In contrast to its happy-go-lucky attitude, it hides a watchful eye on its surroundings. It needs good discipline or it will be bad-mannered with others.*

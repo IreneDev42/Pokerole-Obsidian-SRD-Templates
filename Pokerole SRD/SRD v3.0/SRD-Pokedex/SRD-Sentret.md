@@ -75,8 +75,8 @@ Weight:
 # Sentret 
 
 > [!grid]
-> ![[SRD-sentret-BookSprite.png|wsmall]]
-> ![[SRD-sentret-HomeSprite.png]]
+> ![[SRD-sentret-BookSprite.png|wsmall left]]
+> ![[SRD-sentret-HomeSprite.png|wsmall right]]
 
 *Scout Pokémon*
 *It lives underground with its family. It is cautious and nervous by nature. Sentret is always vigilant for any threat. It is very friendly among its kind and suffers a lot if separated from its pack.*

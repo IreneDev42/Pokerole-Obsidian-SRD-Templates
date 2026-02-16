@@ -73,8 +73,8 @@ Weight:
 # Espurr 
 
 > [!grid]
-> ![[SRD-espurr-BookSprite.png|wsmall]]
-> ![[SRD-espurr-HomeSprite.png]]
+> ![[SRD-espurr-BookSprite.png|wsmall left]]
+> ![[SRD-espurr-HomeSprite.png|wsmall right]]
 
 *Restraint Pokémon*
 *The organs that emit its intense psychic power are tucked under its ears to keep energy from escaping. It still does not control its power and could destroy something without realizing it.*

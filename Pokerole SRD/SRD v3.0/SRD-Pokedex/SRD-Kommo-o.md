@@ -82,8 +82,8 @@ Weight:
 # Kommo-o 
 
 > [!grid]
-> ![[SRD-kommo-o-BookSprite.png|wsmall]]
-> ![[SRD-kommo-o-HomeSprite.png]]
+> ![[SRD-kommo-o-BookSprite.png|wsmall left]]
+> ![[SRD-kommo-o-HomeSprite.png|wsmall right]]
 
 *Scaly Pokémon*
 *It completed its harsh training and returns to the mountain where it was born to look after the young Jangmo-o, watching them from afar. It is constantly looking for strong opponents.*

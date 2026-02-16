@@ -76,8 +76,8 @@ Weight:
 # Poliwrath 
 
 > [!grid]
-> ![[SRD-poliwrath-BookSprite.png|wsmall]]
-> ![[SRD-poliwrath-HomeSprite.png]]
+> ![[SRD-poliwrath-BookSprite.png|wsmall left]]
+> ![[SRD-poliwrath-HomeSprite.png|wsmall right]]
 
 *Tadpole Pokémon*
 *It's not common to find it in the wild. Most sightings take place when it is on land. Once it is inside the water, it will swim far away. This Pokémon is an outstanding swimmer, capable of beating any human.*

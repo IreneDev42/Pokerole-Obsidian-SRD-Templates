@@ -79,8 +79,8 @@ Weight:
 # Terapagos (Terastal Form) 
 
 > [!grid]
-> ![[SRD-terapagos-terastal-form-BookSprite.png|wsmall]]
-> ![[SRD-terapagos-terastal-form-HomeSprite.png]]
+> ![[SRD-terapagos-terastal-form-BookSprite.png|wsmall left]]
+> ![[SRD-terapagos-terastal-form-HomeSprite.png|wsmall right]]
 
 *Tera Pokémon*
 *The connection they have to the Terastral phenomenon is still a mystery. It has shown the ability of terastallizing at will by absorbing the energy of attacks coming its way.*

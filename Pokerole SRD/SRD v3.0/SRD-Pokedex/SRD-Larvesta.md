@@ -74,8 +74,8 @@ Weight:
 # Larvesta 
 
 > [!grid]
-> ![[SRD-larvesta-BookSprite.png|wsmall]]
-> ![[SRD-larvesta-HomeSprite.png]]
+> ![[SRD-larvesta-BookSprite.png|wsmall left]]
+> ![[SRD-larvesta-HomeSprite.png|wsmall right]]
 
 *Torch Pokémon*
 *Very rare. The base of volcanoes is where they make their homes. They shoot fire from their horns to repel attacks from enemies. It becomes a flaming cocoon for months before it finally evolves.*

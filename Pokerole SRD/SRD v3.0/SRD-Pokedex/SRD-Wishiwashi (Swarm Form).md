@@ -79,8 +79,8 @@ Weight:
 # Wishiwashi (Swarm Form) 
 
 > [!grid]
-> ![[SRD-wishiwashi-swarm-form-BookSprite.png|wsmall]]
-> ![[SRD-wishiwashi-swarm-form-HomeSprite.png]]
+> ![[SRD-wishiwashi-swarm-form-BookSprite.png|wsmall left]]
+> ![[SRD-wishiwashi-swarm-form-HomeSprite.png|wsmall right]]
 
 *Small Fry Pokémon*
 *A school of Wishiwashi is the demon of the sea. Even Gyarados flee in terror when one approaches. Since it is formed by lots of members, it's impossible to control. They disband after the threat is 'neutralized'.*

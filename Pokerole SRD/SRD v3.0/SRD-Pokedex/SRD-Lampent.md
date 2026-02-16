@@ -80,8 +80,8 @@ Weight:
 # Lampent 
 
 > [!grid]
-> ![[SRD-lampent-BookSprite.png|wsmall]]
-> ![[SRD-lampent-HomeSprite.png]]
+> ![[SRD-lampent-BookSprite.png|wsmall left]]
+> ![[SRD-lampent-HomeSprite.png|wsmall right]]
 
 *Lamp Pokémon*
 *This ominous Pokémon is very feared. It always arrives at someone's final moments and steals their spirit. It hangs close to hospitals and other places, simply waiting. It is said that if it gets your soul, you will never rest.*

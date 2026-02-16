@@ -80,8 +80,8 @@ Weight:
 # Rufflet 
 
 > [!grid]
-> ![[SRD-rufflet-BookSprite.png|wsmall]]
-> ![[SRD-rufflet-HomeSprite.png]]
+> ![[SRD-rufflet-BookSprite.png|wsmall left]]
+> ![[SRD-rufflet-HomeSprite.png|wsmall right]]
 
 *Eaglet Pokémon*
 *This species only has males. They are independent from the moment they hatch. They will challenge even strong opponents without fear. Their frequent fights help them become stronger.*

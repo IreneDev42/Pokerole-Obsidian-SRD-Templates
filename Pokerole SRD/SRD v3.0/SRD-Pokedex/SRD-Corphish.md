@@ -75,8 +75,8 @@ Weight:
 # Corphish 
 
 > [!grid]
-> ![[SRD-corphish-BookSprite.png|wsmall]]
-> ![[SRD-corphish-HomeSprite.png]]
+> ![[SRD-corphish-BookSprite.png|wsmall left]]
+> ![[SRD-corphish-HomeSprite.png|wsmall right]]
 
 *Ruffian Pokémon*
 *Corphish were originally foreign Pokémon that were imported as pets. They eventually turned up in the wild and reproduced a lot. They are resilient and can live in polluted water. Beware of their pincers.*

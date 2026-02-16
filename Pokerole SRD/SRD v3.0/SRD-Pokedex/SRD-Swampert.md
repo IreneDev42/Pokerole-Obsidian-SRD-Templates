@@ -87,8 +87,8 @@ Weight:
 # Swampert 
 
 > [!grid]
-> ![[SRD-swampert-BookSprite.png|wsmall]]
-> ![[SRD-swampert-HomeSprite.png]]
+> ![[SRD-swampert-BookSprite.png|wsmall left]]
+> ![[SRD-swampert-HomeSprite.png|wsmall right]]
 
 *Mud Fish Pokémon*
 *They have an incredible sight that allows them to see in muddy water. They nest in beaches, and shield their young with their strong arms. When a storm is coming, Swampert build a fort with big rocks.*

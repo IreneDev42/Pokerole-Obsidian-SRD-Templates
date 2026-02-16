@@ -78,8 +78,8 @@ Weight:
 # Bellossom 
 
 > [!grid]
-> ![[SRD-bellossom-BookSprite.png|wsmall]]
-> ![[SRD-bellossom-HomeSprite.png]]
+> ![[SRD-bellossom-BookSprite.png|wsmall left]]
+> ![[SRD-bellossom-HomeSprite.png|wsmall right]]
 
 *Flower Pokémon*
 *They are plentiful in tropical areas. The beauty of the flowers on its head depends on how stinky it was as a Gloom. Lots of sunshine will make the skirt leaves swirl in a beautiful and rhythmic dance.*

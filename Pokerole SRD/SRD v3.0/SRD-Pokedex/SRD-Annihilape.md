@@ -81,8 +81,8 @@ Weight:
 # Annihilape 
 
 > [!grid]
-> ![[SRD-annihilape-BookSprite.png|wsmall]]
-> ![[SRD-annihilape-HomeSprite.png]]
+> ![[SRD-annihilape-BookSprite.png|wsmall left]]
+> ![[SRD-annihilape-HomeSprite.png|wsmall right]]
 
 *Rage Monkey Pokémon*
 *Its immense rage would never let this Pokémon rest in peace. So, even from beyond it keeps its wrath burning as a shadowy flame. Stay away, for its fists are said to crush the very soul of its victims.*

@@ -82,8 +82,8 @@ Weight:
 # Tyranitar (Mega Form) 
 
 > [!grid]
-> ![[SRD-tyranitar-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-tyranitar-mega-form-HomeSprite.png]]
+> ![[SRD-tyranitar-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-tyranitar-mega-form-HomeSprite.png|wsmall right]]
 
 *Armor Pokémon*
 *The power of the Mega Stone is so overwhelming it splits its back open. It becomes overwhelmed by its ferocious instincts and it's unclear if it can even hear its trainer through the pain and rage.*

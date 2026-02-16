@@ -75,8 +75,8 @@ Weight:
 # Misdreavus 
 
 > [!grid]
-> ![[SRD-misdreavus-BookSprite.png|wsmall]]
-> ![[SRD-misdreavus-HomeSprite.png]]
+> ![[SRD-misdreavus-BookSprite.png|wsmall left]]
+> ![[SRD-misdreavus-HomeSprite.png|wsmall right]]
 
 *Screech Pokémon*
 *Misdreavus frightens people with a creepy, sobbing cry. It uses the red spheres on its neck to absorb fear as nutrition. It takes a wicked pleasure in startling and scaring people.*

@@ -78,8 +78,8 @@ Weight:
 # Tangela 
 
 > [!grid]
-> ![[SRD-tangela-BookSprite.png|wsmall]]
-> ![[SRD-tangela-HomeSprite.png]]
+> ![[SRD-tangela-BookSprite.png|wsmall left]]
+> ![[SRD-tangela-HomeSprite.png|wsmall right]]
 
 *Vine Pokémon*
 *It blends with foliage in jungle and forest areas. Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.*

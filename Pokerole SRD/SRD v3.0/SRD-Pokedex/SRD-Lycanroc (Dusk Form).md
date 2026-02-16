@@ -84,8 +84,8 @@ Weight:
 # Lycanroc (Dusk Form) 
 
 > [!grid]
-> ![[SRD-lycanroc-dusk-form-BookSprite.png|wsmall]]
-> ![[SRD-lycanroc-dusk-form-HomeSprite.png]]
+> ![[SRD-lycanroc-dusk-form-BookSprite.png|wsmall left]]
+> ![[SRD-lycanroc-dusk-form-HomeSprite.png|wsmall right]]
 
 *Wolf Pokémon*
 *An independent but loyal Rockruff will evolve at dusk. This evolved form is very hard to achieve. An intense fighting spirit lies underneath its calm exterior. Prone to act on its own.*

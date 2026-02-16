@@ -79,8 +79,8 @@ Weight:
 # Corviknight 
 
 > [!grid]
-> ![[SRD-corviknight-BookSprite.png|wsmall]]
-> ![[SRD-corviknight-HomeSprite.png]]
+> ![[SRD-corviknight-BookSprite.png|wsmall left]]
+> ![[SRD-corviknight-HomeSprite.png|wsmall right]]
 
 *Raven Pokémon*
 *With their great intellect and flying skills, these Pokémon very successfully take the place as the kings of the Galarian sky. When they fly, they cast giant shadows that strike fear upon foes and friends alike.*

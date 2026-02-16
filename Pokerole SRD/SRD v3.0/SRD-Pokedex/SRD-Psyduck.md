@@ -75,8 +75,8 @@ Weight:
 # Psyduck 
 
 > [!grid]
-> ![[SRD-psyduck-BookSprite.png|wsmall]]
-> ![[SRD-psyduck-HomeSprite.png]]
+> ![[SRD-psyduck-BookSprite.png|wsmall left]]
+> ![[SRD-psyduck-HomeSprite.png|wsmall right]]
 
 *Duck Pokémon*
 *It lives near lakes and ponds, but it's not very good at swimming. It is always tormented by headaches that worsen when it uses psychic powers. Psyduck seem unaware of their own power.*

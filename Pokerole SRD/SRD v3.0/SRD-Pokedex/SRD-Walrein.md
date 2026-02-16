@@ -78,8 +78,8 @@ Weight:
 # Walrein 
 
 > [!grid]
-> ![[SRD-walrein-BookSprite.png|wsmall]]
-> ![[SRD-walrein-HomeSprite.png]]
+> ![[SRD-walrein-BookSprite.png|wsmall left]]
+> ![[SRD-walrein-HomeSprite.png|wsmall right]]
 
 *Ice Break Pokémon*
 *The leader of the herd is a powerful Walrein. They are very aggressive and will protect their herd even at the cost of their lives. Their tusks can shatter giant blocks of ice. It is relentless and unpredictable.*

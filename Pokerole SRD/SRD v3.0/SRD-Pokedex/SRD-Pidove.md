@@ -74,8 +74,8 @@ Weight:
 # Pidove 
 
 > [!grid]
-> ![[SRD-pidove-BookSprite.png|wsmall]]
-> ![[SRD-pidove-HomeSprite.png]]
+> ![[SRD-pidove-BookSprite.png|wsmall left]]
+> ![[SRD-pidove-HomeSprite.png|wsmall right]]
 
 *Tiny Pigeon Pokémon*
 *These Pokémon thrive in the cities. They are accustomed to people and they often gather in parks. They are forgetful and not very smart, but they always remember the way back home.*

@@ -75,8 +75,8 @@ Weight:
 # Chimchar 
 
 > [!grid]
-> ![[SRD-chimchar-BookSprite.png|wsmall]]
-> ![[SRD-chimchar-HomeSprite.png]]
+> ![[SRD-chimchar-BookSprite.png|wsmall left]]
+> ![[SRD-chimchar-HomeSprite.png|wsmall right]]
 
 *Chimp Pokémon*
 *They climb sheer cliffs to live at the top of the mountains. Small groups of them tend to visit human camping sites to steal food and objects. They are playful and will wreak havoc if they want to have fun.*

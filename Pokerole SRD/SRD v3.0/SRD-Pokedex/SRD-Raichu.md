@@ -79,8 +79,8 @@ Weight:
 # Raichu 
 
 > [!grid]
-> ![[SRD-raichu-BookSprite.png|wsmall]]
-> ![[SRD-raichu-HomeSprite.png]]
+> ![[SRD-raichu-BookSprite.png|wsmall left]]
+> ![[SRD-raichu-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *When electricity builds on its body, it starts to emit a faint glow and it becomes more aggressive than it normally is. They live in forests but are rare to find in the wild.*

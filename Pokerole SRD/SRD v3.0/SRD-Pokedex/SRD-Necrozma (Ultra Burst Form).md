@@ -83,8 +83,8 @@ Weight:
 # Necrozma (Ultra Burst Form) 
 
 > [!grid]
-> ![[SRD-necrozma-ultra-burst-form-BookSprite.png|wsmall]]
-> ![[SRD-necrozma-ultra-burst-form-HomeSprite.png]]
+> ![[SRD-necrozma-ultra-burst-form-BookSprite.png|wsmall left]]
+> ![[SRD-necrozma-ultra-burst-form-HomeSprite.png|wsmall right]]
 
 *Aether Foundation S.O.S Message (Recovered)*
 *Alert to all international authorities! There’s been a (White Noise) serious breach of security! This is an emergency! Close the port-(White Noise). NOW! (White Noise).*

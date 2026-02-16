@@ -68,8 +68,8 @@ Weight:
 # Sewaddle 
 
 > [!grid]
-> ![[SRD-sewaddle-BookSprite.png|wsmall]]
-> ![[SRD-sewaddle-HomeSprite.png]]
+> ![[SRD-sewaddle-BookSprite.png|wsmall left]]
+> ![[SRD-sewaddle-HomeSprite.png|wsmall right]]
 
 *Sewing Pokémon*
 *It is a sweet Pokémon that loves its family. It hides its head in the leaf hood while it is sleeping. The silk they produce is highly valued to make expensive clothing; this makes it a popular pet for fashion designers.*

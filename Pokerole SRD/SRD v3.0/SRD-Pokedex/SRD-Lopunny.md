@@ -87,8 +87,8 @@ Weight:
 # Lopunny 
 
 > [!grid]
-> ![[SRD-lopunny-BookSprite.png|wsmall]]
-> ![[SRD-lopunny-HomeSprite.png]]
+> ![[SRD-lopunny-BookSprite.png|wsmall left]]
+> ![[SRD-lopunny-HomeSprite.png|wsmall right]]
 
 *Rabbit Pokémon*
 *Lopunny is extremely cautious; it quickly bounds off when it senses danger. If they are touched roughly, they throw kicks and jump away. Keep the fur it sheds as it's highly valued to make quality yarn.*

@@ -75,8 +75,8 @@ Weight:
 # Meowth 
 
 > [!grid]
-> ![[SRD-meowth-BookSprite.png|wsmall]]
-> ![[SRD-meowth-HomeSprite.png]]
+> ![[SRD-meowth-BookSprite.png|wsmall left]]
+> ![[SRD-meowth-HomeSprite.png|wsmall right]]
 
 *Scratch Cat Pokémon*
 *They used to live in grasslands but have adapted really well to life in the city. Shiny things fascinate them and they keep a little treasure hidden. The coin on its head is its most prized possession.*

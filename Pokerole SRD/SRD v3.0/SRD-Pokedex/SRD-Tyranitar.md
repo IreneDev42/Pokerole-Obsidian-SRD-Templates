@@ -86,8 +86,8 @@ Weight:
 # Tyranitar 
 
 > [!grid]
-> ![[SRD-tyranitar-BookSprite.png|wsmall]]
-> ![[SRD-tyranitar-HomeSprite.png]]
+> ![[SRD-tyranitar-BookSprite.png|wsmall left]]
+> ![[SRD-tyranitar-HomeSprite.png|wsmall right]]
 
 *Armor Pokémon*
 *Its body is hardly damaged by any attack, so it's always eager to fight. They are extremely strong; their rage can change landscapes. Tyranitar are insolents, rebels and they care about no-one.*

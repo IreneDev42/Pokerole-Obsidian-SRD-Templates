@@ -74,8 +74,8 @@ Weight:
 # Dwebble 
 
 > [!grid]
-> ![[SRD-dwebble-BookSprite.png|wsmall]]
-> ![[SRD-dwebble-HomeSprite.png]]
+> ![[SRD-dwebble-BookSprite.png|wsmall left]]
+> ![[SRD-dwebble-HomeSprite.png|wsmall right]]
 
 *Rock Inn Pokémon*
 *Their saliva is corrosive and they use it to slowly cut pieces of rock. The rock becomes a shelter until it grows too large for it. If the rock breaks, it stays anxious and agitated until it finds a replacement.*

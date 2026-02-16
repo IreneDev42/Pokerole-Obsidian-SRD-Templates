@@ -77,8 +77,8 @@ Weight:
 # Aggron (Mega Form) 
 
 > [!grid]
-> ![[SRD-aggron-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-aggron-mega-form-HomeSprite.png]]
+> ![[SRD-aggron-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-aggron-mega-form-HomeSprite.png|wsmall right]]
 
 *Iron Armor Pokémon*
 *The power of the Mega Stone makes their already-small caring nature disappear. They become relentless and more machine-like, trampling their way around as nothing can penetrate their armor.*

@@ -76,8 +76,8 @@ Weight:
 # Raikou 
 
 > [!grid]
-> ![[SRD-raikou-BookSprite.png|wsmall]]
-> ![[SRD-raikou-HomeSprite.png]]
+> ![[SRD-raikou-BookSprite.png|wsmall left]]
+> ![[SRD-raikou-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Johto legends tell about a Pokémon born from lightning, with a roar like crashing thunder, soaring the lands, sending resounding shockwaves as it walks.*

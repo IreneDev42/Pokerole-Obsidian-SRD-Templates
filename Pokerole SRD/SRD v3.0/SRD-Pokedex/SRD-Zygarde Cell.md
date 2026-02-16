@@ -64,8 +64,8 @@ Weight:
 # Zygarde Cell 
 
 > [!grid]
-> ![[SRD-zygarde-cell-BookSprite.png|wsmall]]
-> ![[SRD-zygarde-cell-HomeSprite.png]]
+> ![[SRD-zygarde-cell-BookSprite.png|wsmall left]]
+> ![[SRD-zygarde-cell-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Only the the cores react to stimuli; the cells remain mostly inanimate. They gather in great numbers to create and strengthen Zygarde.*

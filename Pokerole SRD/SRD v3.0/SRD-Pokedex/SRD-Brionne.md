@@ -79,8 +79,8 @@ Weight:
 # Brionne 
 
 > [!grid]
-> ![[SRD-brionne-BookSprite.png|wsmall]]
-> ![[SRD-brionne-HomeSprite.png]]
+> ![[SRD-brionne-BookSprite.png|wsmall left]]
+> ![[SRD-brionne-HomeSprite.png|wsmall right]]
 
 *Pop Star Pokémon*
 *In the wild, each herd has their own songs and dances; Brionne practice them in the moonlight. It is cheerful and not timid at all. It forms friendships easily through dance movements.*

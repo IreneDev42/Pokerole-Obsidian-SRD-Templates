@@ -80,8 +80,8 @@ Weight:
 # Masquerain 
 
 > [!grid]
-> ![[SRD-masquerain-BookSprite.png|wsmall]]
-> ![[SRD-masquerain-HomeSprite.png]]
+> ![[SRD-masquerain-BookSprite.png|wsmall left]]
+> ![[SRD-masquerain-HomeSprite.png|wsmall right]]
 
 *Eyeball Pokémon*
 *Their antennas look like terrifying eyes. Masquerain can fly in any direction like a helicopter, but their wings are soft and fragile, so they don't fly when it's raining. They cling to trees at night to sleep.*

@@ -80,8 +80,8 @@ Weight:
 # Talonflame 
 
 > [!grid]
-> ![[SRD-talonflame-BookSprite.png|wsmall]]
-> ![[SRD-talonflame-HomeSprite.png]]
+> ![[SRD-talonflame-BookSprite.png|wsmall left]]
+> ![[SRD-talonflame-HomeSprite.png|wsmall right]]
 
 *Scorching Pokémon*
 *They soar over desert canyons. If they spot prey, they launch down at full speed to deliver a finishing blow. They are excellent hunters. With every wing flap they take, a trail of fiery dust is left behind.*

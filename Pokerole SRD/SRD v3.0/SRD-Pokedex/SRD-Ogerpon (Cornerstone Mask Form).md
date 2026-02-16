@@ -3,7 +3,7 @@ Ability1: Sturdy
 Ability2: Embody Aspect
 AceMoves:
 - Vine Whip
-- Leech seed
+- Leech Seed
 - Quick Attack
 - Follow Me
 - Focus Energy
@@ -85,8 +85,8 @@ Weight:
 # Ogerpon (Cornerstone Mask Form) 
 
 > [!grid]
-> ![[SRD-ogerpon-cornerstone-mask-form-BookSprite.png|wsmall]]
-> ![[SRD-ogerpon-cornerstone-mask-form-HomeSprite.png]]
+> ![[SRD-ogerpon-cornerstone-mask-form-BookSprite.png|wsmall left]]
+> ![[SRD-ogerpon-cornerstone-mask-form-HomeSprite.png|wsmall right]]
 
 *Mask Pokémon*
 *Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a destructive creature during the festival of masks. The creature thrashes the place and destroys all festive decorations.*

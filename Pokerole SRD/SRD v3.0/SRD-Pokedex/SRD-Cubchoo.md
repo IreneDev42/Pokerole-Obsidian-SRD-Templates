@@ -76,8 +76,8 @@ Weight:
 # Cubchoo 
 
 > [!grid]
-> ![[SRD-cubchoo-BookSprite.png|wsmall]]
-> ![[SRD-cubchoo-HomeSprite.png]]
+> ![[SRD-cubchoo-BookSprite.png|wsmall left]]
+> ![[SRD-cubchoo-HomeSprite.png|wsmall right]]
 
 *Chill Pokémon*
 *They are hatched by the end of winter and stay with their mothers for a couple of seasons. Their running nose is used to practice their ice powers. In fact, when they get sick, their nose is completely dry.*

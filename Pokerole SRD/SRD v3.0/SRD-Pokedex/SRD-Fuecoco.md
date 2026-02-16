@@ -75,8 +75,8 @@ Weight:
 # Fuecoco 
 
 > [!grid]
-> ![[SRD-fuecoco-BookSprite.png|wsmall]]
-> ![[SRD-fuecoco-HomeSprite.png]]
+> ![[SRD-fuecoco-BookSprite.png|wsmall left]]
+> ![[SRD-fuecoco-HomeSprite.png|wsmall right]]
 
 *Fire Croc Pokemon*
 *The yellow scales on its belly and tail absorb heat from the environment and the one's on its head release the heat in the form of fiery flames. Fuecoco are easy-going creatures who love food and eating.*

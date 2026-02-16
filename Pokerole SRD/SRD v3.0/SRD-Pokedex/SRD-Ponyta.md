@@ -73,8 +73,8 @@ Weight:
 # Ponyta 
 
 > [!grid]
-> ![[SRD-ponyta-BookSprite.png|wsmall]]
-> ![[SRD-ponyta-HomeSprite.png]]
+> ![[SRD-ponyta-BookSprite.png|wsmall left]]
+> ![[SRD-ponyta-HomeSprite.png|wsmall right]]
 
 *Fire Horse Pokémon*
 *It's not very common to see one stay still for more than a few seconds. Soon after it's born, its flames begin to burn. It is weak at first, but soon begins to develop a great speed chasing after its parents.*

@@ -74,8 +74,8 @@ Weight:
 # Spritzee 
 
 > [!grid]
-> ![[SRD-spritzee-BookSprite.png|wsmall]]
-> ![[SRD-spritzee-HomeSprite.png]]
+> ![[SRD-spritzee-BookSprite.png|wsmall left]]
+> ![[SRD-spritzee-HomeSprite.png|wsmall right]]
 
 *Perfume Pokémon*
 *In the past, rather than using a perfume, royal ladies had a Spritzee that would waft a fragrance they liked. They are popular today for this same reason. They are said to attract the one you like most.*

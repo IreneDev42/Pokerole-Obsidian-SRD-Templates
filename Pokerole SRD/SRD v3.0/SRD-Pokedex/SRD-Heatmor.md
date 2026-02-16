@@ -77,8 +77,8 @@ Weight:
 # Heatmor 
 
 > [!grid]
-> ![[SRD-heatmor-BookSprite.png|wsmall]]
-> ![[SRD-heatmor-HomeSprite.png]]
+> ![[SRD-heatmor-BookSprite.png|wsmall left]]
+> ![[SRD-heatmor-HomeSprite.png|wsmall right]]
 
 *Anteater Pokémon*
 *It draws in air through its tail, then transforms it into fire and uses it like a tongue. You can see them defending Durant's colonies from predators so they can be the only ones who can eat them.*

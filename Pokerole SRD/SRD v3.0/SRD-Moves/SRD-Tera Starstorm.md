@@ -4,7 +4,7 @@ Accuracy2: Channel
 AddedEffects: {}
 Attributes:
   Unique: true
-Category: Dual
+Category: Physical/Special
 Damage1: Strength/Special
 Damage2: ''
 Description: "Tera crystals full of energy fall from the sky as meteors. A beautiful\

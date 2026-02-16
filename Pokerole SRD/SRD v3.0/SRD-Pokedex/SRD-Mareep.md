@@ -75,8 +75,8 @@ Weight:
 # Mareep 
 
 > [!grid]
-> ![[SRD-mareep-BookSprite.png|wsmall]]
-> ![[SRD-mareep-HomeSprite.png]]
+> ![[SRD-mareep-BookSprite.png|wsmall left]]
+> ![[SRD-mareep-HomeSprite.png|wsmall right]]
 
 *Wool Pokémon*
 *Its fluffy coat of wool builds a static charge. The more static electricity, the more brightly the lightbulb at the tip of its tail glows. Farmers shear their wool in the summer, but it grows back quickly.*

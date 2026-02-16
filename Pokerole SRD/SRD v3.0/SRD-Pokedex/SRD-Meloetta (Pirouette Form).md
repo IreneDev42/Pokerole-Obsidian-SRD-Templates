@@ -74,8 +74,8 @@ Weight:
 # Meloetta (Pirouette Form) 
 
 > [!grid]
-> ![[SRD-meloetta-pirouette-form-BookSprite.png|wsmall]]
-> ![[SRD-meloetta-pirouette-form-HomeSprite.png]]
+> ![[SRD-meloetta-pirouette-form-BookSprite.png|wsmall left]]
+> ![[SRD-meloetta-pirouette-form-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *There are old songs about a beautiful Pokémon that inspired the hearts of artists through its graceful dance and singing.*

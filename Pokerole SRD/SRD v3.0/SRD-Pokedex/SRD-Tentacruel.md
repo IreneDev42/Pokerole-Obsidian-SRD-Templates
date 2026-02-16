@@ -80,8 +80,8 @@ Weight:
 # Tentacruel 
 
 > [!grid]
-> ![[SRD-tentacruel-BookSprite.png|wsmall]]
-> ![[SRD-tentacruel-HomeSprite.png]]
+> ![[SRD-tentacruel-BookSprite.png|wsmall left]]
+> ![[SRD-tentacruel-HomeSprite.png|wsmall right]]
 
 *Jellyfish Pokémon*
 *Lives in rock formations at the bottom of the ocean. It can grow tentacles at will and uses them to immobilize prey. Records exist of a giant Tentacruel that sunk a fleet of pirate ships filled with treasure.*

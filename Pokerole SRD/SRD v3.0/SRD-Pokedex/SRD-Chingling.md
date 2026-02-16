@@ -70,8 +70,8 @@ Weight:
 # Chingling 
 
 > [!grid]
-> ![[SRD-chingling-BookSprite.png|wsmall]]
-> ![[SRD-chingling-HomeSprite.png]]
+> ![[SRD-chingling-BookSprite.png|wsmall left]]
+> ![[SRD-chingling-HomeSprite.png|wsmall right]]
 
 *Bell Pokémon*
 *It has a ball inside its mouth that makes a ringing sound when it hops around. To defend itself, it will emit low-frequency cries that deafen its foes. However, this sound is not audible to humans.*

@@ -79,8 +79,8 @@ Weight:
 # Tsareena 
 
 > [!grid]
-> ![[SRD-tsareena-BookSprite.png|wsmall]]
-> ![[SRD-tsareena-HomeSprite.png]]
+> ![[SRD-tsareena-BookSprite.png|wsmall left]]
+> ![[SRD-tsareena-HomeSprite.png|wsmall right]]
 
 *Fruit Pokémon*
 *Tsareena's elegant appearance is only matched by its boastful fighting spirit. It is known for disobeying any trainer giving orders it dislikes, and will celebrate its victories by kicking its defeated foes while laughing.*

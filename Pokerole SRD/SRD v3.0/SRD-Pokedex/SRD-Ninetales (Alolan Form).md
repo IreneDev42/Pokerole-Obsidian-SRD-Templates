@@ -82,8 +82,8 @@ Weight:
 # Ninetales (Alolan Form) 
 
 > [!grid]
-> ![[SRD-ninetales-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-ninetales-alolan-form-HomeSprite.png]]
+> ![[SRD-ninetales-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-ninetales-alolan-form-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *In old times, Alolan natives revered this Pokémon as a god incarnate. It is usually calm and benevolent, but it can be ruthless when disturbed, leaving its foes as a cold block of ice in the snow.*

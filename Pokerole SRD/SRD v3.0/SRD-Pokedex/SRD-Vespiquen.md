@@ -82,8 +82,8 @@ Weight:
 # Vespiquen 
 
 > [!grid]
-> ![[SRD-vespiquen-BookSprite.png|wsmall]]
-> ![[SRD-vespiquen-HomeSprite.png]]
+> ![[SRD-vespiquen-BookSprite.png|wsmall left]]
+> ![[SRD-vespiquen-HomeSprite.png|wsmall right]]
 
 *Beehive Pokémon*
 *This Pokémon is female only. It raises grubs in the holes in its body and secretes pheromones to control Combee to fight and gather honey for it. It is a royal Pokémon that won't take orders from anyone.*

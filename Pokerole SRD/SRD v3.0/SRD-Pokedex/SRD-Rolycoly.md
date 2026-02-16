@@ -73,8 +73,8 @@ Weight:
 # Rolycoly 
 
 > [!grid]
-> ![[SRD-rolycoly-BookSprite.png|wsmall]]
-> ![[SRD-rolycoly-HomeSprite.png]]
+> ![[SRD-rolycoly-BookSprite.png|wsmall left]]
+> ![[SRD-rolycoly-HomeSprite.png|wsmall right]]
 
 *Coal Pokémon*
 *This Pokémon was discovered inside a coal mine. It looks like a clump of coal, only it moves like a unicycle. When it gets angry, it glows burning hot, but when it's happy, it lets out soft crackles and keeps a steady warmth.*

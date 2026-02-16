@@ -70,8 +70,8 @@ Weight:
 # Cleffa 
 
 > [!grid]
-> ![[SRD-cleffa-BookSprite.png|wsmall]]
-> ![[SRD-cleffa-HomeSprite.png]]
+> ![[SRD-cleffa-BookSprite.png|wsmall left]]
+> ![[SRD-cleffa-HomeSprite.png|wsmall right]]
 
 *Star Shape Pokémon*
 *An extremely elusive Pokémon. A few have appeared when the night skies are filled with shooting stars - but they always disappear at dawn. Friendship and love allows it to go into the next step of life.*

@@ -81,8 +81,8 @@ Weight:
 # Hattrem 
 
 > [!grid]
-> ![[SRD-hattrem-BookSprite.png|wsmall]]
-> ![[SRD-hattrem-HomeSprite.png]]
+> ![[SRD-hattrem-BookSprite.png|wsmall left]]
+> ![[SRD-hattrem-HomeSprite.png|wsmall right]]
 
 *Serene Pokémon*
 *It may seem friendly but it is actually quite the loner. No matter who you are, if you bring strong emotions near it, it will silence you violently by hitting you with its braids. It dislikes crowded places.*

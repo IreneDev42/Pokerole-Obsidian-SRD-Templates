@@ -75,8 +75,8 @@ Weight:
 # Shelmet 
 
 > [!grid]
-> ![[SRD-shelmet-BookSprite.png|wsmall]]
-> ![[SRD-shelmet-HomeSprite.png]]
+> ![[SRD-shelmet-BookSprite.png|wsmall left]]
+> ![[SRD-shelmet-HomeSprite.png|wsmall right]]
 
 *Snail Pokémon*
 *When attacked, it defends itself by closing the lid of its shell or spits a sticky, poisonous liquid. It competes with Karrablast for food and shelter. If it loses its shell, the distress may kill it; only those who survive evolve.*

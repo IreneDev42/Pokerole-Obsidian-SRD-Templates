@@ -52,8 +52,8 @@ Weight:
 # Regieleki 
 
 > [!grid]
-> ![[SRD-regieleki-BookSprite.png|wsmall]]
-> ![[SRD-regieleki-HomeSprite.png]]
+> ![[SRD-regieleki-BookSprite.png|wsmall left]]
+> ![[SRD-regieleki-HomeSprite.png|wsmall right]]
 
 *Pokédex has no Data*
 *A myth tells the story of a titan that terrorized the world with its furious thunderstorms until it was restrained by some rings on its arms. Could the titan ever escape and unleash its full power again?*

@@ -76,8 +76,8 @@ Weight:
 # Golem 
 
 > [!grid]
-> ![[SRD-golem-BookSprite.png|wsmall]]
-> ![[SRD-golem-HomeSprite.png]]
+> ![[SRD-golem-BookSprite.png|wsmall left]]
+> ![[SRD-golem-HomeSprite.png|wsmall right]]
 
 *Megaton Pokémon*
 *It is rare to see in the wild since it lives high in the mountains. It withdraws its head and legs as if it were a turtle to roll around. There have been cases of Golem that resist dynamite blasts unscathed.*

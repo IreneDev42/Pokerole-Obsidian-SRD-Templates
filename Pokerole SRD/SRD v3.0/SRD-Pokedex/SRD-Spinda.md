@@ -73,8 +73,8 @@ Weight:
 # Spinda 
 
 > [!grid]
-> ![[SRD-spinda-BookSprite.png|wsmall]]
-> ![[SRD-spinda-HomeSprite.png]]
+> ![[SRD-spinda-BookSprite.png|wsmall left]]
+> ![[SRD-spinda-HomeSprite.png|wsmall right]]
 
 *Spot Panda Pokémon*
 *Spinda move while stumbling in dizziness. This teeter dance causes a severe confusion for whoever is looking. They are shy towards humans, but sometimes they appear in towns looking really disoriented.*

@@ -76,8 +76,8 @@ Weight:
 # Sylveon 
 
 > [!grid]
-> ![[SRD-sylveon-BookSprite.png|wsmall]]
-> ![[SRD-sylveon-HomeSprite.png]]
+> ![[SRD-sylveon-BookSprite.png|wsmall left]]
+> ![[SRD-sylveon-HomeSprite.png|wsmall right]]
 
 *Intertwining Pokémon*
 *This rare and adorable Pokémon emanates a soothing aura to calm disturbances. It is said that only the Trainers who form an unbreakable bond with their Eevee can ever see this Pokémon.*

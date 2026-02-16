@@ -53,8 +53,8 @@ Weight:
 # Unown 
 
 > [!grid]
-> ![[SRD-unown-BookSprite.png|wsmall]]
-> ![[SRD-unown-HomeSprite.png]]
+> ![[SRD-unown-BookSprite.png|wsmall left]]
+> ![[SRD-unown-HomeSprite.png|wsmall right]]
 
 *Symbol Pokémon*
 *There are depictions of it in ancient ruins. When Unown are gathered together, it is said that a strange power capable of anything emerges. They are all shaped like letters, each one of them with a unique power.*

@@ -76,8 +76,8 @@ Weight:
 # Mienfoo 
 
 > [!grid]
-> ![[SRD-mienfoo-BookSprite.png|wsmall]]
-> ![[SRD-mienfoo-HomeSprite.png]]
+> ![[SRD-mienfoo-BookSprite.png|wsmall left]]
+> ![[SRD-mienfoo-HomeSprite.png|wsmall right]]
 
 *Martial Arts Pokémon*
 *They gather in small groups around the mountains to train and master new techniques. They use their sharp claws to damage their foes. Only those Mienfoo that excel at fighting in the group evolve.*

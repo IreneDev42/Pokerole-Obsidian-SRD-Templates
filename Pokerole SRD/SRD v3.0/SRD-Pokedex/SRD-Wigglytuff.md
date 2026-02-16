@@ -81,8 +81,8 @@ Weight:
 # Wigglytuff 
 
 > [!grid]
-> ![[SRD-wigglytuff-BookSprite.png|wsmall]]
-> ![[SRD-wigglytuff-HomeSprite.png]]
+> ![[SRD-wigglytuff-BookSprite.png|wsmall left]]
+> ![[SRD-wigglytuff-HomeSprite.png|wsmall right]]
 
 *Balloon Pokémon*
 *Its fur is extremely fine and conveys an image of luxury. Its body is soft and rubbery. When angered, it will suck the air and inflate itself to an enormous size. It is a favorite pet and a nurse Pokémon.*

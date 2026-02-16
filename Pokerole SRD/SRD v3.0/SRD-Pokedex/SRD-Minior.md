@@ -77,8 +77,8 @@ Weight:
 # Minior 
 
 > [!grid]
-> ![[SRD-minior-BookSprite.png|wsmall]]
-> ![[SRD-minior-HomeSprite.png]]
+> ![[SRD-minior-BookSprite.png|wsmall left]]
+> ![[SRD-minior-HomeSprite.png|wsmall right]]
 
 *Meteor Pokémon*
 *They live up in the stratosphere, absorbing particles to grow their cores and shells; when they become too heavy, they fall to the ground. Move damage can break the shell and leave the core exposed.*

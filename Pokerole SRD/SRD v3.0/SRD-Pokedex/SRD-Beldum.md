@@ -60,8 +60,8 @@ Weight:
 # Beldum 
 
 > [!grid]
-> ![[SRD-beldum-BookSprite.png|wsmall]]
-> ![[SRD-beldum-HomeSprite.png]]
+> ![[SRD-beldum-BookSprite.png|wsmall left]]
+> ![[SRD-beldum-HomeSprite.png|wsmall right]]
 
 *Iron Ball Pokémon*
 *Beldum uses magnetic pulses to float and communicate. When it finds others, they move in perfect unison. It needs to develop a new brain to evolve; two of them may merge, or it could develop a new one with time.*

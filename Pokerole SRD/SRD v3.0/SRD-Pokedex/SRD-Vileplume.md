@@ -78,8 +78,8 @@ Weight:
 # Vileplume 
 
 > [!grid]
-> ![[SRD-vileplume-BookSprite.png|wsmall]]
-> ![[SRD-vileplume-HomeSprite.png]]
+> ![[SRD-vileplume-BookSprite.png|wsmall left]]
+> ![[SRD-vileplume-HomeSprite.png|wsmall right]]
 
 *Flower Pokémon*
 *It lives in marshlands and jungles where it's often mistaken for local flora. The air around a Vileplume turns yellow with the powder it releases as it walks. The pollen is highly toxic and causes paralysis.*

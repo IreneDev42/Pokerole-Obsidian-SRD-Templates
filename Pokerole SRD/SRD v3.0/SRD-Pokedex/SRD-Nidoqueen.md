@@ -79,8 +79,8 @@ Weight:
 # Nidoqueen 
 
 > [!grid]
-> ![[SRD-nidoqueen-BookSprite.png|wsmall]]
-> ![[SRD-nidoqueen-HomeSprite.png]]
+> ![[SRD-nidoqueen-BookSprite.png|wsmall left]]
+> ![[SRD-nidoqueen-HomeSprite.png|wsmall right]]
 
 *Drill Pokémon*
 *Motherly by nature, it uses its scaly rugged body to seal the entrance of its nest and protect its young from predators. There are records of angry Nidoqueen sending people flying with a single tackle.*

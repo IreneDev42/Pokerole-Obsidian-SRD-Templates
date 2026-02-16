@@ -77,8 +77,8 @@ Weight:
 # Darumaka 
 
 > [!grid]
-> ![[SRD-darumaka-BookSprite.png|wsmall]]
-> ![[SRD-darumaka-HomeSprite.png]]
+> ![[SRD-darumaka-BookSprite.png|wsmall left]]
+> ![[SRD-darumaka-HomeSprite.png|wsmall right]]
 
 *Zen Charm Pokémon*
 *Lives in deserts and arid terrains. It has a flame inside its body. When the flame burns brightly it becomes very active, running around. When the flame is low, it falls asleep. Their droppings double as a bonfire.*

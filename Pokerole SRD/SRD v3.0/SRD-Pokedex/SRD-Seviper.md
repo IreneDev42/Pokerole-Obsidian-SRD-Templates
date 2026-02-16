@@ -78,8 +78,8 @@ Weight:
 # Seviper 
 
 > [!grid]
-> ![[SRD-seviper-BookSprite.png|wsmall]]
-> ![[SRD-seviper-HomeSprite.png]]
+> ![[SRD-seviper-BookSprite.png|wsmall left]]
+> ![[SRD-seviper-HomeSprite.png|wsmall right]]
 
 *Fang Snake Pokémon*
 *Their hate for the Zangoose has been boiling for so long it's now a basic instinct. They battle using their sword-edged poisonous tail, hiding in tall grass until an unwary prey gets close enough.*

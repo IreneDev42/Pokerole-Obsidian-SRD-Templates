@@ -79,8 +79,8 @@ Weight:
 # Cloyster 
 
 > [!grid]
-> ![[SRD-cloyster-BookSprite.png|wsmall]]
-> ![[SRD-cloyster-HomeSprite.png]]
+> ![[SRD-cloyster-BookSprite.png|wsmall left]]
+> ![[SRD-cloyster-HomeSprite.png|wsmall right]]
 
 *Bivalve Pokémon*
 *If it lives in seas with harsh currents, it will grow larger and sharper spikes on its shells than those that live in calm waters. Its shell is extremely hard - you would need explosives to try to open it.*

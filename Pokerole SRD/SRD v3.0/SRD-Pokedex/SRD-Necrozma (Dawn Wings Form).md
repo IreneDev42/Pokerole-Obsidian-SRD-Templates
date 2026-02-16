@@ -80,8 +80,8 @@ Weight:
 # Necrozma (Dawn Wings Form) 
 
 > [!grid]
-> ![[SRD-necrozma-dawn-wings-form-BookSprite.png|wsmall]]
-> ![[SRD-necrozma-dawn-wings-form-HomeSprite.png]]
+> ![[SRD-necrozma-dawn-wings-form-BookSprite.png|wsmall left]]
+> ![[SRD-necrozma-dawn-wings-form-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #182*
 *The shadowy creature is in pain, and it hungers for any light it can find. I wonder how would it fare on the other side, back in our world. Would the moonlight ease its spirit or release a terrible monster?*

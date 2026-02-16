@@ -74,8 +74,8 @@ Weight:
 # Vanillite 
 
 > [!grid]
-> ![[SRD-vanillite-BookSprite.png|wsmall]]
-> ![[SRD-vanillite-HomeSprite.png]]
+> ![[SRD-vanillite-BookSprite.png|wsmall left]]
+> ![[SRD-vanillite-HomeSprite.png|wsmall right]]
 
 *Fresh Snow Pokémon*
 *These Pokémon were born from icicles bathed in the energy of the morning sun. It uses snow to cover its head and protect it from melting. They are playful and love to make snow fall around them.*

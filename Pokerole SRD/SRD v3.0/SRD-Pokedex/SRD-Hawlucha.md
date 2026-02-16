@@ -74,8 +74,8 @@ Weight:
 # Hawlucha 
 
 > [!grid]
-> ![[SRD-hawlucha-BookSprite.png|wsmall]]
-> ![[SRD-hawlucha-HomeSprite.png]]
+> ![[SRD-hawlucha-BookSprite.png|wsmall left]]
+> ![[SRD-hawlucha-HomeSprite.png|wsmall right]]
 
 *Wrestling Pokémon*
 *Although small in size, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama. Using its wings to attack from above allows it to gain an edge in battle.*

@@ -84,8 +84,8 @@ Weight:
 # Gallade (Mega Form) 
 
 > [!grid]
-> ![[SRD-gallade-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-gallade-mega-form-HomeSprite.png]]
+> ![[SRD-gallade-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-gallade-mega-form-HomeSprite.png|wsmall right]]
 
 *Blade Pokémon*
 *With the power of the Mega Stone, it senses the emotions of others in a large radius and will go help anyone in need. It will only attack if it needs to defend someone or something. It is protective and brave.*

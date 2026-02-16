@@ -79,8 +79,8 @@ Weight:
 # Heliolisk 
 
 > [!grid]
-> ![[SRD-heliolisk-BookSprite.png|wsmall]]
-> ![[SRD-heliolisk-HomeSprite.png]]
+> ![[SRD-heliolisk-BookSprite.png|wsmall left]]
+> ![[SRD-heliolisk-HomeSprite.png|wsmall right]]
 
 *Generator Pokémon*
 *They flare their frills in the sun to recharge. A single Heliolisk is able to generate the power to light a skyscraper. For this reason, researchers are investing in the preservation and welfare of this species.*

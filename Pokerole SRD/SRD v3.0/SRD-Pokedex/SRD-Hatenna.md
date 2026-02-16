@@ -74,8 +74,8 @@ Weight:
 # Hatenna 
 
 > [!grid]
-> ![[SRD-hatenna-BookSprite.png|wsmall]]
-> ![[SRD-hatenna-HomeSprite.png]]
+> ![[SRD-hatenna-BookSprite.png|wsmall left]]
+> ![[SRD-hatenna-HomeSprite.png|wsmall right]]
 
 *Calm Pokémon*
 *Through the protrusion on its head it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you. They get overwhelmed in places with many people, preferring to hide alone.*

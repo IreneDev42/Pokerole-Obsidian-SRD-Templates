@@ -72,8 +72,8 @@ Weight:
 # Flittle 
 
 > [!grid]
-> ![[SRD-flittle-BookSprite.png|wsmall]]
-> ![[SRD-flittle-HomeSprite.png]]
+> ![[SRD-flittle-BookSprite.png|wsmall left]]
+> ![[SRD-flittle-HomeSprite.png|wsmall right]]
 
 *Frill Pokémon*
 *Surprisingly fast for their size. You can find them running around in the desert, using their psychic power to increase their speed. They have a reputation for relentlessly chasing after anyone taking berries from them.*

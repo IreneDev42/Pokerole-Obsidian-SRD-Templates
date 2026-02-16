@@ -75,8 +75,8 @@ Weight:
 # Manectric (Mega Form) 
 
 > [!grid]
-> ![[SRD-manectric-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-manectric-mega-form-HomeSprite.png]]
+> ![[SRD-manectric-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-manectric-mega-form-HomeSprite.png|wsmall right]]
 
 *Discharge Pokémon*
 *The power of the Mega Stone gives it an insurmountable amount of electricity that gives it an explosive velocity, but it is too much for it to bear. Its mane grows uncomfortably large, making it moody.*

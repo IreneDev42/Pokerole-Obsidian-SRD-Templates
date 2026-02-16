@@ -74,8 +74,8 @@ Weight:
 # Phione 
 
 > [!grid]
-> ![[SRD-phione-BookSprite.png|wsmall]]
-> ![[SRD-phione-HomeSprite.png]]
+> ![[SRD-phione-BookSprite.png|wsmall left]]
+> ![[SRD-phione-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There have been sightings of small groups of similar Pokémon but its existence has never been confirmed. Rumor has it that they are Manaphy's prodigal children.*

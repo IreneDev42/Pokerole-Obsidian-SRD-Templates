@@ -78,8 +78,8 @@ Weight:
 # Crustle 
 
 > [!grid]
-> ![[SRD-crustle-BookSprite.png|wsmall]]
-> ![[SRD-crustle-HomeSprite.png]]
+> ![[SRD-crustle-BookSprite.png|wsmall left]]
+> ![[SRD-crustle-HomeSprite.png|wsmall right]]
 
 *Stone Home Pokémon*
 *They carry enormous boulders as a protective shell. When competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle. They feed on the moss that grows on their rock.*

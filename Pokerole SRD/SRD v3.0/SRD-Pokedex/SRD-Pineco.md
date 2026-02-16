@@ -75,8 +75,8 @@ Weight:
 # Pineco 
 
 > [!grid]
-> ![[SRD-pineco-BookSprite.png|wsmall]]
-> ![[SRD-pineco-HomeSprite.png]]
+> ![[SRD-pineco-BookSprite.png|wsmall left]]
+> ![[SRD-pineco-HomeSprite.png|wsmall right]]
 
 *Bagworm Pokémon*
 *Pineco looks just like a regular pine cone. It adds layers of tree bark as a shield from harm. It waits for Bug Pokémon to eat while hanging from branches. If anyone shakes its tree, it falls down and explodes. Be very careful.*

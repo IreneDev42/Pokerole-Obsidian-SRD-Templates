@@ -77,8 +77,8 @@ Weight:
 # Excadrill 
 
 > [!grid]
-> ![[SRD-excadrill-BookSprite.png|wsmall]]
-> ![[SRD-excadrill-HomeSprite.png]]
+> ![[SRD-excadrill-BookSprite.png|wsmall left]]
+> ![[SRD-excadrill-HomeSprite.png|wsmall right]]
 
 *Subterrene Pokémon*
 *They build maze-like nests deep underground. Humans make use of their drilling abilities to dig tunnels for subway trains. This Pokémon does not back away from foes and can be a formidable opponent.*

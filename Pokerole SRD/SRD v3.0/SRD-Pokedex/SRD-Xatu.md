@@ -77,8 +77,8 @@ Weight:
 # Xatu 
 
 > [!grid]
-> ![[SRD-xatu-BookSprite.png|wsmall]]
-> ![[SRD-xatu-HomeSprite.png]]
+> ![[SRD-xatu-BookSprite.png|wsmall left]]
+> ![[SRD-xatu-HomeSprite.png|wsmall right]]
 
 *Mystic Pokémon*
 *Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu have the power to see into the future.*

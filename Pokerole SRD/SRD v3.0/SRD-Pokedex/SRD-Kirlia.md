@@ -86,8 +86,8 @@ Weight:
 # Kirlia 
 
 > [!grid]
-> ![[SRD-kirlia-BookSprite.png|wsmall]]
-> ![[SRD-kirlia-HomeSprite.png]]
+> ![[SRD-kirlia-BookSprite.png|wsmall left]]
+> ![[SRD-kirlia-HomeSprite.png|wsmall right]]
 
 *Emotion Pokémon*
 *When they use their powers, their surroundings are distorted with mirages and illusory sceneries from the future and the past. Kirlia like to dance and dislike being bossed around.*

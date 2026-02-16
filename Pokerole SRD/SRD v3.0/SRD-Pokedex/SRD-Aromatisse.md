@@ -80,8 +80,8 @@ Weight:
 # Aromatisse 
 
 > [!grid]
-> ![[SRD-aromatisse-BookSprite.png|wsmall]]
-> ![[SRD-aromatisse-HomeSprite.png]]
+> ![[SRD-aromatisse-BookSprite.png|wsmall left]]
+> ![[SRD-aromatisse-HomeSprite.png|wsmall right]]
 
 *Fragance Pokémon*
 *Its scent is so overpowering that it makes it difficult to simply be in close proximity to it. It emits scents that its foes dislike in order to gain an edge in battle. They can also produce pleasant and healing aromas.*

@@ -53,8 +53,8 @@ Weight:
 # Egg 
 
 > [!grid]
-> ![[SRD-egg-BookSprite.png|wsmall]]
-> ![[SRD-egg-HomeSprite.png]]
+> ![[SRD-egg-BookSprite.png|wsmall left]]
+> ![[SRD-egg-HomeSprite.png|wsmall right]]
 
 **
 **

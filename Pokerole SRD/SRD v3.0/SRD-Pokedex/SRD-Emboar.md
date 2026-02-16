@@ -79,8 +79,8 @@ Weight:
 # Emboar 
 
 > [!grid]
-> ![[SRD-emboar-BookSprite.png|wsmall]]
-> ![[SRD-emboar-HomeSprite.png]]
+> ![[SRD-emboar-BookSprite.png|wsmall left]]
+> ![[SRD-emboar-HomeSprite.png|wsmall right]]
 
 *Mega Fire Pig Pokémon*
 *Despite its scary exterior, it is a very gentle Pokémon that cares deeply for family and friends. It can light its punches and beard on fire; it also shows proficiency on martial arts like Judo.*

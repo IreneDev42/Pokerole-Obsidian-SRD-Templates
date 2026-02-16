@@ -78,8 +78,8 @@ Weight:
 # Appletun 
 
 > [!grid]
-> ![[SRD-appletun-BookSprite.png|wsmall]]
-> ![[SRD-appletun-HomeSprite.png]]
+> ![[SRD-appletun-BookSprite.png|wsmall left]]
+> ![[SRD-appletun-HomeSprite.png|wsmall right]]
 
 *Apple Nectar Pokémon*
 *Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on, but it also attracts other Pokémon who eat the skins atop of its back.*

@@ -77,8 +77,8 @@ Weight:
 # Inkay 
 
 > [!grid]
-> ![[SRD-inkay-BookSprite.png|wsmall]]
-> ![[SRD-inkay-HomeSprite.png]]
+> ![[SRD-inkay-BookSprite.png|wsmall left]]
+> ![[SRD-inkay-HomeSprite.png|wsmall right]]
 
 *Revolving Pokémon*
 *It lives at the darkest parts of the sea. The spots on its body flash to confuse predators and give it the opportunity to scuttle away. From time to time it likes to float upside down, it means it's close to evolving.*

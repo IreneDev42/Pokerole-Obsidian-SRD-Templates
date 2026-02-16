@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: A policy of compensation for damages. Increase user's Strength and Special
   by 1 after being hit with a Super-Effective Move.
 Image: SRD-weakness-policy-ItemSprite.png

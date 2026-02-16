@@ -24,12 +24,12 @@ EventAbilities: ''
 Evolutions:
 - Evolves: To
   Kind: Level
-  Pokemon: '[[SRD-Basculegion F]]'
+  Pokemon: '[[SRD-Basculegion (Female Form)]]'
   Special: Female
   Speed: Slow
 - Evolves: To
   Kind: Level
-  Pokemon: '[[SRD-Basculegion M]]'
+  Pokemon: '[[SRD-Basculegion (Male Form)]]'
   Special: Male
   Speed: Slow
 ExpertMoves:
@@ -83,8 +83,8 @@ Weight:
 # Basculin (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-basculin-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-basculin-hisuian-form-HomeSprite.png]]
+> ![[SRD-basculin-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-basculin-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Hostile (?) Pokémon*
 *A Basculin variant that existed in old Hisui. It had a timid and skittish demeanor, unlike the modern specimens who are prone to violence. It was rare to see; it fled as soon as it noticed you. None have been seen in 200 years.*
@@ -108,10 +108,10 @@ Weight:
 **Good Starter**:: No
 **Recommended Rank**:: Rookie
 
-| Evolves   | Pokemon               | Kind   | Speed   | Special   |
-|:----------|:----------------------|:-------|:--------|:----------|
-| To        | [[SRD-Basculegion F]] | Level  | Slow    | Female    |
-| To        | [[SRD-Basculegion M]] | Level  | Slow    | Male      |
+| Evolves   | Pokemon                           | Kind   | Speed   | Special   |
+|:----------|:----------------------------------|:-------|:--------|:----------|
+| To        | [[SRD-Basculegion (Female Form)]] | Level  | Slow    | Female    |
+| To        | [[SRD-Basculegion (Male Form)]]   | Level  | Slow    | Male      |
 
 
 ## Learnset

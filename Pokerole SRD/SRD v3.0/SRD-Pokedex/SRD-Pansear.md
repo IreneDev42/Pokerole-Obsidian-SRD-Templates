@@ -76,8 +76,8 @@ Weight:
 # Pansear 
 
 > [!grid]
-> ![[SRD-pansear-BookSprite.png|wsmall]]
-> ![[SRD-pansear-HomeSprite.png]]
+> ![[SRD-pansear-BookSprite.png|wsmall left]]
+> ![[SRD-pansear-HomeSprite.png|wsmall right]]
 
 *High Temp Pokémon*
 *It lives close to volcanic mountains. It's very intelligent. It roasts berries before eating them, and helps lost people. When angered, the tuft of hair on its head and tail can burst into flames.*

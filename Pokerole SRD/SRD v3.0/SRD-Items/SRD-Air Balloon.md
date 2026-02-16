@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: A helium balloon that grants immunity to Ground. Careful as it is very
   fragile and will pop upon the user receiving damage.
 Image: SRD-air-balloon-ItemSprite.png

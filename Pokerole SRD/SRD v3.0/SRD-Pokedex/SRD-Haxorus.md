@@ -81,8 +81,8 @@ Weight:
 # Haxorus 
 
 > [!grid]
-> ![[SRD-haxorus-BookSprite.png|wsmall]]
-> ![[SRD-haxorus-HomeSprite.png]]
+> ![[SRD-haxorus-BookSprite.png|wsmall left]]
+> ![[SRD-haxorus-HomeSprite.png|wsmall right]]
 
 *Axe Jaw Pokémon*
 *Their sturdy tusks will stay sharp even if they are used to cut steel. These Pokémon are covered in hard armor. They are incredibly aggressive; if their territory is trespassed upon, they chase and slash mercilessly.*

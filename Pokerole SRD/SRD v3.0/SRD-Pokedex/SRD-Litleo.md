@@ -74,8 +74,8 @@ Weight:
 # Litleo 
 
 > [!grid]
-> ![[SRD-litleo-BookSprite.png|wsmall]]
-> ![[SRD-litleo-HomeSprite.png]]
+> ![[SRD-litleo-BookSprite.png|wsmall left]]
+> ![[SRD-litleo-HomeSprite.png|wsmall right]]
 
 *Lion Cub Pokémon*
 *Quick on temper and to take on a fight. They use their mane to scorch their enemies. Some of them set off from their pride to live alone. Only those who develop a full mane get to lead their own pride.*

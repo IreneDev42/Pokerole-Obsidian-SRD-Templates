@@ -80,8 +80,8 @@ Weight:
 # Floragato 
 
 > [!grid]
-> ![[SRD-floragato-BookSprite.png|wsmall]]
-> ![[SRD-floragato-HomeSprite.png]]
+> ![[SRD-floragato-BookSprite.png|wsmall left]]
+> ![[SRD-floragato-HomeSprite.png|wsmall right]]
 
 *Grass Cat Pokemon*
 *The fur on these pokémon becomes sharp as needles when it's battling, but it's otherwise soft and silky when relaxed. They have a stem with a flower they use both as a weapon or as a toy to amuse themselves.*

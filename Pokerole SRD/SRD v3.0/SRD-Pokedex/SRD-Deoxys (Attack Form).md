@@ -73,8 +73,8 @@ Weight:
 # Deoxys (Attack Form) 
 
 > [!grid]
-> ![[SRD-deoxys-attack-form-BookSprite.png|wsmall]]
-> ![[SRD-deoxys-attack-form-HomeSprite.png]]
+> ![[SRD-deoxys-attack-form-BookSprite.png|wsmall left]]
+> ![[SRD-deoxys-attack-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The main engineer of the space crew reported a tentacled creature that ripped with ease through the thick metal hull of the ship to escape. The ship was recovered and was indeed torn in two sections.*

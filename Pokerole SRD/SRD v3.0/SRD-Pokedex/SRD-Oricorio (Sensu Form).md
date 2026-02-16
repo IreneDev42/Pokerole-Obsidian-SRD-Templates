@@ -81,8 +81,8 @@ Weight:
 # Oricorio (Sensu Form) 
 
 > [!grid]
-> ![[SRD-oricorio-sensu-form-BookSprite.png|wsmall]]
-> ![[SRD-oricorio-sensu-form-HomeSprite.png]]
+> ![[SRD-oricorio-sensu-form-BookSprite.png|wsmall left]]
+> ![[SRD-oricorio-sensu-form-HomeSprite.png|wsmall right]]
 
 *Dancing Pokémon*
 *What was thought to be different species ended up being a single Pokémon. Oricorio Sensu is calm and indifferent. Its dance is said to attract evil spirits. People from Kanto find it very nostalgic.*

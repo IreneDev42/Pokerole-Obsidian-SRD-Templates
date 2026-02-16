@@ -78,8 +78,8 @@ Weight:
 # Glimmora 
 
 > [!grid]
-> ![[SRD-glimmora-BookSprite.png|wsmall]]
-> ![[SRD-glimmora-HomeSprite.png]]
+> ![[SRD-glimmora-BookSprite.png|wsmall left]]
+> ![[SRD-glimmora-HomeSprite.png|wsmall right]]
 
 *Ore Pokémon*
 *Graceful, but tough as stone. If they sense danger they'll open the petals on their body to display a beautiful but deadly crystal flower. They release powerful beams of energy at the slightest provocation.*

@@ -74,8 +74,8 @@ Weight:
 # Ferroseed 
 
 > [!grid]
-> ![[SRD-ferroseed-BookSprite.png|wsmall]]
-> ![[SRD-ferroseed-HomeSprite.png]]
+> ![[SRD-ferroseed-BookSprite.png|wsmall left]]
+> ![[SRD-ferroseed-HomeSprite.png|wsmall right]]
 
 *Thorn Seed Pokémon*
 *They stick their thorns into cave walls and absorb the minerals from the rocks. When threatened, they attack by shooting a barrage of spikes, which gives them a chance to escape by rolling away.*

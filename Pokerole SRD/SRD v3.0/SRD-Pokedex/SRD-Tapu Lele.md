@@ -75,8 +75,8 @@ Weight:
 # Tapu Lele 
 
 > [!grid]
-> ![[SRD-tapu-lele-BookSprite.png|wsmall]]
-> ![[SRD-tapu-lele-HomeSprite.png]]
+> ![[SRD-tapu-lele-BookSprite.png|wsmall left]]
+> ![[SRD-tapu-lele-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *It is said that an innocent but cruel spirit guards Akala Island. When the spirit is feeling benevolent it scatters some of its scales around; these scales have healing powers.*

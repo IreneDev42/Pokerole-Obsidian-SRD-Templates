@@ -78,8 +78,8 @@ Weight:
 # Archen 
 
 > [!grid]
-> ![[SRD-archen-BookSprite.png|wsmall]]
-> ![[SRD-archen-HomeSprite.png]]
+> ![[SRD-archen-BookSprite.png|wsmall left]]
+> ![[SRD-archen-HomeSprite.png|wsmall right]]
 
 *First Bird Pokémon*
 *Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon. Its flight abilities are poor so it just hops and jumps. They are ill-tempered and will not eat processed Pokémon food.*

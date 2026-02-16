@@ -82,8 +82,8 @@ Weight:
 # Thievul 
 
 > [!grid]
-> ![[SRD-thievul-BookSprite.png|wsmall]]
-> ![[SRD-thievul-HomeSprite.png]]
+> ![[SRD-thievul-BookSprite.png|wsmall left]]
+> ![[SRD-thievul-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *They have long been hunted down by packs of Boltund because of all the trouble they cause in human settlements. They are experts at stealing food and Pokémon eggs, never leaving a trace behind.*

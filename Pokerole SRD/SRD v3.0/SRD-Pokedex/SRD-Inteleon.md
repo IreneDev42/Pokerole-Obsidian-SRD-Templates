@@ -80,8 +80,8 @@ Weight:
 # Inteleon 
 
 > [!grid]
-> ![[SRD-inteleon-BookSprite.png|wsmall]]
-> ![[SRD-inteleon-HomeSprite.png]]
+> ![[SRD-inteleon-BookSprite.png|wsmall left]]
+> ![[SRD-inteleon-HomeSprite.png|wsmall right]]
 
 *Secret Agent Pokémon*
 *Its fingertips can create quick jets of water that travel at incredibly high speeds; these jets can even pierce thick metal plates. It usually hunts from a high place, shoots, and then glides down to eat its prey.*

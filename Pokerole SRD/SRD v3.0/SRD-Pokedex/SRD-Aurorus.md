@@ -81,8 +81,8 @@ Weight:
 # Aurorus 
 
 > [!grid]
-> ![[SRD-aurorus-BookSprite.png|wsmall]]
-> ![[SRD-aurorus-HomeSprite.png]]
+> ![[SRD-aurorus-BookSprite.png|wsmall left]]
+> ![[SRD-aurorus-HomeSprite.png|wsmall right]]
 
 *Tundra Pokémon*
 *It produced a freezing cold mist from the crystals on its sides and relied on size to deter predators. It also created tall walls of ice to block them. The one restored from a fossil is calm and has adapted well.*

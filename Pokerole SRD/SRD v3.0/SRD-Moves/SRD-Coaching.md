@@ -13,7 +13,7 @@ Effect: Target All Allies in Range. Increase by 1 the Strength and Defense of al
   Allies targeted. The User cannot target itself.
 Name: Coaching
 Power: 0
-Target: User and Allies
+Target: All Allies
 Type: Fighting
 ---
 

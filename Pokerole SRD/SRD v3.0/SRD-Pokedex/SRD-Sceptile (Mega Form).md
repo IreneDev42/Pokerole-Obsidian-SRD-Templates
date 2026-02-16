@@ -83,8 +83,8 @@ Weight:
 # Sceptile (Mega Form) 
 
 > [!grid]
-> ![[SRD-sceptile-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-sceptile-mega-form-HomeSprite.png]]
+> ![[SRD-sceptile-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-sceptile-mega-form-HomeSprite.png|wsmall right]]
 
 *Forest Pokémon*
 *With the power of the Mega Stone, it allows itself to grow more feral in order to gain draconian powers. Its movements are swifter than ever, and when it attacks, it seems like the jungle has come to life.*

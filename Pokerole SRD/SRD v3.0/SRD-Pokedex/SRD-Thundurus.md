@@ -75,8 +75,8 @@ Weight:
 # Thundurus 
 
 > [!grid]
-> ![[SRD-thundurus-BookSprite.png|wsmall]]
-> ![[SRD-thundurus-HomeSprite.png]]
+> ![[SRD-thundurus-BookSprite.png|wsmall left]]
+> ![[SRD-thundurus-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *There are constant forest fires all through the Unova region. These fires are always the result of a giant thunder storm. Forest rangers tell about a blue demon's shadow that lives inside the storm clouds.*

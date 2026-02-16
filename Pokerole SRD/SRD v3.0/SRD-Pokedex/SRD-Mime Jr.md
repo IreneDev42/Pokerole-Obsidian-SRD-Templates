@@ -85,8 +85,8 @@ Weight:
 # Mime Jr 
 
 > [!grid]
-> ![[SRD-mime-jr-BookSprite.png|wsmall]]
-> ![[SRD-mime-jr-HomeSprite.png]]
+> ![[SRD-mime-jr-BookSprite.png|wsmall left]]
+> ![[SRD-mime-jr-HomeSprite.png|wsmall right]]
 
 *Mime Pokémon*
 *It likes places where people gather and imitates their expressions to try to understand their feelings. It mimics foes, confuses them, then it escapes. It doesn't take long to become a master mime.*

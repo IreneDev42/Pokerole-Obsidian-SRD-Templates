@@ -79,8 +79,8 @@ Weight:
 # Shiinotic 
 
 > [!grid]
-> ![[SRD-shiinotic-BookSprite.png|wsmall]]
-> ![[SRD-shiinotic-HomeSprite.png]]
+> ![[SRD-shiinotic-BookSprite.png|wsmall left]]
+> ![[SRD-shiinotic-HomeSprite.png|wsmall right]]
 
 *Illuminating Pokémon*
 *Forests where Shiinotic live are treacherous to travel. People tell stories about strange lights that put others into a deep slumber who are then drained of their energy by these Pokémon, never to return home.*

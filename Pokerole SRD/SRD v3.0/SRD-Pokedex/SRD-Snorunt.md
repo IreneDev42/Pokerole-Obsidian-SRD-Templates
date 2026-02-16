@@ -77,8 +77,8 @@ Weight:
 # Snorunt 
 
 > [!grid]
-> ![[SRD-snorunt-BookSprite.png|wsmall]]
-> ![[SRD-snorunt-HomeSprite.png]]
+> ![[SRD-snorunt-BookSprite.png|wsmall left]]
+> ![[SRD-snorunt-HomeSprite.png|wsmall right]]
 
 *Snow Hat Pokémon*
 *This friendly Pokémon lives in cold mountains and deserted snowlands. It survives by eating snow and ice. They form small groups to protect themselves from predators. If you take their hat off, they will get angry.*

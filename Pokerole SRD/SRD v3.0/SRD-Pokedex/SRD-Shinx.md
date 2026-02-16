@@ -75,8 +75,8 @@ Weight:
 # Shinx 
 
 > [!grid]
-> ![[SRD-shinx-BookSprite.png|wsmall]]
-> ![[SRD-shinx-HomeSprite.png]]
+> ![[SRD-shinx-BookSprite.png|wsmall left]]
+> ![[SRD-shinx-HomeSprite.png|wsmall right]]
 
 *Flash Pokémon*
 *Its body transforms the energy of its own muscles into electricity. When in danger, their whole fur shines in a flash to blind the foes. They live with their parents and siblings in small prides.*

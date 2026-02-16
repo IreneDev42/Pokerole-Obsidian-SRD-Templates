@@ -80,8 +80,8 @@ Weight:
 # Primarina 
 
 > [!grid]
-> ![[SRD-primarina-BookSprite.png|wsmall]]
-> ![[SRD-primarina-HomeSprite.png]]
+> ![[SRD-primarina-BookSprite.png|wsmall left]]
+> ![[SRD-primarina-HomeSprite.png|wsmall right]]
 
 *Soloist Pokémon*
 *All modern Primarina sing a song that has been passed down through generations. Legend says that you can hear their true song when you are in the depths of the sea. Make sure its throat doesn't get sore.*

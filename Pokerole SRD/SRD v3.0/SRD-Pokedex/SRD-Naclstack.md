@@ -79,8 +79,8 @@ Weight:
 # Naclstack 
 
 > [!grid]
-> ![[SRD-naclstack-BookSprite.png|wsmall]]
-> ![[SRD-naclstack-HomeSprite.png]]
+> ![[SRD-naclstack-BookSprite.png|wsmall left]]
+> ![[SRD-naclstack-HomeSprite.png|wsmall right]]
 
 *Rock Salt Pokémon*
 *These Pokémon cure their prey in salt, until they resemble salt statues. They compress salt inside their body and then shoot the hardened pellets with enough force to perforate an iron sheet.*

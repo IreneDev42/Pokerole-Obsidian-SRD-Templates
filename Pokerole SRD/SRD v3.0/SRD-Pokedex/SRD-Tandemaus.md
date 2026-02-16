@@ -73,8 +73,8 @@ Weight:
 # Tandemaus 
 
 > [!grid]
-> ![[SRD-tandemaus-BookSprite.png|wsmall]]
-> ![[SRD-tandemaus-HomeSprite.png]]
+> ![[SRD-tandemaus-BookSprite.png|wsmall left]]
+> ![[SRD-tandemaus-HomeSprite.png|wsmall right]]
 
 *Couple Pokémon*
 *These Pokémon stick together no matter what. Their teamwork is very well-synchronized, acting almost like a single entity. Beware, as they reproduce very fast and can become hundreds in just a few months.*

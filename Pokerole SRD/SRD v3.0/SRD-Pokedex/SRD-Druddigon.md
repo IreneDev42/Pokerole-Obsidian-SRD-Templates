@@ -75,8 +75,8 @@ Weight:
 # Druddigon 
 
 > [!grid]
-> ![[SRD-druddigon-BookSprite.png|wsmall]]
-> ![[SRD-druddigon-HomeSprite.png]]
+> ![[SRD-druddigon-BookSprite.png|wsmall left]]
+> ![[SRD-druddigon-HomeSprite.png|wsmall right]]
 
 *Cave Pokémon*
 *It runs through the narrow tunnels dug by Excadrill and Onix and uses its sharp claws to catch prey. It is cold-blooded, and regularly takes sun baths to keep its energy. They are aggressive and territorial.*

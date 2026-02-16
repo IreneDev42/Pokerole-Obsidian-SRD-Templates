@@ -76,8 +76,8 @@ Weight:
 # Wo-Chien 
 
 > [!grid]
-> ![[SRD-wo-chien-BookSprite.png|wsmall]]
-> ![[SRD-wo-chien-HomeSprite.png]]
+> ![[SRD-wo-chien-BookSprite.png|wsmall left]]
+> ![[SRD-wo-chien-HomeSprite.png|wsmall right]]
 
 *Ruinous Pokémon*
 *Possessed by the grudge of an author unfairly punished, these wooden tablets tell the story of an evil king from long ago. Its body of leaves drains the life-energy of all vegetation nearby, leaving barren wastelands behind.*

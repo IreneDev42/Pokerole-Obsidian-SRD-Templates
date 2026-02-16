@@ -81,8 +81,8 @@ Weight:
 # Golurk 
 
 > [!grid]
-> ![[SRD-golurk-BookSprite.png|wsmall]]
-> ![[SRD-golurk-HomeSprite.png]]
+> ![[SRD-golurk-BookSprite.png|wsmall left]]
+> ![[SRD-golurk-HomeSprite.png|wsmall right]]
 
 *Automaton Pokémon*
 *It is said that Golurk were ordered to protect people and Pokémon by the ancient people who created them. There are records of only one still alive found in the ruins; the rest are just statues now.*

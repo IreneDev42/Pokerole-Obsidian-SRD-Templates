@@ -77,8 +77,8 @@ Weight:
 # Morpeko 
 
 > [!grid]
-> ![[SRD-morpeko-BookSprite.png|wsmall]]
-> ![[SRD-morpeko-HomeSprite.png]]
+> ![[SRD-morpeko-BookSprite.png|wsmall left]]
+> ![[SRD-morpeko-HomeSprite.png|wsmall right]]
 
 *Two-Sided Pokémon*
 *Its 'Full-Belly' Mode is friendly and playful: it treasures food and treats. But as its hunger increases it goes into 'Hangry' Form and starts getting violent: the electricity in its cheek sacs turns into a Dark-type energy.*

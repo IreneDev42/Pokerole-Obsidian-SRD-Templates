@@ -81,8 +81,8 @@ Weight:
 # Skeledirge 
 
 > [!grid]
-> ![[SRD-skeledirge-BookSprite.png|wsmall]]
-> ![[SRD-skeledirge-HomeSprite.png]]
+> ![[SRD-skeledirge-BookSprite.png|wsmall left]]
+> ![[SRD-skeledirge-HomeSprite.png|wsmall right]]
 
 *Singer Pokémon*
 *Despite its fearsome appearance, it sings a gentle and soothing song. The egg on its head gave birth to a flame bird companion who changes its shape when Skeledirge attacks. A gentle giant, protector of life.*

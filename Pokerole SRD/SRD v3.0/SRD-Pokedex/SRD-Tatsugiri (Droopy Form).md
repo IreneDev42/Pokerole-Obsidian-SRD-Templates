@@ -69,8 +69,8 @@ Weight:
 # Tatsugiri (Droopy Form) 
 
 > [!grid]
-> ![[SRD-tatsugiri-droopy-form-BookSprite.png|wsmall]]
-> ![[SRD-tatsugiri-droopy-form-HomeSprite.png]]
+> ![[SRD-tatsugiri-droopy-form-BookSprite.png|wsmall left]]
+> ![[SRD-tatsugiri-droopy-form-HomeSprite.png|wsmall right]]
 
 *Mimicry Pokémon*
 *These small dragon Pokémon are very cunning: they hide inside the mouths of Dondozo, then feign weakness to lure prey and order their partner to attack. Red Tatsugiri focus on defensive tactics.*

@@ -79,8 +79,8 @@ Weight:
 # Malamar 
 
 > [!grid]
-> ![[SRD-malamar-BookSprite.png|wsmall]]
-> ![[SRD-malamar-HomeSprite.png]]
+> ![[SRD-malamar-BookSprite.png|wsmall left]]
+> ![[SRD-malamar-HomeSprite.png|wsmall right]]
 
 *Overturning Pokémon*
 *It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off to eat it. These Pokémon are difficult to handle as they use their Psychic abilities for evil purposes.*

@@ -74,8 +74,8 @@ Weight:
 # Tympole 
 
 > [!grid]
-> ![[SRD-tympole-BookSprite.png|wsmall]]
-> ![[SRD-tympole-HomeSprite.png]]
+> ![[SRD-tympole-BookSprite.png|wsmall left]]
+> ![[SRD-tympole-HomeSprite.png|wsmall right]]
 
 *Tadpole Pokémon*
 *After a heavy rainfall, they'll appear in great numbers in marshes and ponds. They warn others of danger and predators by vibrating their cheeks to create a high-pitched sound.*

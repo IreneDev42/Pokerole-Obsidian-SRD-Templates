@@ -75,8 +75,8 @@ Weight:
 # Skarmory 
 
 > [!grid]
-> ![[SRD-skarmory-BookSprite.png|wsmall]]
-> ![[SRD-skarmory-HomeSprite.png]]
+> ![[SRD-skarmory-BookSprite.png|wsmall left]]
+> ![[SRD-skarmory-HomeSprite.png|wsmall right]]
 
 *Armor Bird Pokémon*
 *Their wings are hollow and light. They nest inside bramble bushes, growing stronger from scratches made by thorns. Their wings were used as swords and knives in old times. Beware of their sharp beak.*

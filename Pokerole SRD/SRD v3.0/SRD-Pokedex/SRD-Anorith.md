@@ -74,8 +74,8 @@ Weight:
 # Anorith 
 
 > [!grid]
-> ![[SRD-anorith-BookSprite.png|wsmall]]
-> ![[SRD-anorith-HomeSprite.png]]
+> ![[SRD-anorith-BookSprite.png|wsmall left]]
+> ![[SRD-anorith-HomeSprite.png|wsmall right]]
 
 *Old Shrimp Pokémon*
 *This ancient Pokémon is thought to be the common ancestor of many modern Bug Pokémon. The fossils show it lived in big schools and it preferred warm waters. Anorith used their claws to catch small prey.*

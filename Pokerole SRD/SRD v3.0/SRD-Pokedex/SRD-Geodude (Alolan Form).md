@@ -76,8 +76,8 @@ Weight:
 # Geodude (Alolan Form) 
 
 > [!grid]
-> ![[SRD-geodude-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-geodude-alolan-form-HomeSprite.png]]
+> ![[SRD-geodude-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-geodude-alolan-form-HomeSprite.png|wsmall right]]
 
 *Rock Pokémon*
 *The magnetic fields on Alola's Blush Mountain made Geodude develop Electric chargers on its body. They tend to disguise themselves as regular rocks; caution is advised, as they shock you if you step on them.*

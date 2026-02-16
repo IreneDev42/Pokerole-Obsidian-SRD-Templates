@@ -74,8 +74,8 @@ Weight:
 # Venonat 
 
 > [!grid]
-> ![[SRD-venonat-BookSprite.png|wsmall]]
-> ![[SRD-venonat-HomeSprite.png]]
+> ![[SRD-venonat-BookSprite.png|wsmall left]]
+> ![[SRD-venonat-HomeSprite.png|wsmall right]]
 
 *Insect Pokémon*
 *It lives in the holes of trees in dense forests and jungles. Its large eyes never fail to spot even minuscule prey. Sometimes Venonat uses its powers to confuse travelers and make them lose their way.*

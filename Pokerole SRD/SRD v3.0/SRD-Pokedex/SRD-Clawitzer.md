@@ -79,8 +79,8 @@ Weight:
 # Clawitzer 
 
 > [!grid]
-> ![[SRD-clawitzer-BookSprite.png|wsmall]]
-> ![[SRD-clawitzer-HomeSprite.png]]
+> ![[SRD-clawitzer-BookSprite.png|wsmall left]]
+> ![[SRD-clawitzer-HomeSprite.png|wsmall right]]
 
 *Howitzer Pokémon*
 *They can be seen swimming backwards using their launcher as a propulsor, but they usually stay at the bottom of the sea. Their meat is tough and bitter, so people don't seek them as food anymore.*

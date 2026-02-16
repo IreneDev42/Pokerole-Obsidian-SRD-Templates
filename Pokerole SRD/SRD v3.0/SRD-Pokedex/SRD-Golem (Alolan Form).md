@@ -76,8 +76,8 @@ Weight:
 # Golem (Alolan Form) 
 
 > [!grid]
-> ![[SRD-golem-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-golem-alolan-form-HomeSprite.png]]
+> ![[SRD-golem-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-golem-alolan-form-HomeSprite.png|wsmall right]]
 
 *Megaton Pokémon*
 *The Alolan variant of Golem does not roll around like its counterpart; instead it loads rocks into the charger on its head and shoots them around. If the rocks miss, the electric shockwave doesn't.*

@@ -72,8 +72,8 @@ Weight:
 # Cramorant (Gulping Form) 
 
 > [!grid]
-> ![[SRD-cramorant-gulping-form-BookSprite.png|wsmall]]
-> ![[SRD-cramorant-gulping-form-HomeSprite.png]]
+> ![[SRD-cramorant-gulping-form-BookSprite.png|wsmall left]]
+> ![[SRD-cramorant-gulping-form-HomeSprite.png|wsmall right]]
 
 *Gulp Pokémon*
 *Cramorant's Gulping Form. It dove in the sea and caught an Arrokuda. Can use the Move Bite.*

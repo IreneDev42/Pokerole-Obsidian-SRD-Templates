@@ -79,8 +79,8 @@ Weight:
 # Cradily 
 
 > [!grid]
-> ![[SRD-cradily-BookSprite.png|wsmall]]
-> ![[SRD-cradily-HomeSprite.png]]
+> ![[SRD-cradily-BookSprite.png|wsmall left]]
+> ![[SRD-cradily-HomeSprite.png|wsmall right]]
 
 *Barnacle Pokemon*
 *Cradily moves slowly at the bottom of the sea. It uses its body as an anchor and its tentacles as arms to catch prey. Their foes are melted with a potent acid before being consumed.*

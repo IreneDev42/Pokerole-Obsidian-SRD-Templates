@@ -77,8 +77,8 @@ Weight:
 # Rampardos 
 
 > [!grid]
-> ![[SRD-rampardos-BookSprite.png|wsmall]]
-> ![[SRD-rampardos-HomeSprite.png]]
+> ![[SRD-rampardos-BookSprite.png|wsmall left]]
+> ![[SRD-rampardos-HomeSprite.png|wsmall right]]
 
 *Head Butt Pokémon*
 *Its skull withstands any magnitude of impact. As a result, its brain never gets the chance to grow. This may have been the cause of its extinction. It is capable of rolling a truck over with a single strike.*

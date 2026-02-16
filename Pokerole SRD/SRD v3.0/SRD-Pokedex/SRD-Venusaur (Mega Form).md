@@ -80,8 +80,8 @@ Weight:
 # Venusaur (Mega Form) 
 
 > [!grid]
-> ![[SRD-venusaur-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-venusaur-mega-form-HomeSprite.png]]
+> ![[SRD-venusaur-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-venusaur-mega-form-HomeSprite.png|wsmall right]]
 
 *Seed Pokémon*
 *With the power of the Mega Stone, this Pokémon grows taller and thicker. Its bark and skin are now impervious to the elements. Its demeanor becomes even more serious and determined.*

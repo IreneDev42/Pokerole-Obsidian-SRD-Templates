@@ -81,8 +81,8 @@ Weight:
 # Magmar 
 
 > [!grid]
-> ![[SRD-magmar-BookSprite.png|wsmall]]
-> ![[SRD-magmar-HomeSprite.png]]
+> ![[SRD-magmar-BookSprite.png|wsmall left]]
+> ![[SRD-magmar-HomeSprite.png|wsmall right]]
 
 *Spitfire Pokémon*
 *It can be found living in volcanic areas. In battle, Magmar blows out intense flames all over its body to intimidate the opponent. This creates heat waves that ignite grass and trees in the surroundings.*

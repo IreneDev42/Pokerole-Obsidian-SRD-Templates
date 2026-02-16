@@ -83,8 +83,8 @@ Weight:
 # Duosion 
 
 > [!grid]
-> ![[SRD-duosion-BookSprite.png|wsmall]]
-> ![[SRD-duosion-HomeSprite.png]]
+> ![[SRD-duosion-BookSprite.png|wsmall left]]
+> ![[SRD-duosion-HomeSprite.png|wsmall right]]
 
 *Mitosis Pokémon*
 *It developed two brains when it evolved. Due to this, it has a split personality. At times it may suddenly try to take two different actions at once. When the two brains finally synchronize, it shows its max power.*

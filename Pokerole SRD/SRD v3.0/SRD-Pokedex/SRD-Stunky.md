@@ -78,8 +78,8 @@ Weight:
 # Stunky 
 
 > [!grid]
-> ![[SRD-stunky-BookSprite.png|wsmall]]
-> ![[SRD-stunky-HomeSprite.png]]
+> ![[SRD-stunky-BookSprite.png|wsmall left]]
+> ![[SRD-stunky-HomeSprite.png|wsmall right]]
 
 *Skunk Pokémon*
 *Over the years they have moved closer to towns and other human settlements. They release a foul liquid from their rear that stinks for days to scare away predators. But sometimes they do it just for fun.*

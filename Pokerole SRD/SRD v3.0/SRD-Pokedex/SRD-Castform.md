@@ -70,8 +70,8 @@ Weight:
 # Castform 
 
 > [!grid]
-> ![[SRD-castform-BookSprite.png|wsmall]]
-> ![[SRD-castform-HomeSprite.png]]
+> ![[SRD-castform-BookSprite.png|wsmall left]]
+> ![[SRD-castform-HomeSprite.png|wsmall right]]
 
 *Weather Pokémon*
 *This Pokémon reacts to the weather by changing its type and looks. It can also change the weather at will. When there is a drought, farmers lure them with small hanging dolls to ask them for rain.*

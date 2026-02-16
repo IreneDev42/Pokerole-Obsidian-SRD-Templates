@@ -76,8 +76,8 @@ Weight:
 # Gossifleur 
 
 > [!grid]
-> ![[SRD-gossifleur-BookSprite.png|wsmall]]
-> ![[SRD-gossifleur-HomeSprite.png]]
+> ![[SRD-gossifleur-BookSprite.png|wsmall left]]
+> ![[SRD-gossifleur-HomeSprite.png|wsmall right]]
 
 *Flowering Pokémon*
 *You'll find them in fields, basking in the sun. They let the wind sway them while they sing a joyful song. Afterwards, their flowers bloom and glow. This delightful display makes it very popular among trainers.*

@@ -75,8 +75,8 @@ Weight:
 # Flareon 
 
 > [!grid]
-> ![[SRD-flareon-BookSprite.png|wsmall]]
-> ![[SRD-flareon-HomeSprite.png]]
+> ![[SRD-flareon-BookSprite.png|wsmall left]]
+> ![[SRD-flareon-HomeSprite.png|wsmall right]]
 
 *Flame Pokémon*
 *A few have been seen in volcanic areas, but just like its counterparts is more common to see it being the pet of wealthy people. Its flaming fur is most appreciated for its warm glow and silky touch.*

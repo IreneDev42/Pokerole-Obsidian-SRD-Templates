@@ -51,8 +51,8 @@ Weight:
 # Regigigas 
 
 > [!grid]
-> ![[SRD-regigigas-BookSprite.png|wsmall]]
-> ![[SRD-regigigas-HomeSprite.png]]
+> ![[SRD-regigigas-BookSprite.png|wsmall left]]
+> ![[SRD-regigigas-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *A very old legend tells about the King of Giants, who could crush a mountain with its grip and mold living titans from the rubble.*

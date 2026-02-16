@@ -80,8 +80,8 @@ Weight:
 # Golisopod 
 
 > [!grid]
-> ![[SRD-golisopod-BookSprite.png|wsmall]]
-> ![[SRD-golisopod-HomeSprite.png]]
+> ![[SRD-golisopod-BookSprite.png|wsmall left]]
+> ![[SRD-golisopod-HomeSprite.png|wsmall right]]
 
 *Hard Scale Pokémon*
 *This Pokémon is a rare sight, for most Wimpods never evolve and, when they do, Golisopod spend most of their lives in deep sea caves, meditating. It is extremely strong: its claws can tear through everything.*

@@ -75,8 +75,8 @@ Weight:
 # Miraidon 
 
 > [!grid]
-> ![[SRD-miraidon-BookSprite.png|wsmall]]
-> ![[SRD-miraidon-HomeSprite.png]]
+> ![[SRD-miraidon-BookSprite.png|wsmall left]]
+> ![[SRD-miraidon-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *Some scientists theorize that all Pokémon's ability to evolve according its environment will eventually catch up with the technology advances that humanity is making.*

@@ -77,8 +77,8 @@ Weight:
 # Rotom (Dex Form) 
 
 > [!grid]
-> ![[SRD-rotom-dex-form-BookSprite.png|wsmall]]
-> ![[SRD-rotom-dex-form-HomeSprite.png]]
+> ![[SRD-rotom-dex-form-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-dex-form-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *A Pokédex possessed by a Rotom; it has access to all the information in the computer and uses its sounds to emulate speech. While in this form it can use the move 'Light Screen'.*

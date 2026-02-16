@@ -74,8 +74,8 @@ Weight:
 # Barboach 
 
 > [!grid]
-> ![[SRD-barboach-BookSprite.png|wsmall]]
-> ![[SRD-barboach-HomeSprite.png]]
+> ![[SRD-barboach-BookSprite.png|wsmall left]]
+> ![[SRD-barboach-HomeSprite.png|wsmall right]]
 
 *Whiskers Pokémon*
 *Their whiskers work as a super sensitive radar. They hide inside the mud, leaving only their whiskers exposed while waiting for prey to come. If the mud dries, they move back into the water.*

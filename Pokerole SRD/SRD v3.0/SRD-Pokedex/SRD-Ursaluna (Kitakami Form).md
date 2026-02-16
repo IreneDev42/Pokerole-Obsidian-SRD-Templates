@@ -11,7 +11,7 @@ AdvancedMoves:
 - Endure
 - Calm Mind
 - Moonlight
-- Mud shot
+- Mud Shot
 - Slash
 AmateurMoves: []
 BaseHP: 6
@@ -83,8 +83,8 @@ Weight:
 # Ursaluna (Kitakami Form) 
 
 > [!grid]
-> ![[SRD-ursaluna-kitakami-form-BookSprite.png|wsmall]]
-> ![[SRD-ursaluna-kitakami-form-HomeSprite.png]]
+> ![[SRD-ursaluna-kitakami-form-BookSprite.png|wsmall left]]
+> ![[SRD-ursaluna-kitakami-form-HomeSprite.png|wsmall right]]
 
 *Peat Pokémon*
 *An old legend of the Kitakami region claims the blood moon comes after a tradegy has ravaged the land. All Ursaluna depicted by them show a red mark on its head and claimed seeing one was a bad omen.*

@@ -73,8 +73,8 @@ Weight:
 # Miltank 
 
 > [!grid]
-> ![[SRD-miltank-BookSprite.png|wsmall]]
-> ![[SRD-miltank-HomeSprite.png]]
+> ![[SRD-miltank-BookSprite.png|wsmall left]]
+> ![[SRD-miltank-HomeSprite.png|wsmall right]]
 
 *Milk Cow Pokémon*
 *Their male counterpart is Tauros. A Miltank's milk is full of nutrients that may heal the sick and the injured. They can produce up to 5 gallons a day. Doctors do not recommend milk as treatment for serious injuries.*

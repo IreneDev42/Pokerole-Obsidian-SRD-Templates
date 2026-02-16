@@ -79,8 +79,8 @@ Weight:
 # Yanma 
 
 > [!grid]
-> ![[SRD-yanma-BookSprite.png|wsmall]]
-> ![[SRD-yanma-HomeSprite.png]]
+> ![[SRD-yanma-BookSprite.png|wsmall left]]
+> ![[SRD-yanma-HomeSprite.png|wsmall right]]
 
 *Clear Wing Pokémon*
 *It lives near water sources. Its eyes can see 360 degrees without even moving. Yanma is a great flyer capable of making sudden stops and turning midair to quickly chase down targeted prey.*

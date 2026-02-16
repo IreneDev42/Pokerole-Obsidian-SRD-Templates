@@ -79,8 +79,8 @@ Weight:
 # Ceruledge 
 
 > [!grid]
-> ![[SRD-ceruledge-BookSprite.png|wsmall]]
-> ![[SRD-ceruledge-HomeSprite.png]]
+> ![[SRD-ceruledge-BookSprite.png|wsmall left]]
+> ![[SRD-ceruledge-HomeSprite.png|wsmall right]]
 
 *Fire Blades Pokémon*
 *Charcadet evolved by using a battered armor that belonged to a fallen warrior. The resentment in the armor gives it a vengeful heat. They use their sharp blades to attack without mercy from the shadows.*

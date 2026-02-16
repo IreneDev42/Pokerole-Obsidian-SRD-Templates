@@ -73,8 +73,8 @@ Weight:
 # Helioptile 
 
 > [!grid]
-> ![[SRD-helioptile-BookSprite.png|wsmall]]
-> ![[SRD-helioptile-HomeSprite.png]]
+> ![[SRD-helioptile-BookSprite.png|wsmall left]]
+> ![[SRD-helioptile-HomeSprite.png|wsmall right]]
 
 *Generator Pokémon*
 *They make their home in deserts. Since food is scarce where they live, they use the sun as a source of energy by basking their frills in the light. They run pretty fast as to not burn themselves on the hot sand.*

@@ -54,8 +54,8 @@ Weight:
 # Zygarde 100% 
 
 > [!grid]
-> ![[SRD-zygarde-100-BookSprite.png|wsmall]]
-> ![[SRD-zygarde-100-HomeSprite.png]]
+> ![[SRD-zygarde-100-BookSprite.png|wsmall left]]
+> ![[SRD-zygarde-100-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The complete form of Zygarde*

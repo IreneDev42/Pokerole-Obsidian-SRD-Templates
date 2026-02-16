@@ -79,8 +79,8 @@ Weight:
 # Dugtrio (Alolan Form) 
 
 > [!grid]
-> ![[SRD-dugtrio-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-dugtrio-alolan-form-HomeSprite.png]]
+> ![[SRD-dugtrio-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-dugtrio-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mole Pokémon*
 *Thanks to its golden mane, this Pokémon has been revered as a feminine deity. The triplets groom each other to help keep the hair glossy and dirt-free. They don't like to be petted.*

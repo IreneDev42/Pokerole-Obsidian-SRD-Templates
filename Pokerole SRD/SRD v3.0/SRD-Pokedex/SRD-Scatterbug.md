@@ -61,8 +61,8 @@ Weight:
 # Scatterbug 
 
 > [!grid]
-> ![[SRD-scatterbug-BookSprite.png|wsmall]]
-> ![[SRD-scatterbug-HomeSprite.png]]
+> ![[SRD-scatterbug-BookSprite.png|wsmall left]]
+> ![[SRD-scatterbug-HomeSprite.png|wsmall right]]
 
 *Scatterdust Pokémon*
 *The powder that covers its body regulates its temperature so it is able to live in any region or climate. Whenever it is under attack, it spews a black powder that causes paralysis on contact.*

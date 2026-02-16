@@ -75,8 +75,8 @@ Weight:
 # Falinks 
 
 > [!grid]
-> ![[SRD-falinks-BookSprite.png|wsmall]]
-> ![[SRD-falinks-HomeSprite.png]]
+> ![[SRD-falinks-BookSprite.png|wsmall left]]
+> ![[SRD-falinks-HomeSprite.png|wsmall right]]
 
 *Formation Pokémon*
 *It is formed by six of them: five are troopers, and one is the brass. The brass's orders are absolute to the others. They work as a perfect team and can rearrange their formation to better suit them in battle.*

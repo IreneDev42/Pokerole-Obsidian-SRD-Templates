@@ -74,8 +74,8 @@ Weight:
 # Farfetch'd (Galarian Form) 
 
 > [!grid]
-> ![[SRD-farfetchd-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-farfetchd-galarian-form-HomeSprite.png]]
+> ![[SRD-farfetchd-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-farfetchd-galarian-form-HomeSprite.png|wsmall right]]
 
 *Wild Duck Pokémon*
 *The stalks of leeks are thicker and longer in the Galar region. This has allowed Farfetch'd to fare better than their Kanto counterparts. It has also made them hardier and warrior-like. They are still delicious, though.*

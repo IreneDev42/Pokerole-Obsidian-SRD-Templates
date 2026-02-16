@@ -81,8 +81,8 @@ Weight:
 # Exeggcute 
 
 > [!grid]
-> ![[SRD-exeggcute-BookSprite.png|wsmall]]
-> ![[SRD-exeggcute-HomeSprite.png]]
+> ![[SRD-exeggcute-BookSprite.png|wsmall left]]
+> ![[SRD-exeggcute-HomeSprite.png|wsmall right]]
 
 *Egg Pokémon*
 *Even though it appears to be eggs of some sort, it is related more to a seed. It gathers in packs of six that have a mental link with each other. Each one of them has a different personality.*

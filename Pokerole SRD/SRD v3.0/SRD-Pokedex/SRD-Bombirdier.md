@@ -75,8 +75,8 @@ Weight:
 # Bombirdier 
 
 > [!grid]
-> ![[SRD-bombirdier-BookSprite.png|wsmall]]
-> ![[SRD-bombirdier-HomeSprite.png]]
+> ![[SRD-bombirdier-BookSprite.png|wsmall left]]
+> ![[SRD-bombirdier-HomeSprite.png|wsmall right]]
 
 *Item Drop Pokémon*
 *Using their shed feathers, Bombirdier make an apron to carry food back to their nest. However they have this nasty habit of dropping heavy objects while flying to amuse themselves with the loud noise they make.*

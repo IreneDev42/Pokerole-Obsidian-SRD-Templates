@@ -77,8 +77,8 @@ Weight:
 # Bulbasaur 
 
 > [!grid]
-> ![[SRD-bulbasaur-BookSprite.png|wsmall]]
-> ![[SRD-bulbasaur-HomeSprite.png]]
+> ![[SRD-bulbasaur-BookSprite.png|wsmall left]]
+> ![[SRD-bulbasaur-HomeSprite.png|wsmall right]]
 
 *Seed Pokémon*
 *It carries a seed on its back since birth. As it grows older the seed also grows larger. It is known to be a well-behaved and loyal Pokémon, but pretty rare to find in the wild.*

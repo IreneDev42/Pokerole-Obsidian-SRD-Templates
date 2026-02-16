@@ -81,8 +81,8 @@ Weight:
 # Roselia 
 
 > [!grid]
-> ![[SRD-roselia-BookSprite.png|wsmall]]
-> ![[SRD-roselia-HomeSprite.png]]
+> ![[SRD-roselia-BookSprite.png|wsmall left]]
+> ![[SRD-roselia-HomeSprite.png|wsmall right]]
 
 *Thorn Pokémon*
 *They live among rose bushes, shooting sharp poisonous thorns to anyone who tries to steal one of their flowers. Their aroma brings serenity. They need clean water to grow beautiful.*

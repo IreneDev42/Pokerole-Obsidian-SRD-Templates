@@ -75,8 +75,8 @@ Weight:
 # Zubat 
 
 > [!grid]
-> ![[SRD-zubat-BookSprite.png|wsmall]]
-> ![[SRD-zubat-HomeSprite.png]]
+> ![[SRD-zubat-BookSprite.png|wsmall left]]
+> ![[SRD-zubat-HomeSprite.png|wsmall right]]
 
 *Bat Pokémon*
 *It lives in dark caves all around the world. Prolonged exposure to the sun will make it unhealthy. It is blind but uses echolocation to find its way. At night, they leave their cave to feed on fruit and bug Pokémon.*

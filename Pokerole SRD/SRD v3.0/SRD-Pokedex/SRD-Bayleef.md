@@ -78,8 +78,8 @@ Weight:
 # Bayleef 
 
 > [!grid]
-> ![[SRD-bayleef-BookSprite.png|wsmall]]
-> ![[SRD-bayleef-HomeSprite.png]]
+> ![[SRD-bayleef-BookSprite.png|wsmall left]]
+> ![[SRD-bayleef-HomeSprite.png|wsmall right]]
 
 *Leaf Pokémon*
 *A spicy fragrance emanates from around its neck that makes it feisty and impetuous. It sheds its leaves every couple of weeks after the aroma diminishes and its mood also becomes calmer.*

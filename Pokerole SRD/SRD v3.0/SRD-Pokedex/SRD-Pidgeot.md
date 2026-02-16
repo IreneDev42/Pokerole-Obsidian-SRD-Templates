@@ -82,8 +82,8 @@ Weight:
 # Pidgeot 
 
 > [!grid]
-> ![[SRD-pidgeot-BookSprite.png|wsmall]]
-> ![[SRD-pidgeot-HomeSprite.png]]
+> ![[SRD-pidgeot-BookSprite.png|wsmall left]]
+> ![[SRD-pidgeot-HomeSprite.png|wsmall right]]
 
 *Bird Pokémon*
 *This Pokémon's plumage is made of beautiful, glossy feathers. Pidgeot is an excellent hunter with well-developed wing muscles that make it strong enough to whip up a gusty windstorm with just a few flaps.*

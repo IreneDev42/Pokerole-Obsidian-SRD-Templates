@@ -72,8 +72,8 @@ Weight:
 # Surskit 
 
 > [!grid]
-> ![[SRD-surskit-BookSprite.png|wsmall]]
-> ![[SRD-surskit-HomeSprite.png]]
+> ![[SRD-surskit-BookSprite.png|wsmall left]]
+> ![[SRD-surskit-HomeSprite.png|wsmall right]]
 
 *Pond Skater Pokémon*
 *Surskit secretes oil from its feet to skate on water. It may be found on ponds, lakes and puddles in towns. The tip of its head produces a delicious sugary syrup often used in desserts and sweets.*

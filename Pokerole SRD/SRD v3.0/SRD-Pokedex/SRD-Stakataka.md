@@ -75,8 +75,8 @@ Weight:
 # Stakataka 
 
 > [!grid]
-> ![[SRD-stakataka-BookSprite.png|wsmall]]
-> ![[SRD-stakataka-HomeSprite.png]]
+> ![[SRD-stakataka-BookSprite.png|wsmall left]]
+> ![[SRD-stakataka-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #132*
 *We are finally on the other side. It has been so exciting. What we thought were the ruins of an abandoned civilization turned out to be small sentient creatures that stacked on each other to create a large UB.*

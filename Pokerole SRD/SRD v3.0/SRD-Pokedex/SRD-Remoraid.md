@@ -73,8 +73,8 @@ Weight:
 # Remoraid 
 
 > [!grid]
-> ![[SRD-remoraid-BookSprite.png|wsmall]]
-> ![[SRD-remoraid-HomeSprite.png]]
+> ![[SRD-remoraid-BookSprite.png|wsmall left]]
+> ![[SRD-remoraid-HomeSprite.png|wsmall right]]
 
 *Jet Pokémon*
 *Remoraid has a remarkable aim with its water gun. This ability is used to hunt by shooting down Pokémon above the sea. They can be seen clinging on a Mantine's flaps to travel faster.*

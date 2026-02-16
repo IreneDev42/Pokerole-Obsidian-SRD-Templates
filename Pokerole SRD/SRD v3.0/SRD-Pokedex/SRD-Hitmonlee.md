@@ -78,8 +78,8 @@ Weight:
 # Hitmonlee 
 
 > [!grid]
-> ![[SRD-hitmonlee-BookSprite.png|wsmall]]
-> ![[SRD-hitmonlee-HomeSprite.png]]
+> ![[SRD-hitmonlee-BookSprite.png|wsmall left]]
+> ![[SRD-hitmonlee-HomeSprite.png|wsmall right]]
 
 *Kicking Pokémon*
 *Its legs freely stretch and contract. It bowls over foes with devastating kicks. It is very disciplined and trains every day. It is very rare in the wild, and it is mostly found in urban areas.*

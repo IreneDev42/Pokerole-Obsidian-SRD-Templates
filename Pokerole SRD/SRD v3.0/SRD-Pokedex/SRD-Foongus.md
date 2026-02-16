@@ -75,8 +75,8 @@ Weight:
 # Foongus 
 
 > [!grid]
-> ![[SRD-foongus-BookSprite.png|wsmall]]
-> ![[SRD-foongus-HomeSprite.png]]
+> ![[SRD-foongus-BookSprite.png|wsmall left]]
+> ![[SRD-foongus-HomeSprite.png|wsmall right]]
 
 *Mushroom Pokémon*
 *The top of fungus takes a pattern that resembles a predator to protect itself. In recent times this pattern has started to look like a Pokéball. It releases toxic spores into the air that help it move around safely.*

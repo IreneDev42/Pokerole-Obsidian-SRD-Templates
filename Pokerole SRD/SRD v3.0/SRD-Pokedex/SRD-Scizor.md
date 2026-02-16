@@ -83,8 +83,8 @@ Weight:
 # Scizor 
 
 > [!grid]
-> ![[SRD-scizor-BookSprite.png|wsmall]]
-> ![[SRD-scizor-HomeSprite.png]]
+> ![[SRD-scizor-BookSprite.png|wsmall left]]
+> ![[SRD-scizor-HomeSprite.png|wsmall right]]
 
 *Pincer Pokémon*
 *Its pincers appear to be two more heads and its wings are not for flying, but to regulate its body temperature. Scizor's body can shrug off most attacks and its pincers can crush almost any object.*

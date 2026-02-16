@@ -78,8 +78,8 @@ Weight:
 # Cursola 
 
 > [!grid]
-> ![[SRD-cursola-BookSprite.png|wsmall]]
-> ![[SRD-cursola-HomeSprite.png]]
+> ![[SRD-cursola-BookSprite.png|wsmall left]]
+> ![[SRD-cursola-HomeSprite.png|wsmall right]]
 
 *Coral Pokémon*
 *The ectoplasm serves as protection for its soul; do not touch it or you'll become stiff as stone. This Pokémon longs for the days where coral reefs were full of life. It holds a grudge against those who destroyed them.*

@@ -75,8 +75,8 @@ Weight:
 # Okidogi 
 
 > [!grid]
-> ![[SRD-okidogi-BookSprite.png|wsmall]]
-> ![[SRD-okidogi-HomeSprite.png]]
+> ![[SRD-okidogi-BookSprite.png|wsmall left]]
+> ![[SRD-okidogi-HomeSprite.png|wsmall right]]
 
 *Retainer Pokémon*
 *The most famous legend in Kitakami tells about how three Pokémon and their master defeated an ogre. One of them was feeble and weak but got immense strength after eating a forbidden magical mochi.*

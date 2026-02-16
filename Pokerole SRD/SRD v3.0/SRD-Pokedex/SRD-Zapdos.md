@@ -74,8 +74,8 @@ Weight:
 # Zapdos 
 
 > [!grid]
-> ![[SRD-zapdos-BookSprite.png|wsmall]]
-> ![[SRD-zapdos-HomeSprite.png]]
+> ![[SRD-zapdos-BookSprite.png|wsmall left]]
+> ![[SRD-zapdos-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The myth tells of a bird who lived inside the thunderstorms of the region. It covered itself in lightning while flying in the dark clouds. A news report said it was involved in the closure of an energy plant.*

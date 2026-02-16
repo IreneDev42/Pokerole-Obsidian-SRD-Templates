@@ -74,8 +74,8 @@ Weight:
 # Diglett 
 
 > [!grid]
-> ![[SRD-diglett-BookSprite.png|wsmall]]
-> ![[SRD-diglett-HomeSprite.png]]
+> ![[SRD-diglett-BookSprite.png|wsmall left]]
+> ![[SRD-diglett-HomeSprite.png|wsmall right]]
 
 *Mole Pokémon*
 *It prefers dark places and spends most of its time underground. It has a very thin skin. It's frail and has problems regulating its own temperature. Keep it burrowed or it will get sick.*

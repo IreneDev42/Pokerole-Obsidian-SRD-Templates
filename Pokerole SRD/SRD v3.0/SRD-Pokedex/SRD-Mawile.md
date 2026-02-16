@@ -78,8 +78,8 @@ Weight:
 # Mawile 
 
 > [!grid]
-> ![[SRD-mawile-BookSprite.png|wsmall]]
-> ![[SRD-mawile-HomeSprite.png]]
+> ![[SRD-mawile-BookSprite.png|wsmall left]]
+> ![[SRD-mawile-HomeSprite.png|wsmall right]]
 
 *Deceiver Pokémon*
 *They appear to be cute and docile, luring their prey and lowering their guards. Then, Mawile chomps the prey with huge steel jaws. They are very rare, though. Only a few have been seen in Hoenn's Victory Road.*

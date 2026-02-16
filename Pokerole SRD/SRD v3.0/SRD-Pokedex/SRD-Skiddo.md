@@ -75,8 +75,8 @@ Weight:
 # Skiddo 
 
 > [!grid]
-> ![[SRD-skiddo-BookSprite.png|wsmall]]
-> ![[SRD-skiddo-HomeSprite.png]]
+> ![[SRD-skiddo-BookSprite.png|wsmall left]]
+> ![[SRD-skiddo-HomeSprite.png|wsmall right]]
 
 *Mount Pokémon*
 *It's thought to be one of the first Pokémon to live in harmony with humans. If it has sunshine and water it doesn't need to eat - the leaves on its back will produce the energy for it.*

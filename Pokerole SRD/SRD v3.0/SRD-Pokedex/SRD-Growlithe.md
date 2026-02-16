@@ -78,8 +78,8 @@ Weight:
 # Growlithe 
 
 > [!grid]
-> ![[SRD-growlithe-BookSprite.png|wsmall]]
-> ![[SRD-growlithe-HomeSprite.png]]
+> ![[SRD-growlithe-BookSprite.png|wsmall left]]
+> ![[SRD-growlithe-HomeSprite.png|wsmall right]]
 
 *Puppy Pokémon*
 *Friendly, loyal, and fearless in defending its trainer. These traits have gained them a place working as police Pokémon. They are uncommon in the wild, but some packs can be seen in hot environments.*

@@ -79,8 +79,8 @@ Weight:
 # Nidorino 
 
 > [!grid]
-> ![[SRD-nidorino-BookSprite.png|wsmall]]
-> ![[SRD-nidorino-HomeSprite.png]]
+> ![[SRD-nidorino-BookSprite.png|wsmall left]]
+> ![[SRD-nidorino-HomeSprite.png|wsmall right]]
 
 *Poison Pin Pokémon*
 *An independent and fierce creature. It roams alone in search for a mate and will compete with other males around. It will violently charge with a venom-drenched horn against intruders.*

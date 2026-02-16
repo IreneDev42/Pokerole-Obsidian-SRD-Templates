@@ -83,8 +83,8 @@ Weight:
 # Togetic 
 
 > [!grid]
-> ![[SRD-togetic-BookSprite.png|wsmall]]
-> ![[SRD-togetic-HomeSprite.png]]
+> ![[SRD-togetic-BookSprite.png|wsmall left]]
+> ![[SRD-togetic-HomeSprite.png|wsmall right]]
 
 *Happiness Pokémon*
 *Although there have been very few sightings of this Pokémon in the wild, it is known to appear before kind-hearted people and grant them happiness. It is very energetic and friendly.*

@@ -84,8 +84,8 @@ Weight:
 # Nuzleaf 
 
 > [!grid]
-> ![[SRD-nuzleaf-BookSprite.png|wsmall]]
-> ![[SRD-nuzleaf-HomeSprite.png]]
+> ![[SRD-nuzleaf-BookSprite.png|wsmall left]]
+> ![[SRD-nuzleaf-HomeSprite.png|wsmall right]]
 
 *Wily Pokémon*
 *They live inside holes in big trees. Their leaves are played like flutes to strike fear and discomfort in lost people's hearts. They like to go out and startle people. Their noses are really sensitive and frail.*

@@ -77,8 +77,8 @@ Weight:
 # Raticate (Alolan Form) 
 
 > [!grid]
-> ![[SRD-raticate-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-raticate-alolan-form-HomeSprite.png]]
+> ![[SRD-raticate-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-raticate-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *Alolan Raticate command their Rattata underlings to bring them food every night. Five star restaurants often struggle with these aggressive Pokémon nesting close to their grounds.*

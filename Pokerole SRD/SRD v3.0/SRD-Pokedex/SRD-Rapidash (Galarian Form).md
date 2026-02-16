@@ -77,8 +77,8 @@ Weight:
 # Rapidash (Galarian Form) 
 
 > [!grid]
-> ![[SRD-rapidash-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-rapidash-galarian-form-HomeSprite.png]]
+> ![[SRD-rapidash-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-rapidash-galarian-form-HomeSprite.png|wsmall right]]
 
 *Unique Horn Pokémon*
 *Those with evil in their hearts will be disdained by this proud and beautiful Pokémon as it dashes on the air using its psychic power. It is said that only a true princess can mount a Galarian Rapidash.*

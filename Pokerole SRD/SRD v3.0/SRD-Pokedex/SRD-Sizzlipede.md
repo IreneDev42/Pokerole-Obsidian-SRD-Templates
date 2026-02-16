@@ -76,8 +76,8 @@ Weight:
 # Sizzlipede 
 
 > [!grid]
-> ![[SRD-sizzlipede-BookSprite.png|wsmall]]
-> ![[SRD-sizzlipede-HomeSprite.png]]
+> ![[SRD-sizzlipede-BookSprite.png|wsmall left]]
+> ![[SRD-sizzlipede-HomeSprite.png|wsmall right]]
 
 *Radiator Pokémon*
 *It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get very hot. It wraps prey with its body heated to cook them, then it nibbles them down until nothing remains.*

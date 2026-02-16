@@ -84,8 +84,8 @@ Weight:
 # Weavile 
 
 > [!grid]
-> ![[SRD-weavile-BookSprite.png|wsmall]]
-> ![[SRD-weavile-HomeSprite.png]]
+> ![[SRD-weavile-BookSprite.png|wsmall left]]
+> ![[SRD-weavile-HomeSprite.png|wsmall right]]
 
 *Sharp Claw Pokémon*
 *They live in cold regions, forming groups of four that hunt prey with impressive coordination. They leave claw marks and patterns to indicate their territory. They are devious and love to cause trouble.*

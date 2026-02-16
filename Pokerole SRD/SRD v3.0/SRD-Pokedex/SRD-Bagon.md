@@ -73,8 +73,8 @@ Weight:
 # Bagon 
 
 > [!grid]
-> ![[SRD-bagon-BookSprite.png|wsmall]]
-> ![[SRD-bagon-HomeSprite.png]]
+> ![[SRD-bagon-BookSprite.png|wsmall left]]
+> ![[SRD-bagon-HomeSprite.png|wsmall right]]
 
 *Rock Head Pokémon*
 *Bagon dream of soaring the sky. This leads to a lot of frustration that makes them dive off cliffs in an attempt to fly. Their head is tough enough to survive the fall. They are very ill-tempered and violent.*

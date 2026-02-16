@@ -76,8 +76,8 @@ Weight:
 # Vigoroth 
 
 > [!grid]
-> ![[SRD-vigoroth-BookSprite.png|wsmall]]
-> ![[SRD-vigoroth-HomeSprite.png]]
+> ![[SRD-vigoroth-BookSprite.png|wsmall left]]
+> ![[SRD-vigoroth-HomeSprite.png|wsmall right]]
 
 *Wild Monkey Pokémon*
 *They are always agitated, anxious, excited, or upset, rampaging over anything. They can't be still and they can't sleep. They get angry if they get bored and violent if there is no activity for them.*

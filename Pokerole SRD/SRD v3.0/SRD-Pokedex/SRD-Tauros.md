@@ -73,8 +73,8 @@ Weight:
 # Tauros 
 
 > [!grid]
-> ![[SRD-tauros-BookSprite.png|wsmall]]
-> ![[SRD-tauros-HomeSprite.png]]
+> ![[SRD-tauros-BookSprite.png|wsmall left]]
+> ![[SRD-tauros-HomeSprite.png|wsmall right]]
 
 *Wild Bull Pokémon*
 *This is a male species. They travel in herds around the plains and fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns. Miltank is the female of this species.*

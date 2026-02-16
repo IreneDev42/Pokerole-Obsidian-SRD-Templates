@@ -78,8 +78,8 @@ Weight:
 # Ralts 
 
 > [!grid]
-> ![[SRD-ralts-BookSprite.png|wsmall]]
-> ![[SRD-ralts-HomeSprite.png]]
+> ![[SRD-ralts-BookSprite.png|wsmall left]]
+> ![[SRD-ralts-HomeSprite.png|wsmall right]]
 
 *Feeling Pokémon*
 *They sense the emotions of people and Pokémon, usually sharing the mood of anyone nearby. They show if they feel joy and cheer, but hide if they sense hostility. They dislike fighting and negativity.*

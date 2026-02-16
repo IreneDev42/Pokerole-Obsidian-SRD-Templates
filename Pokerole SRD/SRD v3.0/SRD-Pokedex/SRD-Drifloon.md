@@ -80,8 +80,8 @@ Weight:
 # Drifloon 
 
 > [!grid]
-> ![[SRD-drifloon-BookSprite.png|wsmall]]
-> ![[SRD-drifloon-HomeSprite.png]]
+> ![[SRD-drifloon-BookSprite.png|wsmall left]]
+> ![[SRD-drifloon-HomeSprite.png|wsmall right]]
 
 *Balloon Pokémon*
 *A Pokémon formed by the spirits of lost people and Pokémon. Children who mistake it for a real balloon often end up missing. Because it floats aimlessly, an old folktale calls it the 'Signpost for Wandering Spirits.'*

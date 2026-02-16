@@ -74,8 +74,8 @@ Weight:
 # Articuno 
 
 > [!grid]
-> ![[SRD-articuno-BookSprite.png|wsmall]]
-> ![[SRD-articuno-HomeSprite.png]]
+> ![[SRD-articuno-BookSprite.png|wsmall left]]
+> ![[SRD-articuno-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *Rumor has it that one appeared during a blizzard in front of two lost hikers who followed its glistening trail until they found the main road. Others say its silhouette can be seen during raging snow storms.*

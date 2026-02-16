@@ -84,8 +84,8 @@ Weight:
 # Steelix (Mega Form) 
 
 > [!grid]
-> ![[SRD-steelix-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-steelix-mega-form-HomeSprite.png]]
+> ![[SRD-steelix-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-steelix-mega-form-HomeSprite.png|wsmall right]]
 
 *Iron Snake Pokémon*
 *With the power of the Mega Stone, its body goes through so much pressure that part of it becomes diamond crystals. Its defense is almost unbreakable, but its temper is short and it's easily angered.*

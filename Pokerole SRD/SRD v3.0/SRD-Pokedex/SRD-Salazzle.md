@@ -84,8 +84,8 @@ Weight:
 # Salazzle 
 
 > [!grid]
-> ![[SRD-salazzle-BookSprite.png|wsmall]]
-> ![[SRD-salazzle-HomeSprite.png]]
+> ![[SRD-salazzle-BookSprite.png|wsmall left]]
+> ![[SRD-salazzle-HomeSprite.png|wsmall right]]
 
 *Toxic Lizard Pokémon*
 *This Pokémon is Female only. It releases a powerful toxic gas that is filled with pheromones that help her keep her reverse harem of Salandit in check. This gas can be purified into expensive perfumes.*

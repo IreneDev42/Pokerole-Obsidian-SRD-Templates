@@ -74,8 +74,8 @@ Weight:
 # Chikorita 
 
 > [!grid]
-> ![[SRD-chikorita-BookSprite.png|wsmall]]
-> ![[SRD-chikorita-HomeSprite.png]]
+> ![[SRD-chikorita-BookSprite.png|wsmall left]]
+> ![[SRD-chikorita-HomeSprite.png|wsmall right]]
 
 *Leaf Pokémon*
 *It is docile and loves to bathe in the sunlight. It waves its leaf around to keep foes at bay. The sweet fragrance from its leaf has a strong calming and relaxing effect on people and Pokémon.*

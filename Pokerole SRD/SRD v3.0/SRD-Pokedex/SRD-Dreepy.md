@@ -65,8 +65,8 @@ Weight:
 # Dreepy 
 
 > [!grid]
-> ![[SRD-dreepy-BookSprite.png|wsmall]]
-> ![[SRD-dreepy-HomeSprite.png]]
+> ![[SRD-dreepy-BookSprite.png|wsmall left]]
+> ![[SRD-dreepy-HomeSprite.png|wsmall right]]
 
 *Lingering Pokémon*
 *After being reborn as a ghost, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas. Alone they do not pose much of a threat but if they gather in packs you'll be in trouble.*

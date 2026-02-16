@@ -74,8 +74,8 @@ Weight:
 # Bouffalant 
 
 > [!grid]
-> ![[SRD-bouffalant-BookSprite.png|wsmall]]
-> ![[SRD-bouffalant-HomeSprite.png]]
+> ![[SRD-bouffalant-BookSprite.png|wsmall left]]
+> ![[SRD-bouffalant-HomeSprite.png|wsmall right]]
 
 *Bash Buffalo Pokémon*
 *They form herds on the coldest plains. They charge and headbutt their foes. The fluffy fur on their heads absorbs damage to their skulls. Years ago, a Bouffalant struck and derailed a train with a bash.*

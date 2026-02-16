@@ -76,8 +76,8 @@ Weight:
 # Finneon 
 
 > [!grid]
-> ![[SRD-finneon-BookSprite.png|wsmall]]
-> ![[SRD-finneon-HomeSprite.png]]
+> ![[SRD-finneon-BookSprite.png|wsmall left]]
+> ![[SRD-finneon-HomeSprite.png|wsmall right]]
 
 *Wing Fish Pokémon*
 *The way its two tail fins flutter while it swims has earned Finneon the nickname 'Beautifly of the Sea.' The line running down its side can store sunlight and glow brightly at night.*

@@ -16,7 +16,7 @@ Description: "The biggest and brightest eyes, spakling with unshed tears, how ca
   \ you say \u201Cno\u201D to that?!"
 Effect: Single Target. Reaction 1. Reduce Target's Strength by 1.
 Name: Baby-Doll Eyes
-Power: '0 '
+Power: 0
 Target: Foe
 Type: Fairy
 ---

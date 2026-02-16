@@ -75,8 +75,8 @@ Weight:
 # Zangoose 
 
 > [!grid]
-> ![[SRD-zangoose-BookSprite.png|wsmall]]
-> ![[SRD-zangoose-HomeSprite.png]]
+> ![[SRD-zangoose-BookSprite.png|wsmall left]]
+> ![[SRD-zangoose-HomeSprite.png|wsmall right]]
 
 *Cat Ferret Pokémon*
 *The sole desire to battle Seviper is embedded in their genes; they have been rivals since forever. Zangoose is a very agile quadruped, standing up on two legs only when it is ready to fight.*

@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: "The red string of fate may never break. If this Pok\xE9mon falls in\
   \ love the foe will fall in love with them in return."
 Image: SRD-destiny-knot-ItemSprite.png

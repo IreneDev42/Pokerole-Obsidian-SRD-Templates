@@ -9,7 +9,7 @@ Attributes:
   AccuracyReduction: -5
   Lethal: true
 Category: Physical
-Damage1: '-'
+Damage1: ''
 Damage2: ''
 Description: "The Pok\xE9mon stabs the target with a spinning horn, drilling through\
   \ them until they are critical condition. Hurry to the nearest Pok\xE9mon Center."

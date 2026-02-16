@@ -79,8 +79,8 @@ Weight:
 # Arcanine 
 
 > [!grid]
-> ![[SRD-arcanine-BookSprite.png|wsmall]]
-> ![[SRD-arcanine-HomeSprite.png]]
+> ![[SRD-arcanine-BookSprite.png|wsmall left]]
+> ![[SRD-arcanine-HomeSprite.png|wsmall right]]
 
 *Legendary Pokémon*
 *Its proud and regal appearance has made it be revered by people of ancient societies. Its magnificent bark conveys a sense of majesty. Anyone in front of Arcanine can't help but stare in awe.*

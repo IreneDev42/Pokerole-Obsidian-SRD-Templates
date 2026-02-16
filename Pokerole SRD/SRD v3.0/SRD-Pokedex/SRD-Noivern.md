@@ -81,8 +81,8 @@ Weight:
 # Noivern 
 
 > [!grid]
-> ![[SRD-noivern-BookSprite.png|wsmall]]
-> ![[SRD-noivern-HomeSprite.png]]
+> ![[SRD-noivern-BookSprite.png|wsmall left]]
+> ![[SRD-noivern-HomeSprite.png|wsmall right]]
 
 *Sound Wave Pokémon*
 *They fly during the new moon and attack careless prey. Nothing can beat them in a battle in the dark. To keep them calm you should feed them fruit or else they’ll release shocking ultrasonic waves.*

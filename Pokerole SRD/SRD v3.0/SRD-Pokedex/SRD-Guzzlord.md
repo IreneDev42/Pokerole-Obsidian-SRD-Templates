@@ -77,8 +77,8 @@ Weight:
 # Guzzlord 
 
 > [!grid]
-> ![[SRD-guzzlord-BookSprite.png|wsmall]]
-> ![[SRD-guzzlord-HomeSprite.png]]
+> ![[SRD-guzzlord-BookSprite.png|wsmall left]]
+> ![[SRD-guzzlord-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #074*
 *One disaster after another. This time we lost an entire facility. UB-05 is a monster, there is no other way to say it. It swallowed documents, vehicles, and even an entire building. There is no end to its hunger.*

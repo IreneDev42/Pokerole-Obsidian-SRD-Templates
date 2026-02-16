@@ -78,8 +78,8 @@ Weight:
 # Amoonguss 
 
 > [!grid]
-> ![[SRD-amoonguss-BookSprite.png|wsmall]]
-> ![[SRD-amoonguss-HomeSprite.png]]
+> ![[SRD-amoonguss-BookSprite.png|wsmall left]]
+> ![[SRD-amoonguss-HomeSprite.png|wsmall right]]
 
 *Mushroom Pokémon*
 *In ancient times, the tip of their caps had two eye-like patterns, and it made a swaying motion to lure prey to itself, but as they became Pokéball-looking, few Pokémon fell for it. It is still very venomous, though.*

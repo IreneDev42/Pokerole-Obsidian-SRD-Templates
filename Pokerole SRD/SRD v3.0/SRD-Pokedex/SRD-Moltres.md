@@ -76,8 +76,8 @@ Weight:
 # Moltres 
 
 > [!grid]
-> ![[SRD-moltres-BookSprite.png|wsmall]]
-> ![[SRD-moltres-HomeSprite.png]]
+> ![[SRD-moltres-BookSprite.png|wsmall left]]
+> ![[SRD-moltres-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The legend speaks of a bird who came flying from the south. Its fiery body melted the snow and brought the spring along. A children's book depicts a similar Pokémon living inside of a volcano.*

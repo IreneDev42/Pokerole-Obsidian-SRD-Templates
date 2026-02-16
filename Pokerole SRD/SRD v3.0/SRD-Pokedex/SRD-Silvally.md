@@ -84,8 +84,8 @@ Weight:
 # Silvally 
 
 > [!grid]
-> ![[SRD-silvally-BookSprite.png|wsmall]]
-> ![[SRD-silvally-HomeSprite.png]]
+> ![[SRD-silvally-BookSprite.png|wsmall left]]
+> ![[SRD-silvally-HomeSprite.png|wsmall right]]
 
 *Synthetic Pokémon*
 *Pokédex has no data. It was seen in the company of a boy. It appears to be a perfected or evolved form of Type: Null. The boy gave it some strange disks that allowed it to change its type.*

@@ -82,8 +82,8 @@ Weight:
 # Keldeo (Resolute Form) 
 
 > [!grid]
-> ![[SRD-keldeo-resolute-form-BookSprite.png|wsmall]]
-> ![[SRD-keldeo-resolute-form-HomeSprite.png]]
+> ![[SRD-keldeo-resolute-form-BookSprite.png|wsmall left]]
+> ![[SRD-keldeo-resolute-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The old fairy tale ends with the youngest Pokémon rising above evil and injustice due to its resolute and determined desire for justice. The mentorship of the other three Pokémon finally bore fruits.*

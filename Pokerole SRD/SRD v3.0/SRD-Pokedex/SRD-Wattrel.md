@@ -73,8 +73,8 @@ Weight:
 # Wattrel 
 
 > [!grid]
-> ![[SRD-wattrel-BookSprite.png|wsmall]]
-> ![[SRD-wattrel-HomeSprite.png]]
+> ![[SRD-wattrel-BookSprite.png|wsmall left]]
+> ![[SRD-wattrel-HomeSprite.png|wsmall right]]
 
 *Storm Petrel Pokémon*
 *They can be seen flying above the ocean. To catch prey they dive into the water and zap their victim. Their body is adapted to withstand fierce storms. For some reason, people eat their nests as gourmet food.*

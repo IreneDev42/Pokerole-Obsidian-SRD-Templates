@@ -76,8 +76,8 @@ Weight:
 # Bastiodon 
 
 > [!grid]
-> ![[SRD-bastiodon-BookSprite.png|wsmall]]
-> ![[SRD-bastiodon-HomeSprite.png]]
+> ![[SRD-bastiodon-BookSprite.png|wsmall left]]
+> ![[SRD-bastiodon-HomeSprite.png|wsmall right]]
 
 *Shield Pokémon*
 *They lived in herds millions of years ago. They would line together to shield their young. Despite its rough and scary exterior, this Pokémon is calm, gentle-natured and a strict herbivore.*

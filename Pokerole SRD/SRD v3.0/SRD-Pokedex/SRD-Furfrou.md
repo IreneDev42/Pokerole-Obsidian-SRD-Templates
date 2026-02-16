@@ -75,8 +75,8 @@ Weight:
 # Furfrou 
 
 > [!grid]
-> ![[SRD-furfrou-BookSprite.png|wsmall]]
-> ![[SRD-furfrou-HomeSprite.png]]
+> ![[SRD-furfrou-BookSprite.png|wsmall left]]
+> ![[SRD-furfrou-HomeSprite.png|wsmall right]]
 
 *Poodle Pokémon*
 *Historically, these Pokémon were the designated guardians of the kings. They are popular pets now and people love to trim their fur into exotic hairstyles. But, their protective nature has never been lost.*

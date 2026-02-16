@@ -63,8 +63,8 @@ Weight:
 # Gimmighoul (Roaming Form) 
 
 > [!grid]
-> ![[SRD-gimmighoul-roaming-form-BookSprite.png|wsmall]]
-> ![[SRD-gimmighoul-roaming-form-HomeSprite.png]]
+> ![[SRD-gimmighoul-roaming-form-BookSprite.png|wsmall left]]
+> ![[SRD-gimmighoul-roaming-form-HomeSprite.png|wsmall right]]
 
 *Coin Hunter Pokémon*
 *A Pokémon born from a coin infused with passion. Carrying that coin on its back, it seeks to return to the treasure chest it once inhabited. It survives by draining the life from humans who try to pick up its coin.*

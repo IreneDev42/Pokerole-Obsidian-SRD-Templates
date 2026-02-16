@@ -77,8 +77,8 @@ Weight:
 # Kabuto 
 
 > [!grid]
-> ![[SRD-kabuto-BookSprite.png|wsmall]]
-> ![[SRD-kabuto-HomeSprite.png]]
+> ![[SRD-kabuto-BookSprite.png|wsmall left]]
+> ![[SRD-kabuto-HomeSprite.png|wsmall right]]
 
 *Shellfish Pokémon*
 *Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living specimens have been found. The Pokémon has not changed at all for 300 million years.*

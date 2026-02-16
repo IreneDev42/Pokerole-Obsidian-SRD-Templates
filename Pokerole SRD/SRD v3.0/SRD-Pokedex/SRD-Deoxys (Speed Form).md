@@ -73,8 +73,8 @@ Weight:
 # Deoxys (Speed Form) 
 
 > [!grid]
-> ![[SRD-deoxys-speed-form-BookSprite.png|wsmall]]
-> ![[SRD-deoxys-speed-form-HomeSprite.png]]
+> ![[SRD-deoxys-speed-form-BookSprite.png|wsmall left]]
+> ![[SRD-deoxys-speed-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The first officer mentioned a slim creature that moved too fast for the radar to register and the eye to see. She saw it for a split second before it supposedly attacked the other end of the ship.*

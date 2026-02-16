@@ -73,8 +73,8 @@ Weight:
 # Tarountula 
 
 > [!grid]
-> ![[SRD-tarountula-BookSprite.png|wsmall]]
-> ![[SRD-tarountula-HomeSprite.png]]
+> ![[SRD-tarountula-BookSprite.png|wsmall left]]
+> ![[SRD-tarountula-HomeSprite.png|wsmall right]]
 
 *String Ball Pokémon*
 *Scyther are their main predators, so they wrap their body in an elastic silk that bounces off any slash attack. This silk is very elastic but also strong as metal wire, making it a very appreciated material.*

@@ -80,8 +80,8 @@ Weight:
 # Raichu (Alolan Form) 
 
 > [!grid]
-> ![[SRD-raichu-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-raichu-alolan-form-HomeSprite.png]]
+> ![[SRD-raichu-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-raichu-alolan-form-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *Scientists were baffled to discover Raichu's evolution in the Alola Region. There is no explanation as to how it gained Psychic abilities, but diet seems to be factor. It loves sweet food and pancakes.*

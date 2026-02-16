@@ -56,8 +56,8 @@ Weight:
 # Calyrex (Shadow Rider Form) 
 
 > [!grid]
-> ![[SRD-calyrex-shadow-rider-form-BookSprite.png|wsmall]]
-> ![[SRD-calyrex-shadow-rider-form-HomeSprite.png]]
+> ![[SRD-calyrex-shadow-rider-form-BookSprite.png|wsmall left]]
+> ![[SRD-calyrex-shadow-rider-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Ancient texts depict the Pokémon King Calyrex I as a warrior no one could oppose when it rode into battle. Yet it was said it healed its enemies' wounds after defeating them in a magnanimous show of mercy.*

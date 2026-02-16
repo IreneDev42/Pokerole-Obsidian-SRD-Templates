@@ -81,8 +81,8 @@ Weight:
 # Darmanitan (Zen Form) 
 
 > [!grid]
-> ![[SRD-darmanitan-zen-form-BookSprite.png|wsmall]]
-> ![[SRD-darmanitan-zen-form-HomeSprite.png]]
+> ![[SRD-darmanitan-zen-form-BookSprite.png|wsmall left]]
+> ![[SRD-darmanitan-zen-form-HomeSprite.png|wsmall right]]
 
 *Blazing Pokémon*
 *Apparently this Darmanitan just became a statue after receiving a lot of damage. It remained immobile, but as soon as its health recovered, it returned to its original state and lost its psychic powers.*

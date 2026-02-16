@@ -74,8 +74,8 @@ Weight:
 # Woobat 
 
 > [!grid]
-> ![[SRD-woobat-BookSprite.png|wsmall]]
-> ![[SRD-woobat-HomeSprite.png]]
+> ![[SRD-woobat-BookSprite.png|wsmall left]]
+> ![[SRD-woobat-HomeSprite.png|wsmall right]]
 
 *Bat Pokémon*
 *It lives in dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings. The two small eyes it has are covered by its own fur. It clings to trees and cave walls to sleep at night.*

@@ -77,8 +77,8 @@ Weight:
 # Durant 
 
 > [!grid]
-> ![[SRD-durant-BookSprite.png|wsmall]]
-> ![[SRD-durant-HomeSprite.png]]
+> ![[SRD-durant-BookSprite.png|wsmall left]]
+> ![[SRD-durant-HomeSprite.png|wsmall right]]
 
 *Iron Ant Pokémon*
 *Durant build complex mazes of tunnels in the mountains. Each colony has hundreds of Durant, all playing different roles in driving Heatmor away from their nest, as it is their only predator.*

@@ -78,8 +78,8 @@ Weight:
 # Zebstrika 
 
 > [!grid]
-> ![[SRD-zebstrika-BookSprite.png|wsmall]]
-> ![[SRD-zebstrika-HomeSprite.png]]
+> ![[SRD-zebstrika-BookSprite.png|wsmall left]]
+> ![[SRD-zebstrika-HomeSprite.png|wsmall right]]
 
 *Thunderbolt Pokémon*
 *It is very ill-tempered and wild; there have been very few cases of it being successfully tamed. It can shoot lightning from its mane in all directions. If you try to mount it without warning, it will shock you.*

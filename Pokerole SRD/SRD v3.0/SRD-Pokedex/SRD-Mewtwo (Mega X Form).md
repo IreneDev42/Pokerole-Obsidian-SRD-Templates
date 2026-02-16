@@ -81,8 +81,8 @@ Weight:
 # Mewtwo (Mega X Form) 
 
 > [!grid]
-> ![[SRD-mewtwo-mega-x-form-BookSprite.png|wsmall]]
-> ![[SRD-mewtwo-mega-x-form-HomeSprite.png]]
+> ![[SRD-mewtwo-mega-x-form-BookSprite.png|wsmall left]]
+> ![[SRD-mewtwo-mega-x-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The power of the Mega Stone was absorbed into its muscles. If it grapples you and its Psychic force does not crack, you its strong arms will.*

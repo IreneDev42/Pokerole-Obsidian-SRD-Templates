@@ -77,8 +77,8 @@ Weight:
 # Bronzor 
 
 > [!grid]
-> ![[SRD-bronzor-BookSprite.png|wsmall]]
-> ![[SRD-bronzor-HomeSprite.png]]
+> ![[SRD-bronzor-BookSprite.png|wsmall left]]
+> ![[SRD-bronzor-HomeSprite.png|wsmall right]]
 
 *Bronze Pokémon*
 *They are found in ancient tombs and temples. Objects shaped like Bronzor have been found within the vaults. Bronzor reflect images like mirrors; people say that this reflection shows the future.*

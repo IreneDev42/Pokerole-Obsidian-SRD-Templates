@@ -82,8 +82,8 @@ Weight:
 # Boltund 
 
 > [!grid]
-> ![[SRD-boltund-BookSprite.png|wsmall]]
-> ![[SRD-boltund-HomeSprite.png]]
+> ![[SRD-boltund-BookSprite.png|wsmall left]]
+> ![[SRD-boltund-HomeSprite.png|wsmall right]]
 
 *Dog Pokémon*
 *It sends electricity through its legs to boost their speed. It easily breaks 50 mph. They get destructive and stressed if you do not take them out to run daily, otherwise they are chill and easygoing Pokémon.*

@@ -75,8 +75,8 @@ Weight:
 # Gastrodon 
 
 > [!grid]
-> ![[SRD-gastrodon-BookSprite.png|wsmall]]
-> ![[SRD-gastrodon-HomeSprite.png]]
+> ![[SRD-gastrodon-BookSprite.png|wsmall left]]
+> ![[SRD-gastrodon-HomeSprite.png|wsmall right]]
 
 *Sea Slug Pokémon*
 *It has a pliable body without any bones. If any part of its body is torn off, it will grow back in minutes. There is evidence that it had a hard shell on its back for protection in prehistoric times.*

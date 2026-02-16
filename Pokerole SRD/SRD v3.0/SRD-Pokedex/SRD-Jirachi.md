@@ -72,8 +72,8 @@ Weight:
 # Jirachi 
 
 > [!grid]
-> ![[SRD-jirachi-BookSprite.png|wsmall]]
-> ![[SRD-jirachi-HomeSprite.png]]
+> ![[SRD-jirachi-BookSprite.png|wsmall left]]
+> ![[SRD-jirachi-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *It is said that every 1000 years, a shooting star appears in the sky for 7 days, granting wishes to those of pure heart. Another common saying is: 'Be careful what you wish for.'*

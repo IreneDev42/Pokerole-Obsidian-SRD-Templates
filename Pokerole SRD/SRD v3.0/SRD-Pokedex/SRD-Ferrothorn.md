@@ -80,8 +80,8 @@ Weight:
 # Ferrothorn 
 
 > [!grid]
-> ![[SRD-ferrothorn-BookSprite.png|wsmall]]
-> ![[SRD-ferrothorn-HomeSprite.png]]
+> ![[SRD-ferrothorn-BookSprite.png|wsmall left]]
+> ![[SRD-ferrothorn-HomeSprite.png|wsmall right]]
 
 *Thorn Pod Pokémon*
 *It attaches itself to cave ceilings by swinging around its spiky feelers. It shoots spikes at targets passing beneath. It is incredibly resilient and stubborn; it will whip you if you try to take its spot in the cave walls.*

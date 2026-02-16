@@ -78,8 +78,8 @@ Weight:
 # Trapinch 
 
 > [!grid]
-> ![[SRD-trapinch-BookSprite.png|wsmall]]
-> ![[SRD-trapinch-HomeSprite.png]]
+> ![[SRD-trapinch-BookSprite.png|wsmall left]]
+> ![[SRD-trapinch-HomeSprite.png|wsmall right]]
 
 *Ant Pit Pokémon*
 *Their nest is like a bowl pit dug in sand. Trapinch wait for prey to tumble down their pit, later to be crushed between this Pokémon's jaws. Beware of them, as their bite can cause serious damage.*

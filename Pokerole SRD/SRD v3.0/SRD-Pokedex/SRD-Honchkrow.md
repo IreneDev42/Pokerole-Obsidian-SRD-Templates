@@ -82,8 +82,8 @@ Weight:
 # Honchkrow 
 
 > [!grid]
-> ![[SRD-honchkrow-BookSprite.png|wsmall]]
-> ![[SRD-honchkrow-HomeSprite.png]]
+> ![[SRD-honchkrow-BookSprite.png|wsmall left]]
+> ![[SRD-honchkrow-HomeSprite.png|wsmall right]]
 
 *Big Boss Pokémon*
 *It lets out a deep cry to summon Murkrow, which fetch food and shiny objects for Honchkrow. It is, however, a tyrant to the Murkrow. It only goes out at night to carry out evil deeds.*

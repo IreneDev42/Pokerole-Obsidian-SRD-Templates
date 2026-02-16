@@ -14,7 +14,7 @@ Effect: The User applies CPR and/or first aid to an unconcious Ally. Target won'
   on the Target once per hour.
 Name: Stabilize An Ally
 Power: 0
-Target: One Ally
+Target: Ally
 Type: Typeless
 ---
 

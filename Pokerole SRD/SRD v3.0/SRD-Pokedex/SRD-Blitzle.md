@@ -74,8 +74,8 @@ Weight:
 # Blitzle 
 
 > [!grid]
-> ![[SRD-blitzle-BookSprite.png|wsmall]]
-> ![[SRD-blitzle-HomeSprite.png]]
+> ![[SRD-blitzle-BookSprite.png|wsmall left]]
+> ![[SRD-blitzle-HomeSprite.png|wsmall right]]
 
 *Electrified Pokémon*
 *When storm clouds cover the plains, you can see them running around chasing the lightning bolts to absorb them with their mane. They form big herds and use the pattern on their skin to confuse predators.*

@@ -73,8 +73,8 @@ Weight:
 # Starly 
 
 > [!grid]
-> ![[SRD-starly-BookSprite.png|wsmall]]
-> ![[SRD-starly-HomeSprite.png]]
+> ![[SRD-starly-BookSprite.png|wsmall left]]
+> ![[SRD-starly-HomeSprite.png|wsmall right]]
 
 *Starling Pokémon*
 *They flock in dozens because they are very weak on their own. They live around mountains and fields, chasing Bug Pokémon. Everyone hates their annoying and strident singing.*

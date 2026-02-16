@@ -85,8 +85,8 @@ Weight:
 # Altaria 
 
 > [!grid]
-> ![[SRD-altaria-BookSprite.png|wsmall]]
-> ![[SRD-altaria-HomeSprite.png]]
+> ![[SRD-altaria-BookSprite.png|wsmall left]]
+> ![[SRD-altaria-HomeSprite.png|wsmall right]]
 
 *Humming Pokémon*
 *Seen as dancing clouds in the sky, Altaria sing melodies in their sweet voices, evoking wonder, beauty, and dreams for the listeners. They live far away from people and throw colorful fireballs at uninvited guests.*

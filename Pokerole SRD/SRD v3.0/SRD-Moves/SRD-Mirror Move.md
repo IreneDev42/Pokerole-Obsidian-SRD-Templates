@@ -6,7 +6,7 @@ Attributes:
   CopyMove: true
   Unique: true
 Category: Support
-Damage1: SameasCopiedMove
+Damage1: SameAsCopiedMove
 Damage2: ''
 Description: "The Pok\xE9mon parrots the target cries and movements. In an almost\
   \ perfect impersonation that manages to copy its powers."

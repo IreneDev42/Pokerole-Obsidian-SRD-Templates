@@ -75,8 +75,8 @@ Weight:
 # Politoed 
 
 > [!grid]
-> ![[SRD-politoed-BookSprite.png|wsmall]]
-> ![[SRD-politoed-HomeSprite.png]]
+> ![[SRD-politoed-BookSprite.png|wsmall left]]
+> ![[SRD-politoed-HomeSprite.png|wsmall right]]
 
 *Frog Pokémon*
 *It lives with Poliwags and Poliwhirls near ponds and lakes, but there's rarely more than one. Politoed is the leader and acts as the king of the group. It is an easy-going but proud Pokémon.*

@@ -83,8 +83,8 @@ Weight:
 # Metagross 
 
 > [!grid]
-> ![[SRD-metagross-BookSprite.png|wsmall]]
-> ![[SRD-metagross-HomeSprite.png]]
+> ![[SRD-metagross-BookSprite.png|wsmall left]]
+> ![[SRD-metagross-HomeSprite.png|wsmall right]]
 
 *Iron Leg Pokémon*
 *It has four powerful brains that allow it to react at the speed of a super computer. It pins its prey under its massive body, then eats it using the large mouth on its stomach. A powerful and ruthless Pokémon.*

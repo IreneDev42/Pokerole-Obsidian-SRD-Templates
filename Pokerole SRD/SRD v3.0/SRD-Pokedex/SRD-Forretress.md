@@ -81,8 +81,8 @@ Weight:
 # Forretress 
 
 > [!grid]
-> ![[SRD-forretress-BookSprite.png|wsmall]]
-> ![[SRD-forretress-HomeSprite.png]]
+> ![[SRD-forretress-BookSprite.png|wsmall left]]
+> ![[SRD-forretress-HomeSprite.png|wsmall right]]
 
 *Bagworm Pokémon*
 *It can be found completely rooted to huge tree trunks. It protects itself and its tree by scattering spiked pieces from its shell and turning its home into a fortress that won't go down without a fight.*

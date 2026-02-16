@@ -79,8 +79,8 @@ Weight:
 # Copperajah 
 
 > [!grid]
-> ![[SRD-copperajah-BookSprite.png|wsmall]]
-> ![[SRD-copperajah-HomeSprite.png]]
+> ![[SRD-copperajah-BookSprite.png|wsmall left]]
+> ![[SRD-copperajah-HomeSprite.png|wsmall right]]
 
 *Copperderm Pokémon*
 *They originally came from another region. Since long ago they've worked together with humans, helping them pave new roads and build cities. They are usually calm and love spending time with their families.*

@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: 'A magical orb that casts a small fire. Warning: keep away from children
   & pets. User gets a 1st degree burn when they come out.'
 Image: SRD-flame-orb-ItemSprite.png

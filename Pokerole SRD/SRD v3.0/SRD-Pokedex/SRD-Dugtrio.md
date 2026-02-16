@@ -79,8 +79,8 @@ Weight:
 # Dugtrio 
 
 > [!grid]
-> ![[SRD-dugtrio-BookSprite.png|wsmall]]
-> ![[SRD-dugtrio-HomeSprite.png]]
+> ![[SRD-dugtrio-BookSprite.png|wsmall left]]
+> ![[SRD-dugtrio-HomeSprite.png|wsmall right]]
 
 *Mole Pokémon*
 *Because the triplets originally split from one body, they think exactly alike. They work together to dig endlessly through the ground. They are known for destroying the foundations of roads and buildings.*

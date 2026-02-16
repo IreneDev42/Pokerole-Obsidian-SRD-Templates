@@ -80,8 +80,8 @@ Weight:
 # Persian (Alolan Form) 
 
 > [!grid]
-> ![[SRD-persian-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-persian-alolan-form-HomeSprite.png]]
+> ![[SRD-persian-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-persian-alolan-form-HomeSprite.png|wsmall right]]
 
 *Classy Cat Pokémon*
 *They were bred for their silky fur and round faces, not for their temperament. This is an extremely proud Pokémon who will look down on anyone but itself; despite this, it's very popular among Alola's elite.*

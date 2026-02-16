@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: "An amulet of protection against evil. Attributes and traits of the user\
   \ can't be lowered by other Pok\xE9mon."
 Image: SRD-clear-amulet-ItemSprite.png

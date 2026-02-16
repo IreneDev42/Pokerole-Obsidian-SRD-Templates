@@ -76,8 +76,8 @@ Weight:
 # Oranguru 
 
 > [!grid]
-> ![[SRD-oranguru-BookSprite.png|wsmall]]
-> ![[SRD-oranguru-HomeSprite.png]]
+> ![[SRD-oranguru-BookSprite.png|wsmall left]]
+> ![[SRD-oranguru-HomeSprite.png|wsmall right]]
 
 *Sage Pokémon*
 *This solitary Pokémon lives deep in the forests where it provides food and herbal medicine to those in need. It is incredibly smart, even learning how to use Pokéballs. For that reason it dislikes being ordered around.*

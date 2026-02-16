@@ -74,8 +74,8 @@ Weight:
 # Klawf 
 
 > [!grid]
-> ![[SRD-klawf-BookSprite.png|wsmall]]
-> ![[SRD-klawf-HomeSprite.png]]
+> ![[SRD-klawf-BookSprite.png|wsmall left]]
+> ![[SRD-klawf-HomeSprite.png|wsmall right]]
 
 *Ambush Pokémon*
 *They hang upside-down from cliffs near the shores, waiting for an unsuspecting prey to come closer, then they lunge to attack with their powerful claws. Their side-step is almost silent: they are very stealthy.*

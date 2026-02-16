@@ -75,8 +75,8 @@ Weight:
 # Morelull 
 
 > [!grid]
-> ![[SRD-morelull-BookSprite.png|wsmall]]
-> ![[SRD-morelull-HomeSprite.png]]
+> ![[SRD-morelull-BookSprite.png|wsmall left]]
+> ![[SRD-morelull-HomeSprite.png|wsmall right]]
 
 *Illuminating Pokémon*
 *Morelull are nocturnal Pokémon whose headbulbs emit a faint glow. They root into a tree and use its nutrients to power their light, when the tree is all dried up they are ready to evolve.*

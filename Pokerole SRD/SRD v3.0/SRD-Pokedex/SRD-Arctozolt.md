@@ -72,8 +72,8 @@ Weight:
 # Arctozolt 
 
 > [!grid]
-> ![[SRD-arctozolt-BookSprite.png|wsmall]]
-> ![[SRD-arctozolt-HomeSprite.png]]
+> ![[SRD-arctozolt-BookSprite.png|wsmall left]]
+> ![[SRD-arctozolt-HomeSprite.png|wsmall right]]
 
 *Fossil Pokémon*
 *This DNA hybrid has a hard time walking around. The bottom part is from a Pokémon from an arctic region and the upper lived in warm jungles. Poor thing is always shivering and sneezing without control.*

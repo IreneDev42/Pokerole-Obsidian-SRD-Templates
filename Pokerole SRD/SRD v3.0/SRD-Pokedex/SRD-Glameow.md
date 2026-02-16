@@ -77,8 +77,8 @@ Weight:
 # Glameow 
 
 > [!grid]
-> ![[SRD-glameow-BookSprite.png|wsmall]]
-> ![[SRD-glameow-HomeSprite.png]]
+> ![[SRD-glameow-BookSprite.png|wsmall left]]
+> ![[SRD-glameow-HomeSprite.png|wsmall right]]
 
 *Catty Pokémon*
 *It is plentiful in urban areas, as it is a popular pet. It has a very fickle nature, purring in happiness one second, then hooking its claws into its trainer's nose the next. It loves to be admired and pampered.*

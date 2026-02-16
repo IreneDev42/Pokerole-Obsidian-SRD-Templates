@@ -75,8 +75,8 @@ Weight:
 # Starmie 
 
 > [!grid]
-> ![[SRD-starmie-BookSprite.png|wsmall]]
-> ![[SRD-starmie-HomeSprite.png]]
+> ![[SRD-starmie-BookSprite.png|wsmall left]]
+> ![[SRD-starmie-HomeSprite.png|wsmall right]]
 
 *Mysterious Pokémon*
 *This Pokémon has been given the nickname 'the gem of the sea.' It swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center glows with different colors.*

@@ -80,8 +80,8 @@ Weight:
 # Gabite 
 
 > [!grid]
-> ![[SRD-gabite-BookSprite.png|wsmall]]
-> ![[SRD-gabite-HomeSprite.png]]
+> ![[SRD-gabite-BookSprite.png|wsmall left]]
+> ![[SRD-gabite-HomeSprite.png|wsmall right]]
 
 *Cave Pokémon*
 *It hoards a small treasure of sparkly things inside of a cave. It will react aggressively towards any potential thief. It is also an excellent hunter, capable of running, swimming and gliding extremely fast.*

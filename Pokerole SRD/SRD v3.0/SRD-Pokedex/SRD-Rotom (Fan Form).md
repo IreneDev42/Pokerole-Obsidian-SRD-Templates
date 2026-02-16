@@ -77,8 +77,8 @@ Weight:
 # Rotom (Fan Form) 
 
 > [!grid]
-> ![[SRD-rotom-fan-form-BookSprite.png|wsmall]]
-> ![[SRD-rotom-fan-form-HomeSprite.png]]
+> ![[SRD-rotom-fan-form-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-fan-form-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *A desk fan possessed by a Rotom. It uses Flying powers and scatters everything around with terrible air currents. While in this form it can use the move 'Air Slash'.*

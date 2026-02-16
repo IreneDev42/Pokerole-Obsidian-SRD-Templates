@@ -80,8 +80,8 @@ Weight:
 # Pawmo 
 
 > [!grid]
-> ![[SRD-pawmo-BookSprite.png|wsmall]]
-> ![[SRD-pawmo-HomeSprite.png]]
+> ![[SRD-pawmo-BookSprite.png|wsmall left]]
+> ![[SRD-pawmo-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *Pawmo are incredibly brave for their size, and will jump to protect the smaller ones of their pack against much bigger enemies. They combine their electric attacks with brute force; they're stronger than they seem.*

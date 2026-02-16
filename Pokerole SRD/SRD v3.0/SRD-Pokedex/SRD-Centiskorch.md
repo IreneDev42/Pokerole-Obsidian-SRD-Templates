@@ -79,8 +79,8 @@ Weight:
 # Centiskorch 
 
 > [!grid]
-> ![[SRD-centiskorch-BookSprite.png|wsmall]]
-> ![[SRD-centiskorch-HomeSprite.png]]
+> ![[SRD-centiskorch-BookSprite.png|wsmall left]]
+> ![[SRD-centiskorch-HomeSprite.png|wsmall right]]
 
 *Radiator Pokémon*
 *It lashes its body like a whip and launches itself at enemies. While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.*

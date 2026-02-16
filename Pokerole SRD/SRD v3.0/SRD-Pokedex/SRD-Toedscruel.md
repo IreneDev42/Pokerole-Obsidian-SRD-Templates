@@ -80,8 +80,8 @@ Weight:
 # Toedscruel 
 
 > [!grid]
-> ![[SRD-toedscruel-BookSprite.png|wsmall]]
-> ![[SRD-toedscruel-HomeSprite.png]]
+> ![[SRD-toedscruel-BookSprite.png|wsmall left]]
+> ![[SRD-toedscruel-HomeSprite.png|wsmall right]]
 
 *Woodear Pokémon*
 *They form colonies very deep in the forests, sticking into trees for nourishment. However, they are territorial and will engulf any stranger inside their tentacles and sap their nutrients in a very painful way.*

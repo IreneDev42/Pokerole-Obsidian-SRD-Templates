@@ -77,8 +77,8 @@ Weight:
 # Plusle 
 
 > [!grid]
-> ![[SRD-plusle-BookSprite.png|wsmall]]
-> ![[SRD-plusle-HomeSprite.png]]
+> ![[SRD-plusle-BookSprite.png|wsmall left]]
+> ![[SRD-plusle-HomeSprite.png|wsmall right]]
 
 *Cheering Pokémon*
 *They are often seen cheerleading their friends. When someone they like does a great job, they shower the field with sparks, but when they lose, Plusles cry loudly. This Pokémon drains power from telephone poles.*

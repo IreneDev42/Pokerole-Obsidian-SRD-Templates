@@ -77,8 +77,8 @@ Weight:
 # Bidoof 
 
 > [!grid]
-> ![[SRD-bidoof-BookSprite.png|wsmall]]
-> ![[SRD-bidoof-HomeSprite.png]]
+> ![[SRD-bidoof-BookSprite.png|wsmall left]]
+> ![[SRD-bidoof-HomeSprite.png|wsmall right]]
 
 *Plump Mouse Pokémon*
 *Steady as a mountain, Bidoof has nerves of steel so nothing can disturb its focus. It is agile, active, and a great team worker. They live in huge packs alongside rivers; the dams they build are incredibly sturdy.*

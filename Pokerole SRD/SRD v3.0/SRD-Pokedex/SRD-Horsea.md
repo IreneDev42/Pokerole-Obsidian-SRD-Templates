@@ -74,8 +74,8 @@ Weight:
 # Horsea 
 
 > [!grid]
-> ![[SRD-horsea-BookSprite.png|wsmall]]
-> ![[SRD-horsea-HomeSprite.png]]
+> ![[SRD-horsea-BookSprite.png|wsmall left]]
+> ![[SRD-horsea-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *It makes its nest in the shade of corals in shallow parts of the sea. If it senses danger, it spits a murky ink and flees. It has been seen shooting down flying bugs to eat them.*

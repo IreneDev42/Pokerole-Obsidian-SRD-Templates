@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: Deal 1 Damage to the user at the end of the Round. If hit with a Non-Ranged
   Physical Move, transfer the sticky Barb.
 Image: SRD-sticky-barb-ItemSprite.png

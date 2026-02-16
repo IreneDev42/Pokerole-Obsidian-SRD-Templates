@@ -8,7 +8,7 @@ OneUse: true
 PMD: false
 Pocket: Pokeballs
 Source: Core 3.0
-TrainerPrice: Not For Sale
+TrainerPrice: Not for Sale
 ---
 
 #PokeroleSRD/Items

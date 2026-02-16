@@ -88,8 +88,8 @@ Weight:
 # Rockruff 
 
 > [!grid]
-> ![[SRD-rockruff-BookSprite.png|wsmall]]
-> ![[SRD-rockruff-HomeSprite.png]]
+> ![[SRD-rockruff-BookSprite.png|wsmall left]]
+> ![[SRD-rockruff-HomeSprite.png|wsmall right]]
 
 *Puppy Pokémon*
 *Rockruff are very social and friendly. Their keen sense of smell allows them to find their trainers easily. However, as they age they become wilder and rebellious. Do not let them roam alone at night.*

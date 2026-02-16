@@ -72,8 +72,8 @@ Weight:
 # Cramorant (Gorging Form) 
 
 > [!grid]
-> ![[SRD-cramorant-gorging-form-BookSprite.png|wsmall]]
-> ![[SRD-cramorant-gorging-form-HomeSprite.png]]
+> ![[SRD-cramorant-gorging-form-BookSprite.png|wsmall left]]
+> ![[SRD-cramorant-gorging-form-HomeSprite.png|wsmall right]]
 
 *Gulp Pokémon*
 *Cramorant's Gorging Form. Somehow it caught a Pikachu after diving. Can use the Move Thunderbolt.*

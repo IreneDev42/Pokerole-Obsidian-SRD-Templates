@@ -74,8 +74,8 @@ Weight:
 # Cetoddle 
 
 > [!grid]
-> ![[SRD-cetoddle-BookSprite.png|wsmall]]
-> ![[SRD-cetoddle-HomeSprite.png]]
+> ![[SRD-cetoddle-BookSprite.png|wsmall left]]
+> ![[SRD-cetoddle-HomeSprite.png|wsmall right]]
 
 *Terra Whale Pokémon*
 *Recent studies show they are close cousins to Wailmer. Unlike their sea relatives, the Cetoddle line started dwelling on land a long time ago. Frigid regions became the perfect habitat for these playful Pokémon.*

@@ -77,8 +77,8 @@ Weight:
 # Krabby 
 
 > [!grid]
-> ![[SRD-krabby-BookSprite.png|wsmall]]
-> ![[SRD-krabby-HomeSprite.png]]
+> ![[SRD-krabby-BookSprite.png|wsmall left]]
+> ![[SRD-krabby-HomeSprite.png|wsmall right]]
 
 *River Crab Pokémon*
 *Krabby dig holes in the sand near the sea. They can be seen squabbling with each other over food and territory. They usually avoid humans, but will fight if provoked.*

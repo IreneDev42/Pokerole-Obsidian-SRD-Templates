@@ -77,8 +77,8 @@ Weight:
 # Swablu 
 
 > [!grid]
-> ![[SRD-swablu-BookSprite.png|wsmall]]
-> ![[SRD-swablu-HomeSprite.png]]
+> ![[SRD-swablu-BookSprite.png|wsmall left]]
+> ![[SRD-swablu-HomeSprite.png|wsmall right]]
 
 *Cotton Bird Pokémon*
 *Their wings are made of cotton clouds. They are friendly creatures that love to be near humans, usually sitting on their heads as cotton hats. They travel in flocks and live near towns during the spring.*

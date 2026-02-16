@@ -80,8 +80,8 @@ Weight:
 # Chandelure 
 
 > [!grid]
-> ![[SRD-chandelure-BookSprite.png|wsmall]]
-> ![[SRD-chandelure-HomeSprite.png]]
+> ![[SRD-chandelure-BookSprite.png|wsmall left]]
+> ![[SRD-chandelure-HomeSprite.png|wsmall right]]
 
 *Luring Pokémon*
 *It consumes the spirits of the living, puts people in a hypnotic trance, and consumes them with fire. Being consumed in Chandelure's flame burns up the spirit, leaving only an empty body behind.*

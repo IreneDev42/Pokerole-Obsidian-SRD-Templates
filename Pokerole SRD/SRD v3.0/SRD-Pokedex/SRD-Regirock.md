@@ -71,8 +71,8 @@ Weight:
 # Regirock 
 
 > [!grid]
-> ![[SRD-regirock-BookSprite.png|wsmall]]
-> ![[SRD-regirock-HomeSprite.png]]
+> ![[SRD-regirock-BookSprite.png|wsmall left]]
+> ![[SRD-regirock-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *It is said to be an immortal being the size of the peak of a mountain. Could it be a remnant from the most ancient times of this world?*

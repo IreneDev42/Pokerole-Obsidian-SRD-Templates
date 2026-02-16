@@ -80,8 +80,8 @@ Weight:
 # Alcremie 
 
 > [!grid]
-> ![[SRD-alcremie-BookSprite.png|wsmall]]
-> ![[SRD-alcremie-HomeSprite.png]]
+> ![[SRD-alcremie-BookSprite.png|wsmall left]]
+> ![[SRD-alcremie-HomeSprite.png|wsmall right]]
 
 *Cream Pokémon*
 *There is a vast number of recipes to evolve an Alcremie, changing their color and flavor; some are sweet, some are sour, but they are all delicious. Cakes baked with its help can be sold for a lot of money.*

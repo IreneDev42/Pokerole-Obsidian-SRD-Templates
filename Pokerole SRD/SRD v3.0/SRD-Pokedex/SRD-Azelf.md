@@ -52,8 +52,8 @@ Weight:
 # Azelf 
 
 > [!grid]
-> ![[SRD-azelf-BookSprite.png|wsmall]]
-> ![[SRD-azelf-HomeSprite.png]]
+> ![[SRD-azelf-BookSprite.png|wsmall left]]
+> ![[SRD-azelf-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *The myth talks about three creatures being born from one of Arceus' eggs. The blue one was the being who granted humanity with willpower. It could remove its enemies' will to carry on, leaving them to wither.*

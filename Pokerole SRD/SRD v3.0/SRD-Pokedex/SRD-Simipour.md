@@ -80,8 +80,8 @@ Weight:
 # Simipour 
 
 > [!grid]
-> ![[SRD-simipour-BookSprite.png|wsmall]]
-> ![[SRD-simipour-HomeSprite.png]]
+> ![[SRD-simipour-BookSprite.png|wsmall left]]
+> ![[SRD-simipour-HomeSprite.png|wsmall right]]
 
 *Geyser Pokémon*
 *It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning water up with its tail. It is said that if you see a Simipour swimming in a pond, the water is safe to drink.*

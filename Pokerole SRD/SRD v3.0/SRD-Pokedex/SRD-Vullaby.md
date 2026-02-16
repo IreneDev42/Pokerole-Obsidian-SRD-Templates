@@ -78,8 +78,8 @@ Weight:
 # Vullaby 
 
 > [!grid]
-> ![[SRD-vullaby-BookSprite.png|wsmall]]
-> ![[SRD-vullaby-HomeSprite.png]]
+> ![[SRD-vullaby-BookSprite.png|wsmall left]]
+> ![[SRD-vullaby-HomeSprite.png|wsmall right]]
 
 *Diapered Pokémon*
 *This is a female-only species. They stay with their Mandibuzz mothers from birth until they can finally fly. They feed on the carrion meat the mothers bring back to the nest and keep the bones to make accessories.*

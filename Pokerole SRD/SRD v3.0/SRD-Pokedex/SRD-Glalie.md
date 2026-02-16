@@ -80,8 +80,8 @@ Weight:
 # Glalie 
 
 > [!grid]
-> ![[SRD-glalie-BookSprite.png|wsmall]]
-> ![[SRD-glalie-HomeSprite.png]]
+> ![[SRD-glalie-BookSprite.png|wsmall left]]
+> ![[SRD-glalie-HomeSprite.png|wsmall right]]
 
 *Face Pokémon*
 *Its body is so hard it was thought to be made of rock. They can be aggressive if provoked. When they hunt, they freeze their prey solid before eating it. They can live in warm places without trouble.*

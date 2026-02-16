@@ -81,8 +81,8 @@ Weight:
 # Crocalor 
 
 > [!grid]
-> ![[SRD-crocalor-BookSprite.png|wsmall]]
-> ![[SRD-crocalor-HomeSprite.png]]
+> ![[SRD-crocalor-BookSprite.png|wsmall left]]
+> ![[SRD-crocalor-HomeSprite.png|wsmall right]]
 
 *Fire Croc Pokemon*
 *Shortly after it evolves, the excess fire energy it has creates an egg- shaped fireball on top of its head. They have a poor control of their flames so they end up scattering embers all over the place.*

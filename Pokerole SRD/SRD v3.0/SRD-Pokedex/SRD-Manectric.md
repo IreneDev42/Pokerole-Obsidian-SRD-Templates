@@ -79,8 +79,8 @@ Weight:
 # Manectric 
 
 > [!grid]
-> ![[SRD-manectric-BookSprite.png|wsmall]]
-> ![[SRD-manectric-HomeSprite.png]]
+> ![[SRD-manectric-BookSprite.png|wsmall left]]
+> ![[SRD-manectric-HomeSprite.png|wsmall right]]
 
 *Discharge Pokémon*
 *Their manes are constantly releasing dangerous sparks that often end up in forest fires. When they get in battle, thunderclouds show up with them. They are extremely rare to see in the wild.*

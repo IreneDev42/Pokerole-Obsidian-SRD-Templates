@@ -70,8 +70,8 @@ Weight:
 # Igglybuff 
 
 > [!grid]
-> ![[SRD-igglybuff-BookSprite.png|wsmall]]
-> ![[SRD-igglybuff-HomeSprite.png]]
+> ![[SRD-igglybuff-BookSprite.png|wsmall left]]
+> ![[SRD-igglybuff-HomeSprite.png|wsmall right]]
 
 *Balloon Pokémon*
 *It has a very light body that makes it float and bounce. If you are not careful, it can bounce away without control. After being bottle-fed, it will not bounce but wiggle around. It gets cranky if it doesn't take a nap.*

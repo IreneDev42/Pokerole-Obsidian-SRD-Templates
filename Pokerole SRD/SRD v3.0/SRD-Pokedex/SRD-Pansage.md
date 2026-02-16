@@ -76,8 +76,8 @@ Weight:
 # Pansage 
 
 > [!grid]
-> ![[SRD-pansage-BookSprite.png|wsmall]]
-> ![[SRD-pansage-HomeSprite.png]]
+> ![[SRD-pansage-BookSprite.png|wsmall left]]
+> ![[SRD-pansage-HomeSprite.png|wsmall right]]
 
 *Grass Monkey Pokémon*
 *Pansage is a friendly Pokémon. It is good at finding berries and will share them with other Pokémon. The leaves on its head have medicinal properties; if it finds a sick Pokémon, it will offer some to heal it.*

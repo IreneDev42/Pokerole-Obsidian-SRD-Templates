@@ -66,8 +66,8 @@ Weight:
 # Combee 
 
 > [!grid]
-> ![[SRD-combee-BookSprite.png|wsmall]]
-> ![[SRD-combee-HomeSprite.png]]
+> ![[SRD-combee-BookSprite.png|wsmall left]]
+> ![[SRD-combee-HomeSprite.png|wsmall right]]
 
 *Tiny Bee Pokémon*
 *It forms hives around trees. It flies all day sipping the nectar from flowers to make honey. It is usually born a male. If a female is born, it will grow into a Vespiquen and start its own hive.*

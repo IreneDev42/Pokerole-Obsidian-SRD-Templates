@@ -82,8 +82,8 @@ Weight:
 # Krokorok 
 
 > [!grid]
-> ![[SRD-krokorok-BookSprite.png|wsmall]]
-> ![[SRD-krokorok-HomeSprite.png]]
+> ![[SRD-krokorok-BookSprite.png|wsmall left]]
+> ![[SRD-krokorok-HomeSprite.png|wsmall right]]
 
 *Desert Croc Pokémon*
 *The protective membranes shield their eyes from sandstorms and allow them to see in the dark. They can be aggressive and territorial and love to destroy things with their fangs.*

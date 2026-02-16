@@ -87,8 +87,8 @@ Weight:
 # Medicham 
 
 > [!grid]
-> ![[SRD-medicham-BookSprite.png|wsmall]]
-> ![[SRD-medicham-HomeSprite.png]]
+> ![[SRD-medicham-BookSprite.png|wsmall left]]
+> ![[SRD-medicham-HomeSprite.png|wsmall right]]
 
 *Meditate Pokémon*
 *They are thought to posses a sixth sense. Some of them can hide their presence by lowering their ki. Medicham fight with expert yoga moves, foretelling their foe's attacks and sensing their thoughts.*

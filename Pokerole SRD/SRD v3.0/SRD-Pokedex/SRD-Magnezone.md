@@ -81,8 +81,8 @@ Weight:
 # Magnezone 
 
 > [!grid]
-> ![[SRD-magnezone-BookSprite.png|wsmall]]
-> ![[SRD-magnezone-HomeSprite.png]]
+> ![[SRD-magnezone-BookSprite.png|wsmall left]]
+> ![[SRD-magnezone-HomeSprite.png|wsmall right]]
 
 *Magnet Area Pokémon*
 *Magneton only evolves in very specific areas of the globe. It has the ability to repel itself from the ground using magnetism. If it is nervous, it pulls all the pieces of metal around it until it relaxes.*

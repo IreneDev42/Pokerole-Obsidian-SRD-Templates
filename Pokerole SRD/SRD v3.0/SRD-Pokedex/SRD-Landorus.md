@@ -76,8 +76,8 @@ Weight:
 # Landorus 
 
 > [!grid]
-> ![[SRD-landorus-BookSprite.png|wsmall]]
-> ![[SRD-landorus-HomeSprite.png]]
+> ![[SRD-landorus-BookSprite.png|wsmall left]]
+> ![[SRD-landorus-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Earthquakes and landslides raze Unova with frequency, but the places that suffer them are left with a plentiful harvest that year. The mythical 'land ravager' is both feared and revered.*

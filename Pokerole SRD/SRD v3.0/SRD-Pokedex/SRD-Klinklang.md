@@ -79,8 +79,8 @@ Weight:
 # Klinklang 
 
 > [!grid]
-> ![[SRD-klinklang-BookSprite.png|wsmall]]
-> ![[SRD-klinklang-HomeSprite.png]]
+> ![[SRD-klinklang-BookSprite.png|wsmall left]]
+> ![[SRD-klinklang-HomeSprite.png|wsmall right]]
 
 *Gear Pokémon*
 *The gear with the red core rotates at high speed for a quick energy charge. The mini-gears shoot rays through the spikes around it. This inorganic Pokémon will trap and crush foes between its gears.*

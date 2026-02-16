@@ -69,8 +69,8 @@ Weight:
 # Happiny 
 
 > [!grid]
-> ![[SRD-happiny-BookSprite.png|wsmall]]
-> ![[SRD-happiny-HomeSprite.png]]
+> ![[SRD-happiny-BookSprite.png|wsmall left]]
+> ![[SRD-happiny-HomeSprite.png|wsmall right]]
 
 *Playhouse Pokémon*
 *It is not common to see Happiny. This baby Pokémon cannot produce eggs yet, so it searches for white stones and carries them in its pouch. They like to look pretty and always try to act adorable.*

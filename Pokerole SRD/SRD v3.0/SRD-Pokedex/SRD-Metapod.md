@@ -65,8 +65,8 @@ Weight:
 # Metapod 
 
 > [!grid]
-> ![[SRD-metapod-BookSprite.png|wsmall]]
-> ![[SRD-metapod-HomeSprite.png]]
+> ![[SRD-metapod-BookSprite.png|wsmall left]]
+> ![[SRD-metapod-HomeSprite.png|wsmall right]]
 
 *Cocoon Pokémon*
 *Its shell can be as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside its shell. It is known as one of the fastest-evolving Pokémon in the world.*

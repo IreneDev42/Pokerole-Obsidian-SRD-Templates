@@ -85,8 +85,8 @@ Weight:
 # Marshtomp 
 
 > [!grid]
-> ![[SRD-marshtomp-BookSprite.png|wsmall]]
-> ![[SRD-marshtomp-HomeSprite.png]]
+> ![[SRD-marshtomp-BookSprite.png|wsmall left]]
+> ![[SRD-marshtomp-HomeSprite.png|wsmall right]]
 
 *Mud Fish Pokémon*
 *A sticky film allows them to live out of water. They are seen playing in the mud at beaches to rehydrate their dry bodies. They are slow runners and swimmers but they can be fast sliding through the mud.*

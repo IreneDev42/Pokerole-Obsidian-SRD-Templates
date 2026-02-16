@@ -88,8 +88,8 @@ Weight:
 # Clefairy 
 
 > [!grid]
-> ![[SRD-clefairy-BookSprite.png|wsmall]]
-> ![[SRD-clefairy-HomeSprite.png]]
+> ![[SRD-clefairy-BookSprite.png|wsmall left]]
+> ![[SRD-clefairy-HomeSprite.png|wsmall right]]
 
 *Fairy Pokémon*
 *Very rare to find. Clefairy are said to come from the moon. They are drawn to the light of this celestial body and come out of hiding at night to dance and play under the starry sky.*

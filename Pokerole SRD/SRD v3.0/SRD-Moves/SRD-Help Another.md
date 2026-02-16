@@ -15,7 +15,7 @@ Effect: Target One Ally. Reaction 1. Roll your Accuracy as if it were Chance dic
   be added this way.
 Name: Help Another
 Power: 0
-Target: One Ally
+Target: Ally
 Type: Typeless
 ---
 

@@ -72,8 +72,8 @@ Weight:
 # Farfetch'd 
 
 > [!grid]
-> ![[SRD-farfetchd-BookSprite.png|wsmall]]
-> ![[SRD-farfetchd-HomeSprite.png]]
+> ![[SRD-farfetchd-BookSprite.png|wsmall left]]
+> ![[SRD-farfetchd-HomeSprite.png|wsmall right]]
 
 *Wild Duck Pokémon*
 *There used to be whole flocks of them in the meadows near a lake. Now they are almost extinct due to their meat being delicious. They carry stalks of leek or celery, which is convenient for a roast.*

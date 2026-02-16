@@ -75,8 +75,8 @@ Weight:
 # Virizion 
 
 > [!grid]
-> ![[SRD-virizion-BookSprite.png|wsmall]]
-> ![[SRD-virizion-HomeSprite.png]]
+> ![[SRD-virizion-BookSprite.png|wsmall left]]
+> ![[SRD-virizion-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *An old tale in Unova mentions four Pokémon that fought against an evil army. The most beautiful of them was also the most swift and graceful. In combat, it created an army of trees that won the battle.*

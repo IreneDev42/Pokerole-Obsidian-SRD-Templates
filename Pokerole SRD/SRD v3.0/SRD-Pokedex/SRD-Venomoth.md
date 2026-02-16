@@ -80,8 +80,8 @@ Weight:
 # Venomoth 
 
 > [!grid]
-> ![[SRD-venomoth-BookSprite.png|wsmall]]
-> ![[SRD-venomoth-HomeSprite.png]]
+> ![[SRD-venomoth-BookSprite.png|wsmall left]]
+> ![[SRD-venomoth-HomeSprite.png|wsmall right]]
 
 *Poison Moth Pokémon*
 *They are plentiful in forests but only come out at night. They possess an incredible eyesight and are attracted to light sources. Their wings scatter a toxic powder which they use to immobilize their prey.*

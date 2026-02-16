@@ -74,8 +74,8 @@ Weight:
 # Klink 
 
 > [!grid]
-> ![[SRD-klink-BookSprite.png|wsmall]]
-> ![[SRD-klink-HomeSprite.png]]
+> ![[SRD-klink-BookSprite.png|wsmall left]]
+> ![[SRD-klink-HomeSprite.png|wsmall right]]
 
 *Gear Pokémon*
 *These two strange Pokémon are merged into one. Interlocking their bodies and spinning around will generate the energy they need to live. Their only way to communicate is through their eyes.*

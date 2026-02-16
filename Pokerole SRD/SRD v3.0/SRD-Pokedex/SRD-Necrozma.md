@@ -85,8 +85,8 @@ Weight:
 # Necrozma 
 
 > [!grid]
-> ![[SRD-necrozma-BookSprite.png|wsmall]]
-> ![[SRD-necrozma-HomeSprite.png]]
+> ![[SRD-necrozma-BookSprite.png|wsmall left]]
+> ![[SRD-necrozma-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #179*
 *First it was just a passing shadow, a shady lurker on the other side of the abyss, but then today it made an appearance. The creature attached itself to our light sources, depleting them until it was all in darkness.*

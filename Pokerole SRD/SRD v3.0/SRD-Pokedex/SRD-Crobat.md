@@ -80,8 +80,8 @@ Weight:
 # Crobat 
 
 > [!grid]
-> ![[SRD-crobat-BookSprite.png|wsmall]]
-> ![[SRD-crobat-HomeSprite.png]]
+> ![[SRD-crobat-BookSprite.png|wsmall left]]
+> ![[SRD-crobat-HomeSprite.png|wsmall right]]
 
 *Bat Pokémon*
 *Very rare in the wild. People have called it a vampire. It sneaks up on its intended prey using wings that barely make a sound. Crobat is a surprisingly loyal companion, and playful despite its appearance.*

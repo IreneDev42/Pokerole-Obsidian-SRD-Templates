@@ -75,8 +75,8 @@ Weight:
 # Charmander 
 
 > [!grid]
-> ![[SRD-charmander-BookSprite.png|wsmall]]
-> ![[SRD-charmander-HomeSprite.png]]
+> ![[SRD-charmander-BookSprite.png|wsmall left]]
+> ![[SRD-charmander-HomeSprite.png|wsmall right]]
 
 *Lizard Pokémon*
 *A rare Pokémon. The flame on its tail is an indicator of its feelings and life force. If it is healthy and happy, the flame burns brightly. It needs proper care and discipline or else it may rebel later on.*

@@ -50,8 +50,8 @@ Weight:
 # Arceus 
 
 > [!grid]
-> ![[SRD-arceus-BookSprite.png|wsmall]]
-> ![[SRD-arceus-HomeSprite.png]]
+> ![[SRD-arceus-BookSprite.png|wsmall left]]
+> ![[SRD-arceus-HomeSprite.png|wsmall right]]
 
 *Plot Device*
 *Plot Device*

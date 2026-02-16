@@ -71,8 +71,8 @@ Weight:
 # Cyclizar 
 
 > [!grid]
-> ![[SRD-cyclizar-BookSprite.png|wsmall]]
-> ![[SRD-cyclizar-HomeSprite.png]]
+> ![[SRD-cyclizar-BookSprite.png|wsmall left]]
+> ![[SRD-cyclizar-HomeSprite.png|wsmall right]]
 
 *Mount Pokémon*
 *There are old murals depicting their use as a mount. It is believed they allowed humans to ride them due to being cold-blooded: humans served as a source of heat. They can go over 70 mph (112 kph).*

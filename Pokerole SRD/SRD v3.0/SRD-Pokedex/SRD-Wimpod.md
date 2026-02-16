@@ -62,8 +62,8 @@ Weight:
 # Wimpod 
 
 > [!grid]
-> ![[SRD-wimpod-BookSprite.png|wsmall]]
-> ![[SRD-wimpod-HomeSprite.png]]
+> ![[SRD-wimpod-BookSprite.png|wsmall left]]
+> ![[SRD-wimpod-HomeSprite.png|wsmall right]]
 
 *Turn Tail Pokémon*
 *They are curious but very cowardly Pokémon. They are easily startled and will shoot a stenchy liquid as a warning. Even so, they are highly valued due to their ability to eat and clean any garbage.*

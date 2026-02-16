@@ -79,8 +79,8 @@ Weight:
 # Barbaracle 
 
 > [!grid]
-> ![[SRD-barbaracle-BookSprite.png|wsmall]]
-> ![[SRD-barbaracle-HomeSprite.png]]
+> ![[SRD-barbaracle-BookSprite.png|wsmall left]]
+> ![[SRD-barbaracle-HomeSprite.png|wsmall right]]
 
 *Collective Pokémon*
 *When they evolve, the two Binacle multiply into seven. They all defend the rock they live in, but each one has a mind of their own and will move independently; they tend to follow the head's orders, though.*

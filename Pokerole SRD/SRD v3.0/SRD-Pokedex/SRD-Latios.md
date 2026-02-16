@@ -77,8 +77,8 @@ Weight:
 # Latios 
 
 > [!grid]
-> ![[SRD-latios-BookSprite.png|wsmall]]
-> ![[SRD-latios-HomeSprite.png]]
+> ![[SRD-latios-BookSprite.png|wsmall left]]
+> ![[SRD-latios-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The legend tells about two Pokémon that could take human shapes, use psychic powers and become invisible. They were raised by an old couple as their own children. The boy was the oldest and wore a blue shirt.*

@@ -77,8 +77,8 @@ Weight:
 # Kecleon 
 
 > [!grid]
-> ![[SRD-kecleon-BookSprite.png|wsmall]]
-> ![[SRD-kecleon-HomeSprite.png]]
+> ![[SRD-kecleon-BookSprite.png|wsmall left]]
+> ![[SRD-kecleon-HomeSprite.png|wsmall right]]
 
 *Color Swap Pokémon*
 *They are able to change their colors to blend with their surroundings. The only part of its body that can't change is the red zigzag line on its belly. Kecleon is very sneaky, smart and kind of insolent.*

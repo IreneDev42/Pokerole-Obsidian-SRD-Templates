@@ -82,8 +82,8 @@ Weight:
 # Ninetales 
 
 > [!grid]
-> ![[SRD-ninetales-BookSprite.png|wsmall]]
-> ![[SRD-ninetales-HomeSprite.png]]
+> ![[SRD-ninetales-BookSprite.png|wsmall left]]
+> ![[SRD-ninetales-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *It is known to understand human speech. It is very valued for its exuberant golden fur and the mystical power of its nine tails. It is, however, known to hold a grudge against those who mistreat it.*

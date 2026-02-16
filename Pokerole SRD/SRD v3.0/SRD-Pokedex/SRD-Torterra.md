@@ -81,8 +81,8 @@ Weight:
 # Torterra 
 
 > [!grid]
-> ![[SRD-torterra-BookSprite.png|wsmall]]
-> ![[SRD-torterra-HomeSprite.png]]
+> ![[SRD-torterra-BookSprite.png|wsmall left]]
+> ![[SRD-torterra-HomeSprite.png|wsmall right]]
 
 *Continent Pokémon*
 *Torterra travel in groups, mistaken as moving forests. Many Pokémon make their nest on its back and live there for their entire lives. Ancient people thought that they lived on the back of a giant Torterra.*

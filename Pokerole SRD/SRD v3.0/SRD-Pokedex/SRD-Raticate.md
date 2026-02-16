@@ -77,8 +77,8 @@ Weight:
 # Raticate 
 
 > [!grid]
-> ![[SRD-raticate-BookSprite.png|wsmall]]
-> ![[SRD-raticate-HomeSprite.png]]
+> ![[SRD-raticate-BookSprite.png|wsmall left]]
+> ![[SRD-raticate-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *Raticate's sturdy fangs grow quickly. To keep them ground down, it gnaws on hard materials. It may even chew on the walls of houses. It has waterproof fur, webbed feet and is a capable swimmer.*

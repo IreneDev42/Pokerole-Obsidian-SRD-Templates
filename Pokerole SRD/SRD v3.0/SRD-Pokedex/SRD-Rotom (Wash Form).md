@@ -76,8 +76,8 @@ Weight:
 # Rotom (Wash Form) 
 
 > [!grid]
-> ![[SRD-rotom-wash-form-BookSprite.png|wsmall]]
-> ![[SRD-rotom-wash-form-HomeSprite.png]]
+> ![[SRD-rotom-wash-form-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-wash-form-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *A washing machine possessed by a Rotom. It uses Water powers and floods houses with torrents of water. While in this form it can use the move 'Hydro Pump'.*

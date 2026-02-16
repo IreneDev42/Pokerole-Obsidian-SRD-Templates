@@ -75,8 +75,8 @@ Weight:
 # Luvdisc 
 
 > [!grid]
-> ![[SRD-luvdisc-BookSprite.png|wsmall]]
-> ![[SRD-luvdisc-HomeSprite.png]]
+> ![[SRD-luvdisc-BookSprite.png|wsmall left]]
+> ![[SRD-luvdisc-HomeSprite.png|wsmall right]]
 
 *Rendezvous Pokémon*
 *Luvdisc is a symbol of romance. It lives in shallow seas, swimming after couples, bringing them closer and promising eternal love. During their spawning season, the waters around them turn pink.*

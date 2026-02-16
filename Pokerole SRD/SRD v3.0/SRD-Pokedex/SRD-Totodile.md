@@ -77,8 +77,8 @@ Weight:
 # Totodile 
 
 > [!grid]
-> ![[SRD-totodile-BookSprite.png|wsmall]]
-> ![[SRD-totodile-HomeSprite.png]]
+> ![[SRD-totodile-BookSprite.png|wsmall left]]
+> ![[SRD-totodile-HomeSprite.png|wsmall right]]
 
 *Big Jaw Pokémon*
 *Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause a serious injury. It needs proper discipline to control its biting urges.*

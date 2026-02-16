@@ -82,8 +82,8 @@ Weight:
 # Kingambit 
 
 > [!grid]
-> ![[SRD-kingambit-BookSprite.png|wsmall]]
-> ![[SRD-kingambit-HomeSprite.png]]
+> ![[SRD-kingambit-BookSprite.png|wsmall left]]
+> ![[SRD-kingambit-HomeSprite.png|wsmall right]]
 
 *Big Blade Pokémon*
 *Only a Bisharp able to face an army can evolve into Kingambit. While it commands a legion of followers, it's not skilled at devising complex strategies, seeking to win through brute strength alone.*

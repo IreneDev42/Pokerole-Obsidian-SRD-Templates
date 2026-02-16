@@ -78,8 +78,8 @@ Weight:
 # Salamence (Mega Form) 
 
 > [!grid]
-> ![[SRD-salamence-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-salamence-mega-form-HomeSprite.png]]
+> ![[SRD-salamence-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-salamence-mega-form-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *The power of the Mega Stone gives it the nickname 'The Blood-Soaked Crescent'. It is violent and very unpredictable, even turning on its own trainer. Many believe it is because its bent wings cause it pain.*

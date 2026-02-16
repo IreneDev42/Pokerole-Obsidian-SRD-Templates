@@ -25,12 +25,12 @@ EventAbilities: ''
 Evolutions:
 - Evolves: To
   Kind: Special
-  Pokemon: '[[SRD-Slowbro (Galar Form)]]'
+  Pokemon: '[[SRD-Slowbro (Galarian Form)]]'
   Special: Grab Shellder by Tongue
 - Evolves: To
   Item: King's Rock
   Kind: Trade
-  Pokemon: '[[SRD-Slowking (Galar Form)]]'
+  Pokemon: '[[SRD-Slowking (Galarian Form)]]'
 ExpertMoves:
 - Heal Pulse
 GenderType: ''
@@ -80,8 +80,8 @@ Weight:
 # Slowpoke (Galarian Form) 
 
 > [!grid]
-> ![[SRD-slowpoke-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-slowpoke-galarian-form-HomeSprite.png]]
+> ![[SRD-slowpoke-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-slowpoke-galarian-form-HomeSprite.png|wsmall right]]
 
 *Dopey Pokémon*
 *Slowpoke born in Galar develop a sharper mind than others from their species, even though their expressions still seem a little dopey. Due to their different diets, the sap at the tip of their tails acquires a spicy flavor.*
@@ -105,10 +105,10 @@ Weight:
 **Good Starter**:: Yes
 **Recommended Rank**:: Rookie
 
-| Evolves   | Pokemon                       | Kind    | Special                 | Item        |
-|:----------|:------------------------------|:--------|:------------------------|:------------|
-| To        | [[SRD-Slowbro (Galar Form)]]  | Special | Grab Shellder by Tongue |             |
-| To        | [[SRD-Slowking (Galar Form)]] | Trade   |                         | King's Rock |
+| Evolves   | Pokemon                          | Kind    | Special                 | Item        |
+|:----------|:---------------------------------|:--------|:------------------------|:------------|
+| To        | [[SRD-Slowbro (Galarian Form)]]  | Special | Grab Shellder by Tongue |             |
+| To        | [[SRD-Slowking (Galarian Form)]] | Trade   |                         | King's Rock |
 
 
 ## Learnset

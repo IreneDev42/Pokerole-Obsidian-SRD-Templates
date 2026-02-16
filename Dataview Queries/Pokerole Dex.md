@@ -1,7 +1,7 @@
 ```dataview
 TABLE
-Type, 
-embed(link(HomeSprite)) AS "Image"
-FROM #PokeroleSRD/Pokedex 
+Image AS "Image"
+FROM #PokeroleSRD/Pokedex
 SORT number ASC
+WHERE icontains(file.path, "v2.0")
 ```

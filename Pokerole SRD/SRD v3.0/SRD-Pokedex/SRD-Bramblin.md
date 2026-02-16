@@ -75,8 +75,8 @@ Weight:
 # Bramblin 
 
 > [!grid]
-> ![[SRD-bramblin-BookSprite.png|wsmall]]
-> ![[SRD-bramblin-HomeSprite.png]]
+> ![[SRD-bramblin-BookSprite.png|wsmall left]]
+> ![[SRD-bramblin-HomeSprite.png|wsmall right]]
 
 *Tumbleweed Pokémon*
 *It is said that the wandering souls who are unable to move onto the afterlife sometimes get trapped in dried grass and become this Pokémon. Lonesome creatures, they're blown by the wind with no direction.*

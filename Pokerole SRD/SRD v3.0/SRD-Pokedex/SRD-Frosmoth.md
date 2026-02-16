@@ -82,8 +82,8 @@ Weight:
 # Frosmoth 
 
 > [!grid]
-> ![[SRD-frosmoth-BookSprite.png|wsmall]]
-> ![[SRD-frosmoth-HomeSprite.png]]
+> ![[SRD-frosmoth-BookSprite.png|wsmall left]]
+> ![[SRD-frosmoth-HomeSprite.png|wsmall right]]
 
 *Frost Moth Pokémon*
 *It shows no mercy to any who desecrates its snowfields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away. It is very regal and soft-mannered otherwise*

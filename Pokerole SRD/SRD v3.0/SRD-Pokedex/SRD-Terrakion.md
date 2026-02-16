@@ -75,8 +75,8 @@ Weight:
 # Terrakion 
 
 > [!grid]
-> ![[SRD-terrakion-BookSprite.png|wsmall]]
-> ![[SRD-terrakion-HomeSprite.png]]
+> ![[SRD-terrakion-BookSprite.png|wsmall left]]
+> ![[SRD-terrakion-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Legends in Unova tell about four Pokémon that rebelled against the unfair ruler. One of them trampled through the castle walls, destroying the fortress to free the trapped Pokémon inside.*

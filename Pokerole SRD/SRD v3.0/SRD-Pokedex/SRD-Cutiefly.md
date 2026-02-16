@@ -74,8 +74,8 @@ Weight:
 # Cutiefly 
 
 > [!grid]
-> ![[SRD-cutiefly-BookSprite.png|wsmall]]
-> ![[SRD-cutiefly-HomeSprite.png]]
+> ![[SRD-cutiefly-BookSprite.png|wsmall left]]
+> ![[SRD-cutiefly-HomeSprite.png|wsmall right]]
 
 *Bee Fly Pokémon*
 *These delicate Pokémon gather by the number in flower meadows. They are attracted to happy and joyful people: the story says that Cutiefly see their auras and they resemble flowers.*

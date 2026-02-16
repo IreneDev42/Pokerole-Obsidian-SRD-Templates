@@ -54,8 +54,8 @@ Weight:
 # Terapagos (Stellar Form) 
 
 > [!grid]
-> ![[SRD-terapagos-stellar-form-BookSprite.png|wsmall]]
-> ![[SRD-terapagos-stellar-form-HomeSprite.png]]
+> ![[SRD-terapagos-stellar-form-BookSprite.png|wsmall left]]
+> ![[SRD-terapagos-stellar-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *An old expedition journal states the sight of this Pokémon, describing it as an underground floating planet. But no other sighting has ever been reported.*

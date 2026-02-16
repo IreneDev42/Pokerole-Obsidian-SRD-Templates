@@ -84,8 +84,8 @@ Weight:
 # Skiploom 
 
 > [!grid]
-> ![[SRD-skiploom-BookSprite.png|wsmall]]
-> ![[SRD-skiploom-HomeSprite.png]]
+> ![[SRD-skiploom-BookSprite.png|wsmall left]]
+> ![[SRD-skiploom-HomeSprite.png|wsmall right]]
 
 *Cottonweed Pokémon*
 *It blooms when the weather is warm. If the weather gets cold, the bloom will close and it will stop flying. This is not an aggressive Pokémon, but it can cause allergies if it floats directly above you.*

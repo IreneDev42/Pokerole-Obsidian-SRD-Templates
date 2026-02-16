@@ -77,8 +77,8 @@ Weight:
 # Timburr 
 
 > [!grid]
-> ![[SRD-timburr-BookSprite.png|wsmall]]
-> ![[SRD-timburr-HomeSprite.png]]
+> ![[SRD-timburr-BookSprite.png|wsmall left]]
+> ![[SRD-timburr-HomeSprite.png|wsmall right]]
 
 *Muscular Pokémon*
 *They carry a log as a tool and as a weapon. You may see them helping with construction work as they strive to challenge their strength. When they swing the log without trouble, they are close to evolving.*

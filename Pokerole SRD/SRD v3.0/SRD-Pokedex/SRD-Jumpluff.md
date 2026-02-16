@@ -83,8 +83,8 @@ Weight:
 # Jumpluff 
 
 > [!grid]
-> ![[SRD-jumpluff-BookSprite.png|wsmall]]
-> ![[SRD-jumpluff-HomeSprite.png]]
+> ![[SRD-jumpluff-BookSprite.png|wsmall left]]
+> ![[SRD-jumpluff-HomeSprite.png|wsmall right]]
 
 *Cottonweed Pokémon*
 *It flies along the wind and spreads its cotton-like spores all over the world to make more offspring. It is always looking for warm places; if it gets caught by a cold front, it will land to find shelter.*

@@ -75,8 +75,8 @@ Weight:
 # Fennekin 
 
 > [!grid]
-> ![[SRD-fennekin-BookSprite.png|wsmall]]
-> ![[SRD-fennekin-HomeSprite.png]]
+> ![[SRD-fennekin-BookSprite.png|wsmall left]]
+> ![[SRD-fennekin-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *This small and elusive Pokémon intimidates opponents by puffing hot air out of its ears. It likes to keep twigs and sticks nearby to munch on instead of snacks. They make good pets, but they are pretty rare.*

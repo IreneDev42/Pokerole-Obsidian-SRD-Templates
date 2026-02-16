@@ -79,8 +79,8 @@ Weight:
 # Vulpix 
 
 > [!grid]
-> ![[SRD-vulpix-BookSprite.png|wsmall]]
-> ![[SRD-vulpix-HomeSprite.png]]
+> ![[SRD-vulpix-BookSprite.png|wsmall left]]
+> ![[SRD-vulpix-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *It is born with just one tail. As it grows, its single white tail gains color and splits into six. It is quite warm and cuddly - very popular with the ladies. It is, however, uncommon to see one in the wild.*

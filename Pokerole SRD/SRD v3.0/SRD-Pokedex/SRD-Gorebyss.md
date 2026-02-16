@@ -76,8 +76,8 @@ Weight:
 # Gorebyss 
 
 > [!grid]
-> ![[SRD-gorebyss-BookSprite.png|wsmall]]
-> ![[SRD-gorebyss-HomeSprite.png]]
+> ![[SRD-gorebyss-BookSprite.png|wsmall left]]
+> ![[SRD-gorebyss-HomeSprite.png|wsmall right]]
 
 *South Sea Pokémon*
 *Found in the depths of the southern seas. Their body is built to withstand the sea pressure. While it appears to be beautiful and harmless, it is a cruel and deceitful creature.*

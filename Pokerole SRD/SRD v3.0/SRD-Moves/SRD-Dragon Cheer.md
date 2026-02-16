@@ -14,7 +14,7 @@ Effect: Target Allies in Range. All Physical and Special Moves of the Allies now
   and Special by 1.
 Name: Dragon Cheer
 Power: 0
-Target: ''
+Target: All Allies
 Type: Dragon
 ---
 

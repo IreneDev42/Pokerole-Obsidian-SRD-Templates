@@ -86,8 +86,8 @@ Weight:
 # Gardevoir 
 
 > [!grid]
-> ![[SRD-gardevoir-BookSprite.png|wsmall]]
-> ![[SRD-gardevoir-HomeSprite.png]]
+> ![[SRD-gardevoir-BookSprite.png|wsmall left]]
+> ![[SRD-gardevoir-HomeSprite.png|wsmall right]]
 
 *Embrace Pokémon*
 *If they sense danger, Gardevoir unleash a wave of psychic energy. They can distort this dimension and defy the laws of matter and physics. They risk their lives to protect their fellows.*

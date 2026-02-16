@@ -72,8 +72,8 @@ Weight:
 # Whismur 
 
 > [!grid]
-> ![[SRD-whismur-BookSprite.png|wsmall]]
-> ![[SRD-whismur-HomeSprite.png]]
+> ![[SRD-whismur-BookSprite.png|wsmall left]]
+> ![[SRD-whismur-HomeSprite.png|wsmall right]]
 
 *Whisper Pokémon*
 *Their timid voice is barely audible, however, if it senses danger, they start crying loud enough to deafen anyone nearby. Their own noise scares them even more, so they cry harder until their ear covers shut.*

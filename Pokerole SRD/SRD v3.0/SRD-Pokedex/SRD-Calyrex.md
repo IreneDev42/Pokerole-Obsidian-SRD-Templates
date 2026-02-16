@@ -80,8 +80,8 @@ Weight:
 # Calyrex 
 
 > [!grid]
-> ![[SRD-calyrex-BookSprite.png|wsmall]]
-> ![[SRD-calyrex-HomeSprite.png]]
+> ![[SRD-calyrex-BookSprite.png|wsmall left]]
+> ![[SRD-calyrex-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Ancient records of the Galar region show that a Pokémon was named king of the land. They ruled wisely and with justice during all the years their kingdom lasted. Funny people, those Galarian folk.*

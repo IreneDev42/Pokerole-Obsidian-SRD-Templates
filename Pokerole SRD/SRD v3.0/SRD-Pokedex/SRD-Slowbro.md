@@ -81,8 +81,8 @@ Weight:
 # Slowbro 
 
 > [!grid]
-> ![[SRD-slowbro-BookSprite.png|wsmall]]
-> ![[SRD-slowbro-HomeSprite.png]]
+> ![[SRD-slowbro-BookSprite.png|wsmall left]]
+> ![[SRD-slowbro-HomeSprite.png|wsmall right]]
 
 *Hermit Crab Pokémon*
 *This Pokémon fused with a Shellder that bit into its tail. It's a slow swimmer and doesn't react to pain, but Shellder tends to keep it out of trouble.*

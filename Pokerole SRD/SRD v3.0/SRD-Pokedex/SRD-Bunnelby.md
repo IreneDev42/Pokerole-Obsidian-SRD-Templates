@@ -77,8 +77,8 @@ Weight:
 # Bunnelby 
 
 > [!grid]
-> ![[SRD-bunnelby-BookSprite.png|wsmall]]
-> ![[SRD-bunnelby-HomeSprite.png]]
+> ![[SRD-bunnelby-BookSprite.png|wsmall left]]
+> ![[SRD-bunnelby-HomeSprite.png|wsmall right]]
 
 *Digging Pokémon*
 *It uses its ears as shovels; by digging holes, they strengthen enough to sever thick roots easily. They tend to reproduce quickly and a handful of them can ravage a vegetable field in just a few hours.*

@@ -81,8 +81,8 @@ Weight:
 # Arboliva 
 
 > [!grid]
-> ![[SRD-arboliva-BookSprite.png|wsmall]]
-> ![[SRD-arboliva-HomeSprite.png]]
+> ![[SRD-arboliva-BookSprite.png|wsmall left]]
+> ![[SRD-arboliva-HomeSprite.png|wsmall right]]
 
 *Olive Pokémon*
 *These calm and compassionate Pokémon will feed their delicious and nutrient-rich oil to weakened creatures. They are peaceful and patient Pokémon who rarely make use of force despite being capable.*

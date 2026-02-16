@@ -75,8 +75,8 @@ Weight:
 # Leafeon 
 
 > [!grid]
-> ![[SRD-leafeon-BookSprite.png|wsmall]]
-> ![[SRD-leafeon-HomeSprite.png]]
+> ![[SRD-leafeon-BookSprite.png|wsmall left]]
+> ![[SRD-leafeon-HomeSprite.png|wsmall right]]
 
 *Verdant Pokémon*
 *Eevee evolves into Leafeon when it's living near a special kind of moss. Its cells are capable of performing photosynthesis. It is a calm Pokémon and does not usually fight, but its leaves are sharp and strong.*

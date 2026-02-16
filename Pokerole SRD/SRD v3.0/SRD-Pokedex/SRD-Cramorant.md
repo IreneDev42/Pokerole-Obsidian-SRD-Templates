@@ -72,8 +72,8 @@ Weight:
 # Cramorant 
 
 > [!grid]
-> ![[SRD-cramorant-BookSprite.png|wsmall]]
-> ![[SRD-cramorant-HomeSprite.png]]
+> ![[SRD-cramorant-BookSprite.png|wsmall left]]
+> ![[SRD-cramorant-HomeSprite.png|wsmall right]]
 
 *Gulp Pokémon*
 *Cramorant hunt for fish Pokémon to eat near seashores and lakes. They often try to engulf prey that is too large and it ends up blocking their gullets. They are airheaded and often forget what they were doing.*

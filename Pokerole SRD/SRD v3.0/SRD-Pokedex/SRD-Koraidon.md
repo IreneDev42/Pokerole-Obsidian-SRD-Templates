@@ -75,8 +75,8 @@ Weight:
 # Koraidon 
 
 > [!grid]
-> ![[SRD-koraidon-BookSprite.png|wsmall]]
-> ![[SRD-koraidon-HomeSprite.png]]
+> ![[SRD-koraidon-BookSprite.png|wsmall left]]
+> ![[SRD-koraidon-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *Old fossils suggest that millions of years ago, Cyclizar may have been feathered creatures and larger in size. But as time went on, the need for these features disappeared.*

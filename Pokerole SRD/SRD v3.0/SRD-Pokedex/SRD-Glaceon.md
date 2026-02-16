@@ -75,8 +75,8 @@ Weight:
 # Glaceon 
 
 > [!grid]
-> ![[SRD-glaceon-BookSprite.png|wsmall]]
-> ![[SRD-glaceon-HomeSprite.png]]
+> ![[SRD-glaceon-BookSprite.png|wsmall left]]
+> ![[SRD-glaceon-HomeSprite.png|wsmall right]]
 
 *Fresh Snow Pokémon*
 *Eevee that are forced to live in freezing temperatures evolve into Glaceon. It can control its body temperature to below zero, freezing its fur and making it harden as if it were diamond crystals.*

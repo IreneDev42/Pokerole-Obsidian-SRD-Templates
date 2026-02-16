@@ -80,8 +80,8 @@ Weight:
 # Lilligant (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-lilligant-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-lilligant-hisuian-form-HomeSprite.png]]
+> ![[SRD-lilligant-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-lilligant-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Spinning Pokémon*
 *Liligant who lived a long time ago in the land of Hisui had to adapt to the cold. Their long legs allowed them to move through snow. Weather got so harsh they could not bloom anymore and this variant disappeared.*

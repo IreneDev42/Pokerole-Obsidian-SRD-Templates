@@ -78,8 +78,8 @@ Weight:
 # Bellibolt 
 
 > [!grid]
-> ![[SRD-bellibolt-BookSprite.png|wsmall]]
-> ![[SRD-bellibolt-HomeSprite.png]]
+> ![[SRD-bellibolt-BookSprite.png|wsmall left]]
+> ![[SRD-bellibolt-HomeSprite.png|wsmall right]]
 
 *EleFrog Pokémon*
 *It expands and contracts its body with a croaking sound. The belly button on its stomach produces the electricity while the two eye-like organs on its head release it. They are relaxed and friendly creatures.*

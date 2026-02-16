@@ -77,8 +77,8 @@ Weight:
 # Loudred 
 
 > [!grid]
-> ![[SRD-loudred-BookSprite.png|wsmall]]
-> ![[SRD-loudred-HomeSprite.png]]
+> ![[SRD-loudred-BookSprite.png|wsmall left]]
+> ![[SRD-loudred-HomeSprite.png|wsmall right]]
 
 *Big Voice Pokémon*
 *Their ears work as loudspeakers capable of breaking glass or even blowing apart a wooden house. When they finish shouting, even they are deafened for a while. They have noisy competitions in their packs.*

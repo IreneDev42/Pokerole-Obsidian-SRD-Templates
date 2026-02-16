@@ -74,8 +74,8 @@ Weight:
 # Clobbopus 
 
 > [!grid]
-> ![[SRD-clobbopus-BookSprite.png|wsmall]]
-> ![[SRD-clobbopus-HomeSprite.png]]
+> ![[SRD-clobbopus-BookSprite.png|wsmall left]]
+> ![[SRD-clobbopus-HomeSprite.png|wsmall right]]
 
 *Tantrum Pokémon*
 *It's very curious and child-like, but it investigates things by try to punch them with its tentacles. Despite this, the tentacles tear off easily, but don't be alarmed for they'll regrow in a few days.*

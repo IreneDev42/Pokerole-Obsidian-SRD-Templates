@@ -7,7 +7,7 @@ MaxMovePower: 3
 Name: TR - Basic
 OneUse: true
 PMD: false
-Pocket: Technical Machine
+Pocket: TechnicalMachine
 Source: Core 3.0
 TrainerPrice: '10000'
 ---

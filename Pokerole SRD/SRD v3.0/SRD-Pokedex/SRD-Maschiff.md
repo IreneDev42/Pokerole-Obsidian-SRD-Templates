@@ -74,8 +74,8 @@ Weight:
 # Maschiff 
 
 > [!grid]
-> ![[SRD-maschiff-BookSprite.png|wsmall]]
-> ![[SRD-maschiff-HomeSprite.png]]
+> ![[SRD-maschiff-BookSprite.png|wsmall left]]
+> ![[SRD-maschiff-HomeSprite.png|wsmall right]]
 
 *Rascal Pokémon*
 *These chubby puppies are troublemakers. They snarl, bite, destroy toys, and bark at everyone, but even though they make an effort of being mean, people can't help but find them adorable.*

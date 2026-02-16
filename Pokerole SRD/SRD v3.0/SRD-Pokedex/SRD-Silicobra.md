@@ -75,8 +75,8 @@ Weight:
 # Silicobra 
 
 > [!grid]
-> ![[SRD-silicobra-BookSprite.png|wsmall]]
-> ![[SRD-silicobra-HomeSprite.png]]
+> ![[SRD-silicobra-BookSprite.png|wsmall left]]
+> ![[SRD-silicobra-HomeSprite.png|wsmall right]]
 
 *Sand Snake Pokémon*
 *Silicobra can appear to be very aggressive but they just want to be left alone. They spew sand from their nostrils and while the foe is blinded, they burrow back into the ground to hide.*

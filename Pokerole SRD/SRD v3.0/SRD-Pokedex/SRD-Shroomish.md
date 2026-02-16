@@ -72,8 +72,8 @@ Weight:
 # Shroomish 
 
 > [!grid]
-> ![[SRD-shroomish-BookSprite.png|wsmall]]
-> ![[SRD-shroomish-HomeSprite.png]]
+> ![[SRD-shroomish-BookSprite.png|wsmall left]]
+> ![[SRD-shroomish-HomeSprite.png|wsmall right]]
 
 *Mushroom Pokémon*
 *They live in damp soil in forests, surrounded by moss. They suddenly release toxic spores that make plants dry up. These spores cause serious pain if inhaled. They grow taller with moisture and heat.*

@@ -80,8 +80,8 @@ Weight:
 # Greninja (Battle Bond Form) 
 
 > [!grid]
-> ![[SRD-greninja-battle-bond-form-BookSprite.png|wsmall]]
-> ![[SRD-greninja-battle-bond-form-HomeSprite.png]]
+> ![[SRD-greninja-battle-bond-form-BookSprite.png|wsmall left]]
+> ![[SRD-greninja-battle-bond-form-HomeSprite.png|wsmall right]]
 
 *Ninja Pokémon*
 *The mysteries of the Pokémon world are vast. There is something called 'The Bond Phenomenon' where a Pokémon and its trainer share a connection so strong that the Pokémon changes due to it.*

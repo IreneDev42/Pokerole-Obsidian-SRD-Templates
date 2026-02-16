@@ -74,8 +74,8 @@ Weight:
 # Tepig 
 
 > [!grid]
-> ![[SRD-tepig-BookSprite.png|wsmall]]
-> ![[SRD-tepig-HomeSprite.png]]
+> ![[SRD-tepig-BookSprite.png|wsmall left]]
+> ![[SRD-tepig-HomeSprite.png|wsmall right]]
 
 *Fire Pig Pokémon*
 *It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead. Tepig loves to eat roasted berries and its keen sense of smell allows it to find them easily.*

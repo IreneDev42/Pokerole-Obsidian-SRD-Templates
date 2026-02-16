@@ -79,8 +79,8 @@ Weight:
 # Pignite 
 
 > [!grid]
-> ![[SRD-pignite-BookSprite.png|wsmall]]
-> ![[SRD-pignite-HomeSprite.png]]
+> ![[SRD-pignite-BookSprite.png|wsmall left]]
+> ![[SRD-pignite-HomeSprite.png|wsmall right]]
 
 *Fire Pig Pokémon*
 *Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases. It is not common to see them the wild. They are mostly found living in warm places.*

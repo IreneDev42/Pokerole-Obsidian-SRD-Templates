@@ -79,8 +79,8 @@ Weight:
 # Graveler (Alolan Form) 
 
 > [!grid]
-> ![[SRD-graveler-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-graveler-alolan-form-HomeSprite.png]]
+> ![[SRD-graveler-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-graveler-alolan-form-HomeSprite.png|wsmall right]]
 
 *Rock Pokémon*
 *These Pokémon charge themselves by rolling around. It is dangerous if two of them collide: a loud noise and a flash of light will be seen and heard at great distance. They feed on golden dravite.*

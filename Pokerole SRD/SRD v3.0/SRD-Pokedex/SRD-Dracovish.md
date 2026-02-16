@@ -72,8 +72,8 @@ Weight:
 # Dracovish 
 
 > [!grid]
-> ![[SRD-dracovish-BookSprite.png|wsmall]]
-> ![[SRD-dracovish-HomeSprite.png]]
+> ![[SRD-dracovish-BookSprite.png|wsmall left]]
+> ![[SRD-dracovish-HomeSprite.png|wsmall right]]
 
 *Fossil Pokémon*
 *The DNA of two apex predators combined. It can run at incredibly high speeds and tear almost anything with its sharp teeth. Sadly, this Pokémon can only breathe underwater and it's a lousy swimmer.*

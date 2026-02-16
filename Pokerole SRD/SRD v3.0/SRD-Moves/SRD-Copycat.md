@@ -1,12 +1,12 @@
 ---
-Accuracy1: SameasCopiedMove
+Accuracy1: SameAsCopiedMove
 Accuracy2: ''
 AddedEffects: {}
 Attributes:
   CopyMove: true
   Unique: true
 Category: Support
-Damage1: SameasCopiedMove
+Damage1: SameAsCopiedMove
 Damage2: ''
 Description: The user is incredibly observant and has a talent for impersonations,
   no one will tell the difference!

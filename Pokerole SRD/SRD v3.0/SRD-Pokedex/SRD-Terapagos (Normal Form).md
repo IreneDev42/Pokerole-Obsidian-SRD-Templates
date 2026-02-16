@@ -70,8 +70,8 @@ Weight:
 # Terapagos (Normal Form) 
 
 > [!grid]
-> ![[SRD-terapagos-normal-form-BookSprite.png|wsmall]]
-> ![[SRD-terapagos-normal-form-HomeSprite.png]]
+> ![[SRD-terapagos-normal-form-BookSprite.png|wsmall left]]
+> ![[SRD-terapagos-normal-form-HomeSprite.png|wsmall right]]
 
 *Tera Pokémon*
 *Believed to be extinct, it was just recently re-discovered when a specimen was found in a dormant state deep at an excavation for Tera Crystals formed more than 2 million years ago.*

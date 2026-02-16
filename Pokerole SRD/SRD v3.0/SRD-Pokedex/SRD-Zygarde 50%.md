@@ -55,8 +55,8 @@ Weight:
 # Zygarde 50% 
 
 > [!grid]
-> ![[SRD-zygarde-50-BookSprite.png|wsmall]]
-> ![[SRD-zygarde-50-HomeSprite.png]]
+> ![[SRD-zygarde-50-BookSprite.png|wsmall left]]
+> ![[SRD-zygarde-50-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Underground tunnels have been found all over the Kalos Region. There are rumors of a creature that lives in them that attacks people damaging the ecosystem.*

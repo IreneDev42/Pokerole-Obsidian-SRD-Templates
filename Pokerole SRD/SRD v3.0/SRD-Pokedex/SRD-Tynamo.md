@@ -61,8 +61,8 @@ Weight:
 # Tynamo 
 
 > [!grid]
-> ![[SRD-tynamo-BookSprite.png|wsmall]]
-> ![[SRD-tynamo-HomeSprite.png]]
+> ![[SRD-tynamo-BookSprite.png|wsmall left]]
+> ![[SRD-tynamo-HomeSprite.png|wsmall right]]
 
 *EleFish Pokémon*
 *These Pokémon move in schools. They have an electricity-storing organ at their sides, but they can't generate their own power. They only discharge electricity if they are in danger.*

@@ -79,8 +79,8 @@ Weight:
 # Alakazam 
 
 > [!grid]
-> ![[SRD-alakazam-BookSprite.png|wsmall]]
-> ![[SRD-alakazam-HomeSprite.png]]
+> ![[SRD-alakazam-BookSprite.png|wsmall left]]
+> ![[SRD-alakazam-HomeSprite.png|wsmall right]]
 
 *Psi Pokémon*
 *A Pokémon that can memorize anything and never forgets what it learns. Over time it becomes too smart to allow anyone to be its master. Alakazam's psychic powers can be terrifying.*

@@ -79,8 +79,8 @@ Weight:
 # Wormadam (Ground Form) 
 
 > [!grid]
-> ![[SRD-wormadam-ground-form-BookSprite.png|wsmall]]
-> ![[SRD-wormadam-ground-form-HomeSprite.png]]
+> ![[SRD-wormadam-ground-form-BookSprite.png|wsmall left]]
+> ![[SRD-wormadam-ground-form-HomeSprite.png|wsmall right]]
 
 *Bagworm Pokémon*
 *When Burmy evolved, its Sand cloak became a part of its body. For this reason there are many variations in body and type. It is a calm Pokémon that loves odd-shaped stones. This Pokémon is female-only.*

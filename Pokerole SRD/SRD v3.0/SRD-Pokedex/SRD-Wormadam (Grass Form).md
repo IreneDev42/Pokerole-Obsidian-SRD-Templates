@@ -79,8 +79,8 @@ Weight:
 # Wormadam (Grass Form) 
 
 > [!grid]
-> ![[SRD-wormadam-grass-form-BookSprite.png|wsmall]]
-> ![[SRD-wormadam-grass-form-HomeSprite.png]]
+> ![[SRD-wormadam-grass-form-BookSprite.png|wsmall left]]
+> ![[SRD-wormadam-grass-form-HomeSprite.png|wsmall right]]
 
 *Bagworm Pokémon*
 *When Burmy evolved, its Grass cloak became a part of its body. For this reason there are many variations in body and type. It is a calm Pokémon that loves flowers. This Pokémon is female-only.*

@@ -79,8 +79,8 @@ Weight:
 # Sliggoo 
 
 > [!grid]
-> ![[SRD-sliggoo-BookSprite.png|wsmall]]
-> ![[SRD-sliggoo-HomeSprite.png]]
+> ![[SRD-sliggoo-BookSprite.png|wsmall left]]
+> ![[SRD-sliggoo-HomeSprite.png|wsmall right]]
 
 *Soft Tissue Pokémon*
 *It drives away foes by releasing a sticky and corrosive liquid. Its eyes devolved and it became blind. Now it uses its four horns to sense sounds and smells, rather than using its ears or nose.*

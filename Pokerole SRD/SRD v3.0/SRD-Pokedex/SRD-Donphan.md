@@ -80,8 +80,8 @@ Weight:
 # Donphan 
 
 > [!grid]
-> ![[SRD-donphan-BookSprite.png|wsmall]]
-> ![[SRD-donphan-HomeSprite.png]]
+> ![[SRD-donphan-BookSprite.png|wsmall left]]
+> ![[SRD-donphan-HomeSprite.png|wsmall right]]
 
 *Armor Pokémon*
 *Strong enough to knock down a house. They like to attack by rolling as a ball at high speed, however once they start rolling, they have a hard time stopping. Some may keep their loving Phanpy nature.*

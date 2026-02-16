@@ -80,8 +80,8 @@ Weight:
 # Charizard (Mega Y Form) 
 
 > [!grid]
-> ![[SRD-charizard-mega-y-form-BookSprite.png|wsmall]]
-> ![[SRD-charizard-mega-y-form-HomeSprite.png]]
+> ![[SRD-charizard-mega-y-form-BookSprite.png|wsmall left]]
+> ![[SRD-charizard-mega-y-form-HomeSprite.png|wsmall right]]
 
 *Flame Pokémon*
 *With the power of the Mega Stone it becomes bold and confident. Its flying skills get better and it boasts better speed and maneuverability. When it flies, you cannot see it directly as its flames burn as bright as the sun.*

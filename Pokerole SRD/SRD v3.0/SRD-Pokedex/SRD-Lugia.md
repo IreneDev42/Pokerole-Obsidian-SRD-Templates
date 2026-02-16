@@ -52,8 +52,8 @@ Weight:
 # Lugia 
 
 > [!grid]
-> ![[SRD-lugia-BookSprite.png|wsmall]]
-> ![[SRD-lugia-HomeSprite.png]]
+> ![[SRD-lugia-BookSprite.png|wsmall left]]
+> ![[SRD-lugia-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Known as the Guardian of the Sea, it used to live in the Brass Tower, where Pokémon awoke. Lugia's myth is linked to the idea that those whose death was pure will be reborn in the sea.*

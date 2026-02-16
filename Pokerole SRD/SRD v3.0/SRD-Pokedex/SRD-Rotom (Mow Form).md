@@ -77,8 +77,8 @@ Weight:
 # Rotom (Mow Form) 
 
 > [!grid]
-> ![[SRD-rotom-mow-form-BookSprite.png|wsmall]]
-> ![[SRD-rotom-mow-form-HomeSprite.png]]
+> ![[SRD-rotom-mow-form-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-mow-form-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *A lawnmower possessed by a Rotom. It uses Grass powers, mows awful patterns on the grass, and chases people with the blades out. While in this form it can use the move 'Leaf Storm'.*

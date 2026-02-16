@@ -76,8 +76,8 @@ Weight:
 # Spiritomb 
 
 > [!grid]
-> ![[SRD-spiritomb-BookSprite.png|wsmall]]
-> ![[SRD-spiritomb-HomeSprite.png]]
+> ![[SRD-spiritomb-BookSprite.png|wsmall left]]
+> ![[SRD-spiritomb-HomeSprite.png|wsmall right]]
 
 *Forbidden Pokémon*
 *A legend from 500 years ago tells how it got bound into an Odd Keystone after cursing an entire town. Two have been found in recent times. It is said that its vortex has more than 100 haunted souls.*

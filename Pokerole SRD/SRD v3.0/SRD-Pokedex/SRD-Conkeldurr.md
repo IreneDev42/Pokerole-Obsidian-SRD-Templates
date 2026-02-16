@@ -80,8 +80,8 @@ Weight:
 # Conkeldurr 
 
 > [!grid]
-> ![[SRD-conkeldurr-BookSprite.png|wsmall]]
-> ![[SRD-conkeldurr-HomeSprite.png]]
+> ![[SRD-conkeldurr-BookSprite.png|wsmall left]]
+> ![[SRD-conkeldurr-HomeSprite.png|wsmall right]]
 
 *Muscular Pokémon*
 *They use concrete pillars as walking canes and swing the pillars freely in battle. Anthropology research says that this Pokémon may have taught humans how to make concrete out of rocks thousands of years ago.*

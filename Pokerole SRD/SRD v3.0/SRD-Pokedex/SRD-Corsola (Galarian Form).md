@@ -72,8 +72,8 @@ Weight:
 # Corsola (Galarian Form) 
 
 > [!grid]
-> ![[SRD-corsola-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-corsola-galarian-form-HomeSprite.png]]
+> ![[SRD-corsola-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-corsola-galarian-form-HomeSprite.png|wsmall right]]
 
 *Coral Pokémon*
 *Watch your feet when walking through shallow ocean waters,  because this Pokémon looks like a stone and it will curse you if you step on it. Climate change wiped out these Corsola from warmer seas.*

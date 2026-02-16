@@ -74,8 +74,8 @@ Weight:
 # Phantump 
 
 > [!grid]
-> ![[SRD-phantump-BookSprite.png|wsmall]]
-> ![[SRD-phantump-HomeSprite.png]]
+> ![[SRD-phantump-BookSprite.png|wsmall left]]
+> ![[SRD-phantump-HomeSprite.png|wsmall right]]
 
 *Stump Pokémon*
 *According to the old tales, these Pokémon are stumps possessed by the spirits of children who were lost in the forest. They prefer to live in abandoned woods and lure people to the darkness to play with them.*

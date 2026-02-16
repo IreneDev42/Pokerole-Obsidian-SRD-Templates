@@ -80,8 +80,8 @@ Weight:
 # Braviary (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-braviary-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-braviary-hisuian-form-HomeSprite.png]]
+> ![[SRD-braviary-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-braviary-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Battle Cry Pokémon*
 *Hundreds of years ago, the Hisuian mountaintops were the home of this regional variant. Its battle cry was ferocious and it thrived in lakes. They were hunted to extinction to obtain their beautiful feathers.*

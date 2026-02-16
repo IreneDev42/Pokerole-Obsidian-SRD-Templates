@@ -73,8 +73,8 @@ Weight:
 # Poipole 
 
 > [!grid]
-> ![[SRD-poipole-BookSprite.png|wsmall]]
-> ![[SRD-poipole-HomeSprite.png]]
+> ![[SRD-poipole-BookSprite.png|wsmall left]]
+> ![[SRD-poipole-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #162*
 *Thanks to the Recon Squad we've managed to secure a location on the other side. UB-06 Adhesive have been a great help; their intelligence and friendliness would make them very popular in our world.*

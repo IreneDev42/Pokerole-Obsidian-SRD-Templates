@@ -82,8 +82,8 @@ Weight:
 # Chesnaught 
 
 > [!grid]
-> ![[SRD-chesnaught-BookSprite.png|wsmall]]
-> ![[SRD-chesnaught-HomeSprite.png]]
+> ![[SRD-chesnaught-BookSprite.png|wsmall left]]
+> ![[SRD-chesnaught-HomeSprite.png|wsmall right]]
 
 *Spiny Armor Pokémon*
 *These Pokémon are known for taking defensive stances instead of charging into battle. Many stories tell how during the old wars, Chesnaught protected their allies using their bodies.*

@@ -62,7 +62,7 @@ StandardMoves:
 - Bullet Seed
 - Scary Face
 StarterMoves:
-- Trick-or-Treat
+- Trick-Or-Treat
 - Astonish
 Strength: 2
 Type1: Ghost
@@ -78,8 +78,8 @@ Weight:
 # Gourgeist 
 
 > [!grid]
-> ![[SRD-gourgeist-BookSprite.png|wsmall]]
-> ![[SRD-gourgeist-HomeSprite.png]]
+> ![[SRD-gourgeist-BookSprite.png|wsmall left]]
+> ![[SRD-gourgeist-HomeSprite.png|wsmall right]]
 
 *Pumpkin Pokémon*
 *They wander in the town streets every new moon. It wraps its prey on its arms and sings joyfully as it observes the suffering of the victim. Hearing it sing will give you horrible nightmares.*

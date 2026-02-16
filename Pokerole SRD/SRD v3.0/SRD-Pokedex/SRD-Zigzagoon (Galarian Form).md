@@ -76,8 +76,8 @@ Weight:
 # Zigzagoon (Galarian Form) 
 
 > [!grid]
-> ![[SRD-zigzagoon-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-zigzagoon-galarian-form-HomeSprite.png]]
+> ![[SRD-zigzagoon-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-zigzagoon-galarian-form-HomeSprite.png|wsmall right]]
 
 *Tiny Racoon Pokémon*
 *Zigzagoon raised in Galar grow to be punks. If they see another Pokémon, they will purposely run into them to start a fight. The only way to calm them down is with a lot of loud noise.*

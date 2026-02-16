@@ -77,8 +77,8 @@ Weight:
 # Sandshrew 
 
 > [!grid]
-> ![[SRD-sandshrew-BookSprite.png|wsmall]]
-> ![[SRD-sandshrew-HomeSprite.png]]
+> ![[SRD-sandshrew-BookSprite.png|wsmall left]]
+> ![[SRD-sandshrew-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *They usually hide burrowed under caves and grasslands. A few have been sighted living in the desert. They are shy by nature - they dig and curl in a ball when facing a threat.*

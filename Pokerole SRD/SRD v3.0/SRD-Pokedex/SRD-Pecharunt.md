@@ -74,8 +74,8 @@ Weight:
 # Pecharunt 
 
 > [!grid]
-> ![[SRD-pecharunt-BookSprite.png|wsmall]]
-> ![[SRD-pecharunt-HomeSprite.png]]
+> ![[SRD-pecharunt-BookSprite.png|wsmall left]]
+> ![[SRD-pecharunt-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *The most famous legend in Kitakami tells about how three Pokémon and their master defeated an ogre. Through a sweet peach mochi, the master granted gifts to those who sacrificed their freedom.*

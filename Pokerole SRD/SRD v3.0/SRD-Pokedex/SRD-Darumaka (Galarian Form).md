@@ -77,8 +77,8 @@ Weight:
 # Darumaka (Galarian Form) 
 
 > [!grid]
-> ![[SRD-darumaka-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-darumaka-galarian-form-HomeSprite.png]]
+> ![[SRD-darumaka-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-darumaka-galarian-form-HomeSprite.png|wsmall right]]
 
 *Zen Charm Pokémon*
 *When forced to live in snow, its fire sac froze and now it generates cold. Darumaka uses low temperatures as energy, making it very energetic in winter. It is playful and likes to throw snowballs.*

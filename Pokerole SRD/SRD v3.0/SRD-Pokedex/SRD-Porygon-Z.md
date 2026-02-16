@@ -79,8 +79,8 @@ Weight:
 # Porygon-Z 
 
 > [!grid]
-> ![[SRD-porygon-z-BookSprite.png|wsmall]]
-> ![[SRD-porygon-z-HomeSprite.png]]
+> ![[SRD-porygon-z-BookSprite.png|wsmall left]]
+> ![[SRD-porygon-z-HomeSprite.png|wsmall right]]
 
 *Virtual Pokémon*
 *A software to explore another dimension was installed on Porygon. However, it began acting oddly due to glitches in the code. Since then, it has a fondness for videos of Meowth and Skitty on the internet.*

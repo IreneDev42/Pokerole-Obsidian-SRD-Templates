@@ -74,8 +74,8 @@ Weight:
 # Lillipup 
 
 > [!grid]
-> ![[SRD-lillipup-BookSprite.png|wsmall]]
-> ![[SRD-lillipup-HomeSprite.png]]
+> ![[SRD-lillipup-BookSprite.png|wsmall left]]
+> ![[SRD-lillipup-HomeSprite.png|wsmall right]]
 
 *Puppy Pokémon*
 *Good with children and old people, this gentle Pokémon is a favorite to keep as pet. It is very brave and smart. It will protect its trainer against any threat. It uses the fur on its face to feel its surroundings.*

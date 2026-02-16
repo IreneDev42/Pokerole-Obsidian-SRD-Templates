@@ -80,8 +80,8 @@ Weight:
 # Eiscue 
 
 > [!grid]
-> ![[SRD-eiscue-BookSprite.png|wsmall]]
-> ![[SRD-eiscue-HomeSprite.png]]
+> ![[SRD-eiscue-BookSprite.png|wsmall left]]
+> ![[SRD-eiscue-HomeSprite.png|wsmall right]]
 
 *Penguin Pokemon*
 *This Pokemon keeps its head cool with ice. It fishes for its food by dangling its single hair into the sea to lure in prey. When they tire of swimming they simply let their ice head be drifted away by the sea.*

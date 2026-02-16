@@ -75,8 +75,8 @@ Weight:
 # Grimer (Alolan Form) 
 
 > [!grid]
-> ![[SRD-grimer-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-grimer-alolan-form-HomeSprite.png]]
+> ![[SRD-grimer-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-grimer-alolan-form-HomeSprite.png|wsmall right]]
 
 *Sludge Pokémon*
 *Grimer were brought into Alola to eat garbage in the region. It seemed like a counterintuitive measure but ended up solving the problem. But now Grimer are incredibly noxious, much more toxic than usual.*

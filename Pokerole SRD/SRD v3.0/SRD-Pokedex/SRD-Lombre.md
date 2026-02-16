@@ -80,8 +80,8 @@ Weight:
 # Lombre 
 
 > [!grid]
-> ![[SRD-lombre-BookSprite.png|wsmall]]
-> ![[SRD-lombre-HomeSprite.png]]
+> ![[SRD-lombre-BookSprite.png|wsmall left]]
+> ![[SRD-lombre-HomeSprite.png|wsmall right]]
 
 *Jolly Pokémon*
 *This nocturnal Pokémon has a mischievous and impish personality. While playing pranks on people, Lombre are commonly mistaken for human children. It enjoys startling unaware swimmers.*

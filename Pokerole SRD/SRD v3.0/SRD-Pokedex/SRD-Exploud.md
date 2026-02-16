@@ -79,8 +79,8 @@ Weight:
 # Exploud 
 
 > [!grid]
-> ![[SRD-exploud-BookSprite.png|wsmall]]
-> ![[SRD-exploud-HomeSprite.png]]
+> ![[SRD-exploud-BookSprite.png|wsmall left]]
+> ![[SRD-exploud-HomeSprite.png|wsmall right]]
 
 *Loud Noise Pokémon*
 *It is said that some tremors are caused by the roars of this Pokémon. They communicate with soft noises, raising their voice only in battle. They can emit many different kinds of sounds.*

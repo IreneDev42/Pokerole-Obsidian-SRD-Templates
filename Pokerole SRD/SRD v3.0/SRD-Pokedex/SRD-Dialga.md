@@ -54,8 +54,8 @@ Weight:
 # Dialga 
 
 > [!grid]
-> ![[SRD-dialga-BookSprite.png|wsmall]]
-> ![[SRD-dialga-HomeSprite.png]]
+> ![[SRD-dialga-BookSprite.png|wsmall left]]
+> ![[SRD-dialga-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *In some religions there is a being called 'The God of Time' whose first roar brought future, present, and past.*

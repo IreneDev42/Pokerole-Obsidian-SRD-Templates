@@ -78,8 +78,8 @@ Weight:
 # Machop 
 
 > [!grid]
-> ![[SRD-machop-BookSprite.png|wsmall]]
-> ![[SRD-machop-HomeSprite.png]]
+> ![[SRD-machop-BookSprite.png|wsmall left]]
+> ![[SRD-machop-HomeSprite.png|wsmall right]]
 
 *Superpower Pokémon*
 *It lives in the mountains, training its fists against strong rocks, lifting boulders, and hurling Rock Pokémon around to build stronger muscles. Even with its small size, it can compete against expert humans and win.*

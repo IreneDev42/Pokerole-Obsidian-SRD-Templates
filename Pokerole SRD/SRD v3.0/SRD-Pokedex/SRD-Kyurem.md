@@ -58,8 +58,8 @@ Weight:
 # Kyurem 
 
 > [!grid]
-> ![[SRD-kyurem-BookSprite.png|wsmall]]
-> ![[SRD-kyurem-HomeSprite.png]]
+> ![[SRD-kyurem-BookSprite.png|wsmall left]]
+> ![[SRD-kyurem-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Inside a remote and frozen cave there are some old paintings. They depict a giant dragon being torn apart into black and white shards. Of the rest of the picture, only shattered ice fragments remain.*

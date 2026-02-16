@@ -76,8 +76,8 @@ Weight:
 # Sunkern 
 
 > [!grid]
-> ![[SRD-sunkern-BookSprite.png|wsmall]]
-> ![[SRD-sunkern-HomeSprite.png]]
+> ![[SRD-sunkern-BookSprite.png|wsmall left]]
+> ![[SRD-sunkern-HomeSprite.png|wsmall right]]
 
 *Seed Pokémon*
 *They suddenly appear after a cold winter. They survive by drinking only dewdrops from under the leaves of plants. It tries not to move a lot since lots of bird Pokémon prey on them.*

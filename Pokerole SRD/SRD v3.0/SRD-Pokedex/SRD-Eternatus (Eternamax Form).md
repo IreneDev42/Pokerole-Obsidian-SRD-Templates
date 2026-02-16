@@ -55,8 +55,8 @@ Weight:
 # Eternatus (Eternamax Form) 
 
 > [!grid]
-> ![[SRD-eternatus-eternamax-form-BookSprite.png|wsmall]]
-> ![[SRD-eternatus-eternamax-form-HomeSprite.png]]
+> ![[SRD-eternatus-eternamax-form-BookSprite.png|wsmall left]]
+> ![[SRD-eternatus-eternamax-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Evidence suggests it was not really a meteorite that fell on Galar so long ago, but a Pokémon. What creature could be so massive as to create such destruction upon impact?*

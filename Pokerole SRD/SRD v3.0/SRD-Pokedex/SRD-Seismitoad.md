@@ -80,8 +80,8 @@ Weight:
 # Seismitoad 
 
 > [!grid]
-> ![[SRD-seismitoad-BookSprite.png|wsmall]]
-> ![[SRD-seismitoad-HomeSprite.png]]
+> ![[SRD-seismitoad-BookSprite.png|wsmall left]]
+> ![[SRD-seismitoad-HomeSprite.png|wsmall right]]
 
 *Vibration Pokémon*
 *It is only found in a few marshes, and rarely seen in clean water. They shoot a paralyzing liquid from their head bumps and use vibrations and their tongues to harm their foes.*

@@ -77,8 +77,8 @@ Weight:
 # Ludicolo 
 
 > [!grid]
-> ![[SRD-ludicolo-BookSprite.png|wsmall]]
-> ![[SRD-ludicolo-HomeSprite.png]]
+> ![[SRD-ludicolo-BookSprite.png|wsmall left]]
+> ![[SRD-ludicolo-HomeSprite.png|wsmall right]]
 
 *Carefree Pokémon*
 *Ludicolo starts dancing at the sound of music. Pokémon and people will dance as well. They are said to appear when children sing. They love festive places and parties.*

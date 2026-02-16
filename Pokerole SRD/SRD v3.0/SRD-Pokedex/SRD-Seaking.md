@@ -74,8 +74,8 @@ Weight:
 # Seaking 
 
 > [!grid]
-> ![[SRD-seaking-BookSprite.png|wsmall]]
-> ![[SRD-seaking-HomeSprite.png]]
+> ![[SRD-seaking-BookSprite.png|wsmall left]]
+> ![[SRD-seaking-HomeSprite.png|wsmall right]]
 
 *Goldfish Pokémon*
 *In the autumn, Seaking males can be seen doing courtship dances to females. After getting a mate, both will be seen swimming powerfully up rivers and creeks to make their nest.*

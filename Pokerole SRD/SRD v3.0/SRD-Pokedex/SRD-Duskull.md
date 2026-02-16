@@ -74,8 +74,8 @@ Weight:
 # Duskull 
 
 > [!grid]
-> ![[SRD-duskull-BookSprite.png|wsmall]]
-> ![[SRD-duskull-HomeSprite.png]]
+> ![[SRD-duskull-BookSprite.png|wsmall left]]
+> ![[SRD-duskull-HomeSprite.png|wsmall right]]
 
 *Requiem Pokémon*
 *They wander at night. They can make themselves invisible and they follow travelers all night until dawn breaks. It loves the crying of little children; they can be seen scaring kids who misbehaved during the day.*

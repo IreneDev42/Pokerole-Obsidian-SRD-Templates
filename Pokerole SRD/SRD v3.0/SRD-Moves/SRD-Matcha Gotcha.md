@@ -9,9 +9,9 @@ Damage2: ''
 Description: The user invites the foe to a hebal tea ceremony. As the tea is served
   and the foe is off guard, the user throws the hot tea on them, then proceeds to
   enjoy their own cup.
-Effect: Single Target. Projectile Move. Low Accuracy 1. The User restores Hp equal
-  to half the damage dealt, founded down. Roll 2 Chancce Dice to inflict 1st Degree
-  BUrn on the Target. If the user is Frozen solid, destroy the ice bloc.
+Effect: Target All Foes in Range. Projectile Move. Low Accuracy 1. The User restores
+  hp equal to half the damage dealt, rounded down. Roll 2 Chance Dice to inflict 1st
+  Degree Burn on the Target. If the user is Frozen solid, destroy the ice block.
 Name: Matcha Gotcha
 Power: 3
 Target: All Foes

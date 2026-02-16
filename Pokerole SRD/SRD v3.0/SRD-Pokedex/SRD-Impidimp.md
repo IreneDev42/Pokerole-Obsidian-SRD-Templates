@@ -74,8 +74,8 @@ Weight:
 # Impidimp 
 
 > [!grid]
-> ![[SRD-impidimp-BookSprite.png|wsmall]]
-> ![[SRD-impidimp-HomeSprite.png]]
+> ![[SRD-impidimp-BookSprite.png|wsmall left]]
+> ![[SRD-impidimp-HomeSprite.png|wsmall right]]
 
 *Wily Pokémon*
 *Through its nose, it sucks in the dark emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy. They love to take things that don't belong to them.*

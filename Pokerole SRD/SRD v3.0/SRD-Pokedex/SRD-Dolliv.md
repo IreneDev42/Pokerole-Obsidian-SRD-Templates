@@ -79,8 +79,8 @@ Weight:
 # Dolliv 
 
 > [!grid]
-> ![[SRD-dolliv-BookSprite.png|wsmall]]
-> ![[SRD-dolliv-HomeSprite.png]]
+> ![[SRD-dolliv-BookSprite.png|wsmall left]]
+> ![[SRD-dolliv-HomeSprite.png|wsmall right]]
 
 *Olive Pokémon*
 *They have coexisted with humans since before civilization began. They bask in the sun and produce a tasty oil they share with others. However, once the fruits on their heads ripen, they depart on a journey to evolve.*

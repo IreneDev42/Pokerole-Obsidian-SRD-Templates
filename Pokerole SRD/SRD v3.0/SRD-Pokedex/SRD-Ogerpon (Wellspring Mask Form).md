@@ -3,7 +3,7 @@ Ability1: Water Absorb
 Ability2: Embody Aspect
 AceMoves:
 - Vine Whip
-- Leech seed
+- Leech Seed
 - Quick Attack
 - Follow Me
 - Focus Energy
@@ -85,8 +85,8 @@ Weight:
 # Ogerpon (Wellspring Mask Form) 
 
 > [!grid]
-> ![[SRD-ogerpon-wellspring-mask-form-BookSprite.png|wsmall]]
-> ![[SRD-ogerpon-wellspring-mask-form-HomeSprite.png]]
+> ![[SRD-ogerpon-wellspring-mask-form-BookSprite.png|wsmall left]]
+> ![[SRD-ogerpon-wellspring-mask-form-HomeSprite.png|wsmall right]]
 
 *Mask Pokémon*
 *Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a treacherous creature during the festival of masks. The creature appears serene but it calls upon rain that ruins the festivities.*

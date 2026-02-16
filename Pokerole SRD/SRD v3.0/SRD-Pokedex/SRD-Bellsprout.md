@@ -74,8 +74,8 @@ Weight:
 # Bellsprout 
 
 > [!grid]
-> ![[SRD-bellsprout-BookSprite.png|wsmall]]
-> ![[SRD-bellsprout-HomeSprite.png]]
+> ![[SRD-bellsprout-BookSprite.png|wsmall left]]
+> ![[SRD-bellsprout-HomeSprite.png|wsmall right]]
 
 *Flower Pokémon*
 *They live in hot and humid places, blending in with the flora. It is carnivorous and will try to eat anything smaller than itself. It digests its prey with an acid substance in its mouth.*

@@ -83,8 +83,8 @@ Weight:
 # Ursaluna 
 
 > [!grid]
-> ![[SRD-ursaluna-BookSprite.png|wsmall]]
-> ![[SRD-ursaluna-HomeSprite.png]]
+> ![[SRD-ursaluna-BookSprite.png|wsmall left]]
+> ![[SRD-ursaluna-HomeSprite.png|wsmall right]]
 
 *Peat Pokémon*
 *An ancient Hisui tribe had stories about Ursaring evolving using peat. Peat is mostly useless and does not have any energy properties that could aid in evolution. No Ursaring has been reported to evolve in recent years.*

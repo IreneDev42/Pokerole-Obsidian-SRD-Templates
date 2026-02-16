@@ -76,8 +76,8 @@ Weight:
 # Mudbray 
 
 > [!grid]
-> ![[SRD-mudbray-BookSprite.png|wsmall]]
-> ![[SRD-mudbray-HomeSprite.png]]
+> ![[SRD-mudbray-BookSprite.png|wsmall left]]
+> ![[SRD-mudbray-HomeSprite.png|wsmall right]]
 
 *Donkey Pokémon*
 *They are very strong. The mud on their hooves serves them as grip to pull themselves forward. They enjoy prancing in muddy places and will become stubborn and disobedient if denied that pleasure.*

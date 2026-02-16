@@ -77,8 +77,8 @@ Weight:
 # Charjabug 
 
 > [!grid]
-> ![[SRD-charjabug-BookSprite.png|wsmall]]
-> ![[SRD-charjabug-HomeSprite.png]]
+> ![[SRD-charjabug-BookSprite.png|wsmall left]]
+> ![[SRD-charjabug-HomeSprite.png|wsmall right]]
 
 *Battery Pokémon*
 *Whatever this Pokémon eats is transformed into electricity. People often use them to power up small appliances in their homes. This Pokémon rarely moves since it is preparing to evolve.*

@@ -82,8 +82,8 @@ Weight:
 # Garganacl 
 
 > [!grid]
-> ![[SRD-garganacl-BookSprite.png|wsmall]]
-> ![[SRD-garganacl-HomeSprite.png]]
+> ![[SRD-garganacl-BookSprite.png|wsmall left]]
+> ![[SRD-garganacl-HomeSprite.png|wsmall right]]
 
 *Rock Salt Pokémon*
 *They look like salt formations and other Pokémon come close to it to lick their mineral-rich salt. It takes a lot to make them attack. Strangely, wounds made by these Pokémon heal quickly and rarely leave scars.*

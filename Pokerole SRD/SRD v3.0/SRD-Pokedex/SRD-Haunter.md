@@ -78,8 +78,8 @@ Weight:
 # Haunter 
 
 > [!grid]
-> ![[SRD-haunter-BookSprite.png|wsmall]]
-> ![[SRD-haunter-HomeSprite.png]]
+> ![[SRD-haunter-BookSprite.png|wsmall left]]
+> ![[SRD-haunter-HomeSprite.png|wsmall right]]
 
 *Gas Pokémon*
 *Haunter is a dangerous Pokémon. It will try to lick you with its tongue to steal your life away. If you get the feeling of being watched in darkness when nobody is around, it means a Haunter is there.*

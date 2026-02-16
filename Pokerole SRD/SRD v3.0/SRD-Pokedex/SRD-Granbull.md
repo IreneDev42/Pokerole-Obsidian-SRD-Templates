@@ -78,8 +78,8 @@ Weight:
 # Granbull 
 
 > [!grid]
-> ![[SRD-granbull-BookSprite.png|wsmall]]
-> ![[SRD-granbull-HomeSprite.png]]
+> ![[SRD-granbull-BookSprite.png|wsmall left]]
+> ![[SRD-granbull-HomeSprite.png|wsmall right]]
 
 *Fairy Pokémon*
 *Granbull is usually a timid creature that is easily spooked. Its fangs are extremely powerful and scary so no one dares to mess with it or its loved ones. It will use its giant fangs to attack if it needs to.*

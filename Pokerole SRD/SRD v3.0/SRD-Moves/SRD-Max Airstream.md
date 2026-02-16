@@ -1,11 +1,11 @@
 ---
-Accuracy1: SameasBaseMove
+Accuracy1: SameAsBaseMove
 Accuracy2: ''
 AddedEffects: {}
 Attributes:
   MaxMove: true
-Category: ''
-Damage1: SameasBasePower
+Category: Physical/Special
+Damage1: SameAsBasePower
 Damage2: ''
 Description: ''
 Effect: Target all foes in Range or a Single Max Target. Increase the Dexterity of

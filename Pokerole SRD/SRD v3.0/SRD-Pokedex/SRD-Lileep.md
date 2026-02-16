@@ -75,8 +75,8 @@ Weight:
 # Lileep 
 
 > [!grid]
-> ![[SRD-lileep-BookSprite.png|wsmall]]
-> ![[SRD-lileep-HomeSprite.png]]
+> ![[SRD-lileep-BookSprite.png|wsmall left]]
+> ![[SRD-lileep-HomeSprite.png|wsmall right]]
 
 *Sea Lily Pokémon*
 *Over 100 million years ago, Lileep used to attach themselves to rocks at the bottom of the sea. A disaster led them all to extinction. But their fossils remain, enabling them to be revived by scientists.*

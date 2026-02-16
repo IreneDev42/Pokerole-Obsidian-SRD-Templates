@@ -61,8 +61,8 @@ Weight:
 # Blipbug 
 
 > [!grid]
-> ![[SRD-blipbug-BookSprite.png|wsmall]]
-> ![[SRD-blipbug-HomeSprite.png]]
+> ![[SRD-blipbug-BookSprite.png|wsmall left]]
+> ![[SRD-blipbug-HomeSprite.png|wsmall right]]
 
 *Larva Pokémon*
 *Often found in gardens, Blipbug has hairs on its body that it uses to assess its surroundings. They are very smart and easy to teach but they are not very strong and other Pokémon bully them often.*

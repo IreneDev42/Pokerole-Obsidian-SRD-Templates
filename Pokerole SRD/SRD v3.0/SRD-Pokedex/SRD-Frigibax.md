@@ -73,8 +73,8 @@ Weight:
 # Frigibax 
 
 > [!grid]
-> ![[SRD-frigibax-BookSprite.png|wsmall]]
-> ![[SRD-frigibax-HomeSprite.png]]
+> ![[SRD-frigibax-BookSprite.png|wsmall left]]
+> ![[SRD-frigibax-HomeSprite.png|wsmall right]]
 
 *Ice Fin Pokémon*
 *Using its dorsal fin, Frigibax absorbs heat and converts it into ice energy. Through this method this Pokémon cools the inside of its nest like a refrigerator. It will attack any Bergmite attracted by the cold of its dwelling.*

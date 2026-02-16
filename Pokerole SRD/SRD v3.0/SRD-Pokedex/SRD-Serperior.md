@@ -80,8 +80,8 @@ Weight:
 # Serperior 
 
 > [!grid]
-> ![[SRD-serperior-BookSprite.png|wsmall]]
-> ![[SRD-serperior-HomeSprite.png]]
+> ![[SRD-serperior-BookSprite.png|wsmall left]]
+> ![[SRD-serperior-HomeSprite.png|wsmall right]]
 
 *Regal Pokémon*
 *It stops enemies dead in their tracks with just one intense glare. It is a noble and proud Pokémon. It is not aggressive, but it can be very stubborn. It takes a really strong foe for it to take the fight seriously.*

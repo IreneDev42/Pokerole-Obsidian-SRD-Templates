@@ -80,8 +80,8 @@ Weight:
 # Dragonite 
 
 > [!grid]
-> ![[SRD-dragonite-BookSprite.png|wsmall]]
-> ![[SRD-dragonite-HomeSprite.png]]
+> ![[SRD-dragonite-BookSprite.png|wsmall left]]
+> ![[SRD-dragonite-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *Very few people have ever seen this Pokémon. Its intelligence matches that of humans. There are records of a Pokémon with a similar description that helped rescue a ship full of people during a hurricane.*

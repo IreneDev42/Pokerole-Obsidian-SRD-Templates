@@ -80,8 +80,8 @@ Weight:
 # Audino 
 
 > [!grid]
-> ![[SRD-audino-BookSprite.png|wsmall]]
-> ![[SRD-audino-HomeSprite.png]]
+> ![[SRD-audino-BookSprite.png|wsmall left]]
+> ![[SRD-audino-HomeSprite.png|wsmall right]]
 
 *Hearing Pokémon*
 *Its auditory sense is astounding: using the feelers on its ears, it can know the health state of others. It is a caring Pokémon with a sweet disposition to help, but it is not too common to see in the wild.*

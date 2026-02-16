@@ -89,8 +89,8 @@ Weight:
 # Gallade 
 
 > [!grid]
-> ![[SRD-gallade-BookSprite.png|wsmall]]
-> ![[SRD-gallade-HomeSprite.png]]
+> ![[SRD-gallade-BookSprite.png|wsmall left]]
+> ![[SRD-gallade-HomeSprite.png|wsmall right]]
 
 *Blade Pokémon*
 *This Pokémon is male-only. It has an extreme sense of courtesy. In a battle, it uses its arm blades as if they were swords. It is a very loyal Pokémon and will fiercely defend its trainer with its life.*

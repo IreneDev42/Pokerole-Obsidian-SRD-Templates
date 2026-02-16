@@ -74,8 +74,8 @@ Weight:
 # Flutter Mane 
 
 > [!grid]
-> ![[SRD-flutter-mane-BookSprite.png|wsmall]]
-> ![[SRD-flutter-mane-HomeSprite.png]]
+> ![[SRD-flutter-mane-BookSprite.png|wsmall left]]
+> ![[SRD-flutter-mane-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *It appears to be some form of highly aggressive Misdreavus. It comes out at night, long hair writhing about as its ghostly body floats through the moonlight.*

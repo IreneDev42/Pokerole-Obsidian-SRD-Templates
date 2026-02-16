@@ -78,8 +78,8 @@ Weight:
 # Golduck 
 
 > [!grid]
-> ![[SRD-golduck-BookSprite.png|wsmall]]
-> ![[SRD-golduck-HomeSprite.png]]
+> ![[SRD-golduck-BookSprite.png|wsmall left]]
+> ![[SRD-golduck-HomeSprite.png|wsmall right]]
 
 *Duck Pokémon*
 *A Golduck is a very good swimmer and can be found near most bodies of water. Its forehead shimmers with light when using its psychic abilities. There are records of wild Golduck that rescued people in the water.*

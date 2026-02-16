@@ -77,8 +77,8 @@ Weight:
 # Turtwig 
 
 > [!grid]
-> ![[SRD-turtwig-BookSprite.png|wsmall]]
-> ![[SRD-turtwig-HomeSprite.png]]
+> ![[SRD-turtwig-BookSprite.png|wsmall left]]
+> ![[SRD-turtwig-HomeSprite.png|wsmall right]]
 
 *Tiny Leaf Pokémon*
 *It makes its home close to lakes, although it is rare to find one. The shell on its back is made of hardened soil and should be moist for it to be healthy. It uses photosynthesis to get energy.*

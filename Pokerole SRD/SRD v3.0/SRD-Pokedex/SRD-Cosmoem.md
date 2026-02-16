@@ -67,8 +67,8 @@ Weight:
 # Cosmoem 
 
 > [!grid]
-> ![[SRD-cosmoem-BookSprite.png|wsmall]]
-> ![[SRD-cosmoem-HomeSprite.png]]
+> ![[SRD-cosmoem-BookSprite.png|wsmall left]]
+> ![[SRD-cosmoem-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The creature observed through the telescope changed shapes and remained motionless for the rest of the investigation. A strange energy was gathering on its core.*

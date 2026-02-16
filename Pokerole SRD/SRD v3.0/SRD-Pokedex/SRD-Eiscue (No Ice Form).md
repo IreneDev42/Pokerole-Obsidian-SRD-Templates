@@ -80,8 +80,8 @@ Weight:
 # Eiscue (No Ice Form) 
 
 > [!grid]
-> ![[SRD-eiscue-no-ice-form-BookSprite.png|wsmall]]
-> ![[SRD-eiscue-no-ice-form-HomeSprite.png]]
+> ![[SRD-eiscue-no-ice-form-BookSprite.png|wsmall left]]
+> ![[SRD-eiscue-no-ice-form-HomeSprite.png|wsmall right]]
 
 *Penguin Pokemon*
 *Eiscue (No-Ice) Form is actually its true Form. Without the ice to protect it you can see its worried expression, it's actually quite endearing. It can now move faster but you can see it feels anxious.*

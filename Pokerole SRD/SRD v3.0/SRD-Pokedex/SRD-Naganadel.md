@@ -77,8 +77,8 @@ Weight:
 # Naganadel 
 
 > [!grid]
-> ![[SRD-naganadel-BookSprite.png|wsmall]]
-> ![[SRD-naganadel-HomeSprite.png]]
+> ![[SRD-naganadel-BookSprite.png|wsmall left]]
+> ![[SRD-naganadel-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #164*
 *One specimen of UB-06 Adhesive has apparently evolved. Its friendly demeanor is gone. The large streams of corrosive poison it shot seriously damaged our equipment. I must take a sample to study it.*

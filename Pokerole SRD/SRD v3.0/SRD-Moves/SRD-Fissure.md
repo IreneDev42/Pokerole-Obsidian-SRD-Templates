@@ -11,7 +11,7 @@ Attributes:
   PhysicalRanged: true
   Ranged: true
 Category: Physical
-Damage1: '-'
+Damage1: ''
 Damage2: ''
 Description: "The earth rips apart underneath the target and swallows them whole.\
   \ You\u2019ll need a rescue team to recover the unlucky victim from the deep."

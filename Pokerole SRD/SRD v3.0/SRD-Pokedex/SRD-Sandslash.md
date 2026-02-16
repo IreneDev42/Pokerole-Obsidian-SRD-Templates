@@ -80,8 +80,8 @@ Weight:
 # Sandslash 
 
 > [!grid]
-> ![[SRD-sandslash-BookSprite.png|wsmall]]
-> ![[SRD-sandslash-HomeSprite.png]]
+> ![[SRD-sandslash-BookSprite.png|wsmall left]]
+> ![[SRD-sandslash-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *It's less shy than its first stage. It curls up in a ball to protect itself from enemy attacks. Surprisingly, it is a good climber that uses its sharp claws for grip and drilling tunnels underground.*

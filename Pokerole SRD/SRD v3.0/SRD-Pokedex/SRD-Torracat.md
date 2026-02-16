@@ -79,8 +79,8 @@ Weight:
 # Torracat 
 
 > [!grid]
-> ![[SRD-torracat-BookSprite.png|wsmall]]
-> ![[SRD-torracat-HomeSprite.png]]
+> ![[SRD-torracat-BookSprite.png|wsmall left]]
+> ![[SRD-torracat-HomeSprite.png|wsmall right]]
 
 *Fire Cat Pokémon*
 *The bell on its neck glows and chimes when it shoots fire through it. Although it acts spoiled with its trainer, it is a capable and relentless brawler. It will keep battling until its foes lose their fighting spirits.*

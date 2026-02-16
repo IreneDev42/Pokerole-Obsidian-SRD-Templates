@@ -1,19 +1,17 @@
 ---
-Accuracy1: Special
-Accuracy2: Channel
+Accuracy1: Dexterity
+Accuracy2: Brawl/Channel
 AddedEffects: {}
-Attributes:
-  Recoil: true
-Category: Special
-Damage1: Special
+Attributes: {}
+Category: Physical
+Damage1: Strength/Special
 Damage2: ''
-Description: "The Pok\xE9mon concentrates all of the chlorophyll inside of its body\
-  \ and then makes it explode. Targets are usually tinted green for days afterwards."
-Effect: Single Target. Recoil.
-Name: Cloroblast
-Power: 6
+Description: Scuffle about and make every effort to deliver a blow.
+Effect: Single Target.
+Name: Struggle (Physical)
+Power: 0
 Target: Foe
-Type: Grass
+Type: Typeless
 ---
 
 #PokeroleSRD/Moves

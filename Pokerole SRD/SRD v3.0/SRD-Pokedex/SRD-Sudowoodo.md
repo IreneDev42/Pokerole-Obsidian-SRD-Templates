@@ -77,8 +77,8 @@ Weight:
 # Sudowoodo 
 
 > [!grid]
-> ![[SRD-sudowoodo-BookSprite.png|wsmall]]
-> ![[SRD-sudowoodo-HomeSprite.png]]
+> ![[SRD-sudowoodo-BookSprite.png|wsmall left]]
+> ![[SRD-sudowoodo-HomeSprite.png|wsmall right]]
 
 *Imitation Pokémon*
 *Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its arms remain green throughout the year, this Pokémon is easy to identify in winter. It's a little wary of humans.*

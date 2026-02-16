@@ -78,8 +78,8 @@ Weight:
 # Swalot 
 
 > [!grid]
-> ![[SRD-swalot-BookSprite.png|wsmall]]
-> ![[SRD-swalot-HomeSprite.png]]
+> ![[SRD-swalot-BookSprite.png|wsmall left]]
+> ![[SRD-swalot-HomeSprite.png|wsmall right]]
 
 *Poison Bag Pokémon*
 *Swalot spurt toxic fluids from their pores, and once the prey is weak, it gets swallowed whole since they have no teeth. They may eat anything up to the size of a car's tire. Do not get too close to them.*

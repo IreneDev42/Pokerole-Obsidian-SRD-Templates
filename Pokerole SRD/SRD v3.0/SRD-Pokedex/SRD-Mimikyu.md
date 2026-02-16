@@ -76,8 +76,8 @@ Weight:
 # Mimikyu 
 
 > [!grid]
-> ![[SRD-mimikyu-BookSprite.png|wsmall]]
-> ![[SRD-mimikyu-HomeSprite.png]]
+> ![[SRD-mimikyu-BookSprite.png|wsmall left]]
+> ![[SRD-mimikyu-HomeSprite.png|wsmall right]]
 
 *Disguise Pokémon*
 *No one really knows what its true form looks like; the only scholar that dared to look under the veil died on the spot due to sheer terror. It disguises itself as a Pikachu in an effort to make friends.*

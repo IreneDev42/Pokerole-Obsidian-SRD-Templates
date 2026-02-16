@@ -73,8 +73,8 @@ Weight:
 # Dedenne 
 
 > [!grid]
-> ![[SRD-dedenne-BookSprite.png|wsmall]]
-> ![[SRD-dedenne-HomeSprite.png]]
+> ![[SRD-dedenne-BookSprite.png|wsmall left]]
+> ![[SRD-dedenne-HomeSprite.png|wsmall right]]
 
 *Antenna Pokémon*
 *The tail is used to absorb electricity from power outlets. They communicate with each other by feeling the static on their whiskers. Its cute and cuddly appearance make it a favorite pet.*

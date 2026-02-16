@@ -75,8 +75,8 @@ Weight:
 # Crabrawler 
 
 > [!grid]
-> ![[SRD-crabrawler-BookSprite.png|wsmall]]
-> ![[SRD-crabrawler-HomeSprite.png]]
+> ![[SRD-crabrawler-BookSprite.png|wsmall left]]
+> ![[SRD-crabrawler-HomeSprite.png|wsmall right]]
 
 *Boxing Pokémon*
 *They can be found at the beach, but as they grow stronger, they also venture more into the land where they fight for ripe berries. They punch with their pincers -- which are delicious with butter by the way.*

@@ -79,8 +79,8 @@ Weight:
 # Cacnea 
 
 > [!grid]
-> ![[SRD-cacnea-BookSprite.png|wsmall]]
-> ![[SRD-cacnea-HomeSprite.png]]
+> ![[SRD-cacnea-BookSprite.png|wsmall left]]
+> ![[SRD-cacnea-HomeSprite.png|wsmall right]]
 
 *Cactus Pokémon*
 *They release a strong and sweet aroma to attract prey. If they get closer, Cacnea shoot sharp thorns to bring them down. They resemble cactuses and hide among them.*

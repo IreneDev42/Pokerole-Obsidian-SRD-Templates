@@ -75,8 +75,8 @@ Weight:
 # Sandygast 
 
 > [!grid]
-> ![[SRD-sandygast-BookSprite.png|wsmall]]
-> ![[SRD-sandygast-HomeSprite.png]]
+> ![[SRD-sandygast-BookSprite.png|wsmall left]]
+> ![[SRD-sandygast-HomeSprite.png|wsmall right]]
 
 *Sand Heap Pokémon*
 *Some departed soul made a child's sand mound its vessel. Anyone who puts their hand inside its mouth will have their vital energy absorbed and their mind possessed to add more sand until they collapse.*

@@ -76,8 +76,8 @@ Weight:
 # Minccino 
 
 > [!grid]
-> ![[SRD-minccino-BookSprite.png|wsmall]]
-> ![[SRD-minccino-HomeSprite.png]]
+> ![[SRD-minccino-BookSprite.png|wsmall left]]
+> ![[SRD-minccino-HomeSprite.png|wsmall right]]
 
 *Chinchilla Pokémon*
 *They greet one another by rubbing their tails, which are always kept well-groomed and clean. Houseparents love to keep them as pets because they eagerly help to clean the house.*

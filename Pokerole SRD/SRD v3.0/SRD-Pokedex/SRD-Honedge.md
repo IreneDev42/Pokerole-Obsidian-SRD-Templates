@@ -74,8 +74,8 @@ Weight:
 # Honedge 
 
 > [!grid]
-> ![[SRD-honedge-BookSprite.png|wsmall]]
-> ![[SRD-honedge-HomeSprite.png]]
+> ![[SRD-honedge-BookSprite.png|wsmall left]]
+> ![[SRD-honedge-HomeSprite.png|wsmall right]]
 
 *Sword Pokémon*
 *Ancient wars saw this ruthless Pokémon born from the spirits of fallen warriors. It is a cursed sword that seeks revenge and bloodshed. It will drain the life energy of anyone that wields it.*

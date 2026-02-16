@@ -79,8 +79,8 @@ Weight:
 # Camerupt (Mega Form) 
 
 > [!grid]
-> ![[SRD-camerupt-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-camerupt-mega-form-HomeSprite.png]]
+> ![[SRD-camerupt-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-camerupt-mega-form-HomeSprite.png|wsmall right]]
 
 *Eruption Pokémon*
 *The power of the Mega Stone melts its two humps into a single one. The single hump is heavier, making it slower, but its newly-renewed attitude makes the hump erupt in heavy bursts of molten lava.*

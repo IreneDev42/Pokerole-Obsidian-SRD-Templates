@@ -77,8 +77,8 @@ Weight:
 # Maushold 
 
 > [!grid]
-> ![[SRD-maushold-BookSprite.png|wsmall]]
-> ![[SRD-maushold-HomeSprite.png]]
+> ![[SRD-maushold-BookSprite.png|wsmall left]]
+> ![[SRD-maushold-HomeSprite.png|wsmall right]]
 
 *Family Pokémon*
 *When two Tandemaus love each other very very much they'll start a loving family. The larger pair will protect the little ones but if the foe is too strong, all the family will join to bring down the menace.*

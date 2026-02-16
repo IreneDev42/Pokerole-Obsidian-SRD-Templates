@@ -55,8 +55,8 @@ Weight:
 # Zacian (Crown Form) 
 
 > [!grid]
-> ![[SRD-zacian-crown-form-BookSprite.png|wsmall]]
-> ![[SRD-zacian-crown-form-HomeSprite.png]]
+> ![[SRD-zacian-crown-form-BookSprite.png|wsmall left]]
+> ![[SRD-zacian-crown-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a legend about a mighty sword able to cut down anything with a single strike. It became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.*

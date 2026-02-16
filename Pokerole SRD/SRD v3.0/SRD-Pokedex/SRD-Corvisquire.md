@@ -80,8 +80,8 @@ Weight:
 # Corvisquire 
 
 > [!grid]
-> ![[SRD-corvisquire-BookSprite.png|wsmall]]
-> ![[SRD-corvisquire-HomeSprite.png]]
+> ![[SRD-corvisquire-BookSprite.png|wsmall left]]
+> ![[SRD-corvisquire-HomeSprite.png|wsmall right]]
 
 *Raven Pokémon*
 *They are smart enough to use tools. In battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up foes. They choose their battles carefully and do not retreat.*

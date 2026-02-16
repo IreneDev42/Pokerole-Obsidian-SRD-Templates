@@ -58,8 +58,8 @@ Weight:
 # Latias (Mega Form) 
 
 > [!grid]
-> ![[SRD-latias-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-latias-mega-form-HomeSprite.png]]
+> ![[SRD-latias-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-latias-mega-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Latias is very in sync with human emotions; it can communicate using telepathy. With the power of the Mega Stone, all of its capabilities are enhanced, although its personality becomes more distant than usual.*

@@ -75,8 +75,8 @@ Weight:
 # Bruxish 
 
 > [!grid]
-> ![[SRD-bruxish-BookSprite.png|wsmall]]
-> ![[SRD-bruxish-HomeSprite.png]]
+> ![[SRD-bruxish-BookSprite.png|wsmall left]]
+> ![[SRD-bruxish-HomeSprite.png|wsmall right]]
 
 *Gnash Teeth Pokémon*
 *The protuberance on its head emits psychic waves that confuse its prey; while it is confused, Bruxish grinds it with its sharp teeth. This grinding noise makes other Pokémon flee from the place in hurry.*

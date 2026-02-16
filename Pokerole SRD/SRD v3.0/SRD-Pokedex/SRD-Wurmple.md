@@ -66,8 +66,8 @@ Weight:
 # Wurmple 
 
 > [!grid]
-> ![[SRD-wurmple-BookSprite.png|wsmall]]
-> ![[SRD-wurmple-HomeSprite.png]]
+> ![[SRD-wurmple-BookSprite.png|wsmall left]]
+> ![[SRD-wurmple-HomeSprite.png|wsmall right]]
 
 *Worm Pokémon*
 *It uses the spikes on its rear to peel the bark from trees and feed on their sap. Their feet have suction pads to climb easily. Wurmple are plentiful and live in forests, but they are often attacked by bird Pokémon.*

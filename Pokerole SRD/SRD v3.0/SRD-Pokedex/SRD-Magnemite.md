@@ -77,8 +77,8 @@ Weight:
 # Magnemite 
 
 > [!grid]
-> ![[SRD-magnemite-BookSprite.png|wsmall]]
-> ![[SRD-magnemite-HomeSprite.png]]
+> ![[SRD-magnemite-BookSprite.png|wsmall left]]
+> ![[SRD-magnemite-HomeSprite.png|wsmall right]]
 
 *Magnet Pokémon*
 *It lurks near electric facilities and mountains as it is attracted by big magnetic fields. It is not aggressive and usually defends itself with a screech or a weak electric impulse to deter others from attacking.*

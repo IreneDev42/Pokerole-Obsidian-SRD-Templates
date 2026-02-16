@@ -81,8 +81,8 @@ Weight:
 # Delphox 
 
 > [!grid]
-> ![[SRD-delphox-BookSprite.png|wsmall]]
-> ![[SRD-delphox-HomeSprite.png]]
+> ![[SRD-delphox-BookSprite.png|wsmall left]]
+> ![[SRD-delphox-HomeSprite.png|wsmall right]]
 
 *Fox Pokémon*
 *It swirls its twig to create amazing flamethrowers. It gazes into the flame at the tip of its stick to achieve a focused state; rumor says that it can see the future within the glowing ember.*

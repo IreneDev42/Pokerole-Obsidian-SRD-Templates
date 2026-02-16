@@ -75,8 +75,8 @@ Weight:
 # Nidoran M 
 
 > [!grid]
-> ![[SRD-nidoran-m-BookSprite.png|wsmall]]
-> ![[SRD-nidoran-m-HomeSprite.png]]
+> ![[SRD-nidoran-m-BookSprite.png|wsmall left]]
+> ![[SRD-nidoran-m-HomeSprite.png|wsmall right]]
 
 *Poison Pin Pokémon*
 *The male Nidoran has developed a great alertness to sounds. Its small body is covered in spikes that are drenched in venom when he’s threatened. He will defend his mate and home fiercely.*

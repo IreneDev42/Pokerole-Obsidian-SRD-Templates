@@ -80,8 +80,8 @@ Weight:
 # Snorlax 
 
 > [!grid]
-> ![[SRD-snorlax-BookSprite.png|wsmall]]
-> ![[SRD-snorlax-HomeSprite.png]]
+> ![[SRD-snorlax-BookSprite.png|wsmall left]]
+> ![[SRD-snorlax-HomeSprite.png|wsmall right]]
 
 *Sleeping Pokémon*
 *Snorlax's typical day consists of eating and sleeping. It is such a docile Pokémon that children use its big belly as a place to play. It only attacks when it's awoken harshly. Fortunately it is a heavy sleeper.*

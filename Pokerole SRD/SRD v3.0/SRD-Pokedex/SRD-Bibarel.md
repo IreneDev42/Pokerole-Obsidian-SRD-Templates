@@ -82,8 +82,8 @@ Weight:
 # Bibarel 
 
 > [!grid]
-> ![[SRD-bibarel-BookSprite.png|wsmall]]
-> ![[SRD-bibarel-HomeSprite.png]]
+> ![[SRD-bibarel-BookSprite.png|wsmall left]]
+> ![[SRD-bibarel-HomeSprite.png|wsmall right]]
 
 *Beaver Pokémon*
 *Bibarels build dams in streams with bark and mud. It is known as an industrious worker. Their constructions are very appreciated by people because a river dammed by Bibarel will never overflow.*

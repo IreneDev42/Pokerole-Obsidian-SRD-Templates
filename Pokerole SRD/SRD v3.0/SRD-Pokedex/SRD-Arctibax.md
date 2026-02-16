@@ -79,8 +79,8 @@ Weight:
 # Arctibax 
 
 > [!grid]
-> ![[SRD-arctibax-BookSprite.png|wsmall]]
-> ![[SRD-arctibax-HomeSprite.png]]
+> ![[SRD-arctibax-BookSprite.png|wsmall left]]
+> ![[SRD-arctibax-HomeSprite.png|wsmall right]]
 
 *Ice Fin Pokémon*
 *Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice. Its strong back and legs allow it to flip in the air and swiftly strike with its improvised weapon.*

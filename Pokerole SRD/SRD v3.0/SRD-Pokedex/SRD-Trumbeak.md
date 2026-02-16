@@ -80,8 +80,8 @@ Weight:
 # Trumbeak 
 
 > [!grid]
-> ![[SRD-trumbeak-BookSprite.png|wsmall]]
-> ![[SRD-trumbeak-HomeSprite.png]]
+> ![[SRD-trumbeak-BookSprite.png|wsmall left]]
+> ![[SRD-trumbeak-HomeSprite.png|wsmall right]]
 
 *Bugle Beak Pokémon*
 *This Pokémon bends its beak to produce a variety of sounds, much to the annoyance of the neighbors. It also shoots a burst of berry seeds at its foes, prey, or an unsuspecting passerby.*

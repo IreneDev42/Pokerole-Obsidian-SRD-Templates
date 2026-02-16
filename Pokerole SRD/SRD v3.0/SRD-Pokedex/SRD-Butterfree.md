@@ -79,8 +79,8 @@ Weight:
 # Butterfree 
 
 > [!grid]
-> ![[SRD-butterfree-BookSprite.png|wsmall]]
-> ![[SRD-butterfree-HomeSprite.png]]
+> ![[SRD-butterfree-BookSprite.png|wsmall left]]
+> ![[SRD-butterfree-HomeSprite.png|wsmall right]]
 
 *Butterfly Pokémon*
 *It can be found in forests and plains. It loves the honey in some flowers even with tiny amounts of pollen. Its wings are covered by dust that allows it to fly even when it's raining.*

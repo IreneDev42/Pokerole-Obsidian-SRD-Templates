@@ -1,21 +1,19 @@
 ---
-Accuracy1: Insight
-Accuracy2: Intimidate
+Accuracy1: Special
+Accuracy2: Channel
 AddedEffects: {}
 Attributes:
-  IgnoreDefenses: true
-  Unique: true
+  Recoil: true
 Category: Special
 Damage1: Special
 Damage2: ''
-Description: Sooner or later, everyone gets what they deserve.
-Effect: Single Target. Unique. Ignore Defenses. This Move's Type, Power and extra
-  Added Effects are decided by Storyteller. If something would prevent this Move from
-  dealing Damage, ignore it. This Move can't be Clashed.
-Name: Judgement
-Power: 0
+Description: "The Pok\xE9mon concentrates all of the chlorophyll inside of their body\
+  \ to make it explode. Targets are tinted green for days afterwards."
+Effect: Single Target. Recoil.
+Name: Chloroblast
+Power: 6
 Target: Foe
-Type: Normal
+Type: Grass
 ---
 
 #PokeroleSRD/Moves

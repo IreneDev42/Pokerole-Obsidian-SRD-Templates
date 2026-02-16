@@ -77,8 +77,8 @@ Weight:
 # Yamper 
 
 > [!grid]
-> ![[SRD-yamper-BookSprite.png|wsmall]]
-> ![[SRD-yamper-HomeSprite.png]]
+> ![[SRD-yamper-BookSprite.png|wsmall left]]
+> ![[SRD-yamper-HomeSprite.png|wsmall right]]
 
 *Puppy Pokémon*
 *Its energy and big smile make this Pokémon very popular as a herding dog. When it runs, it generates electricity from the base of its tail. It loves to fetch balls and if you give it some treats it will love you forever.*

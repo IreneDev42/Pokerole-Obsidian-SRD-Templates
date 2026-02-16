@@ -64,8 +64,8 @@ Weight:
 # Abra 
 
 > [!grid]
-> ![[SRD-abra-BookSprite.png|wsmall]]
-> ![[SRD-abra-HomeSprite.png]]
+> ![[SRD-abra-BookSprite.png|wsmall left]]
+> ![[SRD-abra-HomeSprite.png|wsmall right]]
 
 *Psi Pokémon*
 *They are attracted to the cities and tend to live close to humans. Its Psychic abilities are still developing; it must sleep 18 hours a day or else it won't be able to use them. When in danger, it teleports away.*

@@ -76,8 +76,8 @@ Weight:
 # Pawniard 
 
 > [!grid]
-> ![[SRD-pawniard-BookSprite.png|wsmall]]
-> ![[SRD-pawniard-HomeSprite.png]]
+> ![[SRD-pawniard-BookSprite.png|wsmall left]]
+> ![[SRD-pawniard-HomeSprite.png|wsmall right]]
 
 *Sharp Blade Pokémon*
 *They live in groups commanded by Bisharp. They cling to their prey and inflict damage by sinking their blades into them. If battling dulls the blades, it sharpens them on stones by the river. It takes them years to evolve.*

@@ -79,8 +79,8 @@ Weight:
 # Beedrill (Mega Form) 
 
 > [!grid]
-> ![[SRD-beedrill-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-beedrill-mega-form-HomeSprite.png]]
+> ![[SRD-beedrill-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-beedrill-mega-form-HomeSprite.png|wsmall right]]
 
 *Poison Bee Pokémon*
 *With the power of the Mega Stone all of its limbs are now powerful stingers. Their attack can be really vicious, stinging and piercing its foe repeatedly until the finishing blow with the stinger on its rear.*

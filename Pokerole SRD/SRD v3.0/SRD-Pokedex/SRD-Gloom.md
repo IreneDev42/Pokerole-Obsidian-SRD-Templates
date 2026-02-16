@@ -84,8 +84,8 @@ Weight:
 # Gloom 
 
 > [!grid]
-> ![[SRD-gloom-BookSprite.png|wsmall]]
-> ![[SRD-gloom-HomeSprite.png]]
+> ![[SRD-gloom-BookSprite.png|wsmall left]]
+> ![[SRD-gloom-HomeSprite.png|wsmall right]]
 
 *Weed Pokémon*
 *A horribly noxious honey drools from its mouth. One whiff of the honey can result in sickness. Some fans are said to enjoy its overwhelming stink, though. You can control this foul smell with lots of love and care.*

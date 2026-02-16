@@ -80,8 +80,8 @@ Weight:
 # Meganium 
 
 > [!grid]
-> ![[SRD-meganium-BookSprite.png|wsmall]]
-> ![[SRD-meganium-HomeSprite.png]]
+> ![[SRD-meganium-BookSprite.png|wsmall left]]
+> ![[SRD-meganium-HomeSprite.png|wsmall right]]
 
 *Herb Pokémon*
 *Meganium's breath has the power to revive dead grass and plants. The aroma that comes from its petals contains a substance that calms aggressive feelings and helps others to restore health.*

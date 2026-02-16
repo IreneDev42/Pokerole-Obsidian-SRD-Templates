@@ -86,8 +86,8 @@ Weight:
 # Jigglypuff 
 
 > [!grid]
-> ![[SRD-jigglypuff-BookSprite.png|wsmall]]
-> ![[SRD-jigglypuff-HomeSprite.png]]
+> ![[SRD-jigglypuff-BookSprite.png|wsmall left]]
+> ![[SRD-jigglypuff-HomeSprite.png|wsmall right]]
 
 *Balloon Pokémon*
 *They live in grassy fields near the mountains. To climb, they inflate their bodies and bounce up. It captivates foes with its huge, round eyes, then lulls them to sleep by singing a sweet soothing melody.*

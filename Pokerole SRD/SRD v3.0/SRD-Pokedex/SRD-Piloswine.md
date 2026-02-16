@@ -80,8 +80,8 @@ Weight:
 # Piloswine 
 
 > [!grid]
-> ![[SRD-piloswine-BookSprite.png|wsmall]]
-> ![[SRD-piloswine-HomeSprite.png]]
+> ![[SRD-piloswine-BookSprite.png|wsmall left]]
+> ![[SRD-piloswine-HomeSprite.png|wsmall right]]
 
 *Swine Pokémon*
 *Their long hair obscures their sight, but they're sensitive to sound and smells. Piloswine's rugged hooves prevent it from slipping on icy terrain. Amazingly, their tusks are made of solid ice.*

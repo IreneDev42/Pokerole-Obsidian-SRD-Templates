@@ -76,8 +76,8 @@ Weight:
 # Pidgey 
 
 > [!grid]
-> ![[SRD-pidgey-BookSprite.png|wsmall]]
-> ![[SRD-pidgey-HomeSprite.png]]
+> ![[SRD-pidgey-BookSprite.png|wsmall left]]
+> ![[SRD-pidgey-HomeSprite.png|wsmall right]]
 
 *Tiny Bird Pokémon*
 *Very common around the world, it prefers to live in forests but can be seen around cities and plains too. It's a docile Pokémon that tends to avoid trouble. It flaps its wings to lure prey out of hiding.*

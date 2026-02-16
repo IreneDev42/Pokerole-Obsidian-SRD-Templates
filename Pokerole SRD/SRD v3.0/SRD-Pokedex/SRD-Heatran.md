@@ -69,8 +69,8 @@ Weight:
 # Heatran 
 
 > [!grid]
-> ![[SRD-heatran-BookSprite.png|wsmall]]
-> ![[SRD-heatran-HomeSprite.png]]
+> ![[SRD-heatran-BookSprite.png|wsmall left]]
+> ![[SRD-heatran-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *An old painting showed a similar Pokémon standing atop an erupting volcano.*

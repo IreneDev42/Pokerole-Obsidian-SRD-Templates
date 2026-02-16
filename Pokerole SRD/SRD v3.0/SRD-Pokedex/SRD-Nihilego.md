@@ -77,8 +77,8 @@ Weight:
 # Nihilego 
 
 > [!grid]
-> ![[SRD-nihilego-BookSprite.png|wsmall]]
-> ![[SRD-nihilego-HomeSprite.png]]
+> ![[SRD-nihilego-BookSprite.png|wsmall left]]
+> ![[SRD-nihilego-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #047*
 *We are unable to determine if the creature is sentient or not; it adapts its behavior depending on its last host. It hasn't stopped behaving like a little girl since then. It's both unsettling and fascinating.*

@@ -76,8 +76,8 @@ Weight:
 # Glalie (Mega Form) 
 
 > [!grid]
-> ![[SRD-glalie-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-glalie-mega-form-HomeSprite.png]]
+> ![[SRD-glalie-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-glalie-mega-form-HomeSprite.png|wsmall right]]
 
 *Face Pokémon*
 *The power of the Mega Stone bent its jaw at an unnatural angle. This helps it spew enormous blizzards, but leaves it unable to eat any prey it catches. This makes it angry and will weaken it if it stays in this form.*

@@ -78,8 +78,8 @@ Weight:
 # Charcadet 
 
 > [!grid]
-> ![[SRD-charcadet-BookSprite.png|wsmall]]
-> ![[SRD-charcadet-HomeSprite.png]]
+> ![[SRD-charcadet-BookSprite.png|wsmall left]]
+> ![[SRD-charcadet-HomeSprite.png|wsmall right]]
 
 *Fire Child Pokémon*
 *It is said a burnt charcoal came to life after being possesed by a fiery spirit. They are brave little creatures who won't retreat from a battle, attacking with raging flames. They are known to love fatty foods.*

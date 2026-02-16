@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: This Herb infuses a glowing energy. Restore any lowered Attribute/Trait.
   Single use.
 Image: SRD-white-herb-ItemSprite.png

@@ -75,8 +75,8 @@ Weight:
 # Slaking 
 
 > [!grid]
-> ![[SRD-slaking-BookSprite.png|wsmall]]
-> ![[SRD-slaking-HomeSprite.png]]
+> ![[SRD-slaking-BookSprite.png|wsmall left]]
+> ![[SRD-slaking-HomeSprite.png|wsmall right]]
 
 *Lazy Pokémon*
 *They spend all day sleeping and eating grass that grows within their reach. Sometimes they live beneath trees, waiting for fruits to fall. They dislike intruders on their territory but rarely do anything about them.*

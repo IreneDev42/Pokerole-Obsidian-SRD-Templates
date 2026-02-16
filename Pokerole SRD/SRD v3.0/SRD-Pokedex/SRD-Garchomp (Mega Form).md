@@ -80,8 +80,8 @@ Weight:
 # Garchomp (Mega Form) 
 
 > [!grid]
-> ![[SRD-garchomp-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-garchomp-mega-form-HomeSprite.png]]
+> ![[SRD-garchomp-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-garchomp-mega-form-HomeSprite.png|wsmall right]]
 
 *Mach Pokémon*
 *The excess power from the Mega Stone melted its fins and claws together, forming sharp, dangerous scythes. If its disposition was already violent, it increases tenfold. They are feral and extremely vicious!*

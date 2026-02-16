@@ -74,8 +74,8 @@ Weight:
 # Spectrier 
 
 > [!grid]
-> ![[SRD-spectrier-BookSprite.png|wsmall]]
-> ![[SRD-spectrier-HomeSprite.png]]
+> ![[SRD-spectrier-BookSprite.png|wsmall left]]
+> ![[SRD-spectrier-HomeSprite.png|wsmall right]]
 
 *Pokédex has no Data*
 *People have reported seeing a black horse, quietly prancing in the dark of the night. As soon as the creature notices them, it vanishes in the shadows. Its cries bring feelings of dread to the listeners.*

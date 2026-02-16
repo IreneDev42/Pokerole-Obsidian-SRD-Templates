@@ -74,8 +74,8 @@ Weight:
 # Iron Thorns 
 
 > [!grid]
-> ![[SRD-iron-thorns-BookSprite.png|wsmall]]
-> ![[SRD-iron-thorns-HomeSprite.png]]
+> ![[SRD-iron-thorns-BookSprite.png|wsmall left]]
+> ![[SRD-iron-thorns-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A killing machine from the far future. It's been re-programmed and sent to the past to protect a certain individual. It is highly intelligent and only fights when necessary.*

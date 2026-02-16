@@ -79,8 +79,8 @@ Weight:
 # Kadabra 
 
 > [!grid]
-> ![[SRD-kadabra-BookSprite.png|wsmall]]
-> ![[SRD-kadabra-HomeSprite.png]]
+> ![[SRD-kadabra-BookSprite.png|wsmall left]]
+> ![[SRD-kadabra-HomeSprite.png|wsmall right]]
 
 *Psi Pokémon*
 *Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves of its brain. When this Pokémon walks in, objects near to it go crazy, moving in ways they shouldn't.*

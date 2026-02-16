@@ -78,8 +78,8 @@ Weight:
 # Dodrio 
 
 > [!grid]
-> ![[SRD-dodrio-BookSprite.png|wsmall]]
-> ![[SRD-dodrio-HomeSprite.png]]
+> ![[SRD-dodrio-BookSprite.png|wsmall left]]
+> ![[SRD-dodrio-HomeSprite.png|wsmall right]]
 
 *Triple Bird Pokémon*
 *A third head comes to change the dynamic the two originals had. It is common to see the three heads fighting. Each one has its own personality, but when they work as a team they can be very powerful.*

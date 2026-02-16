@@ -72,8 +72,8 @@ Weight:
 # Slakoth 
 
 > [!grid]
-> ![[SRD-slakoth-BookSprite.png|wsmall]]
-> ![[SRD-slakoth-HomeSprite.png]]
+> ![[SRD-slakoth-BookSprite.png|wsmall left]]
+> ![[SRD-slakoth-HomeSprite.png|wsmall right]]
 
 *Slacker Pokémon*
 *They laze around 20 hours a day, barely even eating. Slakoth remain motionless no matter what. It's very rare to see this Pokémon doing anything; most of them never even bother to evolve.*

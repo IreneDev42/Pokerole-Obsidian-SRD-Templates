@@ -55,8 +55,8 @@ Weight:
 # Groudon 
 
 > [!grid]
-> ![[SRD-groudon-BookSprite.png|wsmall]]
-> ![[SRD-groudon-HomeSprite.png]]
+> ![[SRD-groudon-BookSprite.png|wsmall left]]
+> ![[SRD-groudon-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Described in mythology as the god creator of lands, mountains, volcanoes, and continents. Any water or clouds evaporate in its presence. It is the mortal enemy of Kyogre.*

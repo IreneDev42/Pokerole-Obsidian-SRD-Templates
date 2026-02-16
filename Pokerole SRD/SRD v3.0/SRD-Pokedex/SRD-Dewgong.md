@@ -78,8 +78,8 @@ Weight:
 # Dewgong 
 
 > [!grid]
-> ![[SRD-dewgong-BookSprite.png|wsmall]]
-> ![[SRD-dewgong-HomeSprite.png]]
+> ![[SRD-dewgong-BookSprite.png|wsmall left]]
+> ![[SRD-dewgong-HomeSprite.png|wsmall right]]
 
 *Sea Lion Pokémon*
 *Its body is covered with a pure white fur. The colder the weather, the more active it becomes. It hunts at night and it's excellent at catching fish Pokémon. It is also very intelligent and playful.*

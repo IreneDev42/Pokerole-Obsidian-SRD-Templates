@@ -83,8 +83,8 @@ Weight:
 # Marill 
 
 > [!grid]
-> ![[SRD-marill-BookSprite.png|wsmall]]
-> ![[SRD-marill-HomeSprite.png]]
+> ![[SRD-marill-BookSprite.png|wsmall left]]
+> ![[SRD-marill-HomeSprite.png|wsmall right]]
 
 *Aqua Mouse Pokémon*
 *Marill's tail acts like a floater. Seeing its tail bobbing on the water's surface is a sure indication that this Pokémon is diving to feed on algae and aquatic plants. This Pokémon is curious towards humans.*

@@ -75,8 +75,8 @@ Weight:
 # Popplio 
 
 > [!grid]
-> ![[SRD-popplio-BookSprite.png|wsmall]]
-> ![[SRD-popplio-HomeSprite.png]]
+> ![[SRD-popplio-BookSprite.png|wsmall left]]
+> ![[SRD-popplio-HomeSprite.png|wsmall right]]
 
 *Sea Lion Pokémon*
 *A fun-loving Pokémon. It snorts water bubbles from its nose and balances them. It is tenacious and diligent to train. They are agile swimmers and prefer acrobatic stunts to move on the ground.*

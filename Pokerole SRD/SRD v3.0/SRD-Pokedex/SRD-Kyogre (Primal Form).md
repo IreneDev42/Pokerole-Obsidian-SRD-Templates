@@ -55,8 +55,8 @@ Weight:
 # Kyogre (Primal Form) 
 
 > [!grid]
-> ![[SRD-kyogre-primal-form-BookSprite.png|wsmall]]
-> ![[SRD-kyogre-primal-form-HomeSprite.png]]
+> ![[SRD-kyogre-primal-form-BookSprite.png|wsmall left]]
+> ![[SRD-kyogre-primal-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Millions of years ago, chaos reigned. Neverending typhoons drowned all life under unforgiving waters. Who was so sad and hurt in the deep darkness of the sea? Its sapphire tears still flood the world.*

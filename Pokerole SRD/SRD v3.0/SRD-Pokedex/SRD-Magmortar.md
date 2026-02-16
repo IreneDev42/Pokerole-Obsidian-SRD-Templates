@@ -78,8 +78,8 @@ Weight:
 # Magmortar 
 
 > [!grid]
-> ![[SRD-magmortar-BookSprite.png|wsmall]]
-> ![[SRD-magmortar-HomeSprite.png]]
+> ![[SRD-magmortar-BookSprite.png|wsmall left]]
+> ![[SRD-magmortar-HomeSprite.png|wsmall right]]
 
 *Blast Pokémon*
 *Magmortar is extremely rare; if you're lucky you can find one living directly in volcanic craters. It raises the temperature of its body at will to the point of bursting into flames. The fire it produces is almost white.*

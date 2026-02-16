@@ -84,8 +84,8 @@ Weight:
 # Clefable 
 
 > [!grid]
-> ![[SRD-clefable-BookSprite.png|wsmall]]
-> ![[SRD-clefable-HomeSprite.png]]
+> ![[SRD-clefable-BookSprite.png|wsmall left]]
+> ![[SRD-clefable-HomeSprite.png|wsmall right]]
 
 *Fairy Pokémon*
 *There are not many records about it in the wild. They are timid but playful. Clefable uses its wings to skip lightly as if it was flying. Its bouncy step lets it walk on water. On quiet, moonlit nights, it strolls near quiet lakes.*

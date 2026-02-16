@@ -83,8 +83,8 @@ Weight:
 # Magneton 
 
 > [!grid]
-> ![[SRD-magneton-BookSprite.png|wsmall]]
-> ![[SRD-magneton-HomeSprite.png]]
+> ![[SRD-magneton-BookSprite.png|wsmall left]]
+> ![[SRD-magneton-HomeSprite.png|wsmall right]]
 
 *Magnet Pokémon*
 *Sometimes three Magnemite fuse into this Pokémon; other times, a single one sprouts two others. This species is greatly affected by magnetic fields. Magneton are eager to please their trainers.*

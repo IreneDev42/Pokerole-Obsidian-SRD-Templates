@@ -76,8 +76,8 @@ Weight:
 # Drowzee 
 
 > [!grid]
-> ![[SRD-drowzee-BookSprite.png|wsmall]]
-> ![[SRD-drowzee-HomeSprite.png]]
+> ![[SRD-drowzee-BookSprite.png|wsmall left]]
+> ![[SRD-drowzee-HomeSprite.png|wsmall right]]
 
 *Hypnosis Pokémon*
 *It eats the dreams of a sleeping person or Pokémon and shows fondness for the dreams of young children. Once the victim is deep in slumber, it will extract and eat the dream through the nose.*

@@ -77,8 +77,8 @@ Weight:
 # Poochyena 
 
 > [!grid]
-> ![[SRD-poochyena-BookSprite.png|wsmall]]
-> ![[SRD-poochyena-HomeSprite.png]]
+> ![[SRD-poochyena-BookSprite.png|wsmall left]]
+> ![[SRD-poochyena-HomeSprite.png|wsmall right]]
 
 *Bite Pokémon*
 *Poochyena will bite anything that moves. They will chase people and other Pokémon for dozens of miles without losing track. This Pokémon is persistent and tenacious. In the wild, they form small hunting packs.*

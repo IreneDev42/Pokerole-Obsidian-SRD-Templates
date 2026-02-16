@@ -76,8 +76,8 @@ Weight:
 # Hoopa 
 
 > [!grid]
-> ![[SRD-hoopa-BookSprite.png|wsmall]]
-> ![[SRD-hoopa-HomeSprite.png]]
+> ![[SRD-hoopa-BookSprite.png|wsmall left]]
+> ![[SRD-hoopa-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a story of an old demon whose power had to be contained by a spell. The spell was a partial success as the demon could still roam free, but its power and evil was greatly diminished.*

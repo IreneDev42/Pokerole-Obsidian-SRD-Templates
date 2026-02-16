@@ -83,8 +83,8 @@ Weight:
 # Bisharp 
 
 > [!grid]
-> ![[SRD-bisharp-BookSprite.png|wsmall]]
-> ![[SRD-bisharp-HomeSprite.png]]
+> ![[SRD-bisharp-BookSprite.png|wsmall left]]
+> ![[SRD-bisharp-HomeSprite.png|wsmall right]]
 
 *Sword Blade Pokémon*
 *It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses. They are ruthless leaders and merciless with their foes. Weakness has no place among them.*

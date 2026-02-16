@@ -78,8 +78,8 @@ Weight:
 # Sharpedo (Mega Form) 
 
 > [!grid]
-> ![[SRD-sharpedo-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-sharpedo-mega-form-HomeSprite.png]]
+> ![[SRD-sharpedo-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-sharpedo-mega-form-HomeSprite.png|wsmall right]]
 
 *Brutal Pokémon*
 *As soon as it feels the power of the Mega Stone surge through its body, its mind goes blank with fury and violence. Its sharp spikes and teeth regrow sharper if it loses them. The yellow marks on its body are scars.*

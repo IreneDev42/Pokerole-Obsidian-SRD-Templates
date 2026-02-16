@@ -84,8 +84,8 @@ Weight:
 # Houndoom 
 
 > [!grid]
-> ![[SRD-houndoom-BookSprite.png|wsmall]]
-> ![[SRD-houndoom-HomeSprite.png]]
+> ![[SRD-houndoom-BookSprite.png|wsmall left]]
+> ![[SRD-houndoom-HomeSprite.png|wsmall right]]
 
 *Dark Pokémon*
 *It is said the pain from its flames never goes away. Long ago, their howl was thought to be the call of the grim reaper. Pokémon and people who hear it will always shiver in fear. They are pack leaders, not followers.*

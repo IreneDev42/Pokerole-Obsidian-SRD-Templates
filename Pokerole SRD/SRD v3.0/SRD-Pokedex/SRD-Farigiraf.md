@@ -80,8 +80,8 @@ Weight:
 # Farigiraf 
 
 > [!grid]
-> ![[SRD-farigiraf-BookSprite.png|wsmall]]
-> ![[SRD-farigiraf-HomeSprite.png]]
+> ![[SRD-farigiraf-BookSprite.png|wsmall left]]
+> ![[SRD-farigiraf-HomeSprite.png|wsmall right]]
 
 *Long Neck Pokémon*
 *The brain waves of the head and tail synch up, increasing its Psychic powers. The hardened head from its tail protects the main body when whipping its neck around to headbutt enemies.*

@@ -75,8 +75,8 @@ Weight:
 # Porygon 
 
 > [!grid]
-> ![[SRD-porygon-BookSprite.png|wsmall]]
-> ![[SRD-porygon-HomeSprite.png]]
+> ![[SRD-porygon-BookSprite.png|wsmall left]]
+> ![[SRD-porygon-HomeSprite.png|wsmall right]]
 
 *Virtual Pokémon*
 *The first case of a man-made Pokémon created as computer data. It is capable of reverting itself into a program in order to enter the cyberspace. Its software has a firewall so it cannot be copied.*

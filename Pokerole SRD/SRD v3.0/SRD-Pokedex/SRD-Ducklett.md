@@ -74,8 +74,8 @@ Weight:
 # Ducklett 
 
 > [!grid]
-> ![[SRD-ducklett-BookSprite.png|wsmall]]
-> ![[SRD-ducklett-HomeSprite.png]]
+> ![[SRD-ducklett-BookSprite.png|wsmall left]]
+> ![[SRD-ducklett-HomeSprite.png|wsmall right]]
 
 *Water Bird Pokémon*
 *These bird Pokémon are excellent divers. They swim around in the water eating their favorite food: peat moss. They can shoot a spray of mist with their feathers to protect themselves from any predator that comes.*

@@ -82,8 +82,8 @@ Weight:
 # Avalugg (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-avalugg-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-avalugg-hisuian-form-HomeSprite.png]]
+> ![[SRD-avalugg-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-avalugg-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Iceberg Pokémon*
 *Avalugg have shown great levels of adaptability through the centuries. If temperature lowers to a freezing point, so will they. When the ice caps melt they return to land-dwelling, crushing their way trough solid rocks.*

@@ -57,8 +57,8 @@ Weight:
 # Cosmog 
 
 > [!grid]
-> ![[SRD-cosmog-BookSprite.png|wsmall]]
-> ![[SRD-cosmog-HomeSprite.png]]
+> ![[SRD-cosmog-BookSprite.png|wsmall left]]
+> ![[SRD-cosmog-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *A creature like this was observed on a telescope. It is rumored to be a Pokémon from another world, but no specific details are known.*

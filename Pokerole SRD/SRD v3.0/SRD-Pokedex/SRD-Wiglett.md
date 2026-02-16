@@ -73,8 +73,8 @@ Weight:
 # Wiglett 
 
 > [!grid]
-> ![[SRD-wiglett-BookSprite.png|wsmall]]
-> ![[SRD-wiglett-HomeSprite.png]]
+> ![[SRD-wiglett-BookSprite.png|wsmall left]]
+> ![[SRD-wiglett-HomeSprite.png|wsmall right]]
 
 *Garden Eel Pokémon*
 *It was recently confirmed that Wiglett is not a regional variant of Diglett. These Pokémon burrow themselves in the sand to hide from threats and predators, detected thanks to an incredibly developed sense of smell.*

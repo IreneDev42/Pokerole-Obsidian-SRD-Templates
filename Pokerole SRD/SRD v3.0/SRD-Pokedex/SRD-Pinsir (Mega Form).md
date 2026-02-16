@@ -77,8 +77,8 @@ Weight:
 # Pinsir (Mega Form) 
 
 > [!grid]
-> ![[SRD-pinsir-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-pinsir-mega-form-HomeSprite.png]]
+> ![[SRD-pinsir-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-pinsir-mega-form-HomeSprite.png|wsmall right]]
 
 *Stag Beetle Pokémon*
 *With the power of the Mega Stone, it develops wings and inhuman strength. It can lift foes heavier than itself and still fly with ease. Its mind is in a constant state of excitement and it cannot stay still.*

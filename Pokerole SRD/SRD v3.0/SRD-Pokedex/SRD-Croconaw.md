@@ -82,8 +82,8 @@ Weight:
 # Croconaw 
 
 > [!grid]
-> ![[SRD-croconaw-BookSprite.png|wsmall]]
-> ![[SRD-croconaw-HomeSprite.png]]
+> ![[SRD-croconaw-BookSprite.png|wsmall left]]
+> ![[SRD-croconaw-HomeSprite.png|wsmall right]]
 
 *Big Jaw Pokémon*
 *This Pokémon is really tenacious. Once it bites something it won't let go until it tears it down - even if its trainer is ordering to let go. If it loses any of its fangs, they'll regrow in a few days. It's a very wild Pokémon.*

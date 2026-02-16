@@ -76,8 +76,8 @@ Weight:
 # Dustox 
 
 > [!grid]
-> ![[SRD-dustox-BookSprite.png|wsmall]]
-> ![[SRD-dustox-HomeSprite.png]]
+> ![[SRD-dustox-BookSprite.png|wsmall left]]
+> ![[SRD-dustox-HomeSprite.png|wsmall right]]
 
 *Poison Moth Pokémon*
 *They travel in big groups during the night, attracted to bright lights and big cities. Their flight releases a poisonous, shining dust that causes mayhem in towns. For this reason, people dislike them.*

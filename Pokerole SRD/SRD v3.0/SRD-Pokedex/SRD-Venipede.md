@@ -75,8 +75,8 @@ Weight:
 # Venipede 
 
 > [!grid]
-> ![[SRD-venipede-BookSprite.png|wsmall]]
-> ![[SRD-venipede-HomeSprite.png]]
+> ![[SRD-venipede-BookSprite.png|wsmall left]]
+> ![[SRD-venipede-HomeSprite.png|wsmall right]]
 
 *Centipede Pokémon*
 *Incredibly aggressive for a Pokémon that size. It uses the feelers on its front and back to locate things around it. Its bite injects a potent venom, enough to deter the large bird Pokémon that try to prey on it.*

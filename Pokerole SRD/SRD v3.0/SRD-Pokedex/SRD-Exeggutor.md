@@ -77,8 +77,8 @@ Weight:
 # Exeggutor 
 
 > [!grid]
-> ![[SRD-exeggutor-BookSprite.png|wsmall]]
-> ![[SRD-exeggutor-HomeSprite.png]]
+> ![[SRD-exeggutor-BookSprite.png|wsmall left]]
+> ![[SRD-exeggutor-HomeSprite.png|wsmall right]]
 
 *Coconut Pokémon*
 *Originally from tropical areas. Exeggutor's heads grow larger with strong sunlight. Each head thinks independently. They are friendly and provide their shade to other Pokémon.*

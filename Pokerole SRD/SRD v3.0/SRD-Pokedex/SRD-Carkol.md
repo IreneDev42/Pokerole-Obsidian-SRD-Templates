@@ -80,8 +80,8 @@ Weight:
 # Carkol 
 
 > [!grid]
-> ![[SRD-carkol-BookSprite.png|wsmall]]
-> ![[SRD-carkol-HomeSprite.png]]
+> ![[SRD-carkol-BookSprite.png|wsmall left]]
+> ![[SRD-carkol-HomeSprite.png|wsmall right]]
 
 *Coal Pokémon*
 *It rolls its legs: their heavy weight creates parallel trackmarks that allow them to travel faster through caves and tunnels. In old times, people used Carkol's coal as fuel for they can hold fire for a long time.*

@@ -78,8 +78,8 @@ Weight:
 # Torchic 
 
 > [!grid]
-> ![[SRD-torchic-BookSprite.png|wsmall]]
-> ![[SRD-torchic-HomeSprite.png]]
+> ![[SRD-torchic-BookSprite.png|wsmall left]]
+> ![[SRD-torchic-HomeSprite.png|wsmall right]]
 
 *Chick Pokémon*
 *They walk clumsily, but follow their trainers wherever they go. Torchic have a flame sac in their belly - burning all the time. If you hug them, they feel warm, but if you squeeze them, they may spit fire.*

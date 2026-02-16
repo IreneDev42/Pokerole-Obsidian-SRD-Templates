@@ -78,8 +78,8 @@ Weight:
 # Cinccino 
 
 > [!grid]
-> ![[SRD-cinccino-BookSprite.png|wsmall]]
-> ![[SRD-cinccino-HomeSprite.png]]
+> ![[SRD-cinccino-BookSprite.png|wsmall left]]
+> ![[SRD-cinccino-HomeSprite.png|wsmall right]]
 
 *Scarf Pokémon*
 *Their fur feels amazing to the touch. It produces an oil that repels dust and prevents static electricity from building up. It loves to be groomed and pampered. The fur it sheds is highly valued for making fine clothing.*

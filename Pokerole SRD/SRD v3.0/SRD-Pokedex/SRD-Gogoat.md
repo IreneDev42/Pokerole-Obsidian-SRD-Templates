@@ -79,8 +79,8 @@ Weight:
 # Gogoat 
 
 > [!grid]
-> ![[SRD-gogoat-BookSprite.png|wsmall]]
-> ![[SRD-gogoat-HomeSprite.png]]
+> ![[SRD-gogoat-BookSprite.png|wsmall left]]
+> ![[SRD-gogoat-HomeSprite.png|wsmall right]]
 
 *Mount Pokémon*
 *In the wild, they inhabit mountain regions with the leader of the herd decided by a battle of clashing horns. People rely on Gogoat to get them through harsh terrain as it always knows where you want to go.*

@@ -81,8 +81,8 @@ Weight:
 # Aggron 
 
 > [!grid]
-> ![[SRD-aggron-BookSprite.png|wsmall]]
-> ![[SRD-aggron-HomeSprite.png]]
+> ![[SRD-aggron-BookSprite.png|wsmall left]]
+> ![[SRD-aggron-HomeSprite.png|wsmall right]]
 
 *Iron Armor Pokémon*
 *Aggron claim ownership of entire mountains, mercilessly beating up anything that crosses their path. Aggron are violent and patrol their territory at all times, but also plant trees, stop fires, and protect nature.*

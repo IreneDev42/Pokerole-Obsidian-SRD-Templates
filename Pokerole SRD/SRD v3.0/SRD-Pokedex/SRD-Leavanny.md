@@ -78,8 +78,8 @@ Weight:
 # Leavanny 
 
 > [!grid]
-> ![[SRD-leavanny-BookSprite.png|wsmall]]
-> ![[SRD-leavanny-HomeSprite.png]]
+> ![[SRD-leavanny-BookSprite.png|wsmall left]]
+> ![[SRD-leavanny-HomeSprite.png|wsmall right]]
 
 *Nurturing Pokémon*
 *It is a gentle and caring Pokémon. Mostly known for making clothes out of leaves and silk for any small Pokémon it finds. It warms and protects its eggs, making nests of fermenting leaves.*

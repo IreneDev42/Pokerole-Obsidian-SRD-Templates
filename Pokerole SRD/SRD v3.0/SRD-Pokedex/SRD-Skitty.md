@@ -81,8 +81,8 @@ Weight:
 # Skitty 
 
 > [!grid]
-> ![[SRD-skitty-BookSprite.png|wsmall]]
-> ![[SRD-skitty-HomeSprite.png]]
+> ![[SRD-skitty-BookSprite.png|wsmall left]]
+> ![[SRD-skitty-HomeSprite.png|wsmall right]]
 
 *Kitten Pokémon*
 *They are fascinated by moving objects, even chasing their own tail without hesitation. They are cute by nature, and popular pets, but it's hard to earn their trust in the wild. They are quite affectionate.*

@@ -78,8 +78,8 @@ Weight:
 # Perrserker 
 
 > [!grid]
-> ![[SRD-perrserker-BookSprite.png|wsmall]]
-> ![[SRD-perrserker-HomeSprite.png]]
+> ![[SRD-perrserker-BookSprite.png|wsmall left]]
+> ![[SRD-perrserker-HomeSprite.png|wsmall right]]
 
 *Viking Pokémon*
 *What appears to be an iron helmet is actually hardened hair. Unlike other Meowth evolutions, Perrserker does not want riches and luxury; it enjoys battles, the outdoors, and traveling though the sea.*

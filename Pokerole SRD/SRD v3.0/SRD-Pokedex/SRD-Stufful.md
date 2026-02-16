@@ -74,8 +74,8 @@ Weight:
 # Stufful 
 
 > [!grid]
-> ![[SRD-stufful-BookSprite.png|wsmall]]
-> ![[SRD-stufful-HomeSprite.png]]
+> ![[SRD-stufful-BookSprite.png|wsmall left]]
+> ![[SRD-stufful-HomeSprite.png|wsmall right]]
 
 *Flailing Pokémon*
 *Despite its adorable appearance it is a dangerous Pokémon. If anyone but its mother or Trainer touches it, it will respond by angrily flailing its arms around. They are popular pets but owners always regret it.*

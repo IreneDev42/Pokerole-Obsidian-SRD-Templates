@@ -73,8 +73,8 @@ Weight:
 # Flabébé 
 
 > [!grid]
-> ![[SRD-flabebe-BookSprite.png|wsmall]]
-> ![[SRD-flabebe-HomeSprite.png]]
+> ![[SRD-flabebe-BookSprite.png|wsmall left]]
+> ![[SRD-flabebe-HomeSprite.png|wsmall right]]
 
 *Single Bloom Pokémon*
 *This species is female-only. They are so tiny it is difficult to spot them in the wild. They pick a flower as soon as they are born and it becomes a part of their body. These small Pokémon are shy but adorable.*

@@ -63,8 +63,8 @@ Weight:
 # Snom 
 
 > [!grid]
-> ![[SRD-snom-BookSprite.png|wsmall]]
-> ![[SRD-snom-HomeSprite.png]]
+> ![[SRD-snom-BookSprite.png|wsmall left]]
+> ![[SRD-snom-HomeSprite.png|wsmall right]]
 
 *Worm Pokémon*
 *It spits out thread imbued with a frigid energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps. It feeds only on snow; if it melts, it will freeze it again to continue eating.*

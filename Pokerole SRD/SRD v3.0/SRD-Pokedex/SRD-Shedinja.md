@@ -80,8 +80,8 @@ Weight:
 # Shedinja 
 
 > [!grid]
-> ![[SRD-shedinja-BookSprite.png|wsmall]]
-> ![[SRD-shedinja-HomeSprite.png]]
+> ![[SRD-shedinja-BookSprite.png|wsmall left]]
+> ![[SRD-shedinja-HomeSprite.png|wsmall right]]
 
 *Shed Pokémon*
 *On extremely rare occasions, when Nincada evolves, the empty husk comes to life. They don't move, they only float unnaturally around. It is said that it will steal the soul of anyone looking directly at them.*

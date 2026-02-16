@@ -79,8 +79,8 @@ Weight:
 # Swoobat 
 
 > [!grid]
-> ![[SRD-swoobat-BookSprite.png|wsmall]]
-> ![[SRD-swoobat-HomeSprite.png]]
+> ![[SRD-swoobat-BookSprite.png|wsmall left]]
+> ![[SRD-swoobat-HomeSprite.png|wsmall right]]
 
 *Courting Pokémon*
 *They communicate by emitting ultrasonic waves through their noses. This sound is not perceptible by humans, but it can affect their mood and emotions. It hunts bug Pokémon and loves fresh fruit.*

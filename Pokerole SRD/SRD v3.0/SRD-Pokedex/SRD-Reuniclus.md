@@ -82,8 +82,8 @@ Weight:
 # Reuniclus 
 
 > [!grid]
-> ![[SRD-reuniclus-BookSprite.png|wsmall]]
-> ![[SRD-reuniclus-HomeSprite.png]]
+> ![[SRD-reuniclus-BookSprite.png|wsmall left]]
+> ![[SRD-reuniclus-HomeSprite.png|wsmall right]]
 
 *Multiplying Pokémon*
 *These intelligent Pokémon fight by controlling their arms with psychic energy. They have been seen forming networks of many Reuniclus holding hands and unleashing an incredible psychic wave.*

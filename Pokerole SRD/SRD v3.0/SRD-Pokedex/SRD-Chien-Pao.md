@@ -76,8 +76,8 @@ Weight:
 # Chien-Pao 
 
 > [!grid]
-> ![[SRD-chien-pao-BookSprite.png|wsmall]]
-> ![[SRD-chien-pao-HomeSprite.png]]
+> ![[SRD-chien-pao-BookSprite.png|wsmall left]]
+> ![[SRD-chien-pao-HomeSprite.png|wsmall right]]
 
 *Ruinous Pokémon*
 *A broken sword turned into a living entity from the intense hatred of all the victims it struck down. It has gained a snowy form and contently leaps around in frigid areas, causing devastating avalanches wherever it goes.*

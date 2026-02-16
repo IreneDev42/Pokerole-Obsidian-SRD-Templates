@@ -80,8 +80,8 @@ Weight:
 # Electabuzz 
 
 > [!grid]
-> ![[SRD-electabuzz-BookSprite.png|wsmall]]
-> ![[SRD-electabuzz-HomeSprite.png]]
+> ![[SRD-electabuzz-BookSprite.png|wsmall left]]
+> ![[SRD-electabuzz-HomeSprite.png|wsmall right]]
 
 *Electric Pokémon*
 *A violent Pokémon. It searches for spots where it can feed on electricity and has been seen absorbing lightning from the sky. It's competitive and aggressive with others.*

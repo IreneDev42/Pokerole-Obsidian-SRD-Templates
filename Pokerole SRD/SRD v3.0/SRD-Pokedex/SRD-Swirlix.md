@@ -76,8 +76,8 @@ Weight:
 # Swirlix 
 
 > [!grid]
-> ![[SRD-swirlix-BookSprite.png|wsmall]]
-> ![[SRD-swirlix-HomeSprite.png]]
+> ![[SRD-swirlix-BookSprite.png|wsmall left]]
+> ![[SRD-swirlix-HomeSprite.png|wsmall right]]
 
 *Cotton Candy Pokémon*
 *Because it eats nothing but sweet fruit, honey and sugars, its fur is as sticky and sweet as cotton candy. To entangle its opponents in battle, it extrudes white and sticky threads, but the foes end up eating them.*

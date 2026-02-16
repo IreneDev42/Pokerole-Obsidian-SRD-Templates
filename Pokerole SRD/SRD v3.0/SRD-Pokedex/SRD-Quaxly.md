@@ -75,8 +75,8 @@ Weight:
 # Quaxly 
 
 > [!grid]
-> ![[SRD-quaxly-BookSprite.png|wsmall]]
-> ![[SRD-quaxly-HomeSprite.png]]
+> ![[SRD-quaxly-BookSprite.png|wsmall left]]
+> ![[SRD-quaxly-HomeSprite.png|wsmall right]]
 
 *Tidy Duckling Pokemon*
 *Quaxley are known for their tidiness; their feathers are neatly combed and it hates when they get ruffled. Despite their small size, they are capable swimmers with strong legs to paddle their way upstream.*

@@ -80,8 +80,8 @@ Weight:
 # Simisear 
 
 > [!grid]
-> ![[SRD-simisear-BookSprite.png|wsmall]]
-> ![[SRD-simisear-HomeSprite.png]]
+> ![[SRD-simisear-BookSprite.png|wsmall left]]
+> ![[SRD-simisear-HomeSprite.png|wsmall right]]
 
 *Ember Pokémon*
 *A flame burns on top of its head. It scatters embers from its head and tail to sear its opponents. It loves sweets and is not afraid to go near humans to try to get some candy by begging or by stealing.*

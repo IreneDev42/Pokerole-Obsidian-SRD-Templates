@@ -72,8 +72,8 @@ Weight:
 # Paras 
 
 > [!grid]
-> ![[SRD-paras-BookSprite.png|wsmall]]
-> ![[SRD-paras-HomeSprite.png]]
+> ![[SRD-paras-BookSprite.png|wsmall left]]
+> ![[SRD-paras-HomeSprite.png|wsmall right]]
 
 *Mushroom Pokémon*
 *Paras has two parasitic mushrooms growing on its back. They grow large by drawing nutrients from this Bug Pokémon. They are valued as a medicine for prolonging life. Paras can be found in humid areas.*

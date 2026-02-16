@@ -74,8 +74,8 @@ Weight:
 # Dondozo 
 
 > [!grid]
-> ![[SRD-dondozo-BookSprite.png|wsmall]]
-> ![[SRD-dondozo-HomeSprite.png]]
+> ![[SRD-dondozo-BookSprite.png|wsmall left]]
+> ![[SRD-dondozo-HomeSprite.png|wsmall right]]
 
 *Big Catfish Pokémon*
 *While big and imposing, they are lousy hunters and not very smart, so they have developed a symbiotic relationship with Tatsugiri, whom they treat as bosses. In exchange for protection, Tatsugiri help them get food.*

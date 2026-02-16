@@ -78,8 +78,8 @@ Weight:
 # Croagunk 
 
 > [!grid]
-> ![[SRD-croagunk-BookSprite.png|wsmall]]
-> ![[SRD-croagunk-HomeSprite.png]]
+> ![[SRD-croagunk-BookSprite.png|wsmall left]]
+> ![[SRD-croagunk-HomeSprite.png|wsmall right]]
 
 *Toxic Mouth Pokémon*
 *It is commonly found in marshes. It inflates the sacks on its cheeks and makes croaking sounds. The fluid squeezed from its fingers is poisonous, but it is a common ingredient for medicinal ointments.*

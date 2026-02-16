@@ -75,8 +75,8 @@ Weight:
 # Fomantis 
 
 > [!grid]
-> ![[SRD-fomantis-BookSprite.png|wsmall]]
-> ![[SRD-fomantis-HomeSprite.png]]
+> ![[SRD-fomantis-BookSprite.png|wsmall left]]
+> ![[SRD-fomantis-HomeSprite.png|wsmall right]]
 
 *Sickle Grass Pokémon*
 *They sleep during the day, absorbing sunlight in a flower meadow; by night they become active and search for another spot to sleep. Their arms are made of sharp grass leaves to defend themselves.*

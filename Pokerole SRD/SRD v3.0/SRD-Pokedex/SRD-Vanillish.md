@@ -78,8 +78,8 @@ Weight:
 # Vanillish 
 
 > [!grid]
-> ![[SRD-vanillish-BookSprite.png|wsmall]]
-> ![[SRD-vanillish-HomeSprite.png]]
+> ![[SRD-vanillish-BookSprite.png|wsmall left]]
+> ![[SRD-vanillish-HomeSprite.png|wsmall right]]
 
 *Icy Snow Pokémon*
 *Snowy mountains are this Pokémon's habitat. It conceals itself from enemy eyes by creating many small ice bundles and hiding around them. It may attach itself to the ceiling of ice caves to hide around the ice.*

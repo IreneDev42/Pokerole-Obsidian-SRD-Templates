@@ -79,8 +79,8 @@ Weight:
 # Eelektross 
 
 > [!grid]
-> ![[SRD-eelektross-BookSprite.png|wsmall]]
-> ![[SRD-eelektross-HomeSprite.png]]
+> ![[SRD-eelektross-BookSprite.png|wsmall left]]
+> ![[SRD-eelektross-HomeSprite.png|wsmall right]]
 
 *EleFish Pokemon*
 *They crawl out of the water and attack anyone on shore by sucking them into their mouths, shocking them, and dragging them back into the ocean. They are aggressive and unpredictable, be very careful*

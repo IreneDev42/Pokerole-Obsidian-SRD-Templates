@@ -72,8 +72,8 @@ Weight:
 # Smoliv 
 
 > [!grid]
-> ![[SRD-smoliv-BookSprite.png|wsmall]]
-> ![[SRD-smoliv-HomeSprite.png]]
+> ![[SRD-smoliv-BookSprite.png|wsmall left]]
+> ![[SRD-smoliv-HomeSprite.png|wsmall right]]
 
 *Olive Pokémon*
 *They are very small, always in danger of being eaten. To protect themselves, they produce a bitter oil and store it in the fruit atop their head. They require little food and water, easily going for a week without any.*

@@ -77,8 +77,8 @@ Weight:
 # Seel 
 
 > [!grid]
-> ![[SRD-seel-BookSprite.png|wsmall]]
-> ![[SRD-seel-HomeSprite.png]]
+> ![[SRD-seel-BookSprite.png|wsmall left]]
+> ![[SRD-seel-HomeSprite.png|wsmall right]]
 
 *Sea Lion Pokémon*
 *A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up the ice. It sleeps a lot during the day, being most active at dawn when the temperature starts to cool.*

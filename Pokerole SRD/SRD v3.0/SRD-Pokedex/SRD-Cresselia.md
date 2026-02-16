@@ -75,8 +75,8 @@ Weight:
 # Cresselia 
 
 > [!grid]
-> ![[SRD-cresselia-BookSprite.png|wsmall]]
-> ![[SRD-cresselia-HomeSprite.png]]
+> ![[SRD-cresselia-BookSprite.png|wsmall left]]
+> ![[SRD-cresselia-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *The embodiment of dreams comes to life during crescent moon nights. You will be blessed with a lovely and peaceful slumber if you keep one of its feathers... or so they say.*

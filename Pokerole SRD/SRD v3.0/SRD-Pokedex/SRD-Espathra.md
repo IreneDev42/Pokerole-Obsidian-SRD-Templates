@@ -79,8 +79,8 @@ Weight:
 # Espathra 
 
 > [!grid]
-> ![[SRD-espathra-BookSprite.png|wsmall]]
-> ![[SRD-espathra-HomeSprite.png]]
+> ![[SRD-espathra-BookSprite.png|wsmall left]]
+> ![[SRD-espathra-HomeSprite.png|wsmall right]]
 
 *Ostrich Pokémon*
 *Despite their gentle appearance and elegant demeanor they have a vicious temperament. Known for immobilizing those who stare into their eyes. Their record speed goes beyond 120 mph (193 kph).*

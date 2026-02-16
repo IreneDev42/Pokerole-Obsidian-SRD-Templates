@@ -75,8 +75,8 @@ Weight:
 # Wooper 
 
 > [!grid]
-> ![[SRD-wooper-BookSprite.png|wsmall]]
-> ![[SRD-wooper-HomeSprite.png]]
+> ![[SRD-wooper-BookSprite.png|wsmall left]]
+> ![[SRD-wooper-HomeSprite.png|wsmall right]]
 
 *Water Fish Pokémon*
 *Inhabits cold water sources and only comes out during the evening when the land has cooled, to find something to eat. Under this ideal environment it has rarely been seen at its evolved stage.*

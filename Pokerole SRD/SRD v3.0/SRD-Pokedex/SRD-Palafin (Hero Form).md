@@ -79,8 +79,8 @@ Weight:
 # Palafin (Hero Form) 
 
 > [!grid]
-> ![[SRD-palafin-hero-form-BookSprite.png|wsmall]]
-> ![[SRD-palafin-hero-form-HomeSprite.png]]
+> ![[SRD-palafin-hero-form-BookSprite.png|wsmall left]]
+> ![[SRD-palafin-hero-form-HomeSprite.png|wsmall right]]
 
 *Dolphin Pokémon*
 *When true danger comes, this hero rises from the sea to save the day. This hero will come to the rescue of anyone crying for help. No one knows their secret identity, as they disappear after danger passes.*

@@ -78,8 +78,8 @@ Weight:
 # Sandile 
 
 > [!grid]
-> ![[SRD-sandile-BookSprite.png|wsmall]]
-> ![[SRD-sandile-HomeSprite.png]]
+> ![[SRD-sandile-BookSprite.png|wsmall left]]
+> ![[SRD-sandile-HomeSprite.png|wsmall right]]
 
 *Desert Croc Pokémon*
 *They live hidden under the desert sands with only their eyes and nostrils visible. They don't prey on anything bigger than themselves but can be troublesome if they are being lead by one of their evolved forms.*

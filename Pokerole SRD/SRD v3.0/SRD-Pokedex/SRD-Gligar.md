@@ -76,8 +76,8 @@ Weight:
 # Gligar 
 
 > [!grid]
-> ![[SRD-gligar-BookSprite.png|wsmall]]
-> ![[SRD-gligar-HomeSprite.png]]
+> ![[SRD-gligar-BookSprite.png|wsmall left]]
+> ![[SRD-gligar-HomeSprite.png|wsmall right]]
 
 *Fly Scorpion Pokémon*
 *It hangs from cliffs waiting for its prey. It flies straight at the target's face, grapples the victim with its pincers and clawed hind legs, and lastly, it injects poison with its tail. Gligar can glide without making any noise.*

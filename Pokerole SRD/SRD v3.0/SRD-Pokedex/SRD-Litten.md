@@ -75,8 +75,8 @@ Weight:
 # Litten 
 
 > [!grid]
-> ![[SRD-litten-BookSprite.png|wsmall]]
-> ![[SRD-litten-HomeSprite.png]]
+> ![[SRD-litten-BookSprite.png|wsmall left]]
+> ![[SRD-litten-HomeSprite.png|wsmall right]]
 
 *Fire Cat Pokémon*
 *It has an aloof personality and likes to be alone. Its fur produces flammable oils and its rough tongue lights them every time it grooms itself. Not recommended as a pet, as they cause house fires easily.*

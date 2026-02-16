@@ -76,8 +76,8 @@ Weight:
 # Fletchling 
 
 > [!grid]
-> ![[SRD-fletchling-BookSprite.png|wsmall]]
-> ![[SRD-fletchling-HomeSprite.png]]
+> ![[SRD-fletchling-BookSprite.png|wsmall left]]
+> ![[SRD-fletchling-HomeSprite.png|wsmall right]]
 
 *Tiny Robin Pokémon*
 *These cute Pokémon send signals to one another with beautiful chirps and feather movements. But, despite the beauty of its lilting voice, they are relentless in attacking any intruder coming close to their nest.*

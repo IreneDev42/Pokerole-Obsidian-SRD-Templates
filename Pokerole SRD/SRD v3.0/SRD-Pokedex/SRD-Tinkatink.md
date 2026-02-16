@@ -75,8 +75,8 @@ Weight:
 # Tinkatink 
 
 > [!grid]
-> ![[SRD-tinkatink-BookSprite.png|wsmall]]
-> ![[SRD-tinkatink-HomeSprite.png]]
+> ![[SRD-tinkatink-BookSprite.png|wsmall left]]
+> ![[SRD-tinkatink-HomeSprite.png|wsmall right]]
 
 *Metalsmith Pokémon*
 *These small creatures gather iron scraps to make a metal hammer to defend themselves. They are very diligent and re-shape the hammer many times until they are satisfied with the results.*

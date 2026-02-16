@@ -78,8 +78,8 @@ Weight:
 # Klang 
 
 > [!grid]
-> ![[SRD-klang-BookSprite.png|wsmall]]
-> ![[SRD-klang-HomeSprite.png]]
+> ![[SRD-klang-BookSprite.png|wsmall left]]
+> ![[SRD-klang-HomeSprite.png|wsmall right]]
 
 *Gear Pokémon*
 *Mini-gear and big-gear comprise its body. If the mini-gear is detached, it will turn off both gears. It communicates with others by rotating. When it's angry or afraid, it rotates faster.*

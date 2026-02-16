@@ -79,8 +79,8 @@ Weight:
 # Diancie 
 
 > [!grid]
-> ![[SRD-diancie-BookSprite.png|wsmall]]
-> ![[SRD-diancie-HomeSprite.png]]
+> ![[SRD-diancie-BookSprite.png|wsmall left]]
+> ![[SRD-diancie-HomeSprite.png|wsmall right]]
 
 *Registered as #703 Carbink*
 *The popular saying goes like this: 'If you put carbon under pressure, you will get a diamond', but it surely was not referring to a Pokémon... or was it?*

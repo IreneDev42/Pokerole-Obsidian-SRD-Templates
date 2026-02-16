@@ -81,8 +81,8 @@ Weight:
 # Krookodile 
 
 > [!grid]
-> ![[SRD-krookodile-BookSprite.png|wsmall]]
-> ![[SRD-krookodile-HomeSprite.png]]
+> ![[SRD-krookodile-BookSprite.png|wsmall left]]
+> ![[SRD-krookodile-HomeSprite.png|wsmall right]]
 
 *Intimidation Pokémon*
 *A very violent Pokémon. They try to clamp down on anything that moves in front of their eyes, and once grasped, they never let the prey escape. It can be very dangerous if it's not tamed correctly.*

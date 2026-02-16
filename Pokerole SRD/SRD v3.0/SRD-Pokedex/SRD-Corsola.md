@@ -75,8 +75,8 @@ Weight:
 # Corsola 
 
 > [!grid]
-> ![[SRD-corsola-BookSprite.png|wsmall]]
-> ![[SRD-corsola-HomeSprite.png]]
+> ![[SRD-corsola-BookSprite.png|wsmall left]]
+> ![[SRD-corsola-HomeSprite.png|wsmall right]]
 
 *Coral Pokémon*
 *People and Pokémon build their communities on top of reefs of these creatures which shine with seven colors in sunlight. Their corals have healing qualities and their presence wards against disasters.*

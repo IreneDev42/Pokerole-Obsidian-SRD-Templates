@@ -75,8 +75,8 @@ Weight:
 # Carbink 
 
 > [!grid]
-> ![[SRD-carbink-BookSprite.png|wsmall]]
-> ![[SRD-carbink-HomeSprite.png]]
+> ![[SRD-carbink-BookSprite.png|wsmall left]]
+> ![[SRD-carbink-HomeSprite.png|wsmall right]]
 
 *Jewel Pokémon*
 *It's occasionally found at drilling zones and excavations in caves. Born from temperature and pressure deep underground, it shoots beams from the stone in its head. They can live for hundreds of years.*

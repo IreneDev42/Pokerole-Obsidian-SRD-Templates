@@ -76,8 +76,8 @@ Weight:
 # Wailmer 
 
 > [!grid]
-> ![[SRD-wailmer-BookSprite.png|wsmall]]
-> ![[SRD-wailmer-HomeSprite.png]]
+> ![[SRD-wailmer-BookSprite.png|wsmall left]]
+> ![[SRD-wailmer-HomeSprite.png|wsmall right]]
 
 *Ball Whale Pokémon*
 *Wailmer has a playful nature. They can store water inside their body to inflate like a ball and bounce, then startle people by snorting the water from their nostrils. This Pokémon needs lots of food everyday.*

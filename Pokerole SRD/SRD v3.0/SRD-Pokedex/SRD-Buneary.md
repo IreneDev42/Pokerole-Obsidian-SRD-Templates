@@ -81,8 +81,8 @@ Weight:
 # Buneary 
 
 > [!grid]
-> ![[SRD-buneary-BookSprite.png|wsmall]]
-> ![[SRD-buneary-HomeSprite.png]]
+> ![[SRD-buneary-BookSprite.png|wsmall left]]
+> ![[SRD-buneary-HomeSprite.png|wsmall right]]
 
 *Rabbit Pokémon*
 *It lives in forests, grasslands, and even snowy mountains. It forms burrows and uses its soft fur to make nests and keep warm. You can see how it feels by the position of its ears. They are easily scared by humans.*

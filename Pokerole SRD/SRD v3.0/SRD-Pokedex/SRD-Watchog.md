@@ -82,8 +82,8 @@ Weight:
 # Watchog 
 
 > [!grid]
-> ![[SRD-watchog-BookSprite.png|wsmall]]
-> ![[SRD-watchog-HomeSprite.png]]
+> ![[SRD-watchog-BookSprite.png|wsmall left]]
+> ![[SRD-watchog-HomeSprite.png|wsmall right]]
 
 *Lookout Pokémon*
 *Their fur has a luminescent property. They make the patterns on their bodies glow in order to threaten predators. Their keen eyesight allows them to see in the dark. They are also good diggers.*

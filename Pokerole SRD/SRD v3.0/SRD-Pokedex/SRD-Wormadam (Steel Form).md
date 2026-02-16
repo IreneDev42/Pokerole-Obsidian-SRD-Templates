@@ -79,8 +79,8 @@ Weight:
 # Wormadam (Steel Form) 
 
 > [!grid]
-> ![[SRD-wormadam-steel-form-BookSprite.png|wsmall]]
-> ![[SRD-wormadam-steel-form-HomeSprite.png]]
+> ![[SRD-wormadam-steel-form-BookSprite.png|wsmall left]]
+> ![[SRD-wormadam-steel-form-HomeSprite.png|wsmall right]]
 
 *Bagworm Pokémon*
 *When Burmy evolved, its Trash cloak became a part of its body. For this reason there are many variations in body and type. It is a calm Pokémon that loves foil wrapping. This Pokémon is female-only.*

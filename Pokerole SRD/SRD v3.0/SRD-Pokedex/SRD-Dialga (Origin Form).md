@@ -55,8 +55,8 @@ Weight:
 # Dialga (Origin Form) 
 
 > [!grid]
-> ![[SRD-dialga-origin-form-BookSprite.png|wsmall]]
-> ![[SRD-dialga-origin-form-HomeSprite.png]]
+> ![[SRD-dialga-origin-form-BookSprite.png|wsmall left]]
+> ![[SRD-dialga-origin-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Religious lore talks about Arceus' secondborn, the ruler of time. The creator made its children in its image, but slightly less powerful so as not to repeat the mistake of its destructive firstborn.*

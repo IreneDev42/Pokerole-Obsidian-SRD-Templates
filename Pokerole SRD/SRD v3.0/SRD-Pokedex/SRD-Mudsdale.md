@@ -79,8 +79,8 @@ Weight:
 # Mudsdale 
 
 > [!grid]
-> ![[SRD-mudsdale-BookSprite.png|wsmall]]
-> ![[SRD-mudsdale-HomeSprite.png]]
+> ![[SRD-mudsdale-BookSprite.png|wsmall left]]
+> ![[SRD-mudsdale-HomeSprite.png|wsmall right]]
 
 *Draft Horse Pokémon*
 *Hard-tempered and resilient. The hooves of this Pokémon stomp through concrete. While it is not very fast, it can keep a steady pace for days, even when dragging weight. A very dependable Pokémon.*

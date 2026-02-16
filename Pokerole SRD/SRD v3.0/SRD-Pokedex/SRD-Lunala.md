@@ -56,8 +56,8 @@ Weight:
 # Lunala 
 
 > [!grid]
-> ![[SRD-lunala-BookSprite.png|wsmall]]
-> ![[SRD-lunala-HomeSprite.png]]
+> ![[SRD-lunala-BookSprite.png|wsmall left]]
+> ![[SRD-lunala-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There are legends about a being who shone as if it was the full moon incarnated. This sinister Pokémon stole the light of all living things. On its forehead is a third eye linking it to another dimension.*

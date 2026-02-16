@@ -80,8 +80,8 @@ Weight:
 # Carracosta 
 
 > [!grid]
-> ![[SRD-carracosta-BookSprite.png|wsmall]]
-> ![[SRD-carracosta-HomeSprite.png]]
+> ![[SRD-carracosta-BookSprite.png|wsmall left]]
+> ![[SRD-carracosta-HomeSprite.png|wsmall right]]
 
 *Prototurtle Pokémon*
 *They can live both in the ocean and on land. They can knock out a foe with a slap from one of its powerful front fins and chew it up whole. Fortunately, only one specimen remains in captivity.*

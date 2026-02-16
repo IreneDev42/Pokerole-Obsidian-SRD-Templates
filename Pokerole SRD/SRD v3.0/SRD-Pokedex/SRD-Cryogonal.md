@@ -76,8 +76,8 @@ Weight:
 # Cryogonal 
 
 > [!grid]
-> ![[SRD-cryogonal-BookSprite.png|wsmall]]
-> ![[SRD-cryogonal-HomeSprite.png]]
+> ![[SRD-cryogonal-BookSprite.png|wsmall left]]
+> ![[SRD-cryogonal-HomeSprite.png|wsmall right]]
 
 *Crystallizing Pokémon*
 *They are hatched from snow clouds. Using chains made of ice crystals, they capture prey. If their temperature goes up, they turns into steam and vanish until they can freeze and become ice again.*

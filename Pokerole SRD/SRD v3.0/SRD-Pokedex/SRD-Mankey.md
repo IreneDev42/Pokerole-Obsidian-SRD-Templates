@@ -79,8 +79,8 @@ Weight:
 # Mankey 
 
 > [!grid]
-> ![[SRD-mankey-BookSprite.png|wsmall]]
-> ![[SRD-mankey-HomeSprite.png]]
+> ![[SRD-mankey-BookSprite.png|wsmall left]]
+> ![[SRD-mankey-HomeSprite.png|wsmall right]]
 
 *Pig Monkey Pokémon*
 *It lives in the mountains or at the top of fruit trees. It is light and agile on its feet and ferocious in temperament. When it gets angry, it goes into a frenzy and cannot be controlled. They attack in hordes. Beware.*

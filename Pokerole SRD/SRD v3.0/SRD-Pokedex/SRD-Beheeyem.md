@@ -79,8 +79,8 @@ Weight:
 # Beheeyem 
 
 > [!grid]
-> ![[SRD-beheeyem-BookSprite.png|wsmall]]
-> ![[SRD-beheeyem-HomeSprite.png]]
+> ![[SRD-beheeyem-BookSprite.png|wsmall left]]
+> ![[SRD-beheeyem-HomeSprite.png|wsmall right]]
 
 *Cerebral Pokémon*
 *Apparently, it communicates by flashing its three fingers, but the patterns haven't been decoded. It uses psychic power to control an opponent's brain and tampers with its memories and personality.*

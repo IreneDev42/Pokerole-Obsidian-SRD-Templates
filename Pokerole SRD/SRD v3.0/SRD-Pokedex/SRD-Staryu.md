@@ -79,8 +79,8 @@ Weight:
 # Staryu 
 
 > [!grid]
-> ![[SRD-staryu-BookSprite.png|wsmall]]
-> ![[SRD-staryu-HomeSprite.png]]
+> ![[SRD-staryu-BookSprite.png|wsmall left]]
+> ![[SRD-staryu-HomeSprite.png|wsmall right]]
 
 *Star Shape Pokémon*
 *They come out to the shore in great numbers when the sky is full with stars. The core at its center glows to communicate with others. If a part of its body is injured it can regrow it in a few days.*

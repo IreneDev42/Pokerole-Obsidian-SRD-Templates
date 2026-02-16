@@ -77,8 +77,8 @@ Weight:
 # Melmetal 
 
 > [!grid]
-> ![[SRD-melmetal-BookSprite.png|wsmall]]
-> ![[SRD-melmetal-HomeSprite.png]]
+> ![[SRD-melmetal-BookSprite.png|wsmall left]]
+> ![[SRD-melmetal-HomeSprite.png|wsmall right]]
 
 *Hex Nut Pokémon*
 *There is an ancient myth that a Pokémon once taught a group of humans how to work the iron, melt it, and shape it into tools; but it was punished for this and cast away, never to be seen again.*

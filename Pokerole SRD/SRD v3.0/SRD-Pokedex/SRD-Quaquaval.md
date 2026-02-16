@@ -82,8 +82,8 @@ Weight:
 # Quaquaval 
 
 > [!grid]
-> ![[SRD-quaquaval-BookSprite.png|wsmall]]
-> ![[SRD-quaquaval-HomeSprite.png]]
+> ![[SRD-quaquaval-BookSprite.png|wsmall left]]
+> ![[SRD-quaquaval-HomeSprite.png|wsmall right]]
 
 *Dancing Pokemon*
 *Their legs are incredibly powerful; do not underestimate their rhythmic dancing for their kicks can send a car rolling. They attract attention by spreading a beautiful tail made of water feathers.*

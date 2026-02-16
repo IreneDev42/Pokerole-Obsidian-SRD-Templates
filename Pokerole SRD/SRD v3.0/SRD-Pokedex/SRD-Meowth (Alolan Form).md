@@ -75,8 +75,8 @@ Weight:
 # Meowth (Alolan Form) 
 
 > [!grid]
-> ![[SRD-meowth-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-meowth-alolan-form-HomeSprite.png]]
+> ![[SRD-meowth-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-meowth-alolan-form-HomeSprite.png|wsmall right]]
 
 *Scratch Cat Pokémon*
 *In olden times, Meowth were taken to Alola as gifts for the tribe's royals. This caused them to become incredibly greedy and pampered. Nowadays they are feral, but their prideful nature remains.*

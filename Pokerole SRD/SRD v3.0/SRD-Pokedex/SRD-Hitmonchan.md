@@ -78,8 +78,8 @@ Weight:
 # Hitmonchan 
 
 > [!grid]
-> ![[SRD-hitmonchan-BookSprite.png|wsmall]]
-> ![[SRD-hitmonchan-HomeSprite.png]]
+> ![[SRD-hitmonchan-BookSprite.png|wsmall left]]
+> ![[SRD-hitmonchan-HomeSprite.png|wsmall right]]
 
 *Punching Pokémon*
 *It specializes in punching as fast as it can. Using a corkscrew motion, it can even drill through concrete with its bare hands. This Pokémon takes its training very seriously. It's very rare to see one in the wild.*

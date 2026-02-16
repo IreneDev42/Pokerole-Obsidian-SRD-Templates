@@ -81,8 +81,8 @@ Weight:
 # Beartic 
 
 > [!grid]
-> ![[SRD-beartic-BookSprite.png|wsmall]]
-> ![[SRD-beartic-HomeSprite.png]]
+> ![[SRD-beartic-BookSprite.png|wsmall left]]
+> ![[SRD-beartic-HomeSprite.png|wsmall right]]
 
 *Freezing Pokemon*
 *They love the cold northern seas and create pathways across the ocean's water by freezing their own breath. They dive in the sea to catch prey. They are not used to humans as they rarely see one.*

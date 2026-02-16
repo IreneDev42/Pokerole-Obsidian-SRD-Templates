@@ -85,8 +85,8 @@ Weight:
 # Toxtricity (Low Key Form) 
 
 > [!grid]
-> ![[SRD-toxtricity-low-key-form-BookSprite.png|wsmall]]
-> ![[SRD-toxtricity-low-key-form-HomeSprite.png]]
+> ![[SRD-toxtricity-low-key-form-BookSprite.png|wsmall left]]
+> ![[SRD-toxtricity-low-key-form-HomeSprite.png|wsmall right]]
 
 *Punk Pokémon*
 *Commonly called 'Low Key Form'. Its nature determines its evolution. If a Toxel is introverted, it will evolve to be a chill Toxtricity. They emit low-pitched sounds and look down on others who try to provoke them.*

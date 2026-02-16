@@ -66,8 +66,8 @@ Weight:
 # Delibird 
 
 > [!grid]
-> ![[SRD-delibird-BookSprite.png|wsmall]]
-> ![[SRD-delibird-HomeSprite.png]]
+> ![[SRD-delibird-BookSprite.png|wsmall left]]
+> ![[SRD-delibird-HomeSprite.png|wsmall right]]
 
 *Delivery Pokémon*
 *Delibird is always carrying food for its chicks and people in need. They are related to the image of Santa Claus since they always carry presents for their good and naughty kids in their bag-looking tail.*

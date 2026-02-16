@@ -76,8 +76,8 @@ Weight:
 # Manaphy 
 
 > [!grid]
-> ![[SRD-manaphy-BookSprite.png|wsmall]]
-> ![[SRD-manaphy-HomeSprite.png]]
+> ![[SRD-manaphy-BookSprite.png|wsmall left]]
+> ![[SRD-manaphy-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *It is said that after the war for land and sea was over, a tiny Pokémon was born from the bottom of the ocean to bond with all the creatures as a sign of peace.*

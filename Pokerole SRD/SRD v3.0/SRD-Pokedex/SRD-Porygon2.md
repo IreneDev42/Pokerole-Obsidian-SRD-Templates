@@ -80,8 +80,8 @@ Weight:
 # Porygon2 
 
 > [!grid]
-> ![[SRD-porygon2-BookSprite.png|wsmall]]
-> ![[SRD-porygon2-HomeSprite.png]]
+> ![[SRD-porygon2-BookSprite.png|wsmall left]]
+> ![[SRD-porygon2-HomeSprite.png|wsmall right]]
 
 *Virtual Pokémon*
 *This man-made Pokémon is an upgraded version of Porygon. It is used for space exploration and planetary development, boasting the power of science. Its AI software allows it to learn on its own.*

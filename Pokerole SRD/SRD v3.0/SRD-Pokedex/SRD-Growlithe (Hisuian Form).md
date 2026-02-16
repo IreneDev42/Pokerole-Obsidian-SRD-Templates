@@ -78,8 +78,8 @@ Weight:
 # Growlithe (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-growlithe-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-growlithe-hisuian-form-HomeSprite.png]]
+> ![[SRD-growlithe-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-growlithe-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Puppy Pokémon*
 *There are records of its existence in old Hisuian territories, but all that remains today are old stone statues of fierce and vigilant Pokémon. It was said to live in pairs, deep in the mountains and away from humans.*

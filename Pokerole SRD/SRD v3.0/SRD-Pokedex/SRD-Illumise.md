@@ -73,8 +73,8 @@ Weight:
 # Illumise 
 
 > [!grid]
-> ![[SRD-illumise-BookSprite.png|wsmall]]
-> ![[SRD-illumise-HomeSprite.png]]
+> ![[SRD-illumise-BookSprite.png|wsmall left]]
+> ![[SRD-illumise-HomeSprite.png|wsmall right]]
 
 *Firefly Pokémon*
 *They attract swarms of Volbeat with their sweet fragrance and organize the swarm into drawing geometric shapes made of light. Illumise gain rank in their group if they make an amazing performance.*

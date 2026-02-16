@@ -75,8 +75,8 @@ Weight:
 # Hippopotas 
 
 > [!grid]
-> ![[SRD-hippopotas-BookSprite.png|wsmall]]
-> ![[SRD-hippopotas-HomeSprite.png]]
+> ![[SRD-hippopotas-BookSprite.png|wsmall left]]
+> ![[SRD-hippopotas-HomeSprite.png|wsmall right]]
 
 *Hippo Pokémon*
 *It lives in arid places where it forms small groups. It closes its nostrils and submerges under the sand to rest. Females have a different coloration, usually a darker and duller color. They are easy-going Pokémon.*

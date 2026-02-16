@@ -81,8 +81,8 @@ Weight:
 # Bergmite 
 
 > [!grid]
-> ![[SRD-bergmite-BookSprite.png|wsmall]]
-> ![[SRD-bergmite-HomeSprite.png]]
+> ![[SRD-bergmite-BookSprite.png|wsmall left]]
+> ![[SRD-bergmite-HomeSprite.png|wsmall right]]
 
 *Ice Chunk Pokémon*
 *It lives in small herds close to the mountains. It blocks attacks with the ice that shields its body and uses cold air to repair any cracks with new ice. They are wary of humans as they rarely get to see one.*

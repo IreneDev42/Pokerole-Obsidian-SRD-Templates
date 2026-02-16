@@ -82,8 +82,8 @@ Weight:
 # Sharpedo 
 
 > [!grid]
-> ![[SRD-sharpedo-BookSprite.png|wsmall]]
-> ![[SRD-sharpedo-HomeSprite.png]]
+> ![[SRD-sharpedo-BookSprite.png|wsmall left]]
+> ![[SRD-sharpedo-HomeSprite.png|wsmall right]]
 
 *Brutal Pokémon*
 *Known as the 'Bully of the Sea', widely feared for its cruelty, malice and gangster attitude. They hurt Pokémon for fun and sink boats for sport. Sharpedo are among the fastest swimmers.*

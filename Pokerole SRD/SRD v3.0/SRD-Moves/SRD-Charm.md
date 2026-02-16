@@ -15,7 +15,7 @@ Description: "The Pok\xE9mon engages their foe in a charming interaction to redu
   \ their aggressive intent."
 Effect: Single Target. Reduce Target's Strength by 2.
 Name: Charm
-Power: '0 '
+Power: 0
 Target: Foe
 Type: Fairy
 ---

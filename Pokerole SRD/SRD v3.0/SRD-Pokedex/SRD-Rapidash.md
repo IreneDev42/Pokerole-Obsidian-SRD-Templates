@@ -77,8 +77,8 @@ Weight:
 # Rapidash 
 
 > [!grid]
-> ![[SRD-rapidash-BookSprite.png|wsmall]]
-> ![[SRD-rapidash-HomeSprite.png]]
+> ![[SRD-rapidash-BookSprite.png|wsmall left]]
+> ![[SRD-rapidash-HomeSprite.png|wsmall right]]
 
 *Fire Horse Pokémon*
 *It lives happily on prairies. It loves speed competitions - a herd can often be seen running alongside a train. It can regulate the heat of its mane as to let its trainer ride it, but only if it trusts them enough.*

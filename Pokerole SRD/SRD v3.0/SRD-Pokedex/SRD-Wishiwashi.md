@@ -76,8 +76,8 @@ Weight:
 # Wishiwashi 
 
 > [!grid]
-> ![[SRD-wishiwashi-BookSprite.png|wsmall]]
-> ![[SRD-wishiwashi-HomeSprite.png]]
+> ![[SRD-wishiwashi-BookSprite.png|wsmall left]]
+> ![[SRD-wishiwashi-HomeSprite.png|wsmall right]]
 
 *Small Fry Pokémon*
 *People and Pokémon enjoy this tiny Pokémon's meat. Their eyes shine as a distress signal: other members of its species will travel far and wide to attend the call for help. When this happens you must run.*

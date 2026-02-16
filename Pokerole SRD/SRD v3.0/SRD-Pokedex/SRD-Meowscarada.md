@@ -82,8 +82,8 @@ Weight:
 # Meowscarada 
 
 > [!grid]
-> ![[SRD-meowscarada-BookSprite.png|wsmall]]
-> ![[SRD-meowscarada-HomeSprite.png]]
+> ![[SRD-meowscarada-BookSprite.png|wsmall left]]
+> ![[SRD-meowscarada-HomeSprite.png|wsmall right]]
 
 *Magician Pokemon*
 *Meowscarada's cape has reflective fur, which allows it to camouflage and make it seem as it disappeared. They also carry pollen bombs, when the pollen explosion clouds the field, Mewoscarada escapes.*

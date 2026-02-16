@@ -12,7 +12,7 @@ Effect: Target Self. The User runs away from the Battlefield. This Effect ends t
   the same or more Successes. If the User is Blocked, this Maneuver fails.
 Name: Run Away
 Power: 0
-Target: User
+Target: Self
 Type: Typeless
 ---
 

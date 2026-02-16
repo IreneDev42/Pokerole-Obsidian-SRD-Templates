@@ -79,8 +79,8 @@ Weight:
 # Sawsbuck 
 
 > [!grid]
-> ![[SRD-sawsbuck-BookSprite.png|wsmall]]
-> ![[SRD-sawsbuck-HomeSprite.png]]
+> ![[SRD-sawsbuck-BookSprite.png|wsmall left]]
+> ![[SRD-sawsbuck-HomeSprite.png|wsmall right]]
 
 *Season Pokémon*
 *The plants growing on its horns change according to the season. They live in herds that migrate in search of grass. The leaders of the herd possess magnificent horns. They tend to be peaceful creatures.*

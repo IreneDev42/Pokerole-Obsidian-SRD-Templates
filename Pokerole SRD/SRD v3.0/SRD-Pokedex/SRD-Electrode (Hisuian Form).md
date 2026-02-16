@@ -79,8 +79,8 @@ Weight:
 # Electrode (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-electrode-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-electrode-hisuian-form-HomeSprite.png]]
+> ![[SRD-electrode-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-electrode-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Ball Pokémon*
 *Hundreds of years ago, Electrode used to bear resemblance to the apricorn fruits used to build the first Pokéballs. They were prone to mood swings. The modern counterparts are way more relaxed.*

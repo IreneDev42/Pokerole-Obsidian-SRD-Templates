@@ -76,8 +76,8 @@ Weight:
 # Magby 
 
 > [!grid]
-> ![[SRD-magby-BookSprite.png|wsmall]]
-> ![[SRD-magby-HomeSprite.png]]
+> ![[SRD-magby-BookSprite.png|wsmall left]]
+> ![[SRD-magby-HomeSprite.png|wsmall right]]
 
 *Live Coal Pokémon*
 *They inhale and exhale embers from their mouth and nostrils. Their body temperature is so hot, they may ignite anything they touch and the floor on which they walk. Magby can be found in volcanoes.*

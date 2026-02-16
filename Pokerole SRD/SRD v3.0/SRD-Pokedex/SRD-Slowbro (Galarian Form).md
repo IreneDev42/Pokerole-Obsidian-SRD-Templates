@@ -78,8 +78,8 @@ Weight:
 # Slowbro (Galarian Form) 
 
 > [!grid]
-> ![[SRD-slowbro-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-slowbro-galarian-form-HomeSprite.png]]
+> ![[SRD-slowbro-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-slowbro-galarian-form-HomeSprite.png|wsmall right]]
 
 *Hermit Crab Pokémon*
 *Slowbro in Galar do not wait for Shellder to bite their tails; they grab them by the tongue. The Shellder will defend itself by injecting poison, but Slowbro's spicy sap protects it, turning it into a Poison-Type instead.*

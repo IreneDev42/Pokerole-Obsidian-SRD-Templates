@@ -80,8 +80,8 @@ Weight:
 # Charizard (Mega X Form) 
 
 > [!grid]
-> ![[SRD-charizard-mega-x-form-BookSprite.png|wsmall]]
-> ![[SRD-charizard-mega-x-form-HomeSprite.png]]
+> ![[SRD-charizard-mega-x-form-BookSprite.png|wsmall left]]
+> ![[SRD-charizard-mega-x-form-HomeSprite.png|wsmall right]]
 
 *Flame Pokémon*
 *The power of the Mega Stone makes its inner flames burn so hot that its body turns black as coal, and blue fire escapes constantly from its mouth. It is filled with rage and its demeanor is unpredictable*

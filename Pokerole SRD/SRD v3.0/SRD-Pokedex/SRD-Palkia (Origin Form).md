@@ -55,8 +55,8 @@ Weight:
 # Palkia (Origin Form) 
 
 > [!grid]
-> ![[SRD-palkia-origin-form-BookSprite.png|wsmall]]
-> ![[SRD-palkia-origin-form-HomeSprite.png]]
+> ![[SRD-palkia-origin-form-BookSprite.png|wsmall left]]
+> ![[SRD-palkia-origin-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Religious lore talks about Arceus' thirdborn, the ruler of matter and space. The creator made its children in its image. Slightly less powerful as to not repeat the mistake of its destructive firstborn.*

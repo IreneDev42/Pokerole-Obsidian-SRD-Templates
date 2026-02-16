@@ -75,8 +75,8 @@ Weight:
 # Cobalion 
 
 > [!grid]
-> ![[SRD-cobalion-BookSprite.png|wsmall]]
-> ![[SRD-cobalion-HomeSprite.png]]
+> ![[SRD-cobalion-BookSprite.png|wsmall left]]
+> ![[SRD-cobalion-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a story in Unova about four Pokémon that brought justice to the wrongdoers. Their leader was calm and composed, but unforgiving. Its cold stare forced people to obey its sacred law.*

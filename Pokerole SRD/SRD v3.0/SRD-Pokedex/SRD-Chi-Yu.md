@@ -76,8 +76,8 @@ Weight:
 # Chi-Yu 
 
 > [!grid]
-> ![[SRD-chi-yu-BookSprite.png|wsmall]]
-> ![[SRD-chi-yu-HomeSprite.png]]
+> ![[SRD-chi-yu-BookSprite.png|wsmall left]]
+> ![[SRD-chi-yu-HomeSprite.png|wsmall right]]
 
 *Ruinous Pokémon*
 *A pair of precious, coveted jewels that have acquired life from the envy of those who foolishly started wars to claim them. With a body of fire, it melts rocks and sand into a sea of lava, moving as if swimming through water.*

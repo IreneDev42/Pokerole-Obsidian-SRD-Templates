@@ -83,8 +83,8 @@ Weight:
 # Prinplup 
 
 > [!grid]
-> ![[SRD-prinplup-BookSprite.png|wsmall]]
-> ![[SRD-prinplup-HomeSprite.png]]
+> ![[SRD-prinplup-BookSprite.png|wsmall left]]
+> ![[SRD-prinplup-HomeSprite.png|wsmall right]]
 
 *Penguin Pokémon*
 *Prinplup hunt in icy seas. They live solitary lives because they cannot stand company and will never form a group or a team. They believe they are the most important thing in the world; it's almost irritating.*

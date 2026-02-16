@@ -79,8 +79,8 @@ Weight:
 # Frogadier 
 
 > [!grid]
-> ![[SRD-frogadier-BookSprite.png|wsmall]]
-> ![[SRD-frogadier-HomeSprite.png]]
+> ![[SRD-frogadier-BookSprite.png|wsmall left]]
+> ![[SRD-frogadier-HomeSprite.png|wsmall right]]
 
 *Bubble Frog Pokémon*
 *It is incredibly hard to catch. It starts practicing its skills by throwing foam-covered pebbles at foes. Many trainers find this rebellious stage very challenging to handle and end up being its targets of practice.*

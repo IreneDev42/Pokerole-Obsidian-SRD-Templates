@@ -79,8 +79,8 @@ Weight:
 # Electrode 
 
 > [!grid]
-> ![[SRD-electrode-BookSprite.png|wsmall]]
-> ![[SRD-electrode-HomeSprite.png]]
+> ![[SRD-electrode-BookSprite.png|wsmall left]]
+> ![[SRD-electrode-HomeSprite.png|wsmall right]]
 
 *Ball Pokémon*
 *It is known for causing blackouts in cities. After evolving, it explodes as a way to release excess electricity or simply to amuse itself. Trainers need to be careful around a bored Electrode.*

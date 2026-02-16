@@ -75,8 +75,8 @@ Weight:
 # Thundurus (Therian Form) 
 
 > [!grid]
-> ![[SRD-thundurus-therian-form-BookSprite.png|wsmall]]
-> ![[SRD-thundurus-therian-form-HomeSprite.png]]
+> ![[SRD-thundurus-therian-form-BookSprite.png|wsmall left]]
+> ![[SRD-thundurus-therian-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Some Pokémon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as tornadoes, lightning, and even a landslide.*

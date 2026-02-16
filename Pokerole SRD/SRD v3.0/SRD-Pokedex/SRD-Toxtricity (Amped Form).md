@@ -85,8 +85,8 @@ Weight:
 # Toxtricity (Amped Form) 
 
 > [!grid]
-> ![[SRD-toxtricity-amped-form-BookSprite.png|wsmall]]
-> ![[SRD-toxtricity-amped-form-HomeSprite.png]]
+> ![[SRD-toxtricity-amped-form-BookSprite.png|wsmall left]]
+> ![[SRD-toxtricity-amped-form-HomeSprite.png|wsmall right]]
 
 *Punk Pokémon*
 *Commonly called 'Amped Form'. Its nature determines its evolution. If a Toxel is extroverted, it will evolve to be a short-tempered Toxtricity. They emit high-pitched sounds and let out powerful discharges to provoke others.*

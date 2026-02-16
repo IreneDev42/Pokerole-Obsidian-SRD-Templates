@@ -60,8 +60,8 @@ Weight:
 # Caterpie 
 
 > [!grid]
-> ![[SRD-caterpie-BookSprite.png|wsmall]]
-> ![[SRD-caterpie-HomeSprite.png]]
+> ![[SRD-caterpie-BookSprite.png|wsmall left]]
+> ![[SRD-caterpie-HomeSprite.png|wsmall right]]
 
 *Worm Pokémon*
 *It is very common in forests. Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a foul odor from its antennae if it feels threatened.*

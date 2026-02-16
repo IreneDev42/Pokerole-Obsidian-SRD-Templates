@@ -79,8 +79,8 @@ Weight:
 # Qwilfish (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-qwilfish-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-qwilfish-hisuian-form-HomeSprite.png]]
+> ![[SRD-qwilfish-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-qwilfish-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Balloon Pokémon*
 *In ancient times, Qwilfish migrated to Hisuian regions to lay their eggs and evolve. People saw them as vermin, as they polluted their fishing waters. Overhunting happened and Qwilfish was forced to adapt.*

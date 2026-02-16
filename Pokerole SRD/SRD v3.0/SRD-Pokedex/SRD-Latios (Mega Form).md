@@ -58,8 +58,8 @@ Weight:
 # Latios (Mega Form) 
 
 > [!grid]
-> ![[SRD-latios-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-latios-mega-form-HomeSprite.png]]
+> ![[SRD-latios-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-latios-mega-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Latios is very in sync with human logic; it can communicate using telepathy. With the power of the Mega Stone, all of its capabilities are enhanced, although its personality becomes more caring than usual.*

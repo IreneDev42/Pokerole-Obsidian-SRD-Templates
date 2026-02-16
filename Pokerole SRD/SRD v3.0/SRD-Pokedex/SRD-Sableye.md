@@ -79,8 +79,8 @@ Weight:
 # Sableye 
 
 > [!grid]
-> ![[SRD-sableye-BookSprite.png|wsmall]]
-> ![[SRD-sableye-HomeSprite.png]]
+> ![[SRD-sableye-BookSprite.png|wsmall left]]
+> ![[SRD-sableye-HomeSprite.png|wsmall right]]
 
 *Darkness Pokémon*
 *Feared for stealing the souls of people with their sinister eyes glowing in the dark. They lurk deep inside caves, eating rocks, gemstones, and crystals. Luckily, Sableye are rarely seen. They love jewels and treasure.*

@@ -82,8 +82,8 @@ Weight:
 # Gardevoir (Mega Form) 
 
 > [!grid]
-> ![[SRD-gardevoir-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-gardevoir-mega-form-HomeSprite.png]]
+> ![[SRD-gardevoir-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-gardevoir-mega-form-HomeSprite.png|wsmall right]]
 
 *Embrace Pokémon*
 *The power of the Mega Stone makes its senses skyrocket. It is easily upset as it can feel the emotions from everyone in a wide radius. Its psychic powers are said to distort reality.*

@@ -74,8 +74,8 @@ Weight:
 # Registeel 
 
 > [!grid]
-> ![[SRD-registeel-BookSprite.png|wsmall]]
-> ![[SRD-registeel-HomeSprite.png]]
+> ![[SRD-registeel-BookSprite.png|wsmall left]]
+> ![[SRD-registeel-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *Its body was indestructible. A flexible metal came from out of this world and can shrink, expand, and become solid or liquid at the speed of thought. Could the myths be true?*

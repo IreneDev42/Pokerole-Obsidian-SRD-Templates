@@ -80,8 +80,8 @@ Weight:
 # Pawmot 
 
 > [!grid]
-> ![[SRD-pawmot-BookSprite.png|wsmall]]
-> ![[SRD-pawmot-HomeSprite.png]]
+> ![[SRD-pawmot-BookSprite.png|wsmall left]]
+> ![[SRD-pawmot-HomeSprite.png|wsmall right]]
 
 *Hands-On Pokémon*
 *Pawmot's fluffy fur acts as a battery, able to power an electric car for hundreds of miles on a single charge. They are patient and hard to anger, but once they are in the mood for a fight, they won't back down.*

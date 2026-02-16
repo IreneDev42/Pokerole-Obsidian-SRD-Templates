@@ -77,8 +77,8 @@ Weight:
 # Gyarados (Mega Form) 
 
 > [!grid]
-> ![[SRD-gyarados-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-gyarados-mega-form-HomeSprite.png]]
+> ![[SRD-gyarados-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-gyarados-mega-form-HomeSprite.png|wsmall right]]
 
 *Atrocious Pokémon*
 *With the power of the Mega Stone, its body suffers a lot of strain, making it faster and stronger but also angrier and uncontrollable. It must have a strong bond or it will fall into a destructive rampage.*

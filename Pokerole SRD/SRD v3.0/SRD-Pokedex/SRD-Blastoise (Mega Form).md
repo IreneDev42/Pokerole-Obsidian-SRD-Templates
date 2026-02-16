@@ -80,8 +80,8 @@ Weight:
 # Blastoise (Mega Form) 
 
 > [!grid]
-> ![[SRD-blastoise-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-blastoise-mega-form-HomeSprite.png]]
+> ![[SRD-blastoise-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-blastoise-mega-form-HomeSprite.png|wsmall right]]
 
 *Shellfish Pokémon*
 *With the power of the Mega Stone the canon on its back can shoot exploding water projectiles that can pierce through concrete. Its body is incredibly hard and its hind legs root themselves to prevent recoil.*

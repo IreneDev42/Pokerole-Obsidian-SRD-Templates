@@ -77,8 +77,8 @@ Weight:
 # Pheromosa 
 
 > [!grid]
-> ![[SRD-pheromosa-BookSprite.png|wsmall]]
-> ![[SRD-pheromosa-HomeSprite.png]]
+> ![[SRD-pheromosa-BookSprite.png|wsmall left]]
+> ![[SRD-pheromosa-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #012*
 *This one also appears to be unable to enter a Pokéball, the rays just won't surround them. This one has refused to touch anything we give to it and appears displeased by my mere presence.*

@@ -70,8 +70,8 @@ Weight:
 # Relicanth 
 
 > [!grid]
-> ![[SRD-relicanth-BookSprite.png|wsmall]]
-> ![[SRD-relicanth-HomeSprite.png]]
+> ![[SRD-relicanth-BookSprite.png|wsmall left]]
+> ![[SRD-relicanth-HomeSprite.png|wsmall right]]
 
 *Longevity Pokemon*
 *It has remained unchanged for millions of years. Relicanth was discovered in a deep sea expedition. It feeds on plankton. Their scales are like craggy rocks; they can endure the pressure of the deep sea.*

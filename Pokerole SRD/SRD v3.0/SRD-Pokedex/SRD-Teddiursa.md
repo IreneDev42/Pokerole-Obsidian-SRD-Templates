@@ -76,8 +76,8 @@ Weight:
 # Teddiursa 
 
 > [!grid]
-> ![[SRD-teddiursa-BookSprite.png|wsmall]]
-> ![[SRD-teddiursa-HomeSprite.png]]
+> ![[SRD-teddiursa-BookSprite.png|wsmall left]]
+> ![[SRD-teddiursa-HomeSprite.png|wsmall right]]
 
 *Little Bear Pokémon*
 *If they find honey, their crescent moon mark glows. They hoard food for winter and concoct their own honey by mixing fruits and pollen collected by Beedrill. Beware, as their mothers are always close.*

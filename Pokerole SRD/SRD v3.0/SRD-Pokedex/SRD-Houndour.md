@@ -78,8 +78,8 @@ Weight:
 # Houndour 
 
 > [!grid]
-> ![[SRD-houndour-BookSprite.png|wsmall]]
-> ![[SRD-houndour-HomeSprite.png]]
+> ![[SRD-houndour-BookSprite.png|wsmall left]]
+> ![[SRD-houndour-HomeSprite.png|wsmall right]]
 
 *Dark Pokémon*
 *They hunt in coordinated packs to corner their prey. They howl at dawn to announce that this is their territory, and bark to communicate tactics. Their teamwork is very efficient and they rarely welcome strangers.*

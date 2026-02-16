@@ -77,8 +77,8 @@ Weight:
 # Rotom (Frost Form) 
 
 > [!grid]
-> ![[SRD-rotom-frost-form-BookSprite.png|wsmall]]
-> ![[SRD-rotom-frost-form-HomeSprite.png]]
+> ![[SRD-rotom-frost-form-BookSprite.png|wsmall left]]
+> ![[SRD-rotom-frost-form-HomeSprite.png|wsmall right]]
 
 *Plasma Pokémon*
 *A refrigerator possessed by a Rotom. It uses Ice powers, traps people inside and freezes them in solid ice blocks. While in this form it can use the move 'Blizzard'.*

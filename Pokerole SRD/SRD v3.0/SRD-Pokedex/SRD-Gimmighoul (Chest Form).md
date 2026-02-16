@@ -67,8 +67,8 @@ Weight:
 # Gimmighoul (Chest Form) 
 
 > [!grid]
-> ![[SRD-gimmighoul-chest-form-BookSprite.png|wsmall]]
-> ![[SRD-gimmighoul-chest-form-HomeSprite.png]]
+> ![[SRD-gimmighoul-chest-form-BookSprite.png|wsmall left]]
+> ![[SRD-gimmighoul-chest-form-HomeSprite.png|wsmall right]]
 
 *Coin Chest Pokémon*
 *This Pokémon is said to have been born inside a treasure chest long ago. It sucks the life-force out of any scoundrels who try to steal the treasure. Sometimes it gets left in pawn shops since few realize it's a Pokémon.*

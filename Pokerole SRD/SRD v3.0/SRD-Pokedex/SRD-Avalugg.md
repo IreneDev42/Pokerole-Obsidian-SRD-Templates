@@ -81,8 +81,8 @@ Weight:
 # Avalugg 
 
 > [!grid]
-> ![[SRD-avalugg-BookSprite.png|wsmall]]
-> ![[SRD-avalugg-HomeSprite.png]]
+> ![[SRD-avalugg-BookSprite.png|wsmall left]]
+> ![[SRD-avalugg-HomeSprite.png|wsmall right]]
 
 *Iceberg Pokémon*
 *They carry their Bergmite offspring on their backs. Its Ice body is hard as steel and its cumbersome frame crushes anything that stands in its way. They are capable of swimming but they move very slowly.*

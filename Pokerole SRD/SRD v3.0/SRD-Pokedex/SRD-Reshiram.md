@@ -52,8 +52,8 @@ Weight:
 # Reshiram 
 
 > [!grid]
-> ![[SRD-reshiram-BookSprite.png|wsmall]]
-> ![[SRD-reshiram-HomeSprite.png]]
+> ![[SRD-reshiram-BookSprite.png|wsmall left]]
+> ![[SRD-reshiram-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data*
 *An incredibly old scroll written in an ancient language tells about a world of truth built by a purifying fire. It also tells about a big dispute between two brothers. The rest of the scroll was burned...*

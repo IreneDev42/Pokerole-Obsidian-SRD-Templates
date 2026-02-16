@@ -83,8 +83,8 @@ Weight:
 # Palafin (Zero Form) 
 
 > [!grid]
-> ![[SRD-palafin-zero-form-BookSprite.png|wsmall]]
-> ![[SRD-palafin-zero-form-HomeSprite.png]]
+> ![[SRD-palafin-zero-form-BookSprite.png|wsmall left]]
+> ![[SRD-palafin-zero-form-HomeSprite.png|wsmall right]]
 
 *Dolphin Pokémon*
 *Palafin are basically indistinguishable from their pre-evolved form. In fact, it was believed they did not evolve. Their demeanor is as friendly and helpful as always, but if true danger approaches they tend to disappear.*

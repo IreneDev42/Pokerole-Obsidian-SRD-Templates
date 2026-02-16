@@ -79,8 +79,8 @@ Weight:
 # Scrafty 
 
 > [!grid]
-> ![[SRD-scrafty-BookSprite.png|wsmall]]
-> ![[SRD-scrafty-HomeSprite.png]]
+> ![[SRD-scrafty-BookSprite.png|wsmall left]]
+> ![[SRD-scrafty-HomeSprite.png|wsmall right]]
 
 *Hoodlum Pokémon*
 *They form gangs and beat anyone who trespasses on their territory. The one with the biggest crest is the leader. They throw powerful kicks, and their skin is an excellent shield. Be careful around them.*

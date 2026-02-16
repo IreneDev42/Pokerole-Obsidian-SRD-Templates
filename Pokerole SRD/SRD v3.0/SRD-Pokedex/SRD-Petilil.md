@@ -80,8 +80,8 @@ Weight:
 # Petilil 
 
 > [!grid]
-> ![[SRD-petilil-BookSprite.png|wsmall]]
-> ![[SRD-petilil-HomeSprite.png]]
+> ![[SRD-petilil-BookSprite.png|wsmall left]]
+> ![[SRD-petilil-HomeSprite.png|wsmall right]]
 
 *Bulb Pokémon*
 *Since they prefer moist and nutritious soil, the areas where Petilil live are known to be good for growing plants. The leaves on its head can be used for medicinal purposes, but they are extra bitter.*

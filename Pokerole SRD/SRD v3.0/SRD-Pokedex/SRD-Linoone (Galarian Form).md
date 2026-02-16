@@ -83,8 +83,8 @@ Weight:
 # Linoone (Galarian Form) 
 
 > [!grid]
-> ![[SRD-linoone-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-linoone-galarian-form-HomeSprite.png]]
+> ![[SRD-linoone-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-linoone-galarian-form-HomeSprite.png|wsmall right]]
 
 *Rushing Pokémon*
 *It uses its long tongue to taunt its opponents. Once the foe is enraged, this Pokémon hurls itself at it, tackling them forcefully. They are bad-mannered and enjoy thrashing things about.*

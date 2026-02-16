@@ -72,8 +72,8 @@ Weight:
 # Taillow 
 
 > [!grid]
-> ![[SRD-taillow-BookSprite.png|wsmall]]
-> ![[SRD-taillow-HomeSprite.png]]
+> ![[SRD-taillow-BookSprite.png|wsmall left]]
+> ![[SRD-taillow-HomeSprite.png|wsmall right]]
 
 *Tiny Swallow Pokémon*
 *They are brave and noble, facing bigger foes whoever they might be. However, being just a child, it usually feels lonely and cries at night. They can be seen migrating south in the winter.*

@@ -70,8 +70,8 @@ Weight:
 # Grubbin 
 
 > [!grid]
-> ![[SRD-grubbin-BookSprite.png|wsmall]]
-> ![[SRD-grubbin-HomeSprite.png]]
+> ![[SRD-grubbin-BookSprite.png|wsmall left]]
+> ![[SRD-grubbin-HomeSprite.png|wsmall right]]
 
 *Larva Pokémon*
 *They tend to gather anywhere Electric Pokémon live to protect themselves from bird Pokémon who may prey on them. When they are ready to evolve they bury themselves underground.*

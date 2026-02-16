@@ -85,8 +85,8 @@ Weight:
 # Combusken 
 
 > [!grid]
-> ![[SRD-combusken-BookSprite.png|wsmall]]
-> ![[SRD-combusken-HomeSprite.png]]
+> ![[SRD-combusken-BookSprite.png|wsmall left]]
+> ![[SRD-combusken-HomeSprite.png|wsmall right]]
 
 *Young Fowl Pokémon*
 *Once Torchic toughened up its legs and thighs, they like to run and love to kick. They have an offensive instinct to keep attacking no matter what. They sqwak loudly every morning when they start to train.*

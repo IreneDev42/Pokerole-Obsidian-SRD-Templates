@@ -80,8 +80,8 @@ Weight:
 # Slowking 
 
 > [!grid]
-> ![[SRD-slowking-BookSprite.png|wsmall]]
-> ![[SRD-slowking-HomeSprite.png]]
+> ![[SRD-slowking-BookSprite.png|wsmall left]]
+> ![[SRD-slowking-HomeSprite.png|wsmall right]]
 
 *Royal Pokémon*
 *It is extremely rare. The Shellder on its head injects a poison that makes it super intelligent. It takes a lot of interest in learning about Pokémon lore and legends. But, if Shellder is knocked out, it will forget everything.*

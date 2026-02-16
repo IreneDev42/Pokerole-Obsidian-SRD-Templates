@@ -78,8 +78,8 @@ Weight:
 # Eelektrik 
 
 > [!grid]
-> ![[SRD-eelektrik-BookSprite.png|wsmall]]
-> ![[SRD-eelektrik-HomeSprite.png]]
+> ![[SRD-eelektrik-BookSprite.png|wsmall left]]
+> ![[SRD-eelektrik-HomeSprite.png|wsmall right]]
 
 *EleFish Pokemon*
 *These Pokemon have a really big appetite. When they spot their prey, they coil around it and shock it with their electricity-generating organs, which are the yellow circles on it's skin.*

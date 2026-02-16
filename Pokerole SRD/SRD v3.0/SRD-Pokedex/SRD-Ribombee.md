@@ -80,8 +80,8 @@ Weight:
 # Ribombee 
 
 > [!grid]
-> ![[SRD-ribombee-BookSprite.png|wsmall]]
-> ![[SRD-ribombee-HomeSprite.png]]
+> ![[SRD-ribombee-BookSprite.png|wsmall left]]
+> ![[SRD-ribombee-HomeSprite.png|wsmall right]]
 
 *Bee Fly Pokémon*
 *The pollen puff of a happy Ribombee is very nutritious and valuable supplement in Alola. It dislikes rain, for it wets its hair and makes it unable to fly, so if you see a Ribombee you know the weather will be nice.*

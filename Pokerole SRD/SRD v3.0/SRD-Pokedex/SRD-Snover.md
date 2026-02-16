@@ -74,8 +74,8 @@ Weight:
 # Snover 
 
 > [!grid]
-> ![[SRD-snover-BookSprite.png|wsmall]]
-> ![[SRD-snover-HomeSprite.png]]
+> ![[SRD-snover-BookSprite.png|wsmall left]]
+> ![[SRD-snover-HomeSprite.png|wsmall right]]
 
 *Frosted Tree Pokémon*
 *During cold seasons, it migrates to the mountain's lower reaches and returns to the summit in the spring. They are rarely in contact with humans, but are sought for the frozen berries they grow.*

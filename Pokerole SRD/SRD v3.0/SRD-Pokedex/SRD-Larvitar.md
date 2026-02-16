@@ -76,8 +76,8 @@ Weight:
 # Larvitar 
 
 > [!grid]
-> ![[SRD-larvitar-BookSprite.png|wsmall]]
-> ![[SRD-larvitar-HomeSprite.png]]
+> ![[SRD-larvitar-BookSprite.png|wsmall left]]
+> ![[SRD-larvitar-HomeSprite.png|wsmall right]]
 
 *Rock Skin Pokémon*
 *Born deep underground, they don't emerge until they've eaten a whole mountain of soil. Only the strongest and most ferocious ever come out to roam about. They hate being disturbed.*

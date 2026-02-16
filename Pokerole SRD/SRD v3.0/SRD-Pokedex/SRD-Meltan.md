@@ -66,8 +66,8 @@ Weight:
 # Meltan 
 
 > [!grid]
-> ![[SRD-meltan-BookSprite.png|wsmall]]
-> ![[SRD-meltan-HomeSprite.png]]
+> ![[SRD-meltan-BookSprite.png|wsmall left]]
+> ![[SRD-meltan-HomeSprite.png|wsmall right]]
 
 *Hex Nut Pokémon*
 *They are elusive as they can liquefy their body to move through small cracks. They live in groups, but when the time comes, one strongest Meltan will absorb all the others and evolve into a giant.*

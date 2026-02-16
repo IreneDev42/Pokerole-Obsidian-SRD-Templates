@@ -78,8 +78,8 @@ Weight:
 # Kleavor 
 
 > [!grid]
-> ![[SRD-kleavor-BookSprite.png|wsmall]]
-> ![[SRD-kleavor-HomeSprite.png]]
+> ![[SRD-kleavor-BookSprite.png|wsmall left]]
+> ![[SRD-kleavor-HomeSprite.png|wsmall right]]
 
 *Axe Pokémon*
 *There are ancient records of a Rock-Type evolution for Scyther using Black Augurite, but this mineral is completely mined out today. They were known to be solitary creatures that chopped wood in the forests.*

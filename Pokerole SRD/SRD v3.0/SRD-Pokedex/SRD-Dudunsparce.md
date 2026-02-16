@@ -80,8 +80,8 @@ Weight:
 # Dudunsparce 
 
 > [!grid]
-> ![[SRD-dudunsparce-BookSprite.png|wsmall]]
-> ![[SRD-dudunsparce-HomeSprite.png]]
+> ![[SRD-dudunsparce-BookSprite.png|wsmall left]]
+> ![[SRD-dudunsparce-HomeSprite.png|wsmall right]]
 
 *Land Snake Pokémon*
 *It builds nests within solid bedrock by using its tail. Gentle in nature, it will carry any Pokémon who wander into its home and guide them back to the exit. Enemies will be driven out by a blast of air from its lungs.*

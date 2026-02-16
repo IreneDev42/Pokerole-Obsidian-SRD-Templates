@@ -64,8 +64,8 @@ Weight:
 # Spewpa 
 
 > [!grid]
-> ![[SRD-spewpa-BookSprite.png|wsmall]]
-> ![[SRD-spewpa-HomeSprite.png]]
+> ![[SRD-spewpa-BookSprite.png|wsmall left]]
+> ![[SRD-spewpa-HomeSprite.png|wsmall right]]
 
 *Scatterdust Pokémon*
 *It remains hidden inside old logs. When predators attack, it quickly bristles the fur covering its body to scare them. Bird Pokémon have a hard time trying to eat it with all the dust it releases as protection.*

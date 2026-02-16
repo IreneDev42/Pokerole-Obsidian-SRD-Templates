@@ -77,8 +77,8 @@ Weight:
 # Chatot 
 
 > [!grid]
-> ![[SRD-chatot-BookSprite.png|wsmall]]
-> ![[SRD-chatot-HomeSprite.png]]
+> ![[SRD-chatot-BookSprite.png|wsmall left]]
+> ![[SRD-chatot-HomeSprite.png|wsmall right]]
 
 *Music Note Pokémon*
 *It mimics the cries of other Pokémon to trick them and prevent attacks. Chatot who live with humans learn words and phrases, but it's unknown it they really know their meaning. Their imitations are very convincing.*

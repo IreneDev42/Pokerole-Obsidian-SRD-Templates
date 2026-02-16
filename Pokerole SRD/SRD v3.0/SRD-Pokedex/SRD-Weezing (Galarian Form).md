@@ -82,8 +82,8 @@ Weight:
 # Weezing (Galarian Form) 
 
 > [!grid]
-> ![[SRD-weezing-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-weezing-galarian-form-HomeSprite.png]]
+> ![[SRD-weezing-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-weezing-galarian-form-HomeSprite.png|wsmall right]]
 
 *Poison Gas Pokémon*
 *This Pokémon eats the contamination in the air, and instead of droppings, it expels clean air. Its Galar Form was first spotted long ago when factories polluted the city.*

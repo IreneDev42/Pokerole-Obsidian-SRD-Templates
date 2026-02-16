@@ -76,8 +76,8 @@ Weight:
 # Gulpin 
 
 > [!grid]
-> ![[SRD-gulpin-BookSprite.png|wsmall]]
-> ![[SRD-gulpin-HomeSprite.png]]
+> ![[SRD-gulpin-BookSprite.png|wsmall left]]
+> ![[SRD-gulpin-HomeSprite.png|wsmall right]]
 
 *Stomach Pokémon*
 *Gulpin's body is a huge stomach capable of swallowing anything of their size. Their fluids can corrode metal. This Pokémon releases hideous and vile gases while it digests its food.*

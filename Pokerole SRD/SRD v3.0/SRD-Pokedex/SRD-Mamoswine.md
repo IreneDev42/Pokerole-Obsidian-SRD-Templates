@@ -80,8 +80,8 @@ Weight:
 # Mamoswine 
 
 > [!grid]
-> ![[SRD-mamoswine-BookSprite.png|wsmall]]
-> ![[SRD-mamoswine-HomeSprite.png]]
+> ![[SRD-mamoswine-BookSprite.png|wsmall left]]
+> ![[SRD-mamoswine-HomeSprite.png|wsmall right]]
 
 *Twin Tusk Pokémon*
 *It was everywhere during the ice age, but its population declined afterwards. This Pokémon uses strong tusks to remove the soil and snow and dig up roots and plants to eat. It has a bad temper.*

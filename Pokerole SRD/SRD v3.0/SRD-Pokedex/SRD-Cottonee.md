@@ -76,8 +76,8 @@ Weight:
 # Cottonee 
 
 > [!grid]
-> ![[SRD-cottonee-BookSprite.png|wsmall]]
-> ![[SRD-cottonee-HomeSprite.png]]
+> ![[SRD-cottonee-BookSprite.png|wsmall left]]
+> ![[SRD-cottonee-HomeSprite.png|wsmall right]]
 
 *Cotton Puff Pokémon*
 *They go wherever the wind takes them. On rainy days they can't float, so they take shelter beneath big trees. To defend from predators, they shed their cotton and leave it as a decoy while they escape.*

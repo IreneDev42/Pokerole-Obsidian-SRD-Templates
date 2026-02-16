@@ -77,8 +77,8 @@ Weight:
 # Muk (Alolan Form) 
 
 > [!grid]
-> ![[SRD-muk-alolan-form-BookSprite.png|wsmall]]
-> ![[SRD-muk-alolan-form-HomeSprite.png]]
+> ![[SRD-muk-alolan-form-BookSprite.png|wsmall left]]
+> ![[SRD-muk-alolan-form-HomeSprite.png|wsmall right]]
 
 *Sludge Pokémon*
 *It is as friendly as it is toxic; be careful, for it tries to hug others regularly. A good diet does not help reduce its toxicity levels - it only makes it cranky and prone to destroy furniture. It releases toxic fumes all the time.*

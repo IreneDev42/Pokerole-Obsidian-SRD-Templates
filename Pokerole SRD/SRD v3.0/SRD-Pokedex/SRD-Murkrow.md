@@ -78,8 +78,8 @@ Weight:
 # Murkrow 
 
 > [!grid]
-> ![[SRD-murkrow-BookSprite.png|wsmall]]
-> ![[SRD-murkrow-HomeSprite.png]]
+> ![[SRD-murkrow-BookSprite.png|wsmall left]]
+> ![[SRD-murkrow-HomeSprite.png|wsmall right]]
 
 *Darkness Pokémon*
 *Murkrow are feared and loathed as the alleged bearers of ill fortune. This Pokémon will steal anything that sparkles. They are infamous for luring people and getting them lost in the mountains.*

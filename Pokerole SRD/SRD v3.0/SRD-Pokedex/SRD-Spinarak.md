@@ -78,8 +78,8 @@ Weight:
 # Spinarak 
 
 > [!grid]
-> ![[SRD-spinarak-BookSprite.png|wsmall]]
-> ![[SRD-spinarak-HomeSprite.png]]
+> ![[SRD-spinarak-BookSprite.png|wsmall left]]
+> ![[SRD-spinarak-HomeSprite.png|wsmall right]]
 
 *String Spit Pokémon*
 *It sets a trap by spinning a web of thin but strong silk. Then it waits for the prey to arrive. It recognizes what kind of prey has fallen on its web by the vibrations received by each one of its eight legs.*

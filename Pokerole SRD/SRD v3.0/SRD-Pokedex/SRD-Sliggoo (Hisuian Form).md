@@ -80,8 +80,8 @@ Weight:
 # Sliggoo (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-sliggoo-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-sliggoo-hisuian-form-HomeSprite.png]]
+> ![[SRD-sliggoo-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-sliggoo-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Snail Pokémon*
 *In the old region of Hisui, Sliggoo were described as lethargic creatures whose bodies became encased in a metal shell created by dry water sediment. Modern Sliggoo's acidic properties prevent sediment build up.*

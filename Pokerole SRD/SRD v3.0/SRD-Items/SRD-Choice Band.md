@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: Hit hard! Choose a Physical Move, increase its Power by 3. All other
   Moves get their Power reduced by 3.
 Image: SRD-choice-band-ItemSprite.png

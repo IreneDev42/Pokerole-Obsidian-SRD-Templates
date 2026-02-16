@@ -72,8 +72,8 @@ Weight:
 # Tadbulb 
 
 > [!grid]
-> ![[SRD-tadbulb-BookSprite.png|wsmall]]
-> ![[SRD-tadbulb-HomeSprite.png]]
+> ![[SRD-tadbulb-BookSprite.png|wsmall left]]
+> ![[SRD-tadbulb-HomeSprite.png|wsmall right]]
 
 *EleTadpole Pokémon*
 *This Pokémon generates electricity by shaking its tail. You can see them in swampy ponds as blinking lights in the water. When in danger, it will alert its peers by blinking rapidly. Thunderclouds make them rise to the surface.*

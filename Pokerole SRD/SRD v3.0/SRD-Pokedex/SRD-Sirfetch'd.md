@@ -77,8 +77,8 @@ Weight:
 # Sirfetch'd 
 
 > [!grid]
-> ![[SRD-sirfetchd-BookSprite.png|wsmall]]
-> ![[SRD-sirfetchd-HomeSprite.png]]
+> ![[SRD-sirfetchd-BookSprite.png|wsmall left]]
+> ![[SRD-sirfetchd-HomeSprite.png|wsmall right]]
 
 *Wild Duck Pokémon*
 *Only Farfetch'd that have survived many battles can go through this evolution. They are very proud of their leek spear and leafen shield. When this Pokémon's leek withers, it will retire from combat.*

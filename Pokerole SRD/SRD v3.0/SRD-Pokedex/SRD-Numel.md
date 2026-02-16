@@ -76,8 +76,8 @@ Weight:
 # Numel 
 
 > [!grid]
-> ![[SRD-numel-BookSprite.png|wsmall]]
-> ![[SRD-numel-HomeSprite.png]]
+> ![[SRD-numel-BookSprite.png|wsmall left]]
+> ![[SRD-numel-HomeSprite.png|wsmall right]]
 
 *Numb Pokémon*
 *An incredibly dim-witted Pokémon. They don't notice being hit. If they get hungry, they faint. Numel's body is a cauldron of boiling magma. On rainy days, the magma cools and its speed is lowered.*

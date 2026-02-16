@@ -74,8 +74,8 @@ Weight:
 # Rattata 
 
 > [!grid]
-> ![[SRD-rattata-BookSprite.png|wsmall]]
-> ![[SRD-rattata-HomeSprite.png]]
+> ![[SRD-rattata-BookSprite.png|wsmall left]]
+> ![[SRD-rattata-HomeSprite.png|wsmall right]]
 
 *Mouse Pokémon*
 *It can live anywhere it can find food, but they are often in cities and fields. They form large families in their burrows. Since they are often preyed on, Rattatas are always alert and quick to flee.*

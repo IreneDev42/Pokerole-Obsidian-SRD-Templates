@@ -78,8 +78,8 @@ Weight:
 # Abomasnow (Mega Form) 
 
 > [!grid]
-> ![[SRD-abomasnow-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-abomasnow-mega-form-HomeSprite.png]]
+> ![[SRD-abomasnow-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-abomasnow-mega-form-HomeSprite.png|wsmall right]]
 
 *Frosted Tree Pokémon*
 *The power of the Mega Stone freezes part of its body, creating pointy icicles that hail upon its enemies in a blizzard. The angrier it becomes, the longer the storm will last.*

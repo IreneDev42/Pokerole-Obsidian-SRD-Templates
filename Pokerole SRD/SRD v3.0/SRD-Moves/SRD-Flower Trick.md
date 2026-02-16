@@ -1,12 +1,7 @@
 ---
 Accuracy1: Dexterity
 Accuracy2: Stealth
-AddedEffects:
-  StatChanges:
-  - Affects: Targets
-    Stages: -1
-    Stats:
-    - Dexterity
+AddedEffects: {}
 Attributes:
   AlwaysCrit: true
   NeverMiss: true

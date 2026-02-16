@@ -81,8 +81,8 @@ Weight:
 # Typhlosion (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-typhlosion-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-typhlosion-hisuian-form-HomeSprite.png]]
+> ![[SRD-typhlosion-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-typhlosion-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Volcano Pokémon*
 *Some Hisuian documents and scrolls from hundreds of years ago depict Typhlosion as sullen Pokémon, user of sinister and shadowy energies. Modern Typhlosion do not exhibit these properties.*

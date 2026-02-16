@@ -76,8 +76,8 @@ Weight:
 # Huntail 
 
 > [!grid]
-> ![[SRD-huntail-BookSprite.png|wsmall]]
-> ![[SRD-huntail-HomeSprite.png]]
+> ![[SRD-huntail-BookSprite.png|wsmall left]]
+> ![[SRD-huntail-HomeSprite.png|wsmall right]]
 
 *Deep Sea Pokémon*
 *It lives at extreme depths of the sea. Their eyes can see perfectly in complete darkness. Huntail light up their tail to attract their prey, then swallow them whole with a single bite.*

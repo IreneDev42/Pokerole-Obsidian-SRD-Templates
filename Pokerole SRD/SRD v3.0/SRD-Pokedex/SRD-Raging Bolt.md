@@ -76,8 +76,8 @@ Weight:
 # Raging Bolt 
 
 > [!grid]
-> ![[SRD-raging-bolt-BookSprite.png|wsmall]]
-> ![[SRD-raging-bolt-HomeSprite.png]]
+> ![[SRD-raging-bolt-BookSprite.png|wsmall left]]
+> ![[SRD-raging-bolt-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *Pokédex glitches as it has no data. After the old man's project failed, the creatures were left on their own. But life found a way. Now these creatures are out there, trying to reclaim this world as theirs.*

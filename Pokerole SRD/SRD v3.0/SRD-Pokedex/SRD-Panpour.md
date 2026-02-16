@@ -76,8 +76,8 @@ Weight:
 # Panpour 
 
 > [!grid]
-> ![[SRD-panpour-BookSprite.png|wsmall]]
-> ![[SRD-panpour-HomeSprite.png]]
+> ![[SRD-panpour-BookSprite.png|wsmall left]]
+> ![[SRD-panpour-HomeSprite.png|wsmall right]]
 
 *Spray Pokémon*
 *It does not thrive in dry climates. It keeps itself damp by shooting the water stored in its head tuft. Its water is valued by gardeners and Grass Pokémon breeders as it makes plants grow beautiful.*

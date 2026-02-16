@@ -78,8 +78,8 @@ Weight:
 # Flapple 
 
 > [!grid]
-> ![[SRD-flapple-BookSprite.png|wsmall]]
-> ![[SRD-flapple-HomeSprite.png]]
+> ![[SRD-flapple-BookSprite.png|wsmall left]]
+> ![[SRD-flapple-HomeSprite.png|wsmall right]]
 
 *Apple Wing Pokémon*
 *It grew inside a sour apple, and thus developed an acid that can cause chemical burns. It uses the discarded apple skin to fly or disguise itself as a rancid apple. They are loners as not many like how it looks or smells.*

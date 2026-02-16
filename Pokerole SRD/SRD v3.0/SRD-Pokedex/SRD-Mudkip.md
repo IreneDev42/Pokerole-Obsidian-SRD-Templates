@@ -78,8 +78,8 @@ Weight:
 # Mudkip 
 
 > [!grid]
-> ![[SRD-mudkip-BookSprite.png|wsmall]]
-> ![[SRD-mudkip-HomeSprite.png]]
+> ![[SRD-mudkip-BookSprite.png|wsmall left]]
+> ![[SRD-mudkip-HomeSprite.png|wsmall right]]
 
 *Mud Fish Pokémon*
 *The fin on its head is a radar to sense movement underwater. They bury themselves under the mud at the water's edge and at the bottom of rivers. They never back away even if their foe is bigger.*

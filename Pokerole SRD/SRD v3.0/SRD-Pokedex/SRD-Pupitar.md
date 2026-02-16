@@ -81,8 +81,8 @@ Weight:
 # Pupitar 
 
 > [!grid]
-> ![[SRD-pupitar-BookSprite.png|wsmall]]
-> ![[SRD-pupitar-HomeSprite.png]]
+> ![[SRD-pupitar-BookSprite.png|wsmall left]]
+> ![[SRD-pupitar-HomeSprite.png|wsmall right]]
 
 *Hard Shell Pokémon*
 *Even in their shell, they are fast, aggressive, and extremely destructive. They never stay still. This pupa propels itself using a jet of pressurized gas. It is bad-tempered.*

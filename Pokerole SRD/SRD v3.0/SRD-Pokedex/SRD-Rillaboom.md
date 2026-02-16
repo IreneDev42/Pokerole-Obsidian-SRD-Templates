@@ -80,8 +80,8 @@ Weight:
 # Rillaboom 
 
 > [!grid]
-> ![[SRD-rillaboom-BookSprite.png|wsmall]]
-> ![[SRD-rillaboom-HomeSprite.png]]
+> ![[SRD-rillaboom-BookSprite.png|wsmall left]]
+> ![[SRD-rillaboom-HomeSprite.png|wsmall right]]
 
 *Drummer Pokémon*
 *The leader owns the largest drum among its troop and has the best drumming technique which makes roots sprout to attack its foes. But they are peaceful and kind creatures that value harmony in their group.*

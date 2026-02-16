@@ -75,8 +75,8 @@ Weight:
 # Squawkabilly 
 
 > [!grid]
-> ![[SRD-squawkabilly-BookSprite.png|wsmall]]
-> ![[SRD-squawkabilly-HomeSprite.png]]
+> ![[SRD-squawkabilly-BookSprite.png|wsmall left]]
+> ![[SRD-squawkabilly-HomeSprite.png|wsmall right]]
 
 *Parrot Pokémon*
 *These Pokémon live in flocks of the same color. Some colors prefer cities, while others prefer forests. They are very social but have a strong rivalry against flocks of different colors. Each color group shares a single Ability.*

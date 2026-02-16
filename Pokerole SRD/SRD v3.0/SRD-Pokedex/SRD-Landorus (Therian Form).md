@@ -76,8 +76,8 @@ Weight:
 # Landorus (Therian Form) 
 
 > [!grid]
-> ![[SRD-landorus-therian-form-BookSprite.png|wsmall]]
-> ![[SRD-landorus-therian-form-HomeSprite.png]]
+> ![[SRD-landorus-therian-form-BookSprite.png|wsmall left]]
+> ![[SRD-landorus-therian-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Some Pokémon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as tornadoes, lightning, and even a landslide.*

@@ -79,8 +79,8 @@ Weight:
 # Kingdra 
 
 > [!grid]
-> ![[SRD-kingdra-BookSprite.png|wsmall]]
-> ![[SRD-kingdra-HomeSprite.png]]
+> ![[SRD-kingdra-BookSprite.png|wsmall left]]
+> ![[SRD-kingdra-HomeSprite.png|wsmall right]]
 
 *Dragon Pokémon*
 *Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, it is said to awaken and wander about in search of prey. They are known for creating twisters in the sea.*

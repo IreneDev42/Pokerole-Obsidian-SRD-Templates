@@ -75,8 +75,8 @@ Weight:
 # Lunatone 
 
 > [!grid]
-> ![[SRD-lunatone-BookSprite.png|wsmall]]
-> ![[SRD-lunatone-HomeSprite.png]]
+> ![[SRD-lunatone-BookSprite.png|wsmall left]]
+> ![[SRD-lunatone-HomeSprite.png|wsmall right]]
 
 *Meteorite Pokémon*
 *First found where a meteorite fell. For this reason, it's believed it came from space. Its eyes fill people with dread and lure them to sleep. They become very active and extremely powerful during full moons.*

@@ -76,8 +76,8 @@ Weight:
 # Beautifly 
 
 > [!grid]
-> ![[SRD-beautifly-BookSprite.png|wsmall]]
-> ![[SRD-beautifly-HomeSprite.png]]
+> ![[SRD-beautifly-BookSprite.png|wsmall left]]
+> ![[SRD-beautifly-HomeSprite.png|wsmall right]]
 
 *Butterfly Pokémon*
 *They can't resist a flower's pollen; if you leave a flower on the window, a Beautifly is sure to come. Don't be fooled, for they are dangerous; they drain living creatures of their fluids just as they do with flowers.*

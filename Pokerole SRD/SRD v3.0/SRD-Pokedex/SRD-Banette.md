@@ -82,8 +82,8 @@ Weight:
 # Banette 
 
 > [!grid]
-> ![[SRD-banette-BookSprite.png|wsmall]]
-> ![[SRD-banette-HomeSprite.png]]
+> ![[SRD-banette-BookSprite.png|wsmall left]]
+> ![[SRD-banette-HomeSprite.png|wsmall right]]
 
 *Marionette Pokémon*
 *Its body is usually a discarded doll or toy. Its spirit is made of dark feelings and is overrun by the desire of revenge towards the kid that threw the toy away. If you open its mouth, all the cursed energy will escape.*

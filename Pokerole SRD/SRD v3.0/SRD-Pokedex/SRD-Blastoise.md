@@ -84,8 +84,8 @@ Weight:
 # Blastoise 
 
 > [!grid]
-> ![[SRD-blastoise-BookSprite.png|wsmall]]
-> ![[SRD-blastoise-HomeSprite.png]]
+> ![[SRD-blastoise-BookSprite.png|wsmall left]]
+> ![[SRD-blastoise-HomeSprite.png|wsmall right]]
 
 *Shellfish Pokémon*
 *The jets of water it spouts from the rocket cannons on its shell have been recorded to punch through steel. It is confident in its great defense and water spouts to overcome any obstacle.*

@@ -78,8 +78,8 @@ Weight:
 # Patrat 
 
 > [!grid]
-> ![[SRD-patrat-BookSprite.png|wsmall]]
-> ![[SRD-patrat-HomeSprite.png]]
+> ![[SRD-patrat-BookSprite.png|wsmall left]]
+> ![[SRD-patrat-HomeSprite.png|wsmall right]]
 
 *Scout Pokémon*
 *They live in grass fields in big groups. One of them is always looking out for predators. The group gathers food they store in their cheeks to bring back home. They are wary and alert all the time.*

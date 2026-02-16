@@ -85,8 +85,8 @@ Weight:
 # Primeape 
 
 > [!grid]
-> ![[SRD-primeape-BookSprite.png|wsmall]]
-> ![[SRD-primeape-HomeSprite.png]]
+> ![[SRD-primeape-BookSprite.png|wsmall left]]
+> ![[SRD-primeape-HomeSprite.png|wsmall right]]
 
 *Pig Monkey Pokémon*
 *It grows angry if you look at its eyes and gets angrier if you run. If you fight it will go mad with rage. Not many trainers are capable of handling it. The angrier it gets the less intelligent it becomes.*

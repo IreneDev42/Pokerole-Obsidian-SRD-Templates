@@ -79,8 +79,8 @@ Weight:
 # Tentacool 
 
 > [!grid]
-> ![[SRD-tentacool-BookSprite.png|wsmall]]
-> ![[SRD-tentacool-HomeSprite.png]]
+> ![[SRD-tentacool-BookSprite.png|wsmall left]]
+> ![[SRD-tentacool-HomeSprite.png|wsmall right]]
 
 *Jellyfish Pokémon*
 *It lives in the seas all around the world. They release a toxic ink if startled. It is a surprisingly intelligent Pokémon and can use its tentacles to briefly establish a link between its mind and another creature.*

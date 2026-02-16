@@ -80,8 +80,8 @@ Weight:
 # Persian 
 
 > [!grid]
-> ![[SRD-persian-BookSprite.png|wsmall]]
-> ![[SRD-persian-HomeSprite.png]]
+> ![[SRD-persian-BookSprite.png|wsmall left]]
+> ![[SRD-persian-HomeSprite.png|wsmall right]]
 
 *Classy Cat Pokémon*
 *They are proud and temperamental. They scratch their trainers with little to no provocation whatsoever. Their elegance and grace is very valued, although they can be vicious hunters.*

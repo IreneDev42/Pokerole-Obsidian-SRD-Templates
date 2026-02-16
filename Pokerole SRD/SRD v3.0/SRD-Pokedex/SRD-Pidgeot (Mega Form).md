@@ -78,8 +78,8 @@ Weight:
 # Pidgeot (Mega Form) 
 
 > [!grid]
-> ![[SRD-pidgeot-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-pidgeot-mega-form-HomeSprite.png]]
+> ![[SRD-pidgeot-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-pidgeot-mega-form-HomeSprite.png|wsmall right]]
 
 *Bird Pokémon*
 *With the power of the Mega Stone, Pidgeot's flying becomes a blurred red stripe in the sky. It won't stop soaring the skies while in this state without tiring or needing to rest for many days at a time.*

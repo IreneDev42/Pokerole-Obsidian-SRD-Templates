@@ -84,8 +84,8 @@ Weight:
 # Volcarona 
 
 > [!grid]
-> ![[SRD-volcarona-BookSprite.png|wsmall]]
-> ![[SRD-volcarona-HomeSprite.png]]
+> ![[SRD-volcarona-BookSprite.png|wsmall left]]
+> ![[SRD-volcarona-HomeSprite.png|wsmall right]]
 
 *Sun Pokémon*
 *A sea of fire engulfs the surroundings of its battles, since it uses six wings to scatter blazing scales. There are stories of how its fire saved villages during winter and how it shone like the sun over the mountains.*

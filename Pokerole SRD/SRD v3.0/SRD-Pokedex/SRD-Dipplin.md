@@ -82,8 +82,8 @@ Weight:
 # Dipplin 
 
 > [!grid]
-> ![[SRD-dipplin-BookSprite.png|wsmall]]
-> ![[SRD-dipplin-HomeSprite.png]]
+> ![[SRD-dipplin-BookSprite.png|wsmall left]]
+> ![[SRD-dipplin-HomeSprite.png|wsmall right]]
 
 *Candy Apple Pokémon*
 *There's actually two Pokémon living inside the candied apple, but they are very sweet to each other and don't mind sharing space. It is very unusual for Applin to evolve into this, as it requires a special apple.*

@@ -74,8 +74,8 @@ Weight:
 # Roaring Moon 
 
 > [!grid]
-> ![[SRD-roaring-moon-BookSprite.png|wsmall]]
-> ![[SRD-roaring-moon-HomeSprite.png]]
+> ![[SRD-roaring-moon-BookSprite.png|wsmall left]]
+> ![[SRD-roaring-moon-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *This savage creature shares features with Salamence's Mega Form. Its demeanor is completely feral and will attack unprovoked. A true tyrant of the skies.*

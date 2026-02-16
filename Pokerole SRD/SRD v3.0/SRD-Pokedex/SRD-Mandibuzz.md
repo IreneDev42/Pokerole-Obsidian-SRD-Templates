@@ -81,8 +81,8 @@ Weight:
 # Mandibuzz 
 
 > [!grid]
-> ![[SRD-mandibuzz-BookSprite.png|wsmall]]
-> ![[SRD-mandibuzz-HomeSprite.png]]
+> ![[SRD-mandibuzz-BookSprite.png|wsmall left]]
+> ![[SRD-mandibuzz-HomeSprite.png|wsmall right]]
 
 *Bone Vulture Pokémon*
 *They fly in circles around the sky when they spot prey. They carry the carcass back to their nest with ease. They like to look beautiful and create ornaments and jewelry using bone pieces.*

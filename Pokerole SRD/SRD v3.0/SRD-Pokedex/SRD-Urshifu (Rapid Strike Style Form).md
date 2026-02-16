@@ -76,8 +76,8 @@ Weight:
 # Urshifu (Rapid Strike Style Form) 
 
 > [!grid]
-> ![[SRD-urshifu-rapid-strike-style-form-BookSprite.png|wsmall]]
-> ![[SRD-urshifu-rapid-strike-style-form-HomeSprite.png]]
+> ![[SRD-urshifu-rapid-strike-style-form-BookSprite.png|wsmall left]]
+> ![[SRD-urshifu-rapid-strike-style-form-HomeSprite.png|wsmall right]]
 
 *Wushu Pokémon*
 *This Pokémon passed through a series of trials inside a temple of water. Its style focuses on a series of rapid stikes to steadily weaken its foes. It's a firm believer in using its opponent's strength against it.*

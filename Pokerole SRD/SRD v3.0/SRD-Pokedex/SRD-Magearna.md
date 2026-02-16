@@ -78,8 +78,8 @@ Weight:
 # Magearna 
 
 > [!grid]
-> ![[SRD-magearna-BookSprite.png|wsmall]]
-> ![[SRD-magearna-HomeSprite.png]]
+> ![[SRD-magearna-BookSprite.png|wsmall left]]
+> ![[SRD-magearna-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *500 years ago a famous scientist left a manuscript with details on how to create a mechanical Pokémon. His investigation led to the creation of the modern Pokéball.*

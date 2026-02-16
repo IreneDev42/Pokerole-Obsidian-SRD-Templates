@@ -81,8 +81,8 @@ Weight:
 # Drifblim 
 
 > [!grid]
-> ![[SRD-drifblim-BookSprite.png|wsmall]]
-> ![[SRD-drifblim-HomeSprite.png]]
+> ![[SRD-drifblim-BookSprite.png|wsmall left]]
+> ![[SRD-drifblim-HomeSprite.png|wsmall right]]
 
 *Blimp Pokémon*
 *They float in groups in the evenings, sometimes carrying people or Pokémon. If you notice them, they suddenly vanish. No one knows where they go at night, and those who follow them never return.*

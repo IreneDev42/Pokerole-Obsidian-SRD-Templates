@@ -77,8 +77,8 @@ Weight:
 # Dewpider 
 
 > [!grid]
-> ![[SRD-dewpider-BookSprite.png|wsmall]]
-> ![[SRD-dewpider-HomeSprite.png]]
+> ![[SRD-dewpider-BookSprite.png|wsmall left]]
+> ![[SRD-dewpider-HomeSprite.png|wsmall right]]
 
 *Water Bubble Pokémon*
 *It lives in shallow water pools, but goes onto land to find prey. Its water bubble allows it to breathe outside of its pool and serves as a weapon to hunt or defend itself. As it grows, its bubble grows as well.*

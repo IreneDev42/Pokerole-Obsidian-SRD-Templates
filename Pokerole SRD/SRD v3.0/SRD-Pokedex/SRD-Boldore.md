@@ -78,8 +78,8 @@ Weight:
 # Boldore 
 
 > [!grid]
-> ![[SRD-boldore-BookSprite.png|wsmall]]
-> ![[SRD-boldore-HomeSprite.png]]
+> ![[SRD-boldore-BookSprite.png|wsmall left]]
+> ![[SRD-boldore-HomeSprite.png|wsmall right]]
 
 *Ore Pokémon*
 *It releases its excess of energy in the form of red crystals. Still blind, it looks for for water sources inside underground caves by using echolocation. It is a pacifistic creature that keeps to itself most of the time.*

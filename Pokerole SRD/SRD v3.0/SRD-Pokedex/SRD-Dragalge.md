@@ -80,8 +80,8 @@ Weight:
 # Dragalge 
 
 > [!grid]
-> ![[SRD-dragalge-BookSprite.png|wsmall]]
-> ![[SRD-dragalge-HomeSprite.png]]
+> ![[SRD-dragalge-BookSprite.png|wsmall left]]
+> ![[SRD-dragalge-HomeSprite.png|wsmall right]]
 
 *Mock Kelp Pokémon*
 *Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory. Touching them can be fatal if you are not treated within a few hours.*

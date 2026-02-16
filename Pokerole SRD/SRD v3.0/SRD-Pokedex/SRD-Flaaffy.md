@@ -79,8 +79,8 @@ Weight:
 # Flaaffy 
 
 > [!grid]
-> ![[SRD-flaaffy-BookSprite.png|wsmall]]
-> ![[SRD-flaaffy-HomeSprite.png]]
+> ![[SRD-flaaffy-BookSprite.png|wsmall left]]
+> ![[SRD-flaaffy-HomeSprite.png|wsmall right]]
 
 *Wool Pokémon*
 *Its wool quality changes so that it can generate a higher amount of static electricity with a smaller amount of wool. The bare and slick parts of its hide are shielded with small electric impulses.*

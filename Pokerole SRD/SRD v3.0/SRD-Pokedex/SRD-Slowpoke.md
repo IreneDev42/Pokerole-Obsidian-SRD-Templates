@@ -80,8 +80,8 @@ Weight:
 # Slowpoke 
 
 > [!grid]
-> ![[SRD-slowpoke-BookSprite.png|wsmall]]
-> ![[SRD-slowpoke-HomeSprite.png]]
+> ![[SRD-slowpoke-BookSprite.png|wsmall left]]
+> ![[SRD-slowpoke-HomeSprite.png|wsmall right]]
 
 *Dopey Pokémon*
 *It lives close to water. This Pokémon has a low intellect, and it's slow to react to any stimuli. Its tail seeps a sweet substance it uses to lure prey to eat. When the tip turns white, Shellder will be attracted to it.*

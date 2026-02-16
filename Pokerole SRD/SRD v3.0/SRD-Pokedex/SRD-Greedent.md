@@ -80,8 +80,8 @@ Weight:
 # Greedent 
 
 > [!grid]
-> ![[SRD-greedent-BookSprite.png|wsmall]]
-> ![[SRD-greedent-HomeSprite.png]]
+> ![[SRD-greedent-BookSprite.png|wsmall left]]
+> ![[SRD-greedent-HomeSprite.png|wsmall right]]
 
 *Greedy Pokémon*
 *They are a little dim-witted as they think of nothing but eating. Greedent hide and store berries in their tails. Many of them fall out, becoming new trees the next year. Their teeth are very strong.*

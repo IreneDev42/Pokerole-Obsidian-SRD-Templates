@@ -76,8 +76,8 @@ Weight:
 # Toedscool 
 
 > [!grid]
-> ![[SRD-toedscool-BookSprite.png|wsmall]]
-> ![[SRD-toedscool-HomeSprite.png]]
+> ![[SRD-toedscool-BookSprite.png|wsmall left]]
+> ![[SRD-toedscool-HomeSprite.png|wsmall right]]
 
 *Woodear Pokémon*
 *It was believed to be a variant of Tentacool. Genetic research revealed that it's an entirely different species. They live in muggy forests and can run quite fast. Their legs are pretty delicious to eat.*

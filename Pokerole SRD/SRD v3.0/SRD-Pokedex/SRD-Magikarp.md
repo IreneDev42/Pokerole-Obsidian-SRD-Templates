@@ -61,8 +61,8 @@ Weight:
 # Magikarp 
 
 > [!grid]
-> ![[SRD-magikarp-BookSprite.png|wsmall]]
-> ![[SRD-magikarp-HomeSprite.png]]
+> ![[SRD-magikarp-BookSprite.png|wsmall left]]
+> ![[SRD-magikarp-HomeSprite.png|wsmall right]]
 
 *Fish Pokémon*
 *Magikarp is a pathetic excuse of a Pokémon that is not even good to eat. It's only capable of flopping and splashing. However, it can survive in any body of water no matter how polluted it is.*

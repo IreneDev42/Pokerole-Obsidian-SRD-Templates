@@ -80,8 +80,8 @@ Weight:
 # Revavroom 
 
 > [!grid]
-> ![[SRD-revavroom-BookSprite.png|wsmall]]
-> ![[SRD-revavroom-HomeSprite.png]]
+> ![[SRD-revavroom-BookSprite.png|wsmall left]]
+> ![[SRD-revavroom-HomeSprite.png|wsmall right]]
 
 *Multi-Cyl Pokémon*
 *It wards off threats with the vicious sound of its exhaust. If that is not effective, it can spray toxic fluids and pump out a cloud of poisonous gas. Due to its size it can now attach itself to and power large vehicles.*

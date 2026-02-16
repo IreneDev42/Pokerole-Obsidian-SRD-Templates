@@ -75,8 +75,8 @@ Weight:
 # Indeedee (Male Form) 
 
 > [!grid]
-> ![[SRD-indeedee-male-form-BookSprite.png|wsmall]]
-> ![[SRD-indeedee-male-form-HomeSprite.png]]
+> ![[SRD-indeedee-male-form-BookSprite.png|wsmall left]]
+> ![[SRD-indeedee-male-form-HomeSprite.png|wsmall right]]
 
 *Emotion Pokémon*
 *The male of the species. These intelligent Pokémon touch each other's horns to communicate. They love to help and be of service because they gather power from feelings of gratitude.*

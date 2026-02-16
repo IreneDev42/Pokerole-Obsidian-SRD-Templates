@@ -79,8 +79,8 @@ Weight:
 # Florges 
 
 > [!grid]
-> ![[SRD-florges-BookSprite.png|wsmall]]
-> ![[SRD-florges-HomeSprite.png]]
+> ![[SRD-florges-BookSprite.png|wsmall left]]
+> ![[SRD-florges-HomeSprite.png|wsmall right]]
 
 *Garden Pokémon*
 *In times long past, castle rulers would invite Florges to create flower gardens to embellish their domains. Florges claim beautiful meadows as their territories, but they are kind and merciful with visitors.*

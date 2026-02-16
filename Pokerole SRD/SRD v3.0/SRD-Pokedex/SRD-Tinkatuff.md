@@ -80,8 +80,8 @@ Weight:
 # Tinkatuff 
 
 > [!grid]
-> ![[SRD-tinkatuff-BookSprite.png|wsmall]]
-> ![[SRD-tinkatuff-HomeSprite.png]]
+> ![[SRD-tinkatuff-BookSprite.png|wsmall left]]
+> ![[SRD-tinkatuff-HomeSprite.png|wsmall right]]
 
 *Hammer Pokémon*
 *They form packs and hunt Pawniard and Bisharp for their metal. The metal scraps make their homes and strengthen their hammers. They like to test the strength of each other's hammers to determine a leader.*

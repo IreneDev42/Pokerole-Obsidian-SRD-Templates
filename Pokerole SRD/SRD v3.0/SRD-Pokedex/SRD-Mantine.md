@@ -78,8 +78,8 @@ Weight:
 # Mantine 
 
 > [!grid]
-> ![[SRD-mantine-BookSprite.png|wsmall]]
-> ![[SRD-mantine-HomeSprite.png]]
+> ![[SRD-mantine-BookSprite.png|wsmall left]]
+> ![[SRD-mantine-HomeSprite.png|wsmall right]]
 
 *Kite Pokémon*
 *Mantine swims under water and over the waves, gliding for 300 ft in the air. They are intelligent and docile, traveling elegantly in groups. Remoraid can be seen hanging from their fins from time to time.*

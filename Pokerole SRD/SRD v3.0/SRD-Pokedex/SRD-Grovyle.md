@@ -86,8 +86,8 @@ Weight:
 # Grovyle 
 
 > [!grid]
-> ![[SRD-grovyle-BookSprite.png|wsmall]]
-> ![[SRD-grovyle-HomeSprite.png]]
+> ![[SRD-grovyle-BookSprite.png|wsmall left]]
+> ![[SRD-grovyle-HomeSprite.png|wsmall right]]
 
 *Wood Gecko Pokémon*
 *Their leaves provide camouflage in the jungles. They appear to fly from tree to tree, jumping huge lengths with amazing speed. It's almost impossible to catch them once they start running away.*

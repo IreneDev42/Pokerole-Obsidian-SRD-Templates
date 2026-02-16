@@ -7,7 +7,7 @@ Attributes:
   Reaction: '1'
   Unique: true
 Category: Support
-Damage1: SameasCopiedMove+1
+Damage1: SameAsCopiedMove+1
 Damage2: ''
 Description: The user anticipates the next Move the target will use and impatiently
   interrupts to be the first in line.

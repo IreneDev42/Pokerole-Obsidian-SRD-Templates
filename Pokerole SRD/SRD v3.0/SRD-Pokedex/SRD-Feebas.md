@@ -64,8 +64,8 @@ Weight:
 # Feebas 
 
 > [!grid]
-> ![[SRD-feebas-BookSprite.png|wsmall]]
-> ![[SRD-feebas-HomeSprite.png]]
+> ![[SRD-feebas-BookSprite.png|wsmall left]]
+> ![[SRD-feebas-HomeSprite.png|wsmall right]]
 
 *Fish Pokémon*
 *These Pokémon taste awful, and they are incredibly ugly, smelly, kind of dumb, and terrible fighters. To make things worse, they rarely reproduce as they don't find each other attractive; for this reason, they are extremely rare.*

@@ -79,8 +79,8 @@ Weight:
 # Charmeleon 
 
 > [!grid]
-> ![[SRD-charmeleon-BookSprite.png|wsmall]]
-> ![[SRD-charmeleon-HomeSprite.png]]
+> ![[SRD-charmeleon-BookSprite.png|wsmall left]]
+> ![[SRD-charmeleon-HomeSprite.png|wsmall right]]
 
 *Flame Pokémon*
 *It turns aggressive after evolving. It is very hot-headed by nature, so it constantly starts fights. When it's excited, the flame at the tip of its tail flares with a bluish white color.*

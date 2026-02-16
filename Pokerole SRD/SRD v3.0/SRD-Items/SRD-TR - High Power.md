@@ -7,7 +7,7 @@ MaxMovePower: 99
 Name: TR - High Power
 OneUse: true
 PMD: false
-Pocket: Technical Machine
+Pocket: TechnicalMachine
 Source: Core 3.0
 TrainerPrice: '25000'
 ---

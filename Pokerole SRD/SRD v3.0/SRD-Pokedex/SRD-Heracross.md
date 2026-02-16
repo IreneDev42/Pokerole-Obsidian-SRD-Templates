@@ -81,8 +81,8 @@ Weight:
 # Heracross 
 
 > [!grid]
-> ![[SRD-heracross-BookSprite.png|wsmall]]
-> ![[SRD-heracross-HomeSprite.png]]
+> ![[SRD-heracross-BookSprite.png|wsmall left]]
+> ![[SRD-heracross-HomeSprite.png|wsmall right]]
 
 *Single Horn Pokémon*
 *A docile creature that loves honey. They batter down trees with their powerful horn and chase off anyone who gets close to their prized honey. Not many Pokémon dare to mess with it in the wild.*

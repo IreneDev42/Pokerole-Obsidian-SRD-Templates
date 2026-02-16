@@ -55,8 +55,8 @@ Weight:
 # Hoopa (Unbound Form) 
 
 > [!grid]
-> ![[SRD-hoopa-unbound-form-BookSprite.png|wsmall]]
-> ![[SRD-hoopa-unbound-form-HomeSprite.png]]
+> ![[SRD-hoopa-unbound-form-BookSprite.png|wsmall left]]
+> ![[SRD-hoopa-unbound-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *There is a story of an old demon whose power unleashed horrors from other dimensions onto earth. Ripping the fabric of existence, it opened portals to bring evil upon all.*

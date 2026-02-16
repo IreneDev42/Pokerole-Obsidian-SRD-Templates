@@ -88,8 +88,8 @@ Weight:
 # Steelix 
 
 > [!grid]
-> ![[SRD-steelix-BookSprite.png|wsmall]]
-> ![[SRD-steelix-HomeSprite.png]]
+> ![[SRD-steelix-BookSprite.png|wsmall left]]
+> ![[SRD-steelix-HomeSprite.png|wsmall right]]
 
 *Iron Snake Pokémon*
 *Some say that when an Onix lives underground for 100 years, its body becomes hard as steel. Steelix lives deep underground, tempered by high pressure and heat. It can see in the darkness.*

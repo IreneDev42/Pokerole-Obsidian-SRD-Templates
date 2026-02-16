@@ -1,5 +1,5 @@
 ---
-Category: BattleItems
+Category: BattleItem
 Description: 'A magical orb that oozes venom. Warning: keep away from children & pets.
   User gets poisoned. when they come out.'
 Image: SRD-toxic-orb-ItemSprite.png

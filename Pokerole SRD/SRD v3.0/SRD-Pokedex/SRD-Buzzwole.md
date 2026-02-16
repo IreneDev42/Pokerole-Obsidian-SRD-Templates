@@ -77,8 +77,8 @@ Weight:
 # Buzzwole 
 
 > [!grid]
-> ![[SRD-buzzwole-BookSprite.png|wsmall]]
-> ![[SRD-buzzwole-HomeSprite.png]]
+> ![[SRD-buzzwole-BookSprite.png|wsmall left]]
+> ![[SRD-buzzwole-HomeSprite.png|wsmall right]]
 
 *Aether Foundation Log #071*
 *What we thought were harmless displays of strength were just the first warning signs. Today UB-02 destroyed the truck where it was being transported. It escaped and hasn't been located.*

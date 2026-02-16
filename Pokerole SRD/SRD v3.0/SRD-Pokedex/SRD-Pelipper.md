@@ -82,8 +82,8 @@ Weight:
 # Pelipper 
 
 > [!grid]
-> ![[SRD-pelipper-BookSprite.png|wsmall]]
-> ![[SRD-pelipper-HomeSprite.png]]
+> ![[SRD-pelipper-BookSprite.png|wsmall left]]
+> ![[SRD-pelipper-HomeSprite.png|wsmall right]]
 
 *Water Bird Pokémon*
 *Pelipper has been seen carrying eggs and other Pokémon inside its massive bill, protecting them from predators and storms, transporting the young through the great seas and into new homes.*

@@ -81,8 +81,8 @@ Weight:
 # Samurott (Hisuian Form) 
 
 > [!grid]
-> ![[SRD-samurott-hisuian-form-BookSprite.png|wsmall]]
-> ![[SRD-samurott-hisuian-form-HomeSprite.png]]
+> ![[SRD-samurott-hisuian-form-BookSprite.png|wsmall left]]
+> ![[SRD-samurott-hisuian-form-HomeSprite.png|wsmall right]]
 
 *Formidable Pokémon*
 *There are records of Samurott that roamed on the shores of the old land of Hisui. These Samurott were said to be cold-hearted and ruthless. They were seen as wandering warriors, until they were seen no more.*

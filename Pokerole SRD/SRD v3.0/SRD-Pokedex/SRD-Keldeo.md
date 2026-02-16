@@ -78,8 +78,8 @@ Weight:
 # Keldeo 
 
 > [!grid]
-> ![[SRD-keldeo-BookSprite.png|wsmall]]
-> ![[SRD-keldeo-HomeSprite.png]]
+> ![[SRD-keldeo-BookSprite.png|wsmall left]]
+> ![[SRD-keldeo-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Age-old fairy tales of Unova tell the story of four Pokémon who lead the land into a golden age. The young one of the group was brave and naive. It could gallop on the water's surface, leaving a rainbow behind.*

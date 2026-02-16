@@ -77,8 +77,8 @@ Weight:
 # Marshadow 
 
 > [!grid]
-> ![[SRD-marshadow-BookSprite.png|wsmall]]
-> ![[SRD-marshadow-HomeSprite.png]]
+> ![[SRD-marshadow-BookSprite.png|wsmall left]]
+> ![[SRD-marshadow-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *There is an old children's story about a boy who lost his shadow and the shadow became a Pokémon. There is a debate to which Pokémon the story is referring.*

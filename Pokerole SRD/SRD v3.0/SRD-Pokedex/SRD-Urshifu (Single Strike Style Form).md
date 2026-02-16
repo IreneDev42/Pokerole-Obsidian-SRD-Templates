@@ -76,8 +76,8 @@ Weight:
 # Urshifu (Single Strike Style Form) 
 
 > [!grid]
-> ![[SRD-urshifu-single-strike-style-form-BookSprite.png|wsmall]]
-> ![[SRD-urshifu-single-strike-style-form-HomeSprite.png]]
+> ![[SRD-urshifu-single-strike-style-form-BookSprite.png|wsmall left]]
+> ![[SRD-urshifu-single-strike-style-form-HomeSprite.png|wsmall right]]
 
 *Wushu Pokémon*
 *This Pokémon passed through a series of trials inside a temple of darkness. Its fighting style is strong and uses a devastating hardened fist. It's a firm believer in exploiting its foe's weaknesses.*

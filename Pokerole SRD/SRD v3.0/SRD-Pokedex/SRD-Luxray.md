@@ -76,8 +76,8 @@ Weight:
 # Luxray 
 
 > [!grid]
-> ![[SRD-luxray-BookSprite.png|wsmall]]
-> ![[SRD-luxray-HomeSprite.png]]
+> ![[SRD-luxray-BookSprite.png|wsmall left]]
+> ![[SRD-luxray-HomeSprite.png|wsmall right]]
 
 *Gleam Eyes Pokémon*
 *It is said that it can see through walls. This Pokémon can easily find hiding prey and locate its young. Male Luxray can be found roaming alone, patrolling their territory; the females hunt in groups.*

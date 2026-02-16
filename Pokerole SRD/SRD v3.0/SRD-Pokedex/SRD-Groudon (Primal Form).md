@@ -55,8 +55,8 @@ Weight:
 # Groudon (Primal Form) 
 
 > [!grid]
-> ![[SRD-groudon-primal-form-BookSprite.png|wsmall]]
-> ![[SRD-groudon-primal-form-HomeSprite.png]]
+> ![[SRD-groudon-primal-form-BookSprite.png|wsmall left]]
+> ![[SRD-groudon-primal-form-HomeSprite.png|wsmall right]]
 
 *Pokédex has no data.*
 *Millions of years ago, chaos reigned. Volcanoes erupted without control and unbearable heat made all life dry out. Who was so angry inside the raging fire? Its fury has since ingrained into the earth as red rubies.*

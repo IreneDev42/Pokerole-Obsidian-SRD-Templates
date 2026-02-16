@@ -81,8 +81,8 @@ Weight:
 # Machoke 
 
 > [!grid]
-> ![[SRD-machoke-BookSprite.png|wsmall]]
-> ![[SRD-machoke-HomeSprite.png]]
+> ![[SRD-machoke-BookSprite.png|wsmall left]]
+> ![[SRD-machoke-HomeSprite.png|wsmall right]]
 
 *Superpower Pokémon*
 *Even with its strong frame and power, it is a humble and helpful Pokémon. Many of them work for human companies. On their days off, you can see them heading to the wild to train together.*

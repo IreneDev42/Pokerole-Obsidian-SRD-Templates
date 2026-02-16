@@ -83,8 +83,8 @@ Weight:
 # Probopass 
 
 > [!grid]
-> ![[SRD-probopass-BookSprite.png|wsmall]]
-> ![[SRD-probopass-HomeSprite.png]]
+> ![[SRD-probopass-BookSprite.png|wsmall left]]
+> ![[SRD-probopass-HomeSprite.png|wsmall right]]
 
 *Compass Pokémon*
 *It exudes strong magnetic field. It controls three small units or 'Mini-Noses' that float around and serve as extensible limbs. Most of the time it stays motionless, unless attacked or provoked.*

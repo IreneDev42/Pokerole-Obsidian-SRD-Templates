@@ -80,8 +80,8 @@ Weight:
 # Fletchinder 
 
 > [!grid]
-> ![[SRD-fletchinder-BookSprite.png|wsmall]]
-> ![[SRD-fletchinder-HomeSprite.png]]
+> ![[SRD-fletchinder-BookSprite.png|wsmall left]]
+> ![[SRD-fletchinder-HomeSprite.png|wsmall right]]
 
 *Ember Pokémon*
 *From its beak, it expels embers to set tall grass on fire, then it pounces on the bewildered prey that pop out of the grass. Its body becomes engulfed in flames when it starts to battle. It is a fierce Pokémon.*

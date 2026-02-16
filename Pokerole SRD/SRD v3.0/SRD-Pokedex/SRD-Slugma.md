@@ -75,8 +75,8 @@ Weight:
 # Slugma 
 
 > [!grid]
-> ![[SRD-slugma-BookSprite.png|wsmall]]
-> ![[SRD-slugma-HomeSprite.png]]
+> ![[SRD-slugma-BookSprite.png|wsmall left]]
+> ![[SRD-slugma-HomeSprite.png|wsmall right]]
 
 *Lava Pokémon*
 *They are extremely common in volcanic areas where they group together. They are made of molten magma instead of blood and flesh. Slugma replenish parts of their body by absorbing molten rocks.*

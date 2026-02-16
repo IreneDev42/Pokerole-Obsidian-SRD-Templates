@@ -80,8 +80,8 @@ Weight:
 # Roserade 
 
 > [!grid]
-> ![[SRD-roserade-BookSprite.png|wsmall]]
-> ![[SRD-roserade-HomeSprite.png]]
+> ![[SRD-roserade-BookSprite.png|wsmall left]]
+> ![[SRD-roserade-HomeSprite.png|wsmall right]]
 
 *Bouquet Pokémon*
 *Luring prey with a sweet scent, it uses the poison on its thorn-filled arm-whips to poison, bind, and finish off its prey. It has a dangerous appeal mixed with a graceful personality. It's very rare in the wild.*

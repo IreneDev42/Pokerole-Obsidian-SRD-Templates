@@ -77,8 +77,8 @@ Weight:
 # Marowak 
 
 > [!grid]
-> ![[SRD-marowak-BookSprite.png|wsmall]]
-> ![[SRD-marowak-HomeSprite.png]]
+> ![[SRD-marowak-BookSprite.png|wsmall left]]
+> ![[SRD-marowak-HomeSprite.png|wsmall right]]
 
 *Bone Keeper Pokémon*
 *Its rough past has hardened its heart. Now tenacious and violent, this Pokémon will use its bone club as a weapon against foes. Marowak's den is usually full of the bones it has collected.*

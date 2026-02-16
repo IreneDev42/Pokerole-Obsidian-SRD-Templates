@@ -83,8 +83,8 @@ Weight:
 # Camerupt 
 
 > [!grid]
-> ![[SRD-camerupt-BookSprite.png|wsmall]]
-> ![[SRD-camerupt-HomeSprite.png]]
+> ![[SRD-camerupt-BookSprite.png|wsmall left]]
+> ![[SRD-camerupt-HomeSprite.png|wsmall right]]
 
 *Eruption Pokémon*
 *Sometimes the humps on their back make an eruption when they get really angry; otherwise they'd only erupt every 10 years. Camerupt live inside the craters of volcanoes. They are indifferent to humans.*

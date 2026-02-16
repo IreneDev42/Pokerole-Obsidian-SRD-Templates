@@ -80,8 +80,8 @@ Weight:
 # Araquanid 
 
 > [!grid]
-> ![[SRD-araquanid-BookSprite.png|wsmall]]
-> ![[SRD-araquanid-HomeSprite.png]]
+> ![[SRD-araquanid-BookSprite.png|wsmall left]]
+> ![[SRD-araquanid-HomeSprite.png|wsmall right]]
 
 *Water Bubble Pokémon*
 *It's debated whether this is a caring or cruel Pokémon. It looks around for any vulnerable or weak Pokémon, tenderly carries them and deposits them into its water bubble where they end up drowning.*

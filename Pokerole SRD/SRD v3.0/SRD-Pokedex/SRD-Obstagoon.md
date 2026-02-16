@@ -81,8 +81,8 @@ Weight:
 # Obstagoon 
 
 > [!grid]
-> ![[SRD-obstagoon-BookSprite.png|wsmall]]
-> ![[SRD-obstagoon-HomeSprite.png]]
+> ![[SRD-obstagoon-BookSprite.png|wsmall left]]
+> ![[SRD-obstagoon-HomeSprite.png|wsmall right]]
 
 *Blocking Pokémon*
 *Its voice has a very loud volume and it is a noisy and rude Pokémon. Obstagoon has a tendency to take on a threatening posture and shout at anyone that is in front of it. They rarely take things seriously.*

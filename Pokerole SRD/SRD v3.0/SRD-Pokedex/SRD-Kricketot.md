@@ -66,8 +66,8 @@ Weight:
 # Kricketot 
 
 > [!grid]
-> ![[SRD-kricketot-BookSprite.png|wsmall]]
-> ![[SRD-kricketot-HomeSprite.png]]
+> ![[SRD-kricketot-BookSprite.png|wsmall left]]
+> ![[SRD-kricketot-HomeSprite.png|wsmall right]]
 
 *Cricket Pokémon*
 *If you hear a xylophone-like sound at night, it means that this Pokémon is roaming close. It communicates by making rhythmic sounds with its antennae. It is not aggressive and feeds on honey and tree sap.*

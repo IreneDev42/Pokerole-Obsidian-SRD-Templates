@@ -77,8 +77,8 @@ Weight:
 # Vivillon 
 
 > [!grid]
-> ![[SRD-vivillon-BookSprite.png|wsmall]]
-> ![[SRD-vivillon-HomeSprite.png]]
+> ![[SRD-vivillon-BookSprite.png|wsmall left]]
+> ![[SRD-vivillon-HomeSprite.png|wsmall right]]
 
 *Scale Pokémon*
 *The patterns on this Pokémon's wings depend on the climate it grows in and the flowers it feeds on. A famous Pokémon breeder made one develop a Poké Ball pattern, it was sold for a million Pokédollars.*

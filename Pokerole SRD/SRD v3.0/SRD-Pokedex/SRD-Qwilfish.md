@@ -78,8 +78,8 @@ Weight:
 # Qwilfish 
 
 > [!grid]
-> ![[SRD-qwilfish-BookSprite.png|wsmall]]
-> ![[SRD-qwilfish-HomeSprite.png]]
+> ![[SRD-qwilfish-BookSprite.png|wsmall left]]
+> ![[SRD-qwilfish-HomeSprite.png|wsmall right]]
 
 *Balloon Pokémon*
 *It swallows water to inflate its body to appear bigger than its foes. Qwilfish must swallow 2 gallons of water to be able to shoot its stings. The poison produced by Qwilfish is known to cause fainting.*

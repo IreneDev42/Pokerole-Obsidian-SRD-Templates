@@ -5,7 +5,7 @@ AddedEffects: {}
 Attributes:
   AccuracyReduction: -1
 Category: Physical
-Damage1: '-'
+Damage1: ''
 Damage2: ''
 Description: The user hands out a lovely present box. Time to find out if the foe
   has been naugthy or nice

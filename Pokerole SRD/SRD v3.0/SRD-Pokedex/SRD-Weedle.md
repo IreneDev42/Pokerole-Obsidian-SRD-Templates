@@ -60,8 +60,8 @@ Weight:
 # Weedle 
 
 > [!grid]
-> ![[SRD-weedle-BookSprite.png|wsmall]]
-> ![[SRD-weedle-HomeSprite.png]]
+> ![[SRD-weedle-BookSprite.png|wsmall left]]
+> ![[SRD-weedle-HomeSprite.png|wsmall right]]
 
 *Hairy Pokémon*
 *Often found in forests eating leaves. It has a sharp, venomous stinger on its head for defense. It has an acute sense of smell to find food, and its brightly-colored body is intended to warn off predators.*

@@ -75,8 +75,8 @@ Weight:
 # Pincurchin 
 
 > [!grid]
-> ![[SRD-pincurchin-BookSprite.png|wsmall]]
-> ![[SRD-pincurchin-HomeSprite.png]]
+> ![[SRD-pincurchin-BookSprite.png|wsmall left]]
+> ![[SRD-pincurchin-HomeSprite.png|wsmall right]]
 
 *Sea Urchin Pokémon*
 *This quiet Pokémon feeds on seaweed, using its teeth to scrape it off rocks. It stores electricity in each of its spines. Even if one gets broken off, it will continue to emit electricity for a few more hours.*

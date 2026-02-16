@@ -74,8 +74,8 @@ Weight:
 # Sandy Shocks 
 
 > [!grid]
-> ![[SRD-sandy-shocks-BookSprite.png|wsmall]]
-> ![[SRD-sandy-shocks-HomeSprite.png]]
+> ![[SRD-sandy-shocks-BookSprite.png|wsmall left]]
+> ![[SRD-sandy-shocks-HomeSprite.png|wsmall right]]
 
 *Paradox Pokémon*
 *A Magneton that's been alive for thousands and thousands of years. It attacks those unlucky enough to find themselves in the line of sight of its three vicious eyes.*

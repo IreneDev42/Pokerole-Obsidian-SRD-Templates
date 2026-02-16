@@ -82,8 +82,8 @@ Weight:
 # Fraxure 
 
 > [!grid]
-> ![[SRD-fraxure-BookSprite.png|wsmall]]
-> ![[SRD-fraxure-HomeSprite.png]]
+> ![[SRD-fraxure-BookSprite.png|wsmall left]]
+> ![[SRD-fraxure-HomeSprite.png|wsmall right]]
 
 *Axe Jaw Pokémon*
 *Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent. The tusks don't grow back anymore; if you find a Fraxure with both tusks whole, it means it's one of the strongest.*

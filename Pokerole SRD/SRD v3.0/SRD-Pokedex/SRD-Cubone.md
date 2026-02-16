@@ -81,8 +81,8 @@ Weight:
 # Cubone 
 
 > [!grid]
-> ![[SRD-cubone-BookSprite.png|wsmall]]
-> ![[SRD-cubone-HomeSprite.png]]
+> ![[SRD-cubone-BookSprite.png|wsmall left]]
+> ![[SRD-cubone-HomeSprite.png|wsmall right]]
 
 *Lonely Pokémon*
 *Cubone wears a skull helmet it never removes. It is said to be from its mother or someone dear to it. It lives in the mountains where it cries at night due to the sadness it feels. It is distrustful of humans.*

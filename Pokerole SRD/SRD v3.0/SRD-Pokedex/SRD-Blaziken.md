@@ -87,8 +87,8 @@ Weight:
 # Blaziken 
 
 > [!grid]
-> ![[SRD-blaziken-BookSprite.png|wsmall]]
-> ![[SRD-blaziken-HomeSprite.png]]
+> ![[SRD-blaziken-BookSprite.png|wsmall left]]
+> ![[SRD-blaziken-HomeSprite.png|wsmall right]]
 
 *Blaze Pokémon*
 *They can jump to incredible heights. As they grow older, their feathers combust as new feathers grow back. They are courageous fighters and expert martial artists. Their wrists light in flames when they're about to attack.*

@@ -76,8 +76,8 @@ Weight:
 # Yamask (Galarian Form) 
 
 > [!grid]
-> ![[SRD-yamask-galarian-form-BookSprite.png|wsmall]]
-> ![[SRD-yamask-galarian-form-HomeSprite.png]]
+> ![[SRD-yamask-galarian-form-BookSprite.png|wsmall left]]
+> ![[SRD-yamask-galarian-form-HomeSprite.png|wsmall right]]
 
 *Spirit Pokémon*
 *It's said that this Pokémon was formed when an ancient clay tablet was drawn to the dark energy of a spirit. The clay slab seems to be absorbing Yamask's power; that's why it is so pale.*

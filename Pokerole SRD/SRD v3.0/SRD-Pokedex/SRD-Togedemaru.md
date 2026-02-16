@@ -75,8 +75,8 @@ Weight:
 # Togedemaru 
 
 > [!grid]
-> ![[SRD-togedemaru-BookSprite.png|wsmall]]
-> ![[SRD-togedemaru-HomeSprite.png]]
+> ![[SRD-togedemaru-BookSprite.png|wsmall left]]
+> ![[SRD-togedemaru-HomeSprite.png|wsmall right]]
 
 *Roly-Poly Pokémon*
 *On stormy days you can see groups of Togedemaru curled up into balls with their spikes out, waiting to be struck by lightning. These spikes also deter other Pokémon from attacking this cute creature.*

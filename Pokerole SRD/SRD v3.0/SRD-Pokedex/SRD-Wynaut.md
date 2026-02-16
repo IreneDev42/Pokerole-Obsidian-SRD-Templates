@@ -64,8 +64,8 @@ Weight:
 # Wynaut 
 
 > [!grid]
-> ![[SRD-wynaut-BookSprite.png|wsmall]]
-> ![[SRD-wynaut-HomeSprite.png]]
+> ![[SRD-wynaut-BookSprite.png|wsmall left]]
+> ![[SRD-wynaut-HomeSprite.png|wsmall right]]
 
 *Bright Pokémon*
 *Its face always appears to be happy, but Wynaut can be deceitful. You can only discern its true emotions through its tail. They live together in caves and bump into each other to gain strength.*

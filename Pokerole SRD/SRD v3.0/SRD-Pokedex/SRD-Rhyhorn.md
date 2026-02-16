@@ -74,8 +74,8 @@ Weight:
 # Rhyhorn 
 
 > [!grid]
-> ![[SRD-rhyhorn-BookSprite.png|wsmall]]
-> ![[SRD-rhyhorn-HomeSprite.png]]
+> ![[SRD-rhyhorn-BookSprite.png|wsmall left]]
+> ![[SRD-rhyhorn-HomeSprite.png|wsmall right]]
 
 *Spikes Pokémon*
 *It lives in grasslands and rough terrain. It is covered with a thick hide. It tramples any threat by ramming against them. It is not very smart, and can stay ramming at things for hours just because.*

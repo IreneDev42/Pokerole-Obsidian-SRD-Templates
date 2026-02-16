@@ -73,8 +73,8 @@ Weight:
 # Sigilyph 
 
 > [!grid]
-> ![[SRD-sigilyph-BookSprite.png|wsmall]]
-> ![[SRD-sigilyph-HomeSprite.png]]
+> ![[SRD-sigilyph-BookSprite.png|wsmall left]]
+> ![[SRD-sigilyph-HomeSprite.png|wsmall right]]
 
 *Avianoid Pokémon*
 *It is known that they worked as guards for an ancient civilization and a few can still be seen patrolling its borders, following the same route for centuries. They attack people who sneak through their barriers.*

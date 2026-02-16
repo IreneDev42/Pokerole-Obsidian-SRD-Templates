@@ -73,8 +73,8 @@ Weight:
 # Tauros (Paldean Form) (Combat Form) 
 
 > [!grid]
-> ![[SRD-tauros-paldean-form-combat-form-BookSprite.png|wsmall]]
-> ![[SRD-tauros-paldean-form-combat-form-HomeSprite.png]]
+> ![[SRD-tauros-paldean-form-combat-form-BookSprite.png|wsmall left]]
+> ![[SRD-tauros-paldean-form-combat-form-HomeSprite.png|wsmall right]]
 
 *Wild Bull Pokémon*
 *This is a male species. These Tauros are specially bred in Paldea for their thicker muscles and fierce combat disposition. Their horns are shorter than the common Tauros, but they make up for it with very powerful kicks.*

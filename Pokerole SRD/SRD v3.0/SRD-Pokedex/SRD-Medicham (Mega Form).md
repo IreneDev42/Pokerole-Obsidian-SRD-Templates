@@ -83,8 +83,8 @@ Weight:
 # Medicham (Mega Form) 
 
 > [!grid]
-> ![[SRD-medicham-mega-form-BookSprite.png|wsmall]]
-> ![[SRD-medicham-mega-form-HomeSprite.png]]
+> ![[SRD-medicham-mega-form-BookSprite.png|wsmall left]]
+> ![[SRD-medicham-mega-form-HomeSprite.png|wsmall right]]
 
 *Meditate Pokemon*
 *The power of the Mega Stone is tempered thanks to its meditation skills. This makes it increase all of its capabilities, but not as much as other mega-evolutions, all in favor of keeping control of its senses.*

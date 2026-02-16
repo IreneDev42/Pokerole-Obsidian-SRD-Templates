@@ -74,8 +74,8 @@ Weight:
 # Meloetta 
 
 > [!grid]
-> ![[SRD-meloetta-BookSprite.png|wsmall]]
-> ![[SRD-meloetta-HomeSprite.png]]
+> ![[SRD-meloetta-BookSprite.png|wsmall left]]
+> ![[SRD-meloetta-HomeSprite.png|wsmall right]]
 
 *Pokedex has no Data.*
 *There are old songs about a beautiful Pokémon that inspired the hearts of artists through its graceful dance and singing.*

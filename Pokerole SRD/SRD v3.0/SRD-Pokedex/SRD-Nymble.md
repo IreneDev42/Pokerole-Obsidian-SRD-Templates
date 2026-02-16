@@ -72,8 +72,8 @@ Weight:
 # Nymble 
 
 > [!grid]
-> ![[SRD-nymble-BookSprite.png|wsmall]]
-> ![[SRD-nymble-HomeSprite.png]]
+> ![[SRD-nymble-BookSprite.png|wsmall left]]
+> ![[SRD-nymble-HomeSprite.png|wsmall right]]
 
 *Grasshopper Pokémon*
 *It is very small in size but it has a third set of legs that allow it to jump up to 30 feet (9 m) in the air in a pinch. It is also a very capable battler who only escapes from a fight if there's really no other choice.*
